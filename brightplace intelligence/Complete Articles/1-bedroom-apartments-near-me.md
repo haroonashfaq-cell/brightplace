@@ -109,7 +109,9 @@ Begin your apartment search 6-8 weeks before your desired move-in date in most m
 
 **brightplace's IntentOS is built specifically for renters who know what they need and want to find it faster. Search 1-bedroom apartments at [brightplace.ai](https://brightplace.ai).**
 
-<script type="application/ld+json">
+## FAQ Schema (JSON-LD)
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -180,9 +182,11 @@ Begin your apartment search 6-8 weeks before your desired move-in date in most m
     }
   ]
 }
-</script>
+```
 
-<script type="application/ld+json">
+## Article Schema (JSON-LD)
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -205,15 +209,23 @@ Begin your apartment search 6-8 weeks before your desired move-in date in most m
     "@id": "https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me"
   }
 }
-</script>
+```
 
-<script type="application/ld+json">
+## WebPage Schema (JSON-LD)
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "How to Find a 1 Bedroom Apartment Near You (And What to Expect)",
   "description": "1 bedroom apartments near me vary widely in price by market. Here is what to expect, what to budget, and how to search effectively.",
   "url": "https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me",
+  "inLanguage": "en-US",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "brightplace",
+    "url": "https://brightplace.ai"
+  },
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [
@@ -237,13 +249,11 @@ Begin your apartment search 6-8 weeks before your desired move-in date in most m
       }
     ]
   },
+  "datePublished": "2026-05-07",
+  "dateModified": "2026-05-07",
   "speakable": {
     "@type": "SpeakableSpecification",
-    "cssSelector": ["h1", "h2:first-of-type + p", ".faq"]
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "@id": "https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me#faq"
+    "cssSelector": [".article-intro", ".faq-section"]
   }
 }
-</script>
+```
