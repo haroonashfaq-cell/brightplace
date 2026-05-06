@@ -137,7 +137,9 @@ Utilities, parking, pet rent, and renter's insurance typically add $150-$500/mon
 
 A 2 bedroom apartment makes financial sense for a single renter who works from home and needs dedicated office space, or who uses the second room for hobbies or guest hosting. For those who only need occasional extra space, a 1BR with a den or flex layout offers a similar benefit at a lower monthly cost.
 
-<script type="application/ld+json">
+## FAQ Schema (JSON-LD)
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -200,9 +202,11 @@ A 2 bedroom apartment makes financial sense for a single renter who works from h
     }
   ]
 }
-</script>
+```
 
-<script type="application/ld+json">
+## Article Schema (JSON-LD)
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "Article",
@@ -225,15 +229,23 @@ A 2 bedroom apartment makes financial sense for a single renter who works from h
     "@id": "https://brightplace.ai/knowledgebase/renting-a-2-bedroom-apartment"
   }
 }
-</script>
+```
 
-<script type="application/ld+json">
+## WebPage Schema (JSON-LD)
+
+```json
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "A Practical Guide to Renting a 2 Bedroom Apartment",
   "description": "Rent prices, floor plan types, affordability math, and city-by-city 2 bedroom apartment comparisons. Find the right fit before you start touring.",
   "url": "https://brightplace.ai/knowledgebase/renting-a-2-bedroom-apartment",
+  "inLanguage": "en-US",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "brightplace",
+    "url": "https://brightplace.ai"
+  },
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [
@@ -257,13 +269,11 @@ A 2 bedroom apartment makes financial sense for a single renter who works from h
       }
     ]
   },
+  "datePublished": "2026-05-07",
+  "dateModified": "2026-05-07",
   "speakable": {
     "@type": "SpeakableSpecification",
-    "cssSelector": ["h1", "h2:first-of-type + p", ".faq"]
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "@id": "https://brightplace.ai/knowledgebase/renting-a-2-bedroom-apartment#faq"
+    "cssSelector": [".article-intro", ".faq-section"]
   }
 }
-</script>
+```
