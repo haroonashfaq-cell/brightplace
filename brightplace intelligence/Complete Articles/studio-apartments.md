@@ -126,9 +126,9 @@ Yes, particularly in alcove or convertible studios that allow spatial separation
 Focus on natural light and window count, ventilation near the kitchen zone, available storage (closets, cabinets, building lockers), ceiling height, and whether the building permits temporary walls or room dividers. These factors affect daily livability more in a studio than in a larger apartment.
 
 **Is $10,000 saved enough to move into a studio apartment?**
-That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $900 to $1,400 per month (as of Q1 2025), $10,000 covers roughly two to three months of upfront costs including first month's rent, security deposit, and moving expenses. In higher-cost markets like Manhattan or San Francisco, $10,000 may fall short of first month and deposit alone.
+That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $900 to $1,400 per month (as of Q1 2025), $10,000 covers two to three months of upfront costs: first month's rent, security deposit, and moving expenses. In higher-cost markets like Manhattan or SF, $10,000 may fall short.
 
-> Ready to search? brightplace finds studio apartments that match your priorities, from alcove units for remote workers to micro-units in dense urban cores.
+> Ready to search? brightplace finds studio apartments that match your priorities, including alcove units for remote workers and micro-units in dense urban cores.
 
 ## FAQ Schema (JSON-LD)
 
@@ -190,7 +190,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
       "name": "Is $10,000 saved enough to move into a studio apartment?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $900 to $1,400 per month (as of Q1 2025), $10,000 covers roughly two to three months of upfront costs including first month's rent, security deposit, and moving expenses. In higher-cost markets like Manhattan or San Francisco, $10,000 may fall short of first month and deposit alone."
+        "text": "That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $900 to $1,400 per month (as of Q1 2025), $10,000 covers two to three months of upfront costs: first month's rent, security deposit, and moving expenses. In higher-cost markets like Manhattan or SF, $10,000 may fall short."
       }
     }
   ]
@@ -217,7 +217,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
   "dateModified": "2026-05-07",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/studio-apartments"
+    "@id": "https://brightplace.ai/knowledgebase/studio-apartments"
   }
 }
 ```
@@ -227,7 +227,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "What to Know Before Renting a Studio Apartment",
-  "url": "https://brightplace.ai/studio-apartments",
+  "url": "https://brightplace.ai/knowledgebase/studio-apartments",
   "description": "Studio apartments combine living, sleeping, and kitchen space in one room. What they cost, how subtypes differ, and whether one fits your life.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -248,7 +248,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
         "@type": "ListItem",
         "position": 3,
         "name": "What to Know Before Renting a Studio Apartment",
-        "item": "https://brightplace.ai/studio-apartments"
+        "item": "https://brightplace.ai/knowledgebase/studio-apartments"
       }
     ]
   },
@@ -262,7 +262,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
   },
   "mainEntity": {
     "@type": "FAQPage",
-    "@id": "https://brightplace.ai/studio-apartments#faq"
+    "@id": "https://brightplace.ai/knowledgebase/studio-apartments#faq"
   }
 }
 ```
