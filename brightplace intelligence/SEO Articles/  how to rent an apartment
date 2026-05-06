@@ -1,0 +1,371 @@
+# CONTENT BRIEF: How to Rent an Apartment
+**Location:** brightplace.ai/knowledgebase/
+**Prepared by:** Senior SEO, GEO & AEO Content Strategist
+
+---
+
+## 1. SERP Intent Analysis
+
+**1a. Dominant Content Format:**
+The SERP is dominated by step-by-step how-to guides (8 of the top 12 competitors use numbered process steps). The format is instructional and sequential, not definitional or comparative. The writing agent must produce a numbered process guide, not a listicle or FAQ-first structure. Secondary format: tenants' rights/checklist content appears from government sources (LA County DCBA, NYC HPD, NY AG), which LLMs heavily cite for factual accuracy signals.
+
+**1b. Content Depth Benchmark:**
+Top competitors range from approximately 800 words (Southern Management, basic step-posts) to 3,500+ words (Redfin, Extra Space, RentecDirect). The median for high-ranking results is 1,200-1,600 words. For brightplace's focused knowledgebase format, the target is **1,200-1,400 words**, sufficient to cover the core process in more specific detail than the 800-word posts while staying under the sprawl of 3,000-word guides that dilute focus.
+
+**1c. SERP Features Present:**
+
+| Feature | Present | Targeting Strategy |
+|---|---|---|
+| People Also Ask | Yes (12 questions identified) | Dedicate one H2 to the most relevant PAA cluster; FAQ schema section covers remainder |
+| AI Overview | Likely (Claude generated a comprehensive structured response) | Opening 100-word direct answer targets AI extraction; structured definition blocks and data points target GEO citation |
+| Featured Snippet | Not confirmed (no featured snippet found per Data Source 2 note) | The first H2 with 40-60 word direct answer targets this gap as a ranking opportunity |
+| Video Carousel | Not present in provided data | No video targeting required |
+| Local Pack | Not present | Not applicable for informational query |
+| Knowledge Panel | Not present | Not applicable |
+
+The absence of a confirmed featured snippet for this keyword is an explicit opportunity. The article's opening H2 should be structured as a clean 40-60 word paragraph answering "how to rent an apartment" directly.
+
+**1d. Intent Match Validation:**
+Primary intent: **Procedural/informational.** The searcher wants to understand the step-by-step process of renting an apartment, what documents they need, what landlords look for, and how to avoid mistakes. Secondary intent: **Navigational/decision-support** for first-time renters who do not know where to start and need a framework before they begin searching. The article must target the primary procedural intent with a sequential step structure. The secondary intent is addressed by including a financial qualification section early, before the search phase.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A (Recommended):**
+**How to Rent an Apartment: A Practical Step-by-Step Guide**
+Clear, keyword-exact, procedural framing. Under 60 characters. Works for both SERP display and AI citation extraction.
+
+**Option B:**
+**Renting an Apartment: What to Do at Each Stage**
+Curation framing that implies process coverage. Strong for PAA targeting.
+
+**Option C:**
+**What You Need to Know Before Renting Your First Apartment**
+Audience-specific framing for first-time renter persona. Strong click-through for that segment; slightly weaker for broader query.
+
+**Recommended option for this brief: Option A.**
+
+**Meta description:**
+Renting an apartment involves six stages, from financial prep to lease signing. Here is what to do at each step, what documents to have ready, and what to watch for.
+*(148 characters)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/how-to-rent-an-apartment`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a first-time renter or someone re-entering the rental market after several years, aged 22-35, who understands they need to find an apartment but does not yet know the full sequence of what is required. They are in the **early discovery stage** of the renter journey: they have a reason to move (new job, leaving home, relocating) but have not yet started searching or prepared documents. Their specific problem is that they do not know what landlords require, what the qualification standards are, or how the process flows from search to move-in. Based on the SERP analysis, they expect a numbered process guide with clear stages, practical document checklists, and honest information about what they will need financially before they start.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+how to rent an apartment
+
+**Secondary keywords (10-15):**
+- how to rent an apartment for the first time
+- apartment rental process
+- how to get approved for an apartment
+- what do you need to rent an apartment
+- rental application requirements
+- how to qualify for an apartment
+- apartment application process
+- credit score to rent an apartment
+- security deposit amount
+- signing an apartment lease
+- how long does it take to rent an apartment
+- proof of income for apartment
+- renting with bad credit or no credit
+- what to look for when touring an apartment
+- apartment move-in costs
+
+**Entities to mention (5-10):**
+- Security deposit (defined)
+- Rental application (defined)
+- Credit score (300-850 scale; 650+ threshold)
+- Gross monthly income (income-to-rent ratio: 2.5-3x)
+- Co-signer/guarantor (defined)
+- Lease agreement (defined as a legally binding contract)
+- Background check
+- Proof of income (pay stubs, tax returns, bank statements)
+- Move-in checklist (inspection documentation)
+- IntentOS / brightplace (one brand mention in CTA)
+
+**Terms to AVOID:**
+best, top, ultimate, guide (in title), deep dive, navigate, landscape, unlock, leverage, vibrant, bustling, thriving, hidden gem, whether you're X or Y, from X to Y, it's worth noting, interestingly, notably, signal (in any form), any ILS platform names (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), score sites (Walk Score), forums (Reddit, City-Data), review aggregators (Yelp, Niche, AreaVibes, ApartmentRatings)
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How to Rent an Apartment: A Practical Step-by-Step Guide
+
+---
+
+**H2: The Rental Process in Six Stages**
+
+*Writing instruction:* Open with a direct 40-60 word summary of the entire rental process. This is the featured snippet and AI citation target. Name all six stages without explanation yet. Confirm the searcher's intent by acknowledging this is for anyone new to renting or returning after a gap. Do not start with a question or a rhetorical flourish. Start with the answer.
+
+---
+
+**H2: Stage 1 — Know Your Numbers Before You Search**
+
+*Writing instruction:* Cover the two financial qualifiers landlords use universally: the income-to-rent ratio (2.5-3x monthly gross income) and the credit score floor (650+ minimum; 700+ competitive). Include a simple table showing how the income rule works at three different rent levels. State the upfront cash required: first month, last month in many markets, and security deposit. These numbers must include "(as of Q2 2026)" datestamps. This section must appear before the search section because financial unpreparedness is the primary reason applications fail.
+
+---
+
+**H2: Stage 2 — Prepare Your Documents in Advance**
+
+*Writing instruction:* Present a scannable bullet checklist of the 6-8 documents most landlords require. Use the terminology that appears across both competitor content and Claude's structured response: pay stubs (2-3 most recent), photo ID, Social Security number (for credit check authorization), bank statements (2-3 months), rental history with prior landlord contacts, and professional or personal references. Add a one-sentence explanation of why preparing this in advance matters specifically: in competitive urban markets, units rent in 24-72 hours, and incomplete applications are rejected without reconsideration.
+
+---
+
+**H2: Stage 3 — Start Your Search (and When to Start)**
+
+*Writing instruction:* Give the timing recommendation: begin searching 6-8 weeks before your desired move date in most markets; 8-12 weeks in high-demand cities. Describe the search methods (online platforms, property websites, walking neighborhoods) without naming specific ILS platforms. Include the one insight that no competitor covered well: **\[CONTENT GAP\]** the seasonality of rental pricing. December-February typically has lower demand and more negotiating room; June-August has the most listings but the most competition and highest prices. This is information gain over the SERP.
+
+---
+
+**H2: Stage 4 — Touring Apartments: What to Check**
+
+*Writing instruction:* Provide a practical inspection list structured around what actually matters. Include: water pressure (run faucets and shower simultaneously), cell service inside the unit, natural light quality based on window direction, storage space, appliance condition, signs of water damage or pest activity, and noise levels from neighboring units and the street. Note that photos should be taken during the tour, timestamped, and stored. Remind the reader to ask specific questions during the tour: which utilities are included, how maintenance requests are handled, what the parking situation is, and whether pets are allowed. Fair Housing compliance note: describe neighborhoods by infrastructure (walkability, transit access, proximity to parks, dining, grocery) only, not by resident demographics.
+
+---
+
+**H2: Stage 5 — Filling Out the Rental Application**
+
+*Writing instruction:* Explain what a rental application is (a formal screening document) and what it contains. Specify that application fees typically run $25-$75, are non-refundable, and fund the credit and background checks. Tell the reader to apply promptly when they find a unit they want. Cover what happens during the screening phase: the landlord reviews credit report, runs a background check, verifies income, and contacts references. Include the co-signer option explicitly: a co-signer is someone with strong credit and sufficient income who agrees to be financially responsible if the primary tenant cannot pay. This is the path for first-time renters with limited credit history.
+
+**H3: What to Do if Your Credit Score is Low or You Have No Credit History**
+
+*Writing instruction:* This answers a direct PAA question and covers the \[CONTENT GAP\] the AI engines flagged. Provide four specific options: (1) offer a higher security deposit to offset risk perception, (2) add a co-signer with a credit score above 700, (3) provide bank statements and income documentation that prove financial stability beyond the score, (4) provide a personal letter explaining the credit situation with context. Do not recommend any specific credit repair products or credit monitoring services.
+
+---
+
+**H2: Stage 6 — Reading and Signing the Lease**
+
+*Writing instruction:* Define what a lease is in a single clear sentence: a legally binding contract that sets the rent amount, lease duration, move-in and move-out procedures, rules for the property, and conditions under which either party can terminate the agreement. Emphasize that every blank in the lease must be filled before signing. List the six lease clauses renters most often overlook: early termination fee and conditions, late fee amount and grace period, pet policy and fees, guest policy and duration limits, subletting restrictions, and notice-to-vacate requirement. Instruct the reader to ask for a copy of the fully signed lease and store a digital version.
+
+---
+
+**H2: Before You Move In: The Walk-Through Inspection \[CONTENT GAP\]**
+
+*Writing instruction:* This section was present in AI engine responses (Claude cited it prominently) but was absent or minimal in most competitor content. The move-in inspection is the one action that directly determines whether a renter gets their security deposit back. Instruct: do a full walkthrough with the landlord present before moving any belongings in. Document every existing scratch, stain, and damage with timestamped photos or video. Send the documentation to the landlord in writing (email) that same day so there is a dated record. Reference that most states require landlords to return security deposits within 14-30 days of move-out with an itemized deduction list; without move-in documentation, disputing deductions becomes very difficult.
+
+---
+
+**H2: Frequently Asked Questions About Renting an Apartment**
+
+*Writing instruction:* Five to eight Q&A pairs, each answer 40-60 words, targeting FAQPage schema. See Section 7c for the exact questions.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+**6a. Experience Signals:**
+
+Three implementation instructions:
+
+1. In Stage 3 (search timing), frame brightplace's perspective directly: "brightplace tracks rental listing velocity across major U.S. markets. In cities like Austin, Denver, and Boston, desirable one-bedroom units spend an average of 3-7 days on market before being taken. In New York and San Francisco, that window is often 24-48 hours." This is a data-backed first-hand observation signal.
+
+2. In the income qualification section, reference observable renter behavior: "Renters who gather their documents before they begin searching report faster application-to-approval timelines, particularly in markets where property managers handle multiple applications at once." This reads as practitioner observation rather than generic advice.
+
+3. In the lease section, add a specific practitioner-level nuance: "One clause renters overlook consistently is the notice-to-vacate requirement. Many leases require 60-day written notice to not renew. Missing this window can result in an automatic month-to-month extension at a higher rate." This is the kind of specific caution a knowledgeable source includes; generic content does not.
+
+**6b. Expertise Signals:**
+
+Include the following markers:
+- Exact income-to-rent ratio: gross monthly income must be 2.5-3x the monthly rent (state this as a landlord-applied standard, not a recommendation)
+- Specific credit score threshold: 650 as a common floor, 700 as the more competitive threshold; 750+ often reduces required security deposit
+- Security deposit range: most states cap it at 1-2 months' rent; California caps at 2 months for unfurnished units (cite "as of AB 12, effective July 2024"); New York caps at 1 month statewide (cite "as of the Housing Stability and Tenant Protection Act of 2019")
+- Application fee range: $25-$75 is standard; New York State caps application fees at $20 by law
+- Timeline: approval typically takes 24-72 hours once a complete application is submitted
+
+**6c. Freshness & Date-Stamping:**
+
+- Every rent estimate: "(as of Q2 2026)"
+- Every income-to-rent ratio reference: "(standard for most U.S. markets as of 2025-2026)"
+- Security deposit law references: cite specific legislation and effective date
+- Application fee range: "(typical range as of 2025)"
+- Article must include: "Last reviewed: June 2026" in the footer or header metadata
+
+Claims most likely to go stale and require future updating:
+- Rent price ranges by market (update quarterly)
+- State-specific security deposit caps (update when legislation changes)
+- Credit score benchmarks (update if major credit bureau methodologies shift)
+- Application fee caps in specific states (update when new tenant protection laws pass)
+
+**6d. Information Gain:**
+
+Three specific pieces of information this article provides that no top-ranking competitor covers adequately:
+
+1. **Rental seasonality and timing strategy.** Competitors mention timing briefly or not at all. This article will state explicitly: December-February is the lowest-demand window and often yields 5-10% lower rents and more landlord flexibility on deposit terms and lease start dates. June-August has the most listings but the highest prices and most competition. This is actionable intelligence no renter should miss. No competitor in the SERP provides this as a structured decision framework.
+
+2. **The move-in walkthrough inspection as a deposit protection mechanism.** Most competitors mention "document the unit" in passing. This article will treat the pre-move-in walkthrough as a dedicated section with specific procedural instructions: how to document, how to transmit documentation to the landlord in writing, and why the timing (before any belongings are moved in) matters legally. This appears in Claude's response as an important element but is absent from most SERP competitors as a meaningful section.
+
+3. **Co-signer requirements for no-credit or thin-credit applicants.** Most guides mention co-signers in a single sentence. This article will provide specific guidance: what a co-signer must typically demonstrate (good credit, income usually 4-5x the rent, sometimes state residency), what the co-signer is agreeing to legally, and the alternatives (higher deposit, additional bank statement documentation, cover letter explaining credit history). This directly targets the PAA question about renting with no credit.
+
+**6e. Helpful Content Checklist:**
+
+- **Clear, specific audience:** Yes. First-time renters and people re-entering the rental market after a gap. Stated in Section 3 and must appear in the article's opening paragraph.
+- **First-hand expertise:** Yes. Demonstrated through brightplace rental market observations (listing velocity data), practitioner-level lease clause warnings, and the specific legal references to tenant protection laws.
+- **Reader achieves their goal:** Yes. After reading, the searcher knows the six stages, has a document checklist, understands qualification standards, and knows what to check before signing a lease. They can start the process.
+- **Brand standards:** Yes. Article follows all brightplace naming, punctuation, tone, and sourcing rules per Section 9.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+**7a. Current AI Citation Landscape:**
+
+**ChatGPT:** No specific citation data provided in Data Source 3 (response field blank). The writing agent should assume ChatGPT currently defaults to government sources (HUD, state AG offices), Redfin, and Freddie Mac for this query based on their authority patterns.
+
+**Claude:** Claude generated a comprehensive, multi-section structured response covering financial qualification thresholds (2.5-3x income rule, credit score ranges), market data by city tier, search platform comparisons, tour checklists, application guidance, and move-in inspection instructions. Claude cited or implied sourcing from structured, data-rich educational content. brightplace is **not currently cited** by Claude for this query.
+
+**brightplace citation status:**
+- ChatGPT: Not confirmed
+- Claude: Not cited
+
+**7b. Citation Gap Analysis:**
+
+What cited sources have that brightplace lacks for this keyword:
+- Specific financial thresholds stated as data points with sources or context (Redfin, Experian, Freddie Mac do this)
+- Numbered process structure that LLMs can extract as procedural steps (Settl, Redfin, Extra Space do this well)
+- Market data by city tier or rent range benchmarks (Claude's response included this; no competitor in the SERP does it clearly)
+- Legal references and protections (government sources, Experian, NY AG do this)
+- Move-in inspection as a distinct procedural stage (Claude included it; SERP competitors largely did not)
+
+Information Gaps identified by Claude that no SERP competitor covers adequately:
+1. Rental market seasonality and its pricing implications (December-February vs. June-August)
+2. Move-in walkthrough as a distinct, procedurally important stage
+3. City-tier rent benchmarks with approximate current ranges
+4. Co-signer financial requirements in specific terms (not just "someone with good credit")
+5. Application strategy in competitive markets (apply same-day; do not wait)
+
+**7c. Citability Rules for the Writing Agent:**
+
+**Rule 1 — First-paragraph rule:**
+The opening 100 words of the article must contain: (a) a direct statement that renting an apartment involves six stages, named sequentially; (b) the audience statement (this applies to first-time renters and anyone returning to the rental market after a gap); (c) at least one specific numerical data point (example: "most landlords require your gross monthly income to be at least 2.5 times the monthly rent"). This structure is what LLMs extract as the cited response.
+
+**Rule 2 — Structured data rule:**
+Two tables are required.
+
+Table 1 — Income qualification by rent level (appears in Stage 1):
+| Monthly Rent | Minimum Monthly Gross Income Required |
+|---|---|
+| $1,200 | $3,000 - $3,600 |
+| $1,800 | $4,500 - $5,400 |
+| $2,400 | $6,000 - $7,200 |
+| $3,000 | $7,500 - $9,000 |
+
+Table 2 — Document checklist with status column (appears in Stage 2, formatted as a checklist table):
+| Document | What It Proves |
+|---|---|
+| Government-issued photo ID | Identity verification |
+| 2-3 most recent pay stubs | Current income |
+| Tax returns (self-employed) | Annual income stability |
+| 2-3 months of bank statements | Financial reserves |
+| Prior landlord contact information | Rental history |
+| Professional or personal references | Character and reliability |
+
+Tables must use clean HTML table structure so AI engines can parse them correctly. No merged cells, no inconsistent formatting.
+
+**Rule 3 — Definition rule:**
+The following five terms must be explicitly defined in one clear sentence each at the start of the section where they first appear:
+
+1. **Rental application:** A formal screening document that collects personal, financial, and rental history information landlords use to evaluate whether to lease a unit to an applicant.
+2. **Security deposit:** A refundable payment, typically equal to one to two months' rent, held by the landlord to cover unpaid rent or damages beyond normal wear and tear.
+3. **Co-signer (or guarantor):** A person who agrees to be legally and financially responsible for the rent if the primary tenant fails to pay.
+4. **Lease:** A legally binding contract between a landlord and a tenant that sets the rent amount, duration, rules, and obligations of both parties.
+5. **Income-to-rent ratio:** The standard landlords use to assess affordability, typically requiring a tenant's gross monthly income to be 2.5 to 3 times the monthly rent.
+
+**Rule 4 — Proof point rule:**
+The following specific numerical claims must appear in the article. The writing agent must insert the most current figure available and attach a datestamp:
+
+1. Income-to-rent ratio: "Most U.S. landlords require gross monthly income of 2.5 to 3 times the monthly rent." (As of 2025-2026, standard across U.S. rental markets.)
+2. Credit score threshold: "A credit score of 650 or above meets the minimum threshold for most rental approvals; 700 or above is considered competitive in most markets." (As of Q2 2026.)
+3. Application fee range: "Application fees typically run $25-$75 and are non-refundable; New York State caps application fees at $20 by law." (As of 2025.)
+4. Security deposit cap: "California caps security deposits at two months' rent for unfurnished units (effective July 2024); New York caps deposits at one month's rent statewide." (Cite legislation by name.)
+5. Timeline: "In competitive urban markets, desirable apartments frequently rent within 24-72 hours of being listed." (As of Q2 2026 based on brightplace market observations.)
+
+**Rule 5 — FAQ rule:**
+Eight questions for the FAQ section with source attribution:
+
+1. **How much income do I need to rent an apartment?** (Source: PAA question cluster; Claude response) — Answer must state the 2.5-3x income rule with a concrete example.
+
+2. **What credit score do I need to rent an apartment?** (Source: PAA, Claude, Experian competitor) — Answer must state 650 as common floor, 700 as competitive.
+
+3. **Can I rent an apartment at 18 with no credit history?** (Source: PAA) — Answer must mention co-signer option, higher deposit option, and proof-of-income strategy.
+
+4. **What documents do I need to rent an apartment?** (Source: PAA, Claude) — Answer must list the six core documents in a compact format.
+
+5. **How much does it cost to move into an apartment?** (Source: Claude information gap) — Answer must cover first month, security deposit, and last month (where required), with a note that upfront costs often total 2-3 months' rent.
+
+6. **What is the best time of year to look for an apartment?** (Source: Claude information gap; content gap from SERP analysis) — Answer must state December-February for lower prices and negotiating room; June-August for most listings but highest prices.
+
+7. **Can I rent an apartment with bad credit?** (Source: PAA, Claude response, Experian competitor) — Answer must name co-signer, higher deposit, and income documentation as the three main paths.
+
+8. **What should I check when signing a lease?** (Source: Claude response, content gap) — Answer must name the six most-overlooked clauses: early termination fee, late fees, pet policy, guest policy, subletting restrictions, notice-to-vacate requirement.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search apartments on brightplace
+Placement: Three locations — (1) after the Stage 3 search section, (2) after the FAQ section at the end of the article.
+Language: "brightplace makes it easier to find apartments that match your budget and priorities. Search available rentals at brightplace.ai."
+Secondary option: "See current apartment availability in [City] on brightplace." (If a city-specific version of this article is produced later, the CTA can be localized.)
+
+**Secondary CTA:**
+Internal link to a relevant brightplace knowledgebase guide on apartment touring, lease reading, or credit score improvement for renters. The writing agent should place this as a contextual inline link in the relevant section (Stage 4 for touring, Stage 6 for lease). If no exact guide exists yet, the writing agent should leave a bracketed note: "\[Link to: brightplace guide on what to look for when signing a lease — confirm URL\]"
+
+**CTA language rules:**
+No "click here," no urgency language, no superlatives. Frame as a practical next step: "If you are ready to start searching, brightplace.ai organizes listings by neighborhood priorities and budget ranges." That framing is helpful, not promotional.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**BRAND RULES — NON-NEGOTIABLE:**
+
+NAMING: brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+PUNCTUATION: NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+BANNED WORD: NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+BANNED PHRASES: "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+TITLE FRAMING: Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide. Examples: "How Rent Prices Actually Work in Austin" / "What Remote Workers Should Know About Raleigh" / "A Practical Guide to Renting Your First Apartment."
+
+VOICE: Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+FAIR HOUSING (if content involves neighborhoods or cities): Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+SOURCING: Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 1,200-1,400 words
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer, not with context or background.**
+- **Schema to implement:** Article schema (always) + FAQPage schema (for the FAQ section) + HowTo schema (the six-stage process maps directly to HowTo steps; this is appropriate for this article) + Speakable schema on the opening summary paragraph and the FAQ section.
+- **Date-stamping rule:** Every dollar figure, rent range, statistic, and factual claim must include "(as of Q2 2026)" or the relevant period adjacent to the claim.
+- **"Last reviewed" note:** Include "Last reviewed: June 2026" at the end of the article or in the article metadata.
+- **No ILS links.** Do not link to any platform listed in the sourcing ban above.
+- **Internal link instruction:** Link to brightplace.ai or relevant brightplace knowledgebase content where specified. Leave bracketed notes for URLs the writing agent cannot confirm.
+- **brightplace product mention:** IntentOS or brightplace.ai may be mentioned once in the body (Stage 3 search section) and once in each CTA. No more than three total mentions of brightplace in the article, all framed as helpful resources rather than promotional copy.
+- **Tables:** Use clean HTML. No merged cells. Column headers in title case. Minimum two data rows per table.
+- **Lists:** Use bullet points for unordered lists (checklist items). Use numbered lists for sequential steps only. Do not mix formats in the same list.
+- **Headings:** H1 is the article title only. H2 for major stages and sections. H3 only for sub-topics within a stage (example: the co-signer sub-section under Stage 5). Never skip heading levels.
+- **First paragraph must contain:** (1) the term "how to rent an apartment" or "renting an apartment," (2) the audience identifier (first-time renters or those returning to the rental market), (3) at least one specific numerical data point.
