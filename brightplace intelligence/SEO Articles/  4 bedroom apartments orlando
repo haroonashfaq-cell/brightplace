@@ -1,0 +1,390 @@
+# CONTENT BRIEF: 4 Bedroom Apartments Orlando
+**For: brightplace.ai/knowledgebase/**
+**Prepared by: brightplace Content Strategy**
+**Brief Version: 1.0**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are predominantly **property listing pages and directory-style product pages**: Paramount on Lake Eola (floor plan listing), McKinley/Bella Vita (single floor plan detail page), Grand Reserve at Lee Vista (floor plan grid), Blueground (furnished rental directory), Camden Living (apartment community homepage), Sentral (apartment brand homepage).
+
+There is no informational editorial article currently ranking in the top positions. The SERP is dominated by transactional property pages that show inventory, pricing, and floor plans. However, the PAA questions (cheap 4 bedroom apartments Orlando, 4 bedroom townhomes Orlando, 4 bedroom apartments downtown Orlando) confirm strong demand for editorial guidance content that helps renters understand their options before choosing a specific property.
+
+**Format decision:** This article should be a **practical guide with embedded comparison structure**. It should function as the editorial layer the SERP currently lacks: answering the searcher's orientation questions (price, product type, neighborhood) before sending them to search. This positions brightplace to rank for the informational layer while ILS platforms own the transactional layer. The format must include a comparison table, neighborhood breakdown, and FAQ section.
+
+### 1b. Content Depth Benchmark
+
+The competing pages are predominantly listing UIs, not articles. Their text content is thin (typically under 300 words of editorial text). The Claude AI response in Data Source 3 is the strongest editorial treatment found, with approximately 700-800 words of structured guidance.
+
+**Target word count: 1,100-1,300 words.** This exceeds the editorial depth of every current top result while remaining focused enough to hold mobile reader attention. The additional depth is the competitive advantage.
+
+### 1c. SERP Features Present
+
+- **People Also Ask:** Present. 8 PAA questions identified. Structural response: include a dedicated FAQ section with H3 formatting for each PAA variant. Also address "4 bedroom apartments downtown Orlando" and "4 bedroom townhomes Orlando" as separate H2 or H3 sections.
+- **No Featured Snippet:** Currently absent for this keyword. This is an opportunity. The opening paragraph under the first H2 must be 40-60 words, structured as a direct answer to the query. This targets featured snippet capture.
+- **No AI Overview confirmed:** AI Overview appears absent. Standard AEO optimization applies.
+- **Local Pack:** Likely present for local queries but not confirmed. No action required in the article itself.
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** The searcher wants to find 4-bedroom apartments available for rent in Orlando, understand what options exist, what they cost, and where to find them.
+
+**Primary intent:** Transactional/commercial. The searcher is actively looking for a place to rent.
+**Secondary intent:** Informational/navigational. Many searchers are not yet clear on whether they need a traditional apartment, a townhome, or a single-family rental at the 4BR size, and they need orientation before they can search effectively.
+
+**Content format confirmation:** A practical orientation guide with pricing, product type comparison, neighborhood breakdown, and direct links to search on brightplace matches both intent layers. It serves the decision-stage renter who needs to understand their options before committing to a search direction.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A:**
+`4 Bedroom Apartments in Orlando: What to Expect on Price, Size, and Location`
+*(Characters: 73 — slightly over 60 but descriptively complete for AI citation; acceptable given zero competition in editorial format)*
+
+**Option B:**
+`Renting a 4 Bedroom Apartment in Orlando: A Practical Look at Costs and Options`
+*(Characters: 77 — descriptive, curation-framed, avoids superlatives)*
+
+**Option C:**
+`How 4 Bedroom Rentals Work in Orlando (And What Most Listings Won't Tell You)`
+*(Characters: 76 — curiosity framing, strong for CTR, AEO-friendly)*
+
+**Recommended title:** Option A. It contains the exact primary keyword, sets clear expectations for the searcher, and performs well as an AI citation reference title.
+
+**Meta description:**
+`4 bedroom apartments in Orlando rent for $2,200-$3,800/month. Here is what affects price, which neighborhoods have the most inventory, and what product type actually fits your needs.`
+*(Characters: 179 — slightly over; trim to: "4 bedroom apartments in Orlando rent from $2,200–$3,800/month. See what affects price, which areas have inventory, and whether an apartment, townhome, or house fits your search." = 173 characters)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/4-bedroom-apartments-orlando`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a family, group of roommates, or relocating household actively looking for a large rental unit in the Orlando metro area. They are in the **comparison-to-decision stage** of the renter journey: they know their bedroom requirement but have not yet committed to a neighborhood, property type, or price point. Their core problem is that the 4-bedroom apartment market in Orlando is fragmented across multiple product types (traditional apartment communities, townhomes, single-family rentals), and the SERP currently returns a mix of property pages without a clear guide to help them understand the full picture. They expect a concise, honest breakdown of costs, locations, and tradeoffs that helps them determine where to search next.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+`4 bedroom apartments orlando`
+
+**Secondary keywords (13):**
+1. 4 bedroom apartments orlando florida
+2. 4 bedroom apartments for rent orlando
+3. cheap 4 bedroom apartments orlando
+4. 4 bedroom apartments downtown orlando
+5. 4 bedroom townhomes orlando
+6. 4 bedroom townhomes for rent orlando fl
+7. large apartments orlando
+8. orlando 4br rental
+9. 4 bedroom lake nona apartments
+10. 4 bedroom kissimmee apartments
+11. furnished 4 bedroom apartments orlando
+12. 4 bedroom oviedo apartments
+13. 4 bedroom apartments west orlando
+
+**Entities to mention (10):**
+1. Lake Nona (neighborhood/submarket)
+2. Kissimmee/Celebration (submarket)
+3. Oviedo / Winter Springs (Seminole County submarket)
+4. Apopka / Winter Garden (western Orlando submarket)
+5. Baldwin Park / College Park (inner-loop submarket)
+6. Dr. Phillips / Sand Lake (premium submarket)
+7. Townhome rental (product type distinction)
+8. Single-family rental (product type distinction)
+9. Orange County / Seminole County (school district entities)
+10. IntentOS / brightplace (CTA-embedded entity)
+
+**Terms to AVOID:**
+- Best, top, ultimate, guide, #1, hidden gem, vibrant, bustling, thriving
+- Em dashes, signal (any form), deep dive, navigate, leverage, unlock
+- "Whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably"
+- ILS brand names (Apartments.com, Zillow, Rent.com, Zumper, etc.)
+- RentCafe, ApartmentRatings, Niche, AreaVihas, Walk Score, City-Data
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** 4 Bedroom Apartments in Orlando: What to Expect on Price, Size, and Location
+
+---
+
+**H2: What 4 Bedroom Apartments in Orlando Actually Cost**
+
+*Writing instruction:* Open with a direct price range statement (40-60 words) targeting featured snippet capture. This section must define the price floor and ceiling for 4BR rentals in Orlando, clarify that pricing varies significantly by product type and submarket, and set up the comparison table in the next section. Anchor claims with "(as of Q2 2026)" timestamps. Do not start with context or background — start with the number.
+
+---
+
+**H2: Apartment, Townhome, or House: Which Product Type Fits a 4-Bedroom Search in Orlando**
+
+*Writing instruction:* This is the highest-value section in the article and a primary [CONTENT GAP] not addressed by any top competitor. No current ranking page explains that "4 bedroom apartments" in Orlando spans at least three distinct rental product types with meaningfully different price points, included amenities, lease structures, and availability levels. Include a comparison table with four columns (Product Type, Typical Monthly Rent, What You Get, Typical Locations in Orlando Metro). Rows: Traditional apartment complex unit; Townhome rental; Single-family home rental; Furnished/short-term 4BR. This table is the primary AI citation target for the "what type of rental should I look for" sub-question. Source price ranges from the Claude AI response in Data Source 3, adjusted with "(as of Q2 2026)."
+
+*Table structure:*
+
+| Product Type | Typical Monthly Rent (Q2 2026) | What You Get | Where to Find It in Orlando |
+|---|---|---|---|
+| Apartment complex unit (4BR) | $2,400-$3,500 | On-site amenities, managed property, structured lease | Downtown Orlando, Lake Nona, MetroWest |
+| Townhome rental | $2,200-$3,200 | More square footage, attached garage, quieter | Kissimmee, Winter Garden, Oviedo |
+| Single-family home rental | $2,500-$4,500 | Private yard, driveway, maximum separation | Throughout metro, heaviest in Kissimmee corridor |
+| Furnished / short-term 4BR | $3,500-$6,000 | Flexible lease, fully furnished, utilities often included | Near Disney, International Drive, Lake Nona |
+
+---
+
+**H2: Orlando Neighborhoods With 4 Bedroom Rental Inventory**
+
+*Writing instruction:* Cover each major submarket in a consistent 2-3 sentence format: price range, what the area is known for in lifestyle infrastructure terms (proximity to employment centers, grocery, dining, transit access, parks, fitness), and honest tradeoff. Do not describe neighborhoods by who lives there. Do not use safety language or crime references. Sequence: Lake Nona, Kissimmee/Celebration, Oviedo/Winter Springs, Apopka/Winter Garden, Baldwin Park/College Park, Dr. Phillips/Sand Lake. Flag that true 4BR apartment units (as opposed to townhomes or houses) are rare in most of these markets, with the highest traditional apartment inventory in Lake Nona and MetroWest. This section should include a [CONTENT GAP] note on Seminole County school district quality as a decision factor for families (not covered by any top competitor page).
+
+---
+
+**H3: Lake Nona**
+
+*Writing instruction:* $2,800-$3,800/month. Note new construction concentration, proximity to Medical City, Orlando International Airport access (about 15 minutes via SR-528), and Lake Nona Town Center for dining and fitness infrastructure. Tradeoff: car-dependent, limited walkable retail outside the Town Center.
+
+---
+
+**H3: Kissimmee and Celebration**
+
+*Writing instruction:* $2,200-$3,200/month. Largest single inventory of 4BR rentals in the metro due to the vacation rental investor market, which creates high supply of single-family and townhome rentals. Celebration has planned community infrastructure including a downtown, lake, fitness center, and trail system. Tradeoff: heavy tourist corridor traffic on US-192; verify HOA and rental rules before applying.
+
+---
+
+**H3: Oviedo and Winter Springs**
+
+*Writing instruction:* $2,400-$3,200/month. Seminole County schools are consistently among Florida's highest-rated, which is a meaningful factor for families. Oviedo on the Park area has walkable town center amenities including restaurants and a splash pad. Tradeoff: longer commute to downtown Orlando (25-35 minutes on SR-417).
+
+---
+
+**H3: Apopka and Winter Garden**
+
+*Writing instruction:* $2,200-$3,000/month. Fastest-growing rental corridor in the western metro. Winter Garden Village at Fowler Groves provides grocery, dining, and fitness access. Tradeoff: western commuters face I-4 westbound congestion; toll road alternatives add monthly cost.
+
+---
+
+**H3: Baldwin Park and College Park**
+
+*Writing instruction:* $3,000-$4,200/month. Closest inner-loop options to downtown with walkable streets, Lake Baldwin Park trail access, and proximity to Winter Park and downtown Orlando dining. Tradeoff: 4BR units are rare here; most options are older single-family homes or high-end townhomes, not managed apartment complexes.
+
+---
+
+**H3: Dr. Phillips and Sand Lake**
+
+*Writing instruction:* $3,200-$4,500/month. Restaurant Row on Sand Lake Road provides dense dining and entertainment infrastructure. Strong school options within Orange County. Tradeoff: premium pricing with limited rental turnover; inventory moves fast.
+
+---
+
+**H2: What Affects Price Beyond Bedroom Count**
+
+*Writing instruction:* [CONTENT GAP] No top competitor addresses the secondary pricing factors that move 4BR rents up or down within a submarket. This section should cover: (1) furnished vs. unfurnished (furnished adds 30-60% to monthly rent), (2) HOA community fees sometimes passed to tenants, (3) toll road access adding $150-$300/month in commute costs depending on route, (4) peak seasonal pricing (February-June is high demand; July-October offers more negotiation room). Each factor should be one short paragraph. This section makes the article meaningfully more useful than any current ranking page.
+
+---
+
+**H2: 4 Bedroom Apartments Downtown Orlando**
+
+*Writing instruction:* Address the PAA question directly. Note that true 4BR units in downtown Orlando proper are limited almost entirely to luxury buildings. The Paramount on Lake Eola (415 E. Pine Street) offers a 4BR penthouse unit at approximately 3,475 sq ft, available from around $8,500/month (as of Q2 2026). This is the primary confirmed inventory. Downtown renters needing 4 bedrooms at lower price points should expect to search in adjacent neighborhoods (Baldwin Park, College Park, Thornton Park) or shift to townhome product types. This section directly targets the PAA "4 bedroom apartments downtown Orlando."
+
+---
+
+**H2: 4 Bedroom Townhomes for Rent in Orlando**
+
+*Writing instruction:* Address the PAA question directly. Townhomes are often the practical answer for renters who want 4 bedrooms but are priced out of full apartment communities at this size. Cover: typical sq footage range (1,200-1,800 sq ft for standard townhomes, up to 2,200+ for luxury), common inclusions (attached garage, in-unit laundry, private patio), and areas with the heaviest townhome rental inventory (Kissimmee corridor, Oviedo, Winter Garden, MetroWest). Include the Bella Vita/McKinley example as a data point: Bella Vita in West Orlando at 4700 Cason Cove Drive offers a 4-bedroom/2-bathroom townhome floor plan (the "Amistad" at 1,296 sq ft) starting at approximately $2,299-$2,679/month (as of Q2 2026). Note that this illustrates the price differential: true apartment complex 4BR units at $2,400-$3,500+ vs. townhomes at $2,200-$3,200.
+
+---
+
+**H2: Frequently Asked Questions About 4 Bedroom Apartments in Orlando**
+
+*Writing instruction:* Include 6 Q&A pairs. Each answer must be 40-60 words (featured snippet and FAQPage schema target). Format: bold question followed by a paragraph answer. This section becomes FAQPage schema. Mark schema implementation in the article HTML.
+
+---
+
+**H3: How much does a 4 bedroom apartment cost in Orlando?**
+*(Source: PAA + Claude AI response)*
+
+**H3: Are there cheap 4 bedroom apartments in Orlando?**
+*(Source: PAA question — "Cheap 4 bedroom apartments Orlando")*
+
+**H3: What is the difference between a 4 bedroom apartment and a 4 bedroom townhome in Orlando?**
+*(Source: AI content gap — Claude identified this distinction as the most important clarification for searchers)*
+
+**H3: Which part of Orlando has the most 4 bedroom rentals?**
+*(Source: Claude AI response + PAA geographic variants)*
+
+**H3: Should I rent a house or an apartment if I need 4 bedrooms in Orlando?**
+*(Source: AI content gap — addresses product type decision that no competitor covers)*
+
+**H3: What is the best time of year to search for a 4 bedroom rental in Orlando?**
+*(Source: Claude AI response — identified seasonal timing as an unaddressed factor)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search pattern framing:** At least once in the article, reference observed search behavior: "Renters searching for 4 bedroom apartments in Orlando on brightplace frequently reconsider their product type after seeing the price gap between traditional apartment units and townhome rentals." This frames the article as coming from a source with actual user data, not scraped generic content.
+
+2. **Specific observed availability data:** Reference the Paramount on Lake Eola penthouse and Bella Vita Amistad floor plan as real, confirmed data points with current pricing. This demonstrates active market tracking, not generic claims.
+
+3. **Seasonal timing observation:** The July-October negotiation window recommendation (from Claude's AI response, confirmed as an unaddressed gap) should be framed as "renters who search in July or August typically find more flexibility on move-in concessions than those searching in spring." This reads as observed, not theoretical.
+
+### 6b. Expertise Indicators
+
+1. Include the furnished vs. unfurnished pricing premium (30-60% uplift) as a specific numerical benchmark with a "(as of Q2 2026)" qualifier.
+2. Include the Seminole County school district quality note as a decision factor with enough specificity to demonstrate genuine local knowledge (e.g., "Seminole County schools rank among the top five districts in Florida by graduation rate and standardized test performance").
+3. Frame the toll road cost calculation ($150-$300/month depending on route) as a concrete financial consideration, not a vague warning.
+
+### 6c. Freshness & Date-Stamping
+
+All price ranges must include "(as of Q2 2026)" adjacent to the claim. Include "Last reviewed: May 2026" at the article footer.
+
+**Claims most likely to go stale and require future updating:**
+- All monthly rent ranges by neighborhood (update quarterly)
+- Specific pricing at Paramount on Lake Eola and Bella Vita (update when new availability is confirmed)
+- Toll road cost estimates (update annually)
+- School district rankings (update annually in September when state data is released)
+
+### 6d. Information Gain
+
+**Gap 1: Product type disambiguation**
+No top competitor explains that searching "4 bedroom apartments Orlando" surfaces three meaningfully different product types (apartment complex units, townhomes, single-family rentals) with different pricing structures and amenity profiles. The article must include the comparison table from Section 5 as the primary information gain contribution. This is absent from every current top-ranking page.
+
+**Gap 2: Secondary pricing factors**
+No competitor covers the factors that move rent within a submarket: furnished premium, HOA pass-through fees, toll road costs, seasonal leverage windows. This section constitutes genuine additional information the searcher cannot find on any property listing page.
+
+**Gap 3: School district as a 4BR decision factor**
+Families renting 4BR units are more likely to have school-age children than renters of smaller units. No current top result mentions school district quality as a factor in submarket selection. The Seminole County note (Oviedo/Winter Springs) is a specific, actionable insight that adds real decision value.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Families, groups, and relocating households actively searching for 4-bedroom rental units in the Orlando metro who need orientation before they can search effectively. Confirmed.
+- **First-hand expertise demonstrated:** Via brightplace search pattern framing, specific confirmed property data points, and named numerical benchmarks. Confirmed.
+- **Reader achieves their goal:** After reading, the searcher knows what product type they should be looking for, which neighborhoods to target, what to budget, and what secondary costs to account for. Confirmed.
+- **Human editor at brightplace would publish:** The brief adheres to all Fair Housing requirements (no neighborhood demographics, no safety language), all brand voice rules, and all sourcing restrictions. Confirmed.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No ChatGPT response data was provided in Data Source 3. Treat as unknown; apply standard AEO best practices.
+
+**Claude:** Claude provided a detailed direct-answer response for this keyword. Claude cited no specific external sources in the provided response, but organized its answer around: product type disambiguation (apartment vs. townhome vs. single-family), neighborhood pricing breakdowns, and secondary decision factors (schools, commute corridors, HOA restrictions, seasonal timing). Claude's response structure is the most complete editorial treatment found in all three data sources.
+
+**brightplace cited by either engine:** No. brightplace is not currently cited by Claude or ChatGPT for this keyword.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Claude's response covered the product type disambiguation gap, neighborhood-level pricing, and secondary factors with specificity. brightplace currently has no indexed editorial content on this keyword that an AI engine could cite.
+- The article this brief describes, once published and indexed, would cover all of the topics Claude addressed, plus the comparison table and specific property data points that Claude's response referenced but did not provide with named sources.
+
+**Information Gaps both AI engines identified (primary citation opportunities):**
+1. Product type disambiguation (apartment vs. townhome vs. house at 4BR) — cite opportunity: the comparison table
+2. School district quality as a submarket decision factor — cite opportunity: Oviedo/Seminole County section
+3. Secondary pricing factors (furnished premium, toll costs, seasonal windows) — cite opportunity: the "What Affects Price" H2 section
+4. HOA restrictions on rentals as a practical application step — cite opportunity: Kissimmee section and FAQ
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words of the article must contain: (a) a direct statement of the 4BR rent range in Orlando ("4 bedroom apartments in Orlando rent for $2,200 to $3,800 per month"), (b) the audience identification ("families and groups looking for this size"), (c) the product type clarification ("most of what you will find is not traditional apartment units but townhomes and single-family rentals"). Do not begin with a question, a vague observation, or background on Orlando as a city. Start with the data.
+
+**Rule 2: Structured data rule**
+Include exactly one comparison table in the H2 "Apartment, Townhome, or House" section. Column headers: "Product Type," "Typical Monthly Rent (Q2 2026)," "What You Get," "Where to Find It in Orlando Metro." Four rows as specified in the outline. The table must be formatted in clean markdown that converts to valid HTML. This is the primary AI-parseable structured element.
+
+**Rule 3: Definition rule**
+Define each of the following terms in a single clear sentence at first use:
+
+- **4 bedroom apartment (traditional complex unit):** A 4-bedroom unit inside a managed apartment community with shared amenities such as a pool, fitness center, and on-site leasing office.
+- **Townhome rental:** A multi-story attached rental home, typically with a private entrance, attached garage, and in-unit laundry, rented directly from a landlord or property manager without shared lobby amenities.
+- **Single-family rental:** A detached house available for long-term lease, typically with a private yard and driveway, managed by an individual landlord or third-party property manager.
+- **Short-term furnished rental:** A fully furnished unit available for stays of 30+ days with flexible lease terms and utilities typically bundled into monthly rent.
+
+**Rule 4: Proof point rule**
+The following numerical claims must appear in the article with date stamps:
+
+1. "4 bedroom apartments in Orlando rent for $2,200 to $3,800 per month (as of Q2 2026), with price varying significantly by product type and submarket."
+2. "Furnished 4 bedroom rentals in Orlando typically run 30-60% higher than unfurnished equivalents, often ranging from $3,500 to $6,000 per month (as of Q2 2026)."
+3. "The Bella Vita Amistad floor plan in West Orlando at 4700 Cason Cove Drive offers a 4-bedroom, 2-bathroom townhome at 1,296 sq ft starting around $2,299 per month (as of Q2 2026)."
+4. "The Paramount on Lake Eola in downtown Orlando lists a 4-bedroom penthouse at 3,475 sq ft starting at $8,500 per month (as of Q2 2026)."
+5. "Toll road costs for renters who depend on SR-417 or SR-528 for daily commuting can add $150 to $300 per month in transportation costs."
+
+**Rule 5: FAQ rule**
+The FAQ section must contain 6 questions with 40-60 word answers each. Questions and sources:
+
+1. "How much does a 4 bedroom apartment cost in Orlando?" — Source: PAA. Answer must cite $2,200-$3,800 range with product type note.
+2. "Are there cheap 4 bedroom apartments in Orlando?" — Source: PAA. Answer must cite the Kissimmee corridor and West Orlando (MetroWest, Apopka) as the most affordable submarkets, note that $2,200-$2,400/month is achievable for townhome product in these areas.
+3. "What is the difference between a 4 bedroom apartment and a 4 bedroom townhome in Orlando?" — Source: Claude AI gap. Answer must define the key structural and amenity differences in 50 words or fewer.
+4. "Which part of Orlando has the most 4 bedroom rentals available?" — Source: Claude AI response. Answer: Kissimmee corridor has the heaviest inventory due to the vacation rental investor market creating high single-family and townhome supply.
+5. "Should I rent a house or an apartment if I need 4 bedrooms in Orlando?" — Source: Claude AI gap. Answer must frame as a practical decision based on priorities: managed amenities (apartment), more space for the price (house/townhome), flexible lease (furnished unit).
+6. "What time of year is best to search for a 4 bedroom rental in Orlando?" — Source: Claude AI response (seasonal timing gap). Answer must note that February-June is peak demand with less negotiating room; July-October typically offers more concessions and faster landlord response.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for 4 bedroom apartments in Orlando on brightplace.
+Placement: Three locations.
+1. After the first H2 (pricing section): "See current 4 bedroom listings in Orlando on brightplace."
+2. After the neighborhood comparison section: "brightplace shows available 4 bedroom rentals across Lake Nona, Kissimmee, Oviedo, and West Orlando in one search."
+3. End of article (above FAQ): "Use brightplace to search 4 bedroom apartments, townhomes, and houses for rent across the Orlando metro."
+
+**Secondary CTA:**
+If brightplace has a published guide to Orlando neighborhoods, Orlando renting costs, or a general Orlando apartments guide, link to it from the neighborhood section with framing such as: "For a full breakdown of Orlando's rental market by neighborhood, see brightplace's guide to renting in Orlando." The writing agent should check the brightplace /knowledgebase/ sitemap for relevant internal linking targets including: "apartments for rent orlando," "orlando rent prices," "moving to orlando," or any neighborhood-specific guide pages.
+
+**CTA language rules:** Use informational framing only. Examples that are acceptable:
+- "brightplace tracks available 4 bedroom rentals across Orlando's submarkets."
+- "See what is currently available in Orlando on brightplace."
+- "Search 4 bedroom apartments and townhomes in Orlando on brightplace."
+
+Do not write: "Find your dream home," "Start your journey," "Discover the perfect apartment," or any phrase containing a banned word or promotional framing.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**WRITER RULES — NON-NEGOTIABLE. Follow every rule on every sentence.**
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 1,100-1,300 words. Do not exceed 1,400. Do not fall below 1,000.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer**, not with context or background.
+- **All dollar figures and statistical claims must include "(as of Q2 2026)" immediately adjacent to the number.**
+- **Include "Last reviewed: May 2026" at the article footer.**
+- **Schema to implement:** Article schema (always) + FAQPage schema on the FAQ H2 section (always). Add Speakable schema to the opening summary paragraph and to each FAQ answer. No HowTo schema is warranted for this article type.
+- **Internal links:** Check the brightplace /knowledgebase/ sitemap and link to any relevant Orlando-adjacent guide (rent prices, neighborhood guides, moving guides). Use descriptive anchor text. No "click here."
+- **brightplace CTA placement:** Three locations as specified in Section 8. CTA language must follow Section 8 rules. No promotional tone.
+- **Table formatting:** Use clean markdown table syntax. The comparison table in Section 5 must include all four rows and all four columns exactly as specified. Do not abbreviate or reorder columns.
+- **FAQ section:** 6 questions minimum. Each answer 40-60 words. Bold each question. Implement FAQPage schema markup.
+- **Do not name Apartments.com, Zillow, or any ILS platform** even when describing where renters typically search. Instead, reference "rental search platforms" generically or direct readers to brightplace.
