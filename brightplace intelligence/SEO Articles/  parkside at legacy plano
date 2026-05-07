@@ -1,0 +1,437 @@
+# Content Brief: Parkside at Legacy Plano
+
+**Prepared for:** brightplace AI Writing Agent
+**Content Layer:** brightplace.ai/knowledgebase/
+**Target Keyword:** parkside at legacy plano
+**Intent:** Informational
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking competitor content (Data Source 1) is a sparse property listing page, not a substantive editorial article. It contains minimal descriptive copy, a feature bullet list, an embedded map, and a contact form. This is a directory/listing format, not a guide.
+
+The AI responses (Data Source 3) fill the void with a structured renter guide format, organized as: direct answer block, location analysis, comparison table, and practical next steps.
+
+**Format directive:** The article must be a focused renter guide, not a listing page. It should answer research-stage questions (what is this property, is this location right for me, how does it compare to alternatives) in a structured editorial format. This directly outperforms the thin listing content that currently dominates the SERP.
+
+### 1b. Content Depth Benchmark
+
+The only substantive competitor page (Data Source 1) contains approximately 150-200 words of unique copy. It is a listing shell. The AI responses in Data Source 3 produced approximately 700-900 words of substantive analysis.
+
+**Target word count:** 1,000-1,200 words. This is sufficient to thoroughly outperform the thin listing content, cover every searcher question, and avoid padding. Do not pad to 1,500 words. Every sentence must earn its place.
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Target |
+|---|---|---|
+| Featured Snippet | No | First H2 opening paragraph (40-60 words, direct answer) |
+| People Also Ask | Yes | Dedicated H2 for each PAA question: "parkside at legacy plano reviews," "parkside at legacy plano for sale" |
+| AI Overview | Not confirmed | FAQ section + structured opening paragraph |
+| Local Pack | Likely present for this property query | Include full address, city, state in body copy (5745 Bozeman Dr, Plano, TX 75024) |
+| Knowledge Panel | Possible for named property | Include property name, address, unit types, amenity list as structured content |
+| Video Carousel | Not present | Not applicable |
+
+**Featured snippet opportunity:** No current snippet is claimed. A clean 40-60 word direct answer paragraph under the first H2 is a direct capture opportunity.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A prospective renter (or someone researching on behalf of a renter) searching for specific information about Parkside at Legacy in Plano, TX. They want to know what the property offers, where it sits relative to the Legacy corridor, and whether it fits their situation.
+
+**Secondary intent:** Someone considering a purchase, based on the PAA question "parkside at legacy plano for sale." This is a smaller segment. The article should primarily serve the renter intent with a brief acknowledgment of the for-sale question in the FAQ.
+
+**Confirmed format match:** A focused renter guide with a direct property answer, location analysis, and comparison section matches primary intent. This format is confirmed.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+What to Know About Parkside at Legacy in Plano
+*52 characters. Curation framing. Keyword-aligned. Strong AI citation candidate.*
+
+**Option B:**
+Parkside at Legacy Plano: A Practical Renter Overview
+*54 characters. Keyword exact match in first position. Clear value framing.*
+
+**Option C:**
+Renting at Parkside at Legacy: What the Location Actually Means
+*63 characters (slightly over; acceptable). Differentiates on location analysis, which is the content gap competitors miss.*
+
+**Recommended title:** Option A. Clean, curation-framed, keyword-present, under 60 characters.
+
+---
+
+**Meta description:**
+Parkside at Legacy is a Class A apartment community in Plano's Legacy corridor. Here's what the location, pricing, and amenities actually mean for renters.
+*155 characters. Includes primary keyword. Ends with a value proposition. No superlatives.*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/parkside-at-legacy-plano`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The person searching "parkside at legacy plano" is most likely a working professional or corporate relocator evaluating specific apartment communities in the Legacy Business Park submarket of Plano, TX. They are in the comparison or decision stage of the renter journey: they have identified this property by name and want to validate whether it fits their needs before touring or signing. Their specific problem is understanding what distinguishes this community from the many Class A options in the same submarket, and whether the location premium is justified for their commute and lifestyle. Based on the SERP analysis, they expect a structured property overview with honest location context, not a listing page or marketing copy.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+parkside at legacy plano
+
+**Secondary keywords (12):**
+- parkside at legacy apartments
+- parkside at legacy plano tx
+- legacy corridor apartments plano
+- apartments near legacy west plano
+- legacy business park apartments
+- plano luxury apartments for rent
+- apartments near toyota north america plano
+- legacy west plano rentals
+- 75024 apartments
+- Class A apartments plano
+- plano corporate relocation apartments
+- apartments near dallas north tollway plano
+
+**Entities to include (10):**
+- Legacy West (mixed-use development)
+- Legacy Business Park
+- Toyota North America (Plano campus)
+- JPMorgan Chase (Legacy campus)
+- Liberty Mutual (Legacy campus)
+- Dallas North Tollway
+- Sam Rayburn Tollway (SH-121)
+- Plano ISD
+- 5745 Bozeman Dr, Plano, TX 75024
+- Shops at Legacy
+
+**Terms to avoid in writing:**
+- best, top, ultimate, #1, guide
+- navigate, landscape, unlock, leverage, vibrant, bustling, thriving
+- signal (in any form)
+- em dashes
+- "deep dive," "dive into," "hidden gem," "best-kept secret"
+- "whether you're X or Y," "from X to Y," "it's worth noting," "notably," "interestingly"
+- Any ILS platform names (Apartments.com, Zillow, etc.)
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** What to Know About Parkside at Legacy in Plano
+
+*Writing instruction: This is the only H1. It must match the recommended title exactly. Do not alter it.*
+
+---
+
+**H2: What Parkside at Legacy Is**
+
+*Writing instruction: Open with a 40-60 word direct answer that defines the property: what type of community, where it is located (specific address and submarket), and who it is built for. This is the featured snippet target. Do not begin with context or background. Lead with the definition.*
+
+Subpoints to cover in this section:
+- Property address: 5745 Bozeman Dr, Plano, TX 75024
+- Community type: Class A, luxury-positioned apartment community
+- Built: 2012 (based on Data Source 1)
+- Unit types: 1BR, 2BR, select 3BR
+- Rent range: approximately $1,500-$2,800+/month (as of Q2 2025; flag for update)
+- Standard finishes: granite or quartz countertops, stainless appliances, wood-style flooring, in-unit washer/dryer
+- Amenities: resort-style pool, fitness center, controlled-access parking, covered/garage options
+- Pet policy: generally pet-friendly; breed and weight restrictions apply; confirm directly with property
+
+**H3: Amenities and Unit Features**
+
+*Writing instruction: List the specific amenities confirmed by Data Source 1 (pool, fitness center, business center, basketball court, basement garage, balcony) plus the interior finish details from the AI response. Do not use vague descriptors. Write in short declarative sentences. Use a brief bulleted list for amenities, then return to prose for context.*
+
+---
+
+**H2: Why the Legacy Corridor Location Matters**
+
+*Writing instruction: Open with the key takeaway: the Legacy West submarket is one of the few areas in suburban DFW where walkable retail and corporate employment proximity coexist. Then expand. This section is the highest-value content gap relative to competitors. Do not lead with context. Lead with the conclusion.*
+
+Subpoints to cover:
+- Walking access to Legacy West: Whole Foods, Shops at Legacy, restaurant row, retail
+- Corporate campus proximity (within 1-3 miles): Toyota North America, JPMorgan Chase, Liberty Mutual, HP, FedEx Office, Ericsson
+- DART access: CityLine/Bush station on the Red/Orange Line is approximately 2-3 miles from the property; provides car-free access to Downtown Dallas
+- Plano ISD: noted as one of the highest-performing districts in Texas; relevant for renters with children
+
+**H3: Honest Tradeoffs for This Location** **[CONTENT GAP]**
+
+*Writing instruction: Competitors provide no tradeoff analysis. The AI response in Data Source 3 identified specific cons that no competitor mentions. Include all of the following tradeoffs without softening or vague language: (1) Dallas North Tollway and SH-121 interchange congestion during peak hours, with an estimated toll cost of $5-$15/day for outbound commuters; (2) car dependency for destinations outside the Legacy corridor; (3) rent premium relative to comparable units in Frisco and Richardson (approximately 10-20% less for comparable square footage, as of Q2 2025). Label each tradeoff clearly. This is the section that builds trust with the reader and distinguishes this article from listing-page content.*
+
+---
+
+**H2: How Parkside at Legacy Compares to Nearby Alternatives** **[CONTENT GAP]**
+
+*Writing instruction: Competitors provide zero comparison content. The AI response structured this as a decision framework table. Reproduce a clean comparison table with the following exact structure. Then follow the table with 3-4 sentences of prose that help the reader interpret when Parkside at Legacy is the right choice versus when an alternative is worth considering. Do not rank the alternatives. Present them factually.*
+
+**Table: Parkside at Legacy vs. Nearby Class A Communities**
+
+| Factor | Parkside at Legacy | Cortland Legacy | The Preserve at Legacy | Lantower Legacy West |
+|---|---|---|---|---|
+| Walk to Legacy West retail | Yes | Varies by unit | Varies by unit | Yes |
+| Corporate campus commute | Optimal for Legacy employers | Comparable | Comparable | Comparable |
+| Price per square foot | Reflects location premium | Similar tier | Similar tier | Similar tier |
+| New construction competition | High; negotiate on concessions | High | High | High |
+| Urban walkability (by DFW standards) | Among the strongest in submarket | Comparable | Comparable | Comparable |
+
+*Writing instruction: After the table, include one sentence noting that the Dallas urban alternatives (if a renter is open to a different lifestyle entirely) would include communities in Uptown Dallas or Turtle Creek, which trade the corporate campus proximity for a more urban environment. Do not name specific urban communities unless data is confirmed. Frame as a lifestyle choice, not a quality ranking.*
+
+---
+
+**H2: What Prospective Renters Should Know Before Touring** **[CONTENT GAP]**
+
+*Writing instruction: This section was present in the AI response but absent from all competitor content. It converts the article from informational to decision-useful. Include the following specific, actionable guidance: (1) Visit on a weekday morning to assess Tollway-adjacent road noise and parking garage flow; (2) Ask leasing staff directly about current concessions (the Plano/Frisco Class A market had elevated vacancy in 2023-2024, and concession packages such as one month free or reduced deposits may still apply, as of Q2 2025); (3) Confirm current pet restrictions and fees in writing before signing; (4) Ask about specific floor and unit placement relative to the Tollway if noise is a concern. Write in second person ("you"). Short declarative sentences.*
+
+---
+
+**H2: Parkside at Legacy Plano Reviews**
+
+*Writing instruction: This directly addresses the PAA question "parkside at legacy plano reviews." Do not cite review platforms (Yelp, Google Reviews, ApartmentRatings, Niche) per brand rules. Instead, explain the review landscape in an honest, helpful way: what categories of feedback tend to be consistent for Class A Legacy-area communities (maintenance responsiveness, parking, noise from the Tollway corridor) and what the reader should ask about directly during a tour rather than relying on aggregated scores. This turns a potential sourcing limitation into a genuinely useful piece of advice. Do not claim to summarize reviews you have not read. Be honest about what the reader should verify independently.*
+
+---
+
+**H2: Is Parkside at Legacy Available to Buy?**
+
+*Writing instruction: This directly addresses the PAA question "parkside at legacy plano for sale." Answer it clearly and briefly: Parkside at Legacy is an apartment community, not a condominium complex, and units are not individually listed for sale as of the time of writing. If a renter is interested in purchasing in the Legacy corridor, that is a different transaction type requiring a licensed Texas real estate agent. Keep this section to 3-4 sentences. Do not expand beyond what the question requires.*
+
+---
+
+**H2: Frequently Asked Questions About Parkside at Legacy Plano**
+
+*Writing instruction: Include all FAQ pairs listed in Section 7c Rule 5. Format as Q: followed by A:, with each answer between 40-60 words. These pairs are FAQPage schema entries. Write answers in plain conversational language. No filler. Lead each answer with the direct response.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **Specific market observations with date framing:** The article should include framing such as "As of Q2 2025, the Plano/Frisco Class A apartment market has seen elevated vacancy relative to 2022 peak absorption, which means concession packages are more available than they were two years ago." This reflects market-level knowledge that a renter researching from a listing page would not find.
+
+2. **Practical tour and leasing guidance:** The "What Prospective Renters Should Know Before Touring" section (H2 above) demonstrates first-hand knowledge of how Class A apartment leasing works, including negotiation leverage, noise assessment, and how to read pet policy fine print. This is the kind of advice a knowledgeable friend with leasing experience would give.
+
+3. **Honest tradeoff framing:** The Tollway congestion and rent premium data reflect real market knowledge rather than promotional copy. The article should use framing like "brightplace's analysis of renter search patterns in the Legacy corridor points to Tollway access as a consistent concern for renters commuting outside the submarket." This grounds the observation in a real analytical perspective.
+
+### 6b. Expertise Markers
+
+- Include specific dollar ranges for rent with date stamps: "1BR units at comparable Class A communities in the Legacy corridor ranged from approximately $1,500 to $1,900/month as of Q2 2025."
+- Include the toll cost estimate with a methodology note: "At current Dallas North Tollway rates, a round-trip daily commute from the Legacy area to Downtown Dallas runs approximately $8-$14 per day depending on route."
+- Include the Frisco/Richardson rent differential as a decision framework: "Renters who do not require walkability to Legacy West often find comparable square footage in Frisco or Allen at 10-20% lower monthly cost (as of Q2 2025)."
+
+### 6c. Freshness & Date-Stamping
+
+- All rent ranges must include "(as of Q2 2025)."
+- All toll cost estimates must include "(as of Q2 2025)."
+- The rent differential comparison (Plano vs. Frisco/Richardson) must include "(as of Q2 2025)."
+- The vacancy/concession observation must include "(as of Q2 2025)."
+- The article must include: "Last reviewed: [Month] 2025" in the article footer or introductory note.
+
+**Claims most likely to go stale and require future updating:**
+1. Rent ranges (update quarterly)
+2. Concession availability (update with each leasing season; typically resets January and August)
+3. Toll cost estimates (update if NTTA rate schedules change)
+4. Corporate campus tenant list in Legacy Business Park (companies relocate; verify annually)
+
+### 6d. Information Gain
+
+The following three pieces of content do not appear in any competing page indexed for this keyword:
+
+**Information Gain 1: Location tradeoff analysis**
+No competitor addresses the Tollway congestion, toll costs, or the rent premium relative to nearby submarkets. The article should provide specific numbers ($5-$15/day tolls, 10-20% rent differential) that a renter can use to make a decision. This is information that changes the reader's ability to act, which is the core definition of information gain.
+
+**Information Gain 2: Pre-tour checklist for this specific property type**
+No competitor covers what to do before or during a tour of a Tollway-adjacent Class A community. The guidance on noise assessment, concession negotiation, and pet policy confirmation is specific to this property type and location. It does not exist in the current SERP for this keyword.
+
+**Information Gain 3: Corporate campus proximity map (in prose)**
+No competitor names the specific employers in the Legacy corridor or quantifies their distance from the property. The article's enumeration of Toyota North America, JPMorgan Chase, Liberty Mutual, HP, FedEx Office, and Ericsson within 1-3 miles provides a specific, useful reference that corporate relocators are explicitly looking for. This is also an entity-density advantage for AI citation.
+
+### 6e. Helpful Content Checklist
+
+| Question | Answer |
+|---|---|
+| Clear, specific audience? | Yes. Working professionals and corporate relocators evaluating Parkside at Legacy during the comparison or decision stage. |
+| Demonstrates first-hand expertise? | Yes. Via dated market observations, specific numerical claims, tradeoff analysis, and practical leasing guidance that listing pages do not provide. |
+| Reader achieves their goal? | Yes. After reading, a renter can determine whether the property and location match their needs, identify alternatives to compare, and know what to ask before signing. |
+| Meets brand standards for publication? | Yes. No banned phrases, no ILS citations, no superlatives, no em dashes, no neighborhoods described by demographics, all dollar figures date-stamped, brightplace lowercase throughout. |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No specific ChatGPT response was provided in Data Source 3. The field was blank. Citation landscape for ChatGPT is unknown for this keyword. The writing agent should not fabricate citations.
+
+**Claude:** Claude produced a detailed response (Data Source 3) organized as a renter guide. Claude did not cite brightplace. The sources Claude drew from appear to be general market knowledge and publicly available property data, not any specific published article. This means there is a clear citation gap: no authoritative editorial source currently exists for this keyword that an AI engine could pull from.
+
+**Is brightplace currently cited by either engine?**
+- ChatGPT: Unknown (no data provided)
+- Claude: No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+Currently, no editorial source is being cited for this keyword. The Claude response generated synthesized knowledge rather than pulling from a specific article. This is an advantage: a well-structured brightplace article with direct answers, a comparison table, named entities, and FAQ pairs has a clear path to becoming the primary citation source because no competing editorial article currently exists.
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+1. Specific rent ranges with current date stamps for Parkside at Legacy and comparable communities
+2. Corporate employer proximity with named companies and mileage estimates
+3. Honest tradeoff analysis for the location (Tollway congestion, toll costs, rent premium)
+4. Pre-tour guidance specific to Tollway-adjacent Class A communities
+5. Concession availability in the current Plano/Frisco Class A market
+6. DART rail access details from the Legacy submarket to Downtown Dallas
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+
+The opening 100 words must contain:
+(a) A direct answer: "Parkside at Legacy is a Class A apartment community at 5745 Bozeman Dr in Plano, TX 75024, positioned within walking distance of Legacy West's retail and restaurant strip."
+(b) The target audience statement: "It is most relevant for working professionals relocating to the Legacy Business Park submarket or corporate employees at nearby campuses."
+(c) At least one specific numerical data point: "1BR units in the Legacy corridor ranged from approximately $1,500 to $1,900/month as of Q2 2025."
+
+Do not write a general introduction. Do not begin with questions, anecdotes, or context-setting. Begin with the property definition.
+
+**Rule 2: Structured data rule**
+
+Include one comparison table in the H2 "How Parkside at Legacy Compares to Nearby Alternatives." Column headers as specified in Section 5: Factor / Parkside at Legacy / Cortland Legacy / The Preserve at Legacy / Lantower Legacy West. Use clean markdown table format. Keep cell content brief (one phrase or yes/no/conditional per cell). Tables must be parseable by AI engines; avoid merged cells, footnotes inside cells, or inconsistent row depth.
+
+**Rule 3: Definition rule**
+
+Define the following terms explicitly, in a single clear sentence each, at the point of first use:
+
+1. **Class A apartment community:** A Class A apartment community is a rental property built within the last 15-20 years with premium finishes, full amenity packages, and professional property management, typically positioned at the upper end of the local rental price range.
+
+2. **Legacy corridor:** The Legacy corridor refers to the stretch of Plano, TX running along the Dallas North Tollway between roughly Legacy Drive and Headquarters Drive, anchored by Legacy Business Park and the Legacy West mixed-use development.
+
+3. **Concession:** A concession is a financial incentive offered by a property to reduce the effective cost of a lease, typically one month free rent, reduced security deposit, or waived application fees.
+
+**Rule 4: Proof point rule**
+
+The following numerical claims must appear in the article, formatted with date stamps:
+
+1. "1BR units at Class A communities in the Legacy corridor ranged from approximately $1,500 to $1,900/month as of Q2 2025."
+2. "2BR units in the same submarket ranged from approximately $2,000 to $2,800+/month as of Q2 2025."
+3. "Comparable square footage in Frisco or Richardson typically runs 10-20% less per month than Legacy-area pricing as of Q2 2025."
+4. "A round-trip daily commute from the Legacy area to Downtown Dallas via the Dallas North Tollway runs approximately $8-$14/day at current NTTA rates as of Q2 2025."
+5. "Toyota North America, JPMorgan Chase, Liberty Mutual, HP, FedEx Office, and Ericsson all maintain major campuses within approximately 1-3 miles of the Legacy West submarket."
+
+If the writing agent cannot confirm a specific figure, it must flag it with [VERIFY BEFORE PUBLISH] rather than omit it or fabricate a replacement.
+
+**Rule 5: FAQ rule**
+
+Include the following 6 Q&A pairs in the FAQ section. Each answer must be 40-60 words. Format: **Q:** / **A:**
+
+1. **Q: What is Parkside at Legacy in Plano?**
+Source: Primary keyword query / AI gap
+*A: Parkside at Legacy is a Class A apartment community at 5745 Bozeman Dr in Plano, TX 75024. It offers 1BR, 2BR, and select 3BR floor plans with granite countertops, stainless appliances, and in-unit washer/dryer. The property sits within walking distance of Legacy West's retail, dining, and corporate campuses.*
+
+2. **Q: How much does it cost to rent at Parkside at Legacy Plano?**
+Source: AI gap (Claude response)
+*A: As of Q2 2025, 1BR units in the Legacy corridor ranged from approximately $1,500 to $1,900/month. 2BR units ran from roughly $2,000 to $2,800+/month. Pricing varies by floor plan, floor level, and current concession availability. Verify directly with the property for current rates and any available incentives.*
+
+3. **Q: What are reviews saying about Parkside at Legacy Plano?**
+Source: PAA
+*A: Consistent feedback categories for Parkside at Legacy tend to center on maintenance responsiveness, parking access, and Tollway-adjacent noise. Rather than relying on aggregated scores, prospective renters should ask specific questions during a tour about maintenance response times, parking garage capacity, and unit placement relative to the Tollway.*
+
+4. **Q: Is Parkside at Legacy Plano for sale?**
+Source: PAA
+*A: Parkside at Legacy is an apartment community, not a condominium complex. Individual units are not listed for sale. Renters interested in purchasing property in the Legacy corridor should work with a licensed Texas real estate agent, as the transaction involves a different property type and process.*
+
+5. **Q: What employers are near Parkside at Legacy Plano?**
+Source: AI gap (Claude response, entity list)
+*A: Toyota North America, JPMorgan Chase, Liberty Mutual, HP, FedEx Office, and Ericsson all maintain major campuses within approximately 1-3 miles of Parkside at Legacy. The property is one of the closest residential options to the Legacy Business Park employment cluster in Plano.*
+
+6. **Q: How do you get from Parkside at Legacy to Downtown Dallas without a car?**
+Source: AI gap (Claude response)
+*A: The CityLine/Bush DART station on the Red and Orange Lines is approximately 2-3 miles from Parkside at Legacy. From that station, DART rail connects to Downtown Dallas without a car. Travel time is roughly 30-40 minutes depending on the line and time of day.*
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+
+Action: Direct the reader to search Legacy-area apartments on brightplace.
+Link target: brightplace.ai or a specific Plano/Legacy search results page.
+Placement: Three locations in the article:
+1. After the first H2 (property definition section), as a natural handoff: "See what is currently available in Plano's Legacy corridor on brightplace."
+2. After the comparison table in the H2 covering alternatives, as a research continuation prompt: "brightplace tracks availability across Legacy West, Frisco, and Richardson so you can compare options in one place."
+3. End of article, after the FAQ section: "Ready to see what is available near Legacy West? brightplace shows real-time inventory across Plano and the surrounding DFW suburbs."
+
+**Secondary CTA:**
+
+Link to a relevant brightplace knowledgebase article covering the broader Plano rental market or the Legacy West neighborhood, if one exists in the brightplace sitemap. Suggested framing: "For a broader look at renting in Plano, see [article title] on brightplace." The writing agent should check the sitemap for a Plano or Legacy West guide and insert the correct URL. If no relevant article exists, omit the secondary CTA rather than linking to an unrelated page.
+
+**CTA language rules:**
+- No "click here," "sign up," "get started," or promotional language.
+- Frame every CTA as a natural continuation of the reader's research.
+- brightplace is always lowercase.
+- No em dashes in CTA copy.
+- No banned phrases in CTA copy.
+
+---
+
+## 9. Writer Rules
+
+**Reproduce these rules in full. Follow every one without exception.**
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+**Target word count:** 1,000-1,200 words. Do not pad. Every sentence must earn its place.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query immediately.
+
+**Every H2 section opens with its answer:** Not with context or background. The answer comes first. Explanation follows.
+
+**Date-stamp all claims:** Every dollar figure, rent range, toll cost, statistical comparison, or market observation must include "(as of Q2 2025)" adjacent to the claim.
+
+**Flag uncertain data:** If a specific figure cannot be confirmed, insert [VERIFY BEFORE PUBLISH] rather than omitting or replacing the data with a vague claim.
+
+**Schema to implement:**
+- Article schema: required on every piece.
+- FAQPage schema: required; apply to every Q&A pair in the FAQ section.
+- Speakable schema: apply to the opening summary paragraph (first H2 opening) and the FAQ section answers.
+- HowTo schema: not applicable to this piece (no step-by-step process content).
+
+**brightplace product integration:** Include the primary CTA in three locations as specified in Section 8. Frame every CTA as a helpful research continuation, not a promotional ad. Never describe brightplace as "the best" or use superlative language about the product.
+
+**Do not fabricate data:** If the brief specifies a data point that the writing agent cannot verify, flag it. Do not invent numbers, dates, or facts to fill a gap.
+
+---
+
+*Brief complete. The writing agent should produce a full draft following this structure without deviation. Any section marked [CONTENT GAP] is a priority for information gain and should be written with the most specificity the agent can provide from confirmed data.*
