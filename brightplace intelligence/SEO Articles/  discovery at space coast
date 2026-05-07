@@ -1,0 +1,397 @@
+# CONTENT BRIEF: Discovery at Space Coast
+
+**For:** brightplace AI Writing Agent
+**URL Layer:** brightplace.ai/knowledgebase/
+**Target Keyword:** discovery at space coast
+**Intent Classification:** Navigational
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP for "discovery at space coast" is dominated by **property/community pages** from the official apartment community website (discoveryatspacecoast.com) and regional apartment aggregator pages. The content format is effectively a **property information page**: floor plans, amenity lists, fee disclosures, neighborhood context, and leasing contact information. There is no long-form editorial content ranking. One competitor (dreamspacecoast.com) ranks with a similar community page for a different Space Coast property. The Aspen Square result is a regional apartment aggregator page. The LivingSpaceCoast result is a gated real estate resource page.
+
+**Format directive for this article:** The article must function as an **informational property profile** — synthesizing publicly available information about Discovery at Space Coast into a neutral, third-party editorial that a renter can read before or instead of visiting the property's own site. This is the format gap. The property's own site is not written for searchers who want a clear, honest summary. brightplace fills that gap.
+
+### 1b. Content Depth Benchmark
+
+- discoveryatspacecoast.com: Structured property page, not article format. Estimated readable content: 300-500 words of prose, with extensive structured data (fee tables, amenity lists, team bios).
+- dreamspacecoast.com: Approximately 250-350 words of prose, heavily promotional.
+- aspensquare.com: Thin regional aggregator page, under 200 words of editorial.
+- livingspacecoast.com: A gated thank-you page, effectively no editorial content.
+
+**Content depth benchmark:** Competitors produce almost no editorial prose. This is a significant ranking opportunity. An 800-1,000 word article that clearly summarizes what Discovery at Space Coast actually offers, how its pricing and fees break down, what the surrounding area provides, and how it compares to what renters looking at this property should know will substantially outperform all current results on editorial depth.
+
+**Target word count: 900-1,100 words.**
+
+### 1c. SERP Features Present
+
+- **People Also Ask box:** Present, with 10 questions. High-value targeting opportunity. The article's FAQ section and H2 structure must address these directly.
+- **Featured Snippet:** Not currently present. This is an active gap. A clean, direct 40-60 word answer block under the first H2 can capture this position.
+- **Local Pack:** Likely present given the navigational/property intent, though not confirmed in the data. The article should include the city (Rockledge, FL) and specific address context to reinforce local relevance.
+- **Knowledge Panel:** Possible for a branded property search. Not targetable by editorial content.
+- **AI Overview:** Not confirmed present, but given Claude's detailed response, AI engines are actively synthesizing content for this query. The article must be structured for AI citation.
+
+**Structural targeting per feature:**
+
+| Feature | Structural Element to Target It |
+|---|---|
+| Featured Snippet | First H2 with 40-60 word direct answer block |
+| People Also Ask | Dedicated H2 per PAA question; FAQ schema at the bottom |
+| Local Pack | Include full city/state, property type, and proximity references |
+| AI Overview | Structured table, clear definitions, proof-point data, FAQPage schema |
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** The searcher wants to find the Discovery at Space Coast apartment community in Rockledge, Florida, and quickly understand what it offers, what it costs, and whether it is worth contacting.
+
+**Intent type:** Navigational with a strong informational secondary layer. The searcher knows the property name and wants either (a) to reach the property directly, or (b) to learn more about it before committing to a tour or application.
+
+**Primary intent to target:** Navigational-informational. The article should serve as an honest, third-party property summary that intercepts searchers who are in the comparison or decision stage and provides them more structured, readable information than the property's own site delivers.
+
+**Secondary intent:** Local area context. PAA questions include "What area of Florida is considered the Space Coast" and "Discovery at Space Coast Rockledge," confirming searchers want geographic grounding alongside the property information.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option 1:** Discovery at Space Coast: What Renters Should Know Before Applying
+*(Character count: 60)*
+
+**Option 2:** A Practical Look at Discovery at Space Coast in Rockledge, FL
+*(Character count: 61 — acceptable; highly descriptive for AI citation)*
+
+**Option 3:** What to Expect at Discovery at Space Coast Apartments
+*(Character count: 52)*
+
+**Recommended title:** Option 1. It directly contains the keyword, signals pre-decision utility, and frames the content as honest third-party guidance rather than promotional copy. It also performs well as an AI citation anchor because it matches the "what should I know" query pattern.
+
+---
+
+**Recommended Meta Description:**
+Discovery at Space Coast is a luxury apartment community in Rockledge, FL. Here is what the floor plans, fees, and location actually mean for renters. (154 characters)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/discovery-at-space-coast`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **prospective renter in the active comparison or decision stage** who has already encountered Discovery at Space Coast through word of mouth, an advertisement, or a prior search, and now wants to validate their interest before scheduling a tour or submitting an application. This renter is likely a **young professional, aerospace or defense contractor, or military-affiliated renter** working within or relocating to Brevard County's Space Coast corridor. Their specific problem is a common one: the property's own website presents pricing and amenities in a way that requires significant effort to interpret, and they want a readable, honest summary that answers practical questions about total cost, what is included, and what the surrounding area in Rockledge actually looks like for daily life. They expect a concise, specific, informational article, not a listicle or how-to guide.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+discovery at space coast
+
+**Secondary keywords (12):**
+
+1. Discovery at Space Coast Rockledge FL
+2. Discovery at Space Coast apartments
+3. Discovery at Space Coast floor plans
+4. Discovery at Space Coast rent prices
+5. Discovery at Space Coast fees
+6. Discovery at Space Coast amenities
+7. apartments in Rockledge FL
+8. luxury apartments Space Coast Florida
+9. Space Coast apartment community
+10. Rockledge Florida apartments near Orlando
+11. Discovery at Space Coast pet policy
+12. Discovery at Space Coast resident portal
+
+**Entities to include (9):**
+
+1. Rockledge, Florida (city/location anchor)
+2. Brevard County (regional market context)
+3. Kennedy Space Center (employment and proximity context)
+4. Titusville / Cocoa / Melbourne (submarket comparisons)
+5. Smart Technology Fee (specific fee structure entity)
+6. Whirlpool appliances / quartz countertops (unit finish entities from competitor content)
+7. Valet trash / saltwater pool / 24-hour fitness center (specific amenity entities)
+8. ZRS Management (implied management company based on property site infrastructure — writer should verify and include if confirmed)
+9. IntentOS / brightplace (funnel entities for CTA section only)
+
+**Terms to AVOID:**
+- "best," "top," "ultimate," "#1," "guide"
+- "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage," "vibrant," "bustling," "thriving," "hidden gem," "best-kept secret"
+- "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably"
+- Any ILS platform names (Apartments.com, Zillow, etc.)
+- "signal" in any form
+- Em dashes in any form
+
+---
+
+## 5. Content Outline
+
+### H1: Discovery at Space Coast: What Renters Should Know Before Applying
+
+---
+
+### H2: What Is Discovery at Space Coast?
+
+**Writing instruction:** Open with a 40-60 word direct answer block identifying the property as a luxury apartment community in Rockledge, Florida, noting it offers 2-bedroom floor plans ranging from 1,183 to 1,365 square feet, with rent starting around $2,130/month base. This is the featured snippet and AI citation target. Do not throat-clear. First sentence answers the question.
+
+*Featured snippet target block (40-60 words)*
+
+---
+
+### H2: Floor Plans and Rent Ranges at Discovery at Space Coast
+
+**Writing instruction:** Summarize the four 2-bedroom, 2-bathroom floor plans (B1 through B4) using specific square footage and price data from the competitor source. Present this as a clean reference table. Include the distinction between base rent and total monthly leasing price. Note that 13-month lease terms appear on most plans. Do not use em dashes. Use a comparison table (see Section 7 for column headers).
+
+**Table: Floor Plan Comparison**
+
+| Plan | Beds/Baths | Square Feet | Base Rent | Total Monthly (with required fees) | Lease Term |
+|---|---|---|---|---|---|
+| B1 | 2 BD / 2 BA | 1,183 SF | $2,130 | $2,255 | 13 months |
+| B2 | 2 BD / 2 BA | 1,200 SF | $2,199 | $2,324 | 12 months |
+| B3 | 2 BD / 2 BA | 1,297 SF | $2,370 | $2,495 | 13 months |
+| B4 | 2 BD / 2 BA | 1,365 SF | $2,300 | $2,425 | 12 months |
+
+*Writing note: Include the table above formatted in clean HTML for schema parsing. Follow the table with 2-3 sentences noting that 1-bedroom and 3-bedroom options may be available; the competitor site references them in its description but does not list them among featured plans. The writer should note this and advise readers to contact the leasing office for full availability.*
+
+---
+
+### H2: Understanding the Full Cost: Fees Beyond Base Rent
+
+**Writing instruction:** This section is critical and constitutes an information gain over every competitor. The property site lists fees but buries them. This section translates them clearly. Cover the mandatory monthly Smart Technology Fee ($125/month, which includes Wi-Fi, smart home, package locker, pest control, and valet trash), the one-time administration fee ($250), application fee ($85/applicant), and account setup fee ($25). Then cover situational fees that renters commonly encounter: late fee (10% of rent), early termination fee (equal to two months' rent), and transfer fee ($750). Frame this as a practical budgeting tool, not a criticism of the property.
+
+---
+
+### H2: Amenities at Discovery at Space Coast
+
+**Writing instruction:** Summarize in-unit and community amenities using specific names from the competitor source. In-unit: luxury vinyl plank flooring, in-home full-size washer and dryer, stainless steel Whirlpool appliances, quartz countertops, kitchen prep island, soft-close cabinetry, smart home keyless entry, USB outlet ports, private screened patio, walk-in closets. Community: resort-style saltwater pool with daybeds, 24-hour fitness center with virtual training room, cyber café with private micro offices, entertainment clubroom with shuffleboard, outdoor lounge with fireplace, coffee bar, conference room, dog park with agility equipment, gated access with RFID vehicle tags, EV charging stations, valet trash. Keep each sub-list brief. No paragraph exceeding 4 sentences.
+
+---
+
+### H2: Pet Policy at Discovery at Space Coast
+
+**Writing instruction:** Address this directly because it is a confirmed PAA question pattern. Cats and dogs permitted up to 100 pounds, maximum 2 indoor pets. Non-refundable pet fee: $300 per pet. Monthly pet rent: $35 per pet. Poo Prints DNA registration required for dogs ($50 per dog). Breed restrictions apply (list the key restricted breeds from the competitor source). Note that Florida Affordable Veterinary Services is approximately 9 minutes away and a PetSmart is approximately 10 minutes away. Keep this section factual and complete.
+
+---
+
+### H2: Where Is Discovery at Space Coast Located?
+
+**Writing instruction:** Establish the Rockledge, FL location clearly. Rockledge is in Brevard County, on Florida's Space Coast, approximately 45-50 minutes east of Orlando. Note proximity to Kennedy Space Center (approximately 20-25 minutes). Name the nearby dining options cited by the property: Baci, The Twisted Birch, and La Marimba. Describe the area by its lifestyle infrastructure: suburban character, proximity to Florida beaches, access to major employers in the aerospace and defense sector. Do not describe the area by demographics or use crime or safety language. Do not use "vibrant" or "bustling."
+
+**[CONTENT GAP — see Section 6d]:** Include a note on the broader Space Coast submarket context. Claude's AI response identified that the Space Coast renter market is meaningfully shaped by aerospace employment cycles and launch schedules (SpaceX, NASA, Blue Origin). This is not covered by any competitor. Include 2-3 sentences contextualizing why Rockledge specifically attracts renters employed at or near KSC, and why lease flexibility is a practical consideration for contractors working on project-based timelines.
+
+---
+
+### H2: What Area of Florida Is the Space Coast?
+
+*(Targets PAA question #1)*
+
+**Writing instruction:** Answer in 40-60 words at the opening of this section. The Space Coast is the eastern coast of Florida, primarily Brevard County, running from Titusville in the north through Cocoa, Rockledge, Melbourne, and down toward Palm Bay. It is named for its proximity to Kennedy Space Center and Cape Canaveral. This section also functions as a geographic definition for AI citation.
+
+---
+
+### H2: Parking at Discovery at Space Coast
+
+**Writing instruction:** Confirm that the community is gated with non-designated parking spots. All residents receive an RFID vehicle tag from the leasing office. Motorcycles park in designated vehicle spaces. Optional detached garages rent for $250-$350/month. EV charging stations are available onsite. Individual storage units are available for $75/month. Keep this section short: 3-5 sentences maximum.
+
+---
+
+### H2: How Discovery at Space Coast Compares to Other Space Coast Apartment Options
+
+**Writing instruction:** This section serves the comparison intent evident in the PAA questions ("Ascend Space Coast apartments," "Ascend Space Coast reviews"). Do not review or rate any property. Frame this as a practical orientation. Dream Space Coast in Titusville offers studios starting at $1,435 and is positioned as a more historically distinctive property (originally built for NASA employees). Aspen Square operates Beachway Links and Grand Oaks at the Lake in Melbourne, with 1-3 bedroom options starting under $1,500. Discovery at Space Coast's positioning is as a newer, amenity-heavy community with a higher price floor but more included services (the $125/month Smart Technology Fee bundles Wi-Fi, pest control, and valet trash into the base). This framing is honest and useful. Do not declare any property superior.
+
+**[CONTENT GAP — see Section 6d]:** Include a brief note that renters who need 1-bedroom units or shorter-term leases should verify whether Discovery at Space Coast can accommodate those needs, and that the Rockledge submarket has additional communities worth comparing. Link to brightplace as the natural next step here.
+
+---
+
+### H2: Frequently Asked Questions About Discovery at Space Coast
+
+**Writing instruction:** This section populates FAQPage schema. Include 6 Q&A pairs. Each answer must be 40-60 words. Source questions from PAA data and AI-identified information gaps. See Section 7 for the specific questions and answer guidance. Format as H3 for each question.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace market framing:** Where the article presents rent data, include a brief attribution frame such as "based on current leasing information from the property" or "brightplace reviewed the property's published fee schedule." This is honest and positions brightplace as an active information synthesizer, not a content aggregator.
+2. **Specific numerical claims with sourcing context:** Every dollar figure should be presented with a temporal anchor: "as of the property's current listed pricing" or "as of Q2 2025." This demonstrates the information was gathered at a specific point in time, not scraped generically.
+3. **Practical decision framework:** Include at least one piece of practical guidance that comes from applying knowledge to this specific property's structure, for example, explaining what the total true monthly cost looks like when the Smart Technology Fee is added to base rent. This is the kind of synthesized analysis a knowledgeable advisor would provide.
+
+### 6b. Expertise Indicators
+
+- The fee breakdown section must show that the writer understands the difference between base rent, total leasing price, mandatory monthly fees, optional fees, and situational fees. These are distinct categories. Conflating them is a common error on competitor sites. Separating them clearly demonstrates expertise.
+- The submarket comparison table must include accurate city-level data points (rent ranges, commute distances) with date attribution. If the writer cannot verify specific ranges with a named source, use the Claude AI response's estimates and note them as regional estimates to be verified.
+- The floor plan analysis should note the range from 1,183 to 1,365 square feet across 4 variants, and briefly explain what that spread means for a renter evaluating room configurations.
+
+### 6c. Freshness & Date-Stamping
+
+- **All rent figures** (base rent per plan, total monthly, pet fees, garage fees, storage fees) must include "(as of Q2 2025 — verify current pricing with the leasing office)" adjacent to the claim.
+- **Add to the article footer:** "Last reviewed: June 2025. Pricing and availability are subject to change. Contact Discovery at Space Coast directly to confirm current rates and lease terms."
+- **Claims most likely to go stale:** (1) Floor plan pricing — these change seasonally and with market conditions. (2) Lease term lengths — 12- and 13-month terms are current but may shift. (3) Garage and storage rental fees. (4) Pet fee amounts. These four data categories must be flagged for a quarterly review cycle.
+
+### 6d. Information Gain
+
+**Gap 1: True total monthly cost breakdown**
+No competitor and no ranking page presents a clear reconciliation of base rent plus mandatory fees. The property's own fee table is thorough but requires calculation. This article should present a "what you actually pay" summary: base rent for each plan + $125 Smart Technology Fee = total required monthly outlay before variable costs. This is specific, useful, and absent from every ranking competitor.
+
+**Gap 2: Space Coast renter market context for aerospace workers**
+Claude's response specifically identified that Space Coast rental demand is tied to aerospace employment cycles, SpaceX launch schedules, and federal contract timelines, and that lease flexibility is a practical concern for contractors. No competitor covers this. The article should include 2-3 sentences explaining that Rockledge is a practical base for KSC-area contractors and that prospective renters on project-based contracts should ask about lease term options before applying.
+
+**Gap 3: Honest comparison framework with adjacent properties**
+No current ranking page gives a prospective renter a clear frame for how Discovery at Space Coast fits relative to other Space Coast options by price and location. Dream Space Coast (Titusville, lower price floor, waterfront, older stock) and Aspen Square's Melbourne communities (broader bedroom range, lower starting price) represent meaningful alternatives for renters who are not locked into Rockledge specifically. A brief, neutral comparison framed around price range and submarket position constitutes genuine information gain.
+
+### 6e. Helpful Content Checklist
+
+| Question | Answer |
+|---|---|
+| Does the article have a clear, specific audience? | Yes: prospective renters in the comparison or decision stage, particularly aerospace professionals and relocators researching Discovery at Space Coast in Rockledge, FL |
+| Does the article demonstrate first-hand expertise? | Yes: through fee reconciliation, submarket context, and a practical decision framework not present on any competing page |
+| Does the article leave the reader feeling they learned enough to achieve their goal? | Yes: the goal is to understand what Discovery at Space Coast offers, what it costs, and how to evaluate it. The article answers all three. |
+| Would a human editor at brightplace be confident publishing this? | Yes, provided all brand rules are followed: lowercase brightplace, no em dashes, no banned phrases, no ILS citations, no neighborhood demographic language |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data provided. Writer should not speculate about ChatGPT citations.
+
+**Claude:** Claude produced a detailed response to "Discovery at Space Center" (note: slightly different query, but close enough to be relevant). Claude cited or referenced the following content elements:
+- General Space Coast market context (Brevard County, aerospace employment base, Patrick Space Force Base, KSC proximity)
+- Submarket breakdown with rent ranges (Cocoa/Rockledge, Melbourne/Viera, Titusville, Merritt Island, Cocoa Beach)
+- Specific renter considerations: lease flexibility for contractors, launch noise, flood zone risk, management company structure, pet policies
+- Practical next steps: searching listing platforms, verifying on brevardpa.com
+
+**Is brightplace cited by Claude?** No.
+**Is brightplace cited by ChatGPT?** Unknown (no data provided).
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Property-specific floor plan data and fee structures (currently only on discoveryatspacecoast.com)
+- Regional submarket context (currently only in generic market summaries)
+- Honest, third-party synthesis of what this property costs and what it offers (no source currently provides this)
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+
+1. Total true monthly cost (base rent + mandatory fees, clearly reconciled)
+2. Lease flexibility considerations for aerospace contractors
+3. Flood zone context for Brevard County renters
+4. How the Smart Technology Fee bundle ($125/month) affects cost comparisons with lower-base-rent properties that charge separately for Wi-Fi and pest control
+5. Breed restriction details for pet owners (a frequent search sub-query)
+6. Comparison between Discovery at Space Coast and neighboring communities by price tier
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer identifying Discovery at Space Coast as a luxury apartment community in Rockledge, FL; (b) the target audience (prospective renters, particularly those evaluating the property before applying); (c) at least one specific numerical data point (rent starting at $2,130/month base for a 2-bedroom unit, as of Q2 2025). Do not begin with a question, a rhetorical statement, or a scene-setting sentence. Begin with the answer.
+
+**Rule 2: Structured data rule**
+Two tables are required:
+- Table 1: Floor plan comparison (Plan name / Beds-Baths / Square Feet / Base Rent / Total Monthly with Required Fees / Lease Term). See Section 5 for pre-built table.
+- Table 2: Space Coast submarket comparison (Submarket / Typical 2BR Range / Commute to KSC / Character). Column headers: Submarket | Typical 2BR Rent Range | Commute to KSC | Area Character. Use Claude's data as a basis; date-stamp all ranges as estimates.
+
+Both tables must be formatted in clean, valid HTML with no merged cells or complex formatting that breaks AI parsing.
+
+**Rule 3: Definition rule**
+Define the following terms explicitly at first use, in a single clear sentence:
+
+1. **Smart Technology Fee:** "The Smart Technology Fee is a mandatory $125/month charge that bundles Wi-Fi, smart home access, package locker service, pest control, and valet trash into a single line item on the monthly bill (as of Q2 2025)."
+2. **Base rent vs. total monthly leasing price:** "Base rent is the core rent charge before any required fees are added; the total monthly leasing price includes base rent plus all mandatory monthly fees and reflects the actual minimum monthly cost."
+3. **RFID vehicle tag:** "An RFID vehicle tag is an electronic identification tag registered to each resident's vehicle, used to automate entry through the community's gated access system."
+4. **Poo Prints:** "Poo Prints is a mandatory DNA registration program for dogs that allows the community to identify and charge for waste violations; registration costs $50 per dog at move-in."
+
+**Rule 4: Proof point rule**
+The following numerical claims must appear in the article, each with a date anchor:
+
+1. "2-bedroom floor plans range from 1,183 to 1,365 square feet (as of Q2 2025)"
+2. "Base rent starts at $2,130/month for the B1 plan on a 13-month lease (as of Q2 2025)"
+3. "Total monthly leasing price ranges from $2,255 to $2,495 across available floor plans, after mandatory fees (as of Q2 2025)"
+4. "The non-refundable pet fee is $300 per pet, with monthly pet rent of $35 per pet (as of Q2 2025)"
+5. "An early termination fee equal to two months' rent applies if a resident exits before the lease end date"
+
+**Rule 5: FAQ rule**
+The FAQ section must contain 6 questions formatted as H3 headers under the FAQ H2. Each answer: 40-60 words. Schema type: FAQPage. Questions and sourcing:
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What area of Florida is the Space Coast? | PAA |
+| 2 | Does Discovery at Space Coast have a pool? | PAA (adapted from "Do Rockledge apartments have a pool?") |
+| 3 | What is included in the Smart Technology Fee at Discovery at Space Coast? | AI content gap |
+| 4 | What is the pet policy at Discovery at Space Coast? | PAA (breed restrictions sub-query) |
+| 5 | How far is Discovery at Space Coast from Orlando? | AI content gap / location entity |
+| 6 | What is the early termination policy at Discovery at Space Coast? | AI content gap / renter decision question |
+
+**Answer guidance for each:**
+
+1. **Space Coast answer:** Florida's Space Coast is the eastern coastal corridor of Brevard County, running from Titusville in the north through Cocoa, Rockledge, and Melbourne. It is named for its proximity to Kennedy Space Center and Cape Canaveral Space Force Station, which anchor a large aerospace and defense employment base.
+
+2. **Pool answer:** Yes. Discovery at Space Coast features a resort-style saltwater pool with daybeds. The pool is part of the community's outdoor amenity package, which also includes a lounge area with a fireplace and multiple courtyard spaces.
+
+3. **Smart Technology Fee answer:** The mandatory $125/month Smart Technology Fee covers high-speed Wi-Fi, smart home access and keyless entry integration, package locker service, pest control, and valet trash and recycling pickup. It is added to base rent on every lease and is not optional (as of Q2 2025).
+
+4. **Pet policy answer:** Discovery at Space Coast allows cats and dogs up to 100 pounds, with a maximum of two indoor pets per apartment. The non-refundable pet fee is $300 per pet, and monthly pet rent is $35 per pet. Breed restrictions apply. Dogs require Poo Prints DNA registration at $50 per dog.
+
+5. **Distance from Orlando answer:** Discovery at Space Coast in Rockledge, FL is approximately 45 to 55 miles east of downtown Orlando, typically a 45- to 60-minute drive depending on traffic and route. It is also positioned roughly 20 to 25 minutes from Kennedy Space Center.
+
+6. **Early termination answer:** Discovery at Space Coast charges an early termination fee equal to two months of rent if a resident breaks the lease before the end of the term. Renters on short project cycles should clarify whether shorter lease terms or lease transfer options are available before signing.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for apartments in Rockledge and the broader Space Coast on brightplace.
+Placement: Three locations in the article.
+- After the first H2 (the featured snippet block): A single sentence: "See what is currently available in Rockledge and across the Space Coast on brightplace."
+- After the floor plan and fee comparison sections (mid-article): "brightplace tracks apartment pricing and availability across Brevard County. Search the Space Coast on brightplace to compare options in one place."
+- End of article (after FAQ): "If you are still comparing options across the Space Coast, brightplace can help. Search Rockledge, Melbourne, and Titusville apartments at brightplace.ai."
+
+All three placements must use natural, recommendation-framed language. No urgency language. No exclamation points. No promotional adjectives.
+
+**Secondary CTA:**
+Link to a brightplace /knowledgebase/ article on renting in Florida's Space Coast region broadly, or on Rockledge, FL apartments specifically, if one exists in the sitemap. If no directly relevant article exists, the writing agent should flag this as a content gap for the brightplace editorial team. The anchor text should read: "See brightplace's guide to renting in Brevard County" or similar. Do not fabricate a URL.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. Every rule below applies to every sentence in this article. Do not interpret, abbreviate, or substitute.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional Production Rules:**
+
+- **Target word count:** 900-1,100 words (body content, excluding schema and meta fields)
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer, not with context or background.**
+- **All dollar figures and rent ranges must include a temporal anchor:** "(as of Q2 2025)" or "(as of Q2 2025 — verify current pricing with the leasing office)."
+- **Article footer must include:** "Last reviewed: June 2025. Pricing and availability are subject to change. Contact Discovery at Space Coast directly to confirm current rates and lease terms."
+- **Schema to implement:** Article + FAQPage (required on every article). Speakable schema on the opening summary paragraph and the FAQ section.
+- **Tables:** Format in clean HTML. No merged cells. Column headers must be plain text. Tables must render on mobile without horizontal scroll where possible.
+- **No invented data.** If a specific figure (such as exact 1-bedroom or 3-bedroom pricing, or an exact address) is not confirmed in the source material provided, the writer must flag it with [VERIFY] inline rather than fabric
