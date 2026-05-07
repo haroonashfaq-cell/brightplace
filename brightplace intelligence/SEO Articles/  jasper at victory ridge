@@ -1,0 +1,448 @@
+# Content Brief: Jasper at Victory Ridge
+## brightplace.ai/knowledgebase/ — Content Brief for AI Writing Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results for "jasper at victory ridge" are overwhelmingly **property/product pages**: the official community website (jasperatvictoryridge.com), developer portfolio pages (thegarrettco.com), and a real estate developer listing (sunroadenterprises.com). There is no editorial content, no how-to guide, and no comparison article in the top results. This creates a direct opportunity for brightplace to own the **informational editorial format** that no competitor currently fills.
+
+The article must be an **informational property profile** structured as a renter's guide: organized, factual, utility-first, written from the perspective of a knowledgeable third party rather than the property itself. This format matches how a renter would want to consume the information after landing on a property page and wanting an independent perspective.
+
+### 1b. Content Depth Benchmark
+
+Competitor pages are extremely thin on editorial substance:
+- jasperatvictoryridge.com: Marketing copy only, no editorial depth, no rental analysis
+- thegarrettco.com (both pages): Combined under 400 words of factual content per page
+- sunroadenterprises.com: Under 100 words, placeholder-level content
+
+No competitor is writing for the renter. All existing content is written by or for the developer. **Target word count: 1,000-1,200 words.** This is sufficient to cover every renter question while staying tightly focused. Do not pad. Every sentence must earn its place.
+
+### 1c. SERP Features Present
+
+**People Also Ask (PAA):** Active for this keyword. Questions include reviews, photos, floor plans, resident portal, and neighborhood queries. Each relevant PAA question must map to a heading or FAQ entry in the article to target PAA inclusion.
+
+**Featured Snippet:** No featured snippet currently exists for this keyword. This is a direct targeting opportunity. The first H2 section must be structured at 40-60 words with a clean, extractable answer to claim this position.
+
+**Local Pack:** Not present in the provided data, but given this is a location-specific property search, a local context section strengthens relevance.
+
+**Knowledge Panel / AI Overview:** Not confirmed present, but Claude's response (Data Source 3) demonstrates that AI engines are actively synthesizing this topic. Structured, citable content will improve AI Overview inclusion probability.
+
+**Structural elements to target each feature:**
+- Featured Snippet: 40-60 word opening paragraph under the first H2
+- PAA: Dedicated H2 or H3 for reviews, floor plans, and location; FAQ section with PAA questions
+- AI Overview: First-paragraph rule (see Section 7), FAQ section with schema markup
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** A renter actively researching Jasper at Victory Ridge wants a clear, honest profile of the property, including what it offers, what it costs, where it is, and whether it fits their needs.
+
+**Primary intent:** Transactional/informational hybrid. The searcher knows the property name and is in the **comparison or decision stage** of their rental journey. They want independent validation, not the property's own marketing copy.
+
+**Secondary intent:** Some searchers are at discovery stage, having heard the name through referral or ad exposure and wanting basic orientation.
+
+The article targets the **primary intent** (comparison/decision stage) while being accessible to discovery-stage readers through the opening section.
+
+---
+
+## 2. Recommended Titles
+
+**Option 1:** What Renters Should Know About Jasper at Victory Ridge
+*(58 characters)*
+
+**Option 2:** A Practical Look at Jasper at Victory Ridge in Colorado Springs
+*(63 characters — acceptable given keyword inclusion)*
+
+**Option 3:** Jasper at Victory Ridge: Apartments, Amenities, and Location Explained
+*(71 characters — slightly long but keyword-rich and descriptive)*
+
+**Recommended title:** Option 1. Clean, positions brightplace as an honest third-party resource, uses curation framing, and targets both Google click-through and AI citation.
+
+---
+
+**Meta Description:**
+Jasper at Victory Ridge offers luxury apartments in north Colorado Springs near Interquest. Here is what renters need to know before applying.
+*(143 characters)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/jasper-at-victory-ridge`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **renter actively considering Jasper at Victory Ridge**, most likely a young professional, military-affiliated renter, or relocating household moving to north Colorado Springs. They are in the **comparison or decision stage** of their rental search: they have already encountered the property name and want honest, third-party information before scheduling a tour or submitting an application. Their core problem is that all available information comes directly from the property or its developer, leaving them without an independent perspective on real costs, tradeoffs, and fit. They expect a structured, factual article that answers their practical questions, not another marketing page.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary Keyword:**
+jasper at victory ridge
+
+**Secondary Keywords:**
+- jasper at victory ridge apartments
+- jasper at victory ridge colorado springs
+- jasper at victory ridge floor plans
+- jasper at victory ridge reviews
+- jasper at victory ridge photos
+- luxury apartments colorado springs
+- apartments near interquest colorado springs
+- north colorado springs apartments
+- victory ridge apartments
+- colorado springs luxury apartments
+- interquest parkway apartments
+- apartments briargate colorado springs
+- new construction apartments colorado springs
+- garrett residential apartments
+- colorado springs apartment community
+
+**Entities to Mention:**
+- Jasper at Victory Ridge (primary subject)
+- Colorado Springs, Colorado
+- Interquest Parkway / InterQuest Marketplace
+- Victory Ridge (master-planned development)
+- Garrett Residential / The Garrett Companies
+- Northgate (adjacent neighborhood corridor)
+- Briargate (nearby neighborhood for comparison context)
+- Academy School District 20
+- I-25 North corridor
+- Peterson Space Force Base (proximity context for military renters)
+- Studio, 1-bedroom, 2-bedroom, 3-bedroom (unit type entities)
+
+**Terms to AVOID:**
+- best, top, ultimate, guide, #1
+- signal, signals
+- deep dive, dive into, navigate, landscape, unlock, leverage, vibrant, bustling, thriving
+- whether you're X or Y, from X to Y, hidden gem, best-kept secret
+- it's worth noting, interestingly, notably
+- Any ILS platform name (Apartments.com, Zillow, Trulia, etc.)
+- Any review aggregator name
+
+---
+
+## 5. Content Outline
+
+**H1:** What Renters Should Know About Jasper at Victory Ridge
+
+---
+
+**H2: What Is Jasper at Victory Ridge?**
+
+*Writing instruction:* Open with a 40-60 word direct answer defining the property: location, developer, unit count, and what makes it a distinct option in north Colorado Springs. This is the featured snippet target. Do not open with context or history. State facts immediately.
+
+*Content to include:*
+- Address: 10650 Sapphire Falls View, Colorado Springs, CO 80908
+- Developer/owner: The Garrett Companies; managed by Garrett Residential
+- Phase I: 280 homes, completed 2024
+- Phase II: 194 homes, completed 2025 (4-story bar buildings, standalone clubhouse)
+- Combined community: approximately 474 total homes across both phases
+- Positioned as luxury, new construction, north Colorado Springs
+
+---
+
+**H2: Location and Neighborhood Context**
+
+*Writing instruction:* Describe the property's location in terms of lifestyle infrastructure only. No demographic language. Cover walkability context honestly (car-dependent), proximity to retail and dining at InterQuest, commute access via I-25, and proximity to outdoor recreation. Include Academy School District 20 as a relevant entity for family renters.
+
+*Content to include:*
+- Centrally located between Northgate and Briargate corridors
+- Adjacent to InterQuest Marketplace: Costco, dining, TopGolf, retail
+- I-25 access: downtown Colorado Springs approximately 20-25 minutes south; Denver approximately 60-75 minutes north
+- Car-dependent; limited transit infrastructure in this corridor
+- Proximity to Pikes Peak, Garden of the Gods (approximately 20-30 minutes)
+- Academy School District 20 coverage
+
+*Fair Housing compliance note:* Writer must describe neighborhood by lifestyle infrastructure only. No crime language, no safety rankings, no demographic descriptions.
+
+---
+
+**H2: Apartments and Floor Plans** *(targets PAA: "Jasper at Victory Ridge floor plans")*
+
+*Writing instruction:* Describe the unit mix and key interior features based on competitor data and AI synthesis. Do not state prices without sourcing verification note. Present unit types with estimated square footage ranges. Mention the dual-clubhouse and dual-pool setup as a differentiating factor because it is factually documented across multiple competitor sources.
+
+*Content to include:*
+- Unit types: studio, 1-bedroom, 2-bedroom, 3-bedroom
+- Typical square footage: approximately 600-1,400+ sq ft (note this is estimated; verify current listings)
+- Interior features consistent with this development tier: open-concept layouts, designer kitchens, stainless appliances, quartz countertops, in-unit washer/dryer
+- Phase II addition: standalone clubhouse, resort-style pool, neighborhood park
+- Combined amenity total across both phases: 2 clubhouses, 2 resort-style pools, 2 fitness centers
+
+---
+
+**H2: Amenities at Jasper at Victory Ridge**
+
+*Writing instruction:* List the confirmed amenities from the official property site and developer portfolio. Present them as a factual inventory, not a promotional list. Note the dual-amenity setup (both phases) as genuinely distinctive for a Colorado Springs apartment community.
+
+*Content to include (confirmed from competitor source 1):*
+- Resort-style pool and spa with cabanas, lounge seating, hammocks (two pools total across phases)
+- Two fitness centers with strength equipment, cardio machines, free weights
+- Two fully equipped clubhouses with gathering and coworking spaces
+- Pet spa with self-serve wash stations
+- Game room
+- Cyber lounge with workstations and high-speed Wi-Fi
+- Designer kitchens and modern bathrooms (unit-level features)
+- Pet-friendly community (up to 2 pets; breed restrictions apply; see note in brand rules section for pet policy context)
+- Non-smoking community
+
+---
+
+**H2: Pricing and Rent Ranges** *(partial targets: transactional intent)*
+
+**[CONTENT GAP]** No competitor provides rent range estimates or pricing context. The official site has a fee transparency page but no publicly available pricing in the scraped data. AI engines filled this gap with estimated ranges.
+
+*Writing instruction:* Provide honest estimated rent ranges using comparable north Colorado Springs luxury market data. Date-stamp all figures. Include a clear disclaimer to verify current pricing with the leasing office. Do not link to ILS platforms. Frame this as context for a renter trying to budget, not as a promise of availability.
+
+*Content to include (writer must research and verify current figures):*
+- Estimated studio range: approximately $1,200-$1,500/month (as of Q2 2025, verify before publishing)
+- Estimated 1-bedroom range: approximately $1,500-$1,900/month
+- Estimated 2-bedroom range: approximately $1,900-$2,500/month
+- Estimated 3-bedroom range: approximately $2,400-$3,000+/month
+- Note: luxury communities in growth corridors offer concessions (free rent weeks, reduced deposits) that may not appear in listed pricing. The property's current offer of up to 10 weeks free rent on select units (as confirmed on the official site) is a relevant data point.
+- Preferred Employer Program noted: renters with qualifying employers may access specific benefits; contact leasing office for details.
+
+*Writer note:* Include a parenthetical directing readers to verify with the leasing office at (719) 529-7110. Do not link to ILS platforms. Always pair pricing data with "(as of [Quarter Year]; verify directly with leasing office)" language.
+
+---
+
+**H2: Who This Property Is a Good Fit For** *(targets decision-stage intent)*
+
+**[CONTENT GAP]** No competitor addresses renter fit or tradeoffs. All competitor content is promotional. This section provides genuine information gain.
+
+*Writing instruction:* Present honest fit criteria in two clear groupings: who this property suits well, and who should consider alternatives. Use specific, practical criteria. Do not use "whether you're X or Y" framing. No superlatives. This section is what differentiates the article from every current competing page.
+
+*Content to include:*
+
+Strong fit indicators:
+- Commutes along the I-25 North corridor or to employers in north Colorado Springs
+- Preference for new construction (2024-2025 build) with resort-style amenities
+- Households with pets (pet-friendly with spa amenities; breed restrictions apply)
+- Proximity to outdoor recreation matters (Pikes Peak region, trail access)
+- Families interested in Academy School District 20
+
+Worth comparing alternatives if:
+- Public transit access or walkability is a priority (this corridor is car-dependent)
+- Budget is a primary constraint (comparable unit types exist in Briargate and Stetson Hills at potentially lower price points)
+- Preference for urban core proximity and downtown Colorado Springs walkability
+
+---
+
+**H2: Comparing Jasper at Victory Ridge to Nearby Options** *(targets comparison intent; AI citation table)*
+
+**[CONTENT GAP]** No competitor provides a comparison table. Claude's response identified direct competitors. This section fills the gap renters need to make a decision.
+
+*Writing instruction:* Build a clean comparison table of Jasper at Victory Ridge against 3-4 comparable north Colorado Springs luxury communities. Use only factual, publicly available attributes. Do not rank or rate. Do not use ILS platform data as a source citation. Present as a decision aid.
+
+*Table structure:*
+
+| Community | Location | Year Built | Pool | Pet-Friendly | Approx. 1BR Range |
+|---|---|---|---|---|---|
+| Jasper at Victory Ridge | North COS, Interquest | 2024-2025 | Yes (2 pools) | Yes | ~$1,500-$1,900* |
+| Cortland Briargate | Briargate | [Writer to verify] | Yes | Yes | [Writer to verify] |
+| NOVEL Briargate by Crescent | Briargate | [Writer to verify] | Yes | Yes | [Writer to verify] |
+| Outlook at Interquest | Interquest corridor | [Writer to verify] | [Verify] | [Verify] | [Writer to verify] |
+
+*Writer instruction:* Research and populate all bracketed fields before publishing. Add "(as of Q2 2025; verify with leasing office)" as a table footnote. Do not leave bracketed placeholders in the published article.
+
+---
+
+**H2: Frequently Asked Questions About Jasper at Victory Ridge**
+
+*Writing instruction:* Answer each question in 40-60 words. These become FAQPage schema entries. Answers must be complete standalone responses, not references to other sections. Each answer should be the most useful, direct response a knowledgeable friend would give.
+
+*Questions (see Section 7 for full FAQ detail):*
+1. What are the reviews like for Jasper at Victory Ridge?
+2. Is Jasper at Victory Ridge pet-friendly?
+3. How do I access the Jasper at Victory Ridge resident portal?
+4. What is the Residences at Victory Ridge?
+5. How far is Jasper at Victory Ridge from downtown Colorado Springs?
+6. What school district serves Jasper at Victory Ridge?
+7. What are the current specials or concessions at Jasper at Victory Ridge?
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace market framing:** Where rent range estimates appear, frame them as: "brightplace reviewed comparable luxury communities in the InterQuest corridor. As of [Quarter Year], 1-bedroom rents at new construction properties in this submarket typically fall between $1,500 and $1,900 per month." This frames brightplace as an active market observer, not a data aggregator.
+
+2. **Honest tradeoff framing:** The "Who This Property Is a Good Fit For" section demonstrates experience by naming specific tradeoffs (car dependency, budget alternatives, school district relevance) that a promotional page would never include. This is the clearest E-E-A-T differentiator in the article.
+
+3. **Date-stamped specificity:** Every rent figure, concession reference, and unit count must include "(as of [Quarter Year])" language. This demonstrates that the content is actively maintained rather than static.
+
+### 6b. Expertise Signals
+
+- Include Phase I (280 units, 2024) and Phase II (194 units, 2025) unit counts with completion years sourced from developer documentation. This level of specificity is absent from every editorial competitor.
+- Reference the dual-amenity structure (two clubhouses, two pools, two fitness centers) as a factual differentiator, not a superlative claim.
+- Academy School District 20 mention with context that it is one of the highest-rated public school districts in Colorado (this is publicly documented and adds meaningful decision-relevant expertise).
+- Include the leasing office phone number ((719) 529-7110) as a verification resource. Directing readers to primary sources is an expertise marker.
+
+### 6c. Freshness & Date-Stamping
+
+- All rent range estimates must include: "(as of [Quarter Year]; verify with leasing office)"
+- The article must include a "Last reviewed: [Month Year]" line in the opening metadata or closing section
+- Claims most likely to go stale and require future updates:
+  1. Rent ranges (update quarterly or when concession periods change)
+  2. Current specials/concessions (the "10 weeks free rent" offer has an expiration)
+  3. Phase II completion status (confirmed 2025 in developer data but leasing status may evolve)
+  4. Comparison table pricing for nearby communities
+
+### 6d. Information Gain
+
+**Gap 1: Honest renter-fit analysis**
+No current top-ranking page addresses who Jasper at Victory Ridge is and is not a good fit for. Every existing result is developer or property marketing. The "Who This Property Is a Good Fit For" section provides direct information gain by presenting tradeoffs, including the car-dependency of the location and the existence of comparable alternatives in Briargate. This is the article's most distinctive contribution.
+
+**Gap 2: Phase I vs. Phase II context**
+The existence of two phases (280 units completed 2024, 194 units completed 2025) with distinct amenity builds is documented across developer sources but never synthesized for a renter. A renter searching for this property would not know they are potentially looking at a combined 474-unit community with two separate amenity cores. This context is useful for understanding the scale of the community and availability patterns.
+
+**Gap 3: Pricing and concession context**
+No editorial source provides rent range estimates or explains the concession dynamics (free weeks of rent, eCheck alternatives) that the property itself advertises. Providing estimated ranges, date-stamped, with an honest "verify directly" caveat gives renters a starting point that no current competing page provides.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Renters actively researching Jasper at Victory Ridge, in the comparison or decision stage of their search.
+- **First-hand expertise demonstrated:** Yes. Market-benchmarked rent ranges, phase-by-phase development context, honest renter-fit analysis with named tradeoffs, and specific lifestyle infrastructure details.
+- **Reader achieves their goal:** Yes. After reading, a renter can answer: What is this property? What does it cost? What does it offer? Who is it best for? What are the alternatives? How do I apply or get more information?
+- **brightplace editor confidence:** Yes. Content is factual, sourced to public developer documentation, avoids promotional language, follows Fair Housing compliance requirements, and adheres to all brand rules.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No ChatGPT response data was provided in Data Source 3. The writing agent should note this as an open research question.
+
+**Claude:** Claude synthesized information about Jasper at Victory Ridge from general knowledge of the Colorado Springs market and the property's developer context. Specific sourcing behavior from Claude's response:
+- General Colorado Springs north corridor market data (no specific citation given)
+- Comparable community names (The Retreat at Briargate, Cortland Briargate, NOVEL Briargate by Crescent, Outlook at Interquest) cited as benchmarks
+- Estimated rent ranges derived from comparable luxury submarket data, not from the property itself
+- Academy School District 20 cited as a family renter draw
+- I-25 proximity and commute times estimated from general market knowledge
+
+**Is brightplace cited by either engine?** No, for both ChatGPT and Claude.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- No current brightplace content addresses this property at all. The citation gap is total: there is no brightplace article for either AI engine to find and cite.
+- Claude filled the information vacuum with synthesized estimates. A well-structured brightplace article with specific, date-stamped data points will be more citable than Claude's own synthesized response.
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+1. Actual current rent ranges (Claude provided estimates; a dated, sourced brightplace figure would replace the estimate)
+2. Renter-fit analysis (who should and should not choose this property: not covered by any source)
+3. Phase I vs. Phase II distinction and what it means for available units
+4. Concession dynamics (free rent weeks, alternative offers)
+5. Comparison to direct competitor communities with side-by-side attributes
+6. School district context for family renters
+7. Commute times and car-dependency context for relocators
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer identifying what Jasper at Victory Ridge is, (b) who this article is for (renters actively evaluating this community), and (c) at least one specific numerical data point (unit count, completion year, or approximate rent range). Example structure: "Jasper at Victory Ridge is a luxury apartment community at 10650 Sapphire Falls View in north Colorado Springs, Colorado, developed by The Garrett Companies. The property spans two phases, totaling approximately 474 homes completed between 2024 and 2025. This article is for renters evaluating the community before scheduling a tour or submitting an application."
+
+**Rule 2: Structured data rule**
+Include one comparison table in the "Comparing Jasper at Victory Ridge to Nearby Options" section. Column headers: Community | Location | Year Built | Pool | Pet-Friendly | Approx. 1BR Range. Use clean markdown table formatting. Add a footnote row with date-stamp and verification instruction. This is the primary structured element for AI engine extraction.
+
+**Rule 3: Definition rule**
+Define these terms explicitly the first time they appear:
+
+- **Victory Ridge:** A master-planned mixed-use development in north Colorado Springs anchored by InterQuest Parkway, combining residential, retail, and commercial uses.
+- **Garrett Residential:** The property management affiliate of The Garrett Companies, responsible for day-to-day leasing and operations at Jasper at Victory Ridge.
+- **InterQuest Marketplace:** A major retail and dining corridor in north Colorado Springs, directly adjacent to Jasper at Victory Ridge.
+- **Academy School District 20:** The public school district serving the Victory Ridge area, covering much of north Colorado Springs.
+- **Concession:** A temporary incentive offered by a landlord, such as weeks of free rent, to encourage lease signing; common at newly opened luxury communities.
+
+**Rule 4: Proof point rule**
+The article must include these specific numerical claims:
+
+1. "Jasper at Victory Ridge Phase I comprises 280 apartment homes, completed in 2024." (Source: The Garrett Companies developer portfolio)
+2. "Phase II added 194 homes in 2025, bringing the combined community to approximately 474 total units." (Source: The Garrett Companies developer portfolio)
+3. "The community operates two resort-style pools, two clubhouses, and two fitness centers across both phases." (Source: jasperatvictoryridge.com)
+4. "Estimated 1-bedroom rents in the InterQuest luxury corridor range from approximately $1,500 to $1,900 per month (as of Q2 2025; verify with leasing office at (719) 529-7110)."
+5. "The property is located between Northgate and Briargate, two of north Colorado Springs' primary commercial corridors, with I-25 access placing downtown Colorado Springs approximately 20-25 minutes south."
+
+**Rule 5: FAQ rule**
+Include 7 FAQ entries in the final H2, marked up for FAQPage schema. Each answer must be 40-60 words. Questions and sources:
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What are the reviews like for Jasper at Victory Ridge? | PAA |
+| 2 | What floor plans are available at Jasper at Victory Ridge? | PAA |
+| 3 | Is Jasper at Victory Ridge pet-friendly? | PAA + property site |
+| 4 | How do I access the Jasper at Victory Ridge resident portal? | PAA |
+| 5 | What is the Residences at Victory Ridge? | PAA |
+| 6 | How far is Jasper at Victory Ridge from downtown Colorado Springs? | AI gap (Claude) |
+| 7 | What current move-in specials or concessions does Jasper at Victory Ridge offer? | AI gap (Claude) + property site |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"See what is available near InterQuest on brightplace" linking to brightplace.ai (or a Colorado Springs-specific search if available).
+
+Placement: Three times in the article.
+- After the first H2 (property overview section): immediately after the reader has a clear picture of what the property is, offer a path to compare it against other options.
+- After the "Comparing Jasper at Victory Ridge to Nearby Options" table: the natural moment a renter wants to search further.
+- Final paragraph of the article, before the FAQ section: closing invitation framed as a practical next step.
+
+**CTA language examples:**
+- "See north Colorado Springs apartments on brightplace."
+- "brightplace tracks available apartments near InterQuest Parkway."
+- "Find and compare apartments in Colorado Springs on brightplace."
+
+**Secondary CTA:**
+Link to a brightplace guide on renting in Colorado Springs or the Colorado Springs neighborhood guide if one exists. The writing agent should check the brightplace sitemap for: a Colorado Springs city guide, an InterQuest or Northgate neighborhood article, or a "renting in Colorado Springs" resource. If no such article exists at the time of writing, omit the secondary CTA rather than linking to an unrelated page. Do not manufacture an internal link.
+
+**CTA language rules:**
+- No urgency language ("apply now," "don't miss out," "limited availability")
+- No promotional framing ("brightplace is the best way to find apartments")
+- Frame as a helpful tool: "brightplace lets you compare" or "see what is available on brightplace"
+- CTA must feel like a natural editorial recommendation from a knowledgeable friend, not an advertisement
+
+---
+
+## 9. Writer Rules
+
+**Reproduce the following rules exactly. These are non-negotiable. Do not summarize, paraphrase, or abbreviate any rule.**
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 1,000-1,200 words. Do not pad. Every sentence must earn its place.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer**, not with context or background.
+- **All dollar figures, rent ranges, statistics, and factual claims** must include "(as of [Quarter Year])" immediately adjacent to the claim.
+- **Include a "Last reviewed: [Month Year]" line** at the top or bottom of the article in the metadata block.
+- **Do not leave bracketed placeholders in the published article.** All "[Writer to verify]" fields in the comparison table must be researched and populated before the article publishes.
+- **Schema to implement:** Article schema and FAQPage schema on every article. Also implement Speakable schema on the opening summary paragraph and the FAQ section. HowTo schema is not applicable for this article type.
+- **Pet policy note:** The breed restriction list from the official property site (Akitas, American Bulldogs, Boxers, Cane Corsos, Chow Chows, Dobermans, Dalmatians, German Shepherds, Huskies, Karelian Bear Dogs, Malamutes, Pit Bulls, Presa Canarios, Mastiffs, Rottweilers, St. Bernards, Staffordshire Terriers, and Wolf Hybrids) may be referenced in the FAQ answer for pet policy. Direct the reader to the leasing office to confirm current restrictions rather than reproducing the full list in body copy.
+- **Do not reproduce the property's own marketing language.** Phrases like "Life Adorned With Wonder" and "Live well. Play often. Relax deeply." are from the property's marketing copy and must not appear in the article.
+- **Concession language:** The current "up to 10 weeks free rent" offer may be referenced as a factual data point but must be framed as a time-limited offer with a verification instruction. Do not present it as a guaranteed ongoing benefit.
