@@ -74,7 +74,7 @@ Several factors move 4 bedroom rents up or down within the same submarket, and n
 
 **Toll road costs.** Toll road costs for renters who depend on SR-417 or SR-528 for daily commuting can add $150 to $300 per month in transportation costs. This is a real line item in your budget, especially if you are commuting from Oviedo, Kissimmee, or Winter Garden to central Orlando.
 
-**Seasonal pricing.** February through June is peak rental demand in Orlando, with landlords holding firm on pricing. Renters who search in July or August typically find more flexibility on move-in concessions than those searching in spring. If your timeline allows it, the summer months offer more negotiating room.
+**Seasonal pricing.** February through June is peak rental demand in Orlando, with landlords holding firm on pricing. Renters who search in July or August typically find more flexibility on move-in concessions than those searching in spring. If your timeline allows it, the summer months offer more negotiating room. For a full breakdown of what goes into actual monthly housing costs, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
 ## 4 Bedroom Apartments Downtown Orlando
 

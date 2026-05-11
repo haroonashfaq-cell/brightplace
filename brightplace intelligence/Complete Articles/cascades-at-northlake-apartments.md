@@ -35,7 +35,7 @@ Based on publicly listed units as of Q2 2025, Cascades at Northlake 1-bedroom un
 
 Move-in specials may reduce the effective first-month cost, but confirm whether the quoted price reflects net effective rent or gross rent. **Net effective rent** is the average monthly cost when a move-in concession (such as one free month) is spread across the entire lease term. **Gross rent** is the full listed monthly price without any concession applied.
 
-Charlotte's rental market has seen moderate price adjustments in 2025, and Cascades at Northlake falls within the mid-market range for the north Charlotte submarket. Properties in this corridor generally price between $1,100 and $2,300 per month (as of Q2 2025) depending on bedroom count and amenity level.
+Charlotte's rental market has seen moderate price adjustments in 2025. For a broader look at affordability across the city, see brightplace's guide to [Charlotte's most affordable neighborhoods](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods), and Cascades at Northlake falls within the mid-market range for the north Charlotte submarket. Properties in this corridor generally price between $1,100 and $2,300 per month (as of Q2 2025) depending on bedroom count and amenity level.
 
 ## Floor Plans and Unit Details
 
@@ -110,7 +110,7 @@ The leasing office at Cascades at Northlake can be reached at 704-703-1326. Conf
 
 ### Are rents going down at Cascades at Northlake?
 
-Charlotte's rental market has seen moderate price adjustments in 2025, but rent decreases vary by submarket and property. At Cascades at Northlake, listed prices for 1-bedroom units start at $1,194 per month (as of Q2 2025). Contact the leasing office to ask about current concessions, as move-in specials can reduce effective monthly costs.
+Charlotte's rental market has seen moderate price adjustments in 2025. For a broader look at affordability across the city, see brightplace's guide to [Charlotte's most affordable neighborhoods](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods), but rent decreases vary by submarket and property. At Cascades at Northlake, listed prices for 1-bedroom units start at $1,194 per month (as of Q2 2025). Contact the leasing office to ask about current concessions, as move-in specials can reduce effective monthly costs.
 
 ### Does Cascades at Northlake allow pets?
 
@@ -154,7 +154,7 @@ Utility inclusions must be confirmed with the leasing office, as they are not co
       "name": "Are rents going down at Cascades at Northlake?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Charlotte's rental market has seen moderate price adjustments in 2025, but rent decreases vary by submarket and property. At Cascades at Northlake, listed prices for 1-bedroom units start at $1,194 per month (as of Q2 2025). Contact the leasing office to ask about current concessions, as move-in specials can reduce effective monthly costs."
+        "text": "Charlotte's rental market has seen moderate price adjustments in 2025. For a broader look at affordability across the city, see brightplace's guide to [Charlotte's most affordable neighborhoods](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods), but rent decreases vary by submarket and property. At Cascades at Northlake, listed prices for 1-bedroom units start at $1,194 per month (as of Q2 2025). Contact the leasing office to ask about current concessions, as move-in specials can reduce effective monthly costs."
       }
     },
     {

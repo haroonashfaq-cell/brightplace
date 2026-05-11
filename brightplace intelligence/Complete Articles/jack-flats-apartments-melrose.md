@@ -48,7 +48,7 @@ Jack Flats apartments include standard finishes across all three collections: st
 | 2 Bedroom | Starting at $3,701/mo (as of Q2 2026) | Walk-in closets, balcony in select units | Verify with leasing office |
 | 3 Bedroom | Starting at $3,277/mo (as of Q2 2026) | Larger layouts in Mill collection | Verify with leasing office |
 
-These prices reflect publicly listed rates from Windsor Communities (as of Q2 2026). Actual pricing changes frequently; contact the leasing office at Windsor Radio Factory directly for current availability and rates.
+These prices reflect publicly listed rates from Windsor Communities (as of Q2 2026). Actual pricing changes frequently; contact the leasing office at Windsor Radio Factory directly for current availability and rates. For a breakdown of what goes into total housing costs beyond base rent, see brightplace's guide to [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
 One detail most competitors do not cover: Jack Flats includes an affordable housing component with below-market-rate units. Area Median Income, or AMI, is the federal benchmark used to set income eligibility thresholds for below-market-rate housing programs. In the greater Boston area, AMI for a one-person household is approximately $93,000 (as of Q2 2026). Households meeting AMI guidelines may qualify for reduced rents. Waitlist status for these units is currently unknown; contact the leasing office or Housing Navigator MA for current availability and income requirements.
 
@@ -78,7 +78,7 @@ Assembly Row, the lifestyle center in Somerville, is a short drive or transit ri
 
 The Jack Flats campus sits on two historic industrial sites. The Boston Rubber Shoe Co. operated a factory here where Jack Purcell designed his signature Converse sole, giving the "Jack Flats" name its origin. The adjacent facility served as an early radio equipment engineering building, which is why the parent community carries the "Radio Factory" name.
 
-The mill building that now houses Jack Flats Mill Apartments is the original industrial structure, repurposed into residential lofts while preserving its exposed brick walls and heavy timber beams. The conversion was completed in 2014. [INTERNAL LINK: loft apartments guide]
+The mill building that now houses Jack Flats Mill Apartments is the original industrial structure, repurposed into residential lofts while preserving its exposed brick walls and heavy timber beams. The conversion was completed in 2014. 
 
 ## Frequently Asked Questions About Jack Flats Melrose
 
@@ -88,7 +88,7 @@ Windsor Radio Factory, the parent campus containing Jack Flats, holds a 4.5-star
 
 ### What apartments are available for rent at Jack Flats in Melrose?
 
-Jack Flats offers studios, one-bedroom, two-bedroom, and three-bedroom apartments across three collections: Classic, Mill, and Radio Factory Lofts. Availability changes frequently. Contact the leasing office at Windsor Radio Factory or visit windsorradiofactory.com for current openings, floor plans, and [INTERNAL LINK: apartment application tips] move-in dates.
+Jack Flats offers studios, one-bedroom, two-bedroom, and three-bedroom apartments across three collections: Classic, Mill, and Radio Factory Lofts. Availability changes frequently. Contact the leasing office at Windsor Radio Factory or visit windsorradiofactory.com for current openings, floor plans, and  move-in dates.
 
 ### How much does it cost to rent at Jack Flats in Melrose?
 
@@ -108,7 +108,7 @@ Jack Flats is one component of the Windsor Radio Factory apartment community, ma
 
 ### Is Jack Flats pet friendly?
 
-Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application.
+Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in.
 
 ### Does Jack Flats have affordable housing units?
 
@@ -178,7 +178,7 @@ Yes. A portion of units at Jack Flats are designated below-market rate through a
       "name": "Is Jack Flats pet friendly?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application."
+        "text": "Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in."
       }
     },
     {

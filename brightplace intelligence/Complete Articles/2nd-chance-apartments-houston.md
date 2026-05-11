@@ -48,11 +48,13 @@ Bring recent pay stubs covering 2 to 4 weeks, a government-issued ID, and employ
 
 Deposits run higher than the market average. Expect to pay a deposit equal to one full month's rent, and sometimes 1.5 to 2 times the monthly rent (as of Q2 2026). Some properties charge a non-refundable **risk fee** instead. A risk fee (sometimes called a surety bond) is a non-refundable fee paid at move-in by higher-risk applicants, typically ranging from $300 to $800 in Houston (as of Q2 2026), that protects the landlord in lieu of a larger security deposit. Ask which structure a property uses before applying.
 
-Application fees in Houston typically run $50 to $75 per adult and are generally non-refundable (as of Q2 2026). Texas law requires landlords to provide applicants with written notice of their eligibility criteria before collecting an application fee. Ask for those criteria upfront. If your situation clearly falls outside them, you save the fee and the time.
+Application fees in Houston typically run $50 to $75 per adult and are generally non-refundable (as of Q2 2026). For a full breakdown of deposits, fees, and other costs, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost). Texas law requires landlords to provide applicants with written notice of their eligibility criteria before collecting an application fee. Ask for those criteria upfront. If your situation clearly falls outside them, you save the fee and the time.
 
 ## Where in Houston Second Chance Options Are More Common
 
 Older Class C apartment complexes with on-site or small-company management are the most likely to offer flexible screening. Houston has a large inventory of these properties concentrated in specific corridors.
+
+For a broader overview of Houston's rental market by neighborhood, see brightplace's [Houston renter orientation](https://www.brightplace.ai/guides/houston-city-orientation).
 
 **Alief and Southwest Houston** have a high density of garden-style complexes built in the 1980s and 1990s, many with on-site leasing offices and independent management companies. Proximity to Beltway 8 and Highway 6 makes this area accessible for commuters. Based on rental inventory tracked by brightplace across Houston (as of Q2 2026), second chance properties are well-represented here. Rent in this area falls in the affordable tier of the Houston market.
 

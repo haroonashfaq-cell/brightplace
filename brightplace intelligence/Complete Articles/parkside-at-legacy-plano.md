@@ -50,7 +50,7 @@ The CityLine/Bush DART station on the Red and Orange Lines sits approximately 2-
 
 **Tollway congestion.** The Dallas North Tollway and SH-121 (Sam Rayburn Tollway) interchange creates significant congestion during peak commute hours. At current NTTA rates, a round-trip daily commute from the Legacy area to Downtown Dallas via the Dallas North Tollway runs approximately $8-$14/day (as of Q2 2025). Over a 20-day work month, that adds $160-$280 to your effective housing cost.
 
-**Car dependency outside the corridor.** Walkability within Legacy West is strong by DFW standards, but destinations outside the immediate corridor still require a car. Grocery runs beyond Whole Foods, medical appointments, and weekend activities in other parts of the metroplex all mean driving.
+**Car dependency outside the corridor.** For a full picture of what monthly costs look like beyond base rent, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost). Walkability within Legacy West is strong by DFW standards, but destinations outside the immediate corridor still require a car. Grocery runs beyond Whole Foods, medical appointments, and weekend activities in other parts of the metroplex all mean driving.
 
 **Rent premium.** Comparable square footage in Frisco or Richardson typically runs 10-20% less per month than Legacy-area pricing (as of Q2 2025). Renters who do not require walkability to Legacy West often find similar finishes and amenities at a lower monthly cost in those adjacent submarkets. The premium here pays for proximity, not a fundamentally different apartment.
 
@@ -80,7 +80,7 @@ Ask the leasing team directly about current concessions. The Plano/Frisco Class 
 
 Confirm pet restrictions and fees in writing before signing. Breed lists, weight limits, and monthly pet rent vary and are not always reflected accurately on listing pages. Get the specifics on paper.
 
-If Tollway noise is a concern, ask about specific floor and unit placement. Units facing away from the Tollway or on lower floors shielded by the parking structure will have a meaningfully different noise experience than upper-floor units facing the road. If you know how to [rent an apartment](https://brightplace.ai/knowledgebase/how-to-rent-an-apartment) methodically, you already understand why these details matter before signing.
+If Tollway noise is a concern, ask about specific floor and unit placement. brightplace's [guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before your first tour. Units facing away from the Tollway or on lower floors shielded by the parking structure will have a meaningfully different noise experience than upper-floor units facing the road. If you know how to [rent an apartment](https://brightplace.ai/knowledgebase/how-to-rent-an-apartment) methodically, you already understand why these details matter before signing.
 
 ## Parkside at Legacy Plano Reviews
 

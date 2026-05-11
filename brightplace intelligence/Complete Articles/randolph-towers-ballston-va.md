@@ -60,7 +60,7 @@ From Ballston, riders reach Rosslyn in approximately 10 minutes and can transfer
 | Reagan National Airport | ~15 min (by car or Metro transfer) |
 | Dulles International Airport | ~37 min (by car) |
 
-Ballston Quarter, a mixed-use retail and dining destination, is within walking distance. Grocery options include Harris Teeter, Trader Joe's, and Giant, all reachable by a short walk or bus ride. Fitness studios including Orangetheory, Solidcore, and Gold's Gym operate in the immediate area. [INTERNAL LINK: Ballston Arlington VA neighborhood guide]
+Ballston Quarter, a mixed-use retail and dining destination, is within walking distance. Renters exploring the broader DC suburban corridor may find brightplace's guide to [DC suburbs for downsizers](https://www.brightplace.ai/guides/dc-empty-nesters) useful for additional context. Grocery options include Harris Teeter, Trader Joe's, and Giant, all reachable by a short walk or bus ride. Fitness studios including Orangetheory, Solidcore, and Gold's Gym operate in the immediate area. [INTERNAL LINK: Ballston Arlington VA neighborhood guide]
 
 ## Furnished and Short-Term Options at Randolph Towers
 
