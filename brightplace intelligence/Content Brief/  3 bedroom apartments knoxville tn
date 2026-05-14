@@ -1,0 +1,406 @@
+# Content Brief: 3 Bedroom Apartments Knoxville TN
+**For: brightplace.ai/knowledgebase/**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results for this keyword are primarily **listing/directory pages** (ILS-style property aggregators and local apartment search tools). The RentUTK page is a filtered property search. The Knoxville Apartment Guide page is a single-property listing. The AOL/WATE result is a news article about affordable housing development, which suggests thin organic competition from editorial content.
+
+This is a meaningful gap. The SERP is dominated by transactional listing infrastructure with almost no informational editorial content. A **structured informational guide** (neighborhood breakdown + decision framework + pricing data) will be the dominant format in its category because it is the only piece of its kind competing against directory pages.
+
+The article must match the **informational intent layer** of this query: a searcher looking for context about 3-bedroom apartments in Knoxville before or during their search. The format is a structured guide with comparison elements, neighborhood breakdowns, and practical decision frameworks. This is not a listicle and not a how-to. It is a **renter's decision guide**.
+
+### 1b. Content Depth Benchmark
+
+The competitor pages offer almost no editorial content depth. RentUTK is a filtered search interface with approximately 150 words of actual content. Knoxville Apartment Guide is a single-property listing with roughly 200 words of description. The AOL/WATE article is a news piece at approximately 350 words, unrelated to renter decision-making.
+
+This represents an extreme content depth gap. There is essentially no editorial competitor covering this keyword at any meaningful word count.
+
+**Target word count: 1,100-1,300 words.** This is sufficient to thoroughly answer the searcher's question, rank above thin listing pages, and remain lean enough for mobile consumption and AI extraction. Do not pad to 1,500. Every sentence must earn its place.
+
+### 1c. SERP Features Present
+
+**People Also Ask:** Present and robust (11 questions identified in Data Source 2). PAA boxes appear prominently for this keyword. The article must target PAA capture by structuring H2 sections around the most relevant questions and writing 40-60 word answers that can be extracted verbatim.
+
+**Featured Snippet:** No featured snippet currently occupies this SERP (confirmed in Data Source 2). This is a direct capture opportunity. The first H2 opening paragraph must be written as a featured snippet target: 40-60 words, direct answer, includes primary keyword, no preamble.
+
+**Local Pack:** Likely present given geographic nature of query. The article cannot directly influence local pack results, but neighborhood-specific content with named Knoxville areas (Fort Sanders, Bearden, North Knoxville, West Knoxville, Farragut) increases relevance for local entity associations.
+
+**AI Overview:** Not confirmed in data provided, but high probability given keyword type. The FAQ section and structured comparison table are the primary AI Overview targets.
+
+**No video carousel** identified for this keyword. No image pack targeting needed.
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** A person actively looking for a 3-bedroom apartment in Knoxville, Tennessee, who wants to understand pricing, neighborhoods, and practical considerations before committing to a search or a lease.
+
+**Primary intent:** Informational/navigational hybrid. The searcher wants orientation: what does a 3-bedroom apartment cost in Knoxville, where should they look, and what should they know.
+
+**Secondary intent:** Pre-transactional. Many searchers at this stage are 2-4 weeks away from actively touring or applying. They are building their mental model of the market.
+
+The informational guide format briefed here matches the primary intent. The funnel CTA at the end serves the secondary transactional intent without hijacking the article's purpose.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:** What to Know About 3-Bedroom Apartments in Knoxville, TN
+*(57 characters, includes primary keyword, curation framing, clear value proposition)*
+
+**Option B:** Renting a 3-Bedroom Apartment in Knoxville: Prices, Areas, and Tradeoffs
+*(74 characters, slightly long but strong for AI citation; could be trimmed to "3-Bedroom Apartments in Knoxville: Prices, Areas, and Tradeoffs" at 63 characters)*
+
+**Option C:** A Practical Guide to Finding a 3-Bedroom Apartment in Knoxville
+*(65 characters, curation framing, includes primary keyword variant)*
+
+**Recommended:** Option A for title tag (clean, keyword-forward, under 60 characters). Option B language can be adapted for the H1 displayed on-page if a slightly longer on-page title is acceptable.
+
+---
+
+**Recommended Meta Description:**
+
+3-bedroom apartments in Knoxville, TN range from $900 to $2,400/month. Here is what renters should know about pricing, neighborhoods, and timing.
+*(152 characters, includes primary keyword, specific data point, clear value proposition)*
+
+---
+
+**Recommended URL Slug:**
+
+`brightplace.ai/knowledgebase/3-bedroom-apartments-knoxville-tn`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article targets renters actively considering a move to Knoxville who need a 3-bedroom unit: roommate groups splitting rent, families relocating for work or UT affiliation, and students or graduate students seeking off-campus housing. They are in the **discovery-to-comparison stage** of the renter journey: they have identified Knoxville as their destination but have not yet narrowed to a neighborhood or price range. Their core problem is orientation: they do not know what 3-bedroom apartments cost in Knoxville, which neighborhoods offer the most value for their situation, or when to start searching. Based on SERP analysis, they expect a structured, specific answer that gives them pricing benchmarks and neighborhood context without requiring them to click through a listing aggregator.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary Keyword (1):**
+- 3 bedroom apartments knoxville tn
+
+**Secondary Keywords (12):**
+- 3 bedroom apartments knoxville
+- cheap 3 bedroom apartments knoxville tn
+- 3 bedroom house for rent knoxville tn
+- apartments for rent knoxville tn 3 bedroom
+- 3 bedroom rentals knoxville
+- off campus housing knoxville tn
+- knoxville tn apartment rent prices
+- 3 bedroom apartment cost knoxville
+- knoxville rental market
+- 2 bedroom apartments knoxville tn (comparison context)
+- affordable apartments knoxville tn
+- west knoxville apartments for rent
+
+**Entities to Include (9):**
+- Fort Sanders (neighborhood: UT-adjacent, high student demand)
+- West Knoxville / Farragut (neighborhood: suburban, family-oriented)
+- North Knoxville (neighborhood: Fourth & Gill, Fountain City, budget-accessible)
+- East Knoxville (neighborhood: most affordable tier)
+- South Knoxville / Island Home (neighborhood: outdoors-oriented, growing)
+- Bearden (neighborhood: Middlebrook Pike corridor, mid-market)
+- University of Tennessee (demand driver, lease timing anchor)
+- Knox County Schools (family decision factor)
+- I-40 / Kingston Pike (commute corridor references)
+
+**Terms to AVOID:**
+- Best, top, ultimate, #1, hidden gem, vibrant, bustling, thriving
+- Signal (any form)
+- Em dashes
+- Navigate, leverage, unlock, deep dive
+- Apartments.com, Zillow, Trulia, Zumper, Apartment List, Rent.com, RentCafe (brand names in content body)
+- Any crime or safety language
+- Any description of neighborhoods by demographic composition
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** What to Know About 3-Bedroom Apartments in Knoxville, TN
+
+---
+
+**H2: What 3-Bedroom Apartments Cost in Knoxville**
+
+*Writing instruction: Open with a direct, 40-60 word featured-snippet-targeted paragraph stating the price range, the key variables that affect it, and the city's position relative to comparable Southern markets. This is the primary featured snippet capture target. Include a specific rent range in the first sentence. Do not open with context-setting. Do not say "Knoxville is a great city." Start with the number.*
+
+Opening paragraph target (40-60 words): State that 3-bedroom apartments in Knoxville, TN typically rent for $900 to $2,400 per month as of Q2 2026, with the most affordable options in North and East Knoxville and the highest prices in West Knoxville and Farragut. Note that neighborhood and unit type (apartment complex vs. house rental) are the two primary price variables.
+
+Follow with 2-3 short paragraphs expanding:
+- The per-person math for roommate groups (a $1,500/month 3BR = $500/person for three roommates)
+- That Knoxville's 3BR pricing is comparatively accessible relative to Nashville ($1,800-$2,800 range for equivalent units) and Chattanooga (closer parity)
+- That many 3BR rentals in Knoxville are single-family homes or duplexes, not apartment complexes, which meaningfully expands the inventory available to searchers
+
+**[INLINE CTA PLACEMENT 1: After this H2, place the primary brightplace CTA as a single sentence.] **
+
+---
+
+**H2: Knoxville Neighborhoods for 3-Bedroom Renters**
+
+*Writing instruction: Present each major neighborhood zone as a concise block with rent range, lifestyle infrastructure description, and honest tradeoffs. Do not rank neighborhoods. Do not use superlatives. Describe each by what is physically accessible from it (transit, dining, parks, grocery, fitness, commute corridors). Never describe neighborhoods by who lives there. Include a comparison table after the neighborhood descriptions. The table is the primary AI Overview and structured data extraction target.*
+
+H3 sections for each neighborhood zone (each 3-5 sentences):
+
+**H3: Fort Sanders and the UT Campus Area**
+- Rent range: $1,200-$1,800/month (as of Q2 2026)
+- Note walkability to campus, Cumberland Avenue dining and retail, medical district proximity
+- Note lease timing: inventory moves fast January through April for August move-ins; search early
+- Note that this area skews toward group/roommate configurations, which fits 3BR demand
+
+**H3: West Knoxville and Farragut**
+- Rent range: $1,600-$2,400/month (as of Q2 2026)
+- Note newer construction, more apartment complex inventory, suburban retail and dining access (Kingston Pike corridor)
+- Note car-dependency and longer downtown commute (20-35 minutes peak)
+- Best fit for families with Knox County school district considerations
+
+**H3: North Knoxville (Fourth & Gill, Fountain City, North Hills)**
+- Rent range: $1,000-$1,600/month (as of Q2 2026)
+- Note proximity to downtown (10-15 minutes), older housing stock, expanding dining and coffee on North Central Street
+- Honest tradeoff: housing quality and condition vary significantly by specific street and block
+- Strong value play for 3BR renters who need space at lower cost
+
+**H3: East Knoxville**
+- Rent range: $900-$1,400/month (as of Q2 2026)
+- Note proximity to UT Medical Center, older residential stock, most affordable 3BR pricing in the city
+- Honest tradeoff: newer amenity infrastructure is limited; primarily house rentals, not complexes
+
+**H3: South Knoxville and Island Home**
+- Rent range: $1,100-$1,800/month (as of Q2 2026)
+- Note Urban Wilderness trail network access, improving restaurant and coffee infrastructure
+- Growing area with increasing rental inventory; fewer large complexes, more house rentals
+
+**H3: Bearden**
+- Rent range: $1,300-$1,900/month (as of Q2 2026)
+- Note central position between UT and West Knox, Middlebrook Pike and Kingston Pike retail corridors, proximity to Third Creek Greenway
+- Mix of older and renovated apartment stock
+
+---
+
+**Comparison Table (place after all H3 neighborhood blocks):**
+
+| Neighborhood | 3BR Rent Range (Q2 2026) | Car Needed? | Nearest Major Access Point | Best Fit For |
+|---|---|---|---|---|
+| Fort Sanders / UT Area | $1,200-$1,800 | Often no | UT Campus, Medical District | Students, roommate groups |
+| West Knoxville / Farragut | $1,600-$2,400 | Yes | Kingston Pike, I-40/I-75 | Families, suburban preference |
+| North Knoxville | $1,000-$1,600 | Partial | Downtown Knoxville (10-15 min) | Budget-conscious, near-downtown |
+| East Knoxville | $900-$1,400 | Yes | UT Medical Center | Maximum affordability |
+| South Knoxville | $1,100-$1,800 | Partial | Urban Wilderness, Downtown | Outdoors lifestyle |
+| Bearden | $1,300-$1,900 | Partial | I-40/Papermill interchange | Mid-market, central position |
+
+*Writing instruction: Table must be clean, readable, and contain the exact columns above. No merged cells. No footnotes inside the table. Data must be attributed to "(as of Q2 2026)" in the sentence introducing the table.*
+
+---
+
+**H2: Apartment Complex vs. House Rental: What the 3BR Market Actually Looks Like** **[CONTENT GAP]**
+
+*Writing instruction: This section addresses a gap no current competitor covers. In Knoxville, a large share of 3BR rentals are single-family homes or duplexes managed by individual landlords or small property managers, not large apartment complexes. This is not true of 1BR or 2BR inventory, which skews more toward complexes. Writers must explain this structural feature of the Knoxville market clearly: what it means for the search process (searchers need to look at house rentals, not just apartment filters), what it means for lease terms (house rentals often offer more flexibility), and what to look for when evaluating a privately managed rental vs. a professionally managed complex (maintenance responsiveness, written lease review, utility responsibility clarity).*
+
+---
+
+**H2: When to Search for a 3-Bedroom Apartment in Knoxville** **[CONTENT GAP]**
+
+*Writing instruction: This section addresses lease timing, which neither competitor covers and which Claude's response identified as a key decision variable. Knoxville's rental cycle is heavily influenced by UT's academic calendar. Inventory peaks in May through August after semester turnover. Competition for 3BR units tightens from January through April as students and roommate groups lease for August occupancy. Writers must give specific, actionable timing guidance: the four-month window to search for the best selection, when to expect higher prices, and how this timing affects both Fort Sanders-area rentals and the broader Knoxville market.*
+
+---
+
+**H2: What Families Should Know About 3-Bedroom Rentals in Knoxville**
+
+*Writing instruction: Target the PAA question about families renting 3-bedroom homes. Address Knox County Schools zoning as a key decision variable for families. Specify that school district zoning is verifiable through the Knox County Schools website and should be confirmed before signing a lease, not assumed from neighborhood. Note which areas generally serve families well from a lifestyle infrastructure standpoint (West Knoxville for school zoning, South Knoxville for outdoor access, North Knoxville for downtown proximity). No demographic descriptions of neighborhoods. Describe by what is physically accessible and what systems serve the area.*
+
+---
+
+**H2: Frequently Asked Questions About 3-Bedroom Apartments in Knoxville**
+
+*Writing instruction: Write each answer as a standalone 40-60 word paragraph. Each must be self-contained so it can be extracted by AI engines without context from the surrounding article. Mark this section for FAQPage schema. Do not introduce answers with "Great question" or similar filler. Every answer begins with a direct response to the question.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace market observation framing:** At least one section should reference brightplace's view of renter search patterns in Knoxville. Example framing: "Based on renter searches on brightplace, Fort Sanders 3BR demand spikes in February and March, with listings moving faster than at any other time of year." This should appear in the lease timing section.
+
+2. **Specific neighborhood detail that goes beyond aggregator data:** Reference named infrastructure (Third Creek Greenway, Urban Wilderness trails, North Central Street, Cumberland Avenue) rather than generic descriptions. This reflects direct familiarity with the city, not scraped listing data.
+
+3. **Honest tradeoff language:** Every neighborhood section must include a specific tradeoff that a renter would only learn from experience or careful research (e.g., "East Knoxville has the lowest rents in the city, but newer apartment complex inventory is limited; most 3BR options here are older house rentals"). Aggregator pages do not include this type of candid framing.
+
+### 6b. Expertise Markers
+
+- Every rent range must be anchored to a specific quarter and year: "(as of Q2 2026)"
+- The per-person rent calculation (split-rent math) demonstrates financial literacy that positions brightplace as a knowledgeable advisor, not just a listings aggregator
+- The explanation of Knoxville's rental cycle vis-à-vis the UT academic calendar is a market-specific insight that demonstrates local knowledge
+- The distinction between apartment complex inventory and house rental inventory is a structural market observation that general listing sites do not explain
+
+### 6c. Freshness & Date-Stamping
+
+Every dollar figure, rent range, or market statistic must include "(as of Q2 2026)" immediately adjacent to the claim. The article must include a "Last reviewed: May 2026" note in the byline area or footer of the article.
+
+**Claims most likely to go stale (flag for quarterly review):**
+- All neighborhood rent ranges (update quarterly)
+- The Nashville vs. Knoxville price comparison (update annually)
+- Any reference to the Riella on 5th development timeline (completion projected December 2027; update when complete)
+- Knox County Schools zoning information (verify annually; district boundaries can change)
+
+### 6d. Information Gain
+
+**Gap 1: Apartment vs. House Rental Market Structure**
+No current competitor explains that the Knoxville 3BR market is substantially composed of single-family home and duplex rentals rather than apartment complex units. This is practically important: searchers filtering for "apartment" on listing platforms will miss a large share of available inventory. The article should state this clearly, explain why it is true (Knoxville's housing stock skews older and lower-density in many affordable neighborhoods), and advise renters to expand their search to include house rentals.
+
+**Gap 2: Lease Timing Relative to UT Academic Calendar**
+No competitor addresses the seasonal dynamics of Knoxville's rental market. The article should specify the four-month risk window (January through April), explain why it exists (UT enrollment drives roommate group demand for 3BR units), and give actionable guidance: if a renter's move-in date is August or September, begin active search no later than February.
+
+**Gap 3: Per-Person Rent Calculation as a Decision Framework**
+No competitor presents the split-rent math that makes 3BR units economically attractive for roommate groups. The article should state the calculation explicitly (a $1,500/month 3BR unit = $500/person for three roommates) and contextualize it against Knoxville's 1BR market (where comparable units run $900-$1,300/month in many neighborhoods). This is the kind of specific, decision-relevant framing that earns AI citation because it answers a question the searcher is implicitly asking even if they did not type it.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Roommate groups, relocating families, UT-affiliated renters, and young professionals seeking 3BR units in Knoxville at the discovery-to-comparison stage.
+- **Demonstrates first-hand expertise:** Yes. Neighborhood-specific infrastructure references, market structure observations (apartment vs. house rental), and UT-calendar-driven lease timing guidance go beyond what is available on aggregator pages.
+- **Reader achieves their goal:** Yes. After reading, a renter knows the price range by neighborhood, understands the market structure, knows when to search, and can make an informed decision about which part of Knoxville fits their situation.
+- **Meets brightplace brand standards:** Yes, provided the writer follows all rules in Section 9. No banned phrases, no ILS citations, no neighborhood demographic descriptions, no em dashes, brightplace always lowercase.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No ChatGPT response data was provided in Data Source 3. The writing agent should not fabricate citation behavior.
+
+**Claude:** Claude's response (Data Source 3) provided a comprehensive direct answer citing the following implicit sources and frameworks:
+- Neighborhood rent ranges sourced from general market knowledge, not a single named platform
+- Apartments.com cited explicitly as the platform with "largest 3BR apartment complex inventory"
+- Zillow cited for capturing house rentals alongside apartments
+- Knox County Schools website cited for school zoning verification
+- No brightplace citation appeared in Claude's response
+
+**Is brightplace cited by either engine?** No for Claude (confirmed). No data available for ChatGPT.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- Claude's response demonstrated structured neighborhood-by-neighborhood pricing breakdowns with specific dollar ranges. brightplace currently has no indexed page providing this structured comparison for Knoxville 3BR renters.
+- Claude's response included a decision framework table (platform comparison by use case) that brightplace has no equivalent for in its current /knowledgebase/ content.
+- The absence of any brightplace URL in Claude's citations for a core apartment search query confirms brightplace has no existing content for AI engines to retrieve and cite.
+
+**Information Gaps both AI engines identified (direct citation opportunities):**
+1. The apartment-vs-house-rental market structure distinction for Knoxville 3BR inventory
+2. Lease timing relative to UT academic calendar
+3. Per-person split-rent calculation as a financial decision framework
+4. Knox County Schools zoning as a family decision variable
+5. How seasonal inventory cycles affect 3BR availability and pricing specifically (distinct from general market commentary)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-Paragraph Rule**
+The opening paragraph (before or under the first H2) must contain: (a) the exact phrase "3-bedroom apartments in Knoxville, TN" or "3-bedroom apartments in Knoxville," (b) a specific rent range with a "(as of Q2 2026)" date stamp, (c) the audience statement (renters, roommate groups, or families). This paragraph must be 40-60 words. It is the primary LLM extraction target.
+
+Example structure (do not copy verbatim; write in brand voice): "3-bedroom apartments in Knoxville, TN rent for $900 to $2,400 per month as of Q2 2026. The price range is wide because neighborhood and unit type (apartment complex vs. house rental) both move the number significantly. Here is what renters need to know to make sense of the market."
+
+**Rule 2: Structured Data Rule**
+Include exactly one comparison table in the article, positioned after the neighborhood H3 blocks. Table must include the following columns: Neighborhood, 3BR Rent Range (Q2 2026), Car Needed?, Nearest Major Access Point, Best Fit For. Use standard markdown table formatting. Six neighborhood rows minimum. This is the primary structured data extraction target for AI Overviews and PAA responses.
+
+**Rule 3: Definition Rule**
+Define the following terms explicitly in a single clear sentence at first use:
+- **Split-rent calculation:** "Split-rent is the per-person monthly cost when multiple tenants divide a single unit's rent equally; a $1,500/month 3-bedroom shared by three people costs each tenant $500/month."
+- **House rental (vs. apartment):** "A house rental is a single-family home or duplex leased directly through a landlord or property manager, as distinct from a unit within a professionally managed apartment complex."
+- **Academic calendar cycle:** "Knoxville's rental market follows a cycle tied to the University of Tennessee's fall semester start date; high-demand periods run January through April as student groups lease summer inventory for August occupancy."
+
+**Rule 4: Proof Point Rule**
+The article must include the following specific numerical claims, each with a date stamp:
+1. "3-bedroom apartments in Knoxville, TN rent for $900 to $2,400 per month (as of Q2 2026)"
+2. "West Knoxville and Farragut 3BR units range from $1,600 to $2,400/month (as of Q2 2026), the highest-priced tier in the city"
+3. "North and East Knoxville offer the most affordable 3BR options, with some units available below $1,200/month (as of Q2 2026)"
+4. "A $1,500/month 3-bedroom unit split three ways costs each tenant $500/month, a per-person cost that undercuts most Knoxville 1BR units in comparable neighborhoods"
+5. "Peak 3BR search competition in Knoxville runs January through April, driven by UT student and roommate group leasing for August occupancy"
+
+If the writer finds more current or precise data from a non-prohibited source, they should substitute it and update the date stamp. Do not fabricate precision. If a range is the honest representation, use a range.
+
+**Rule 5: FAQ Rule**
+Include a FAQ section with the following 8 questions, in this order. Each answer must be 40-60 words. Each must begin with a direct answer to the question. No preamble.
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What is the average rent for a 3-bedroom apartment in Knoxville, TN? | PAA |
+| 2 | Where can I find cheap 3-bedroom apartments in Knoxville, TN? | PAA |
+| 3 | Is it cheaper to rent a 3-bedroom apartment or a 3-bedroom house in Knoxville? | AI Gap |
+| 4 | What neighborhoods in Knoxville are good for 3-bedroom rentals near UT? | PAA / AI Gap |
+| 5 | When is the best time of year to find a 3-bedroom apartment in Knoxville? | AI Gap |
+| 6 | Are there 3-bedroom apartments in Knoxville that allow pets? | PAA (implied from filter data) |
+| 7 | What should families look for when renting a 3-bedroom apartment in Knoxville? | PAA |
+| 8 | How does Knoxville's 3-bedroom rental market compare to Nashville or Chattanooga? | AI Gap |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search 3-bedroom apartments in Knoxville on brightplace.ai using IntentOS, which filters by neighborhood, price, and renter situation rather than requiring manual filter-setting.
+
+CTA copy (write in this style, adjust to brand voice): "brightplace shows 3-bedroom apartments across Knoxville organized by neighborhood and renter situation. See what is available now at brightplace.ai."
+
+**Placement:** Three placements:
+1. After the first H2 (pricing overview) — catch early-stage readers ready to search
+2. After the neighborhood comparison table — catch comparison-stage readers who have oriented to a neighborhood
+3. Final paragraph of the article — catch readers who read to the end
+
+**Secondary CTA:**
+If brightplace has a published guide covering Knoxville neighborhoods, apartment costs in Knoxville, or renting in Tennessee generally, the writing agent should link to it at the end of the article under a "related reading" line. The writing agent will receive the sitemap to identify the correct URL. If no relevant /knowledgebase/ page exists yet, omit the secondary CTA.
+
+**CTA Language Rules (non-negotiable):**
+- Never say "click here," "sign up now," "start your free search," or any urgency language
+- Never describe brightplace's product with promotional adjectives
+- Frame every CTA as a natural next step: "brightplace tracks 3-bedroom rental prices across Knoxville neighborhoods. See current availability at brightplace.ai."
+- The CTA must feel like a recommendation from a knowledgeable friend, not a paid placement
+
+---
+
+## 9. Writer Rules
+
+Reproduce the following rules exactly. The writing agent must follow every rule in this section without exception.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 1,100-1,300 words. Every sentence must earn its place. Do not pad.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with "Knoxville is a growing city" or "Finding an apartment can be overwhelming."
+- **Every H2 section opens with its answer, not with context or background.**
+- **Date-stamp every numerical claim:** Every rent figure, price range, or market statistic must include "(as of Q2 2026)" immediately adjacent to the claim.
+- **Last reviewed note:** Include "Last reviewed: May 2026" in the article footer or byline area.
+- **Schema to implement:** Article schema (always) + FAQPage schema (always, applied to the FAQ H2 section). Apply Speakable schema to the opening summary paragraph and to each FAQ answer. No additional schema required for this article type.
+- **No references to prohibited platforms by name in the article body.** Do not name Apartments.com, Zillow, or any ILS even in passing comparison.
+- **Neighborhood descriptions use lifestyle infrastructure only.** Name specific streets, trail systems, transit corridors, and dining districts rather than describing neighborhood character in general terms.
+- **Tradeoffs are mandatory.** Every neighborhood section must include at least one honest tradeoff. No section should read as purely positive.
+- **Tables must be clean markdown.** No merged cells, no inline footnotes, no nested formatting inside table cells.
