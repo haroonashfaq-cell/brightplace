@@ -1,0 +1,362 @@
+# CONTENT BRIEF: Archer Medical District Apartments
+
+**Target URL:** brightplace.ai/knowledgebase/archer-medical-district-apartments-dallas/
+**Primary Keyword:** archer medical district apartments
+**Date Prepared:** Q3 2025
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results split into two categories. The majority are **property-specific pages** (the official Archer Medical District Apartments website, the Knightvest management portfolio page) and **apartment listing/locator pages** (UMoveFree, DFW Apartment Nerdz, The Urban Avenue). No editorial how-to guides or comparison articles rank in the top positions.
+
+This SERP is transactional and navigational. Searchers want to find Archer Medical District Apartments specifically, understand what it offers, and evaluate it. The content brief should produce an **informational property overview with neighborhood context**, functioning as a knowledgeable third-party editorial review. This format fills the gap between the property's own promotional pages and generic listing aggregators: it covers the specific property while adding honest neighborhood context that neither source provides adequately.
+
+### 1b. Content Depth Benchmark
+
+Competitor content analysis:
+- archermedicaldistrict.com: Property homepage, approximately 400-600 words of body copy, mostly feature lists
+- knightvestresidential.com: Property portfolio page, approximately 150-200 words, minimal editorial content
+- umovefree.com (property page): Approximately 300-400 words of descriptive copy, primarily amenities and specs data
+- theurbanavenue.com (neighborhood page): Approximately 600-900 words of editorial neighborhood content
+- dfwapartmentnerdz.com: Approximately 200-300 words, primarily listing cards
+
+Competitor editorial depth is low. No competitor provides a complete, structured editorial overview of Archer Medical District as a specific property within its neighborhood context. The content gap is significant.
+
+**Target word count: 1,100-1,300 words.** This moderately exceeds competitor depth while staying within the knowledgebase format ceiling. The additional depth should come from honest tradeoff analysis and neighborhood context, not padding.
+
+### 1c. SERP Features Present
+
+- **People Also Ask box:** Active for this keyword with 9 questions present (see Data Source 2). Each PAA question that is relevant to this keyword must be addressed directly in the article body as an H2 or H3 heading, or within the FAQ section. PAA questions are AI citation targets.
+- **No featured snippet** currently present for this keyword (confirmed in Data Source 2). This represents a direct ranking opportunity. The opening section under the first H2 must be structured to capture it: 40-60 words, direct statement, clean HTML.
+- **No AI Overview observed** for this keyword at time of analysis. Claude and ChatGPT do respond to related queries (see Data Source 3), so GEO optimization remains high priority.
+- **No local pack or knowledge panel** detected.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** Navigational and informational. The searcher knows the property name and wants authoritative details: what it offers, what it costs, and whether it is the right fit for their situation.
+
+**Secondary intent:** Comparative. Some searchers typing this query are evaluating Archer Medical District against nearby alternatives. The Claude response in Data Source 3 explicitly addressed the broader submarket with comparison framing, which reflects how a portion of this traffic actually behaves.
+
+**Primary intent is the target.** The article should anchor to the specific property while providing enough neighborhood context to satisfy secondary comparative intent without drifting into a generic Medical District article.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+What to Know About Archer Medical District Apartments in Dallas
+
+**Option B:**
+Archer Medical District Apartments: A Practical Overview for Dallas Renters
+
+**Option C:**
+Living at Archer Medical District: Rent, Amenities, and Location Explained
+
+**Recommended title:** Option A. It is under 60 characters, contains the exact keyword, uses curation framing, and works for both SERP click-through and AI citation.
+
+**Recommended meta description:**
+Archer Medical District Apartments in Dallas offers studios to 2-bedrooms from $1,205/mo near UT Southwestern. Here is what renters should know before applying. (153 characters)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/archer-medical-district-apartments-dallas/`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **healthcare professional, medical student, or young professional** relocating to or within Dallas who is considering Archer Medical District Apartments at 2140 Medical District Drive. They are in the **comparison or decision stage** of their search: they know the property name, they have likely visited the official website, and they want a third-party perspective that covers pricing, honest tradeoffs, and neighborhood context. They want a structured editorial overview that answers specific questions about rent ranges, what is included, what the neighborhood offers, and how this property compares to the surrounding submarket without requiring them to create an account on a listing platform or sort through raw listing data.
+
+---
+
+## 4. Keywords and Entities
+
+**Primary keyword:**
+archer medical district apartments
+
+**Secondary keywords:**
+- archer medical district dallas
+- 2140 medical district drive dallas
+- medical district apartments dallas
+- apartments near UT Southwestern Dallas
+- apartments near Parkland Hospital Dallas
+- dallas medical district rent
+- archer medical district floor plans
+- archer medical district pricing
+- medical district dallas apartments for rent
+- knightvest archer medical district
+- apartments near children's medical center dallas
+- dallas medical district studio apartments
+- dallas medical district 1 bedroom
+- archer medical district pet policy
+- formerly vibe medical district
+
+**Entities to include:**
+- Archer Medical District Apartments (the property, as the central subject)
+- 2140 Medical District Drive (address anchor for local SEO and AI grounding)
+- UT Southwestern Medical Center (primary employment anchor)
+- Parkland Memorial Hospital (secondary employment anchor)
+- Children's Medical Center Dallas (tertiary employment anchor)
+- Harry Hines Boulevard (street-level location context)
+- Katy Trail (accessible green space, relevant to lifestyle infrastructure)
+- DART light rail / Parkland Station (transit access)
+- Dallas Love Field (proximity marker)
+- Knightvest (management company, appears in competitor data and Claude response)
+- Oak Lawn / Uptown Dallas (adjacent neighborhood context for lifestyle infrastructure)
+- Medical District Drive (street-level location context)
+
+**Terms to avoid:**
+Any ILS brand names (Apartments.com, Zillow, Zumper, etc.), review platform names (ApartmentRatings, Yelp), score site names (Walk Score), "top," "best," "ultimate," "hidden gem," "vibrant," "bustling," "thriving," "navigate," "leverage," "deep dive," "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "best-kept secret," em dashes, "signal" in any form.
+
+---
+
+## 5. Content Outline
+
+**H1:** What to Know About Archer Medical District Apartments in Dallas
+
+---
+
+**H2: What Archer Medical District Apartments Offers**
+
+*Writing instruction:* Open this section with a direct, 40-60 word summary of the property that answers the primary query and targets the featured snippet gap. Include: address, property type, unit range, rent starting price, managed by Knightvest, year built. This is the first section AI engines will extract. Do not open with background. Open with facts.
+
+*Featured snippet target paragraph (40-60 words):*
+Structure: "[Property name] at [address] is a [unit count]-unit apartment community in Dallas's Medical District offering studio, one-bedroom, and two-bedroom apartments from approximately $1,205 per month (as of Q3 2025). Managed by Knightvest, the four-story property sits one block from the DART light rail station and within walking distance of UT Southwestern Medical Center."
+
+---
+
+**H3: Floor Plans and Pricing**
+
+*Writing instruction:* Present the floor plan range using a clean table (see Section 7 for exact column headers). Include square footage range (494 to 1,618 sq ft), unit types (studios E1/E2/E3, one-bedrooms A1-A6, one-bedroom plus den B10-B12, two-bedrooms B1-B6), and the rent ranges drawn from competitor source data. Flag all prices with "(as of Q3 2025)." Note that upgraded and renovated units are available at higher price points within each tier.
+
+---
+
+**H3: Amenities**
+
+*Writing instruction:* List the key amenities in a structured format, not a promotional paragraph. Cover: two resort-style pools with sundecks, 24-hour fitness center and athletic center, dog park (bark park), grilling area, game lounge with shuffleboard and billiards, social lounge with WiFi, parking garage with controlled access, conference room, valet trash service, elevators, EV charging stations. Organize as a scannable list, not a paragraph block.
+
+---
+
+**H2: Location and Commute from Archer Medical District**
+
+*Writing instruction:* This section must address the real-world commute calculus for the property's primary audience: healthcare workers and medical students. Explain the property's position relative to UT Southwestern Medical Center, Parkland Memorial Hospital, and Children's Medical Center by walking distance. Confirm DART Parkland Station is one block away. Reference Harry Hines Boulevard and Medical District Drive as the primary street access points. Include drive times to Dallas Love Field (approximately 10 minutes) and Downtown Dallas (approximately 10 minutes). This section directly addresses the navigational intent of searchers and the "unbeatable location" claim made in competitor content, with specifics rather than vague promotional language.
+
+---
+
+**H2: What the Neighborhood Looks Like Day-to-Day**
+
+*Writing instruction:* Describe the neighborhood's daily-life infrastructure using lifestyle categories only (per Fair Housing rules): dining, grocery, transit, fitness, green space. Do NOT describe neighborhood by demographics or historical context. Reference specific nearby establishments drawn from competitor content: Heim Barbecue on Mockingbird, Maple and Motor, Pappadeaux Seafood Kitchen, Oishii Sushi. Grocery: Central Market, Whole Foods Market, Sprouts Farmers Market, Trader Joe's. Green space: Katy Trail (bikeable), Bachman Lake near Love Field. Shopping: Inwood Village, Mockingbird Station. Be honest about the tradeoff: the immediate Medical District perimeter is primarily institutional and light-industrial in character; food, fitness, and retail amenities require a short drive or bike ride to Uptown or Oak Lawn corridors.
+
+---
+
+**H2: Honest Tradeoffs to Consider**
+
+*Writing instruction:* **[CONTENT GAP]** No competitor covers honest tradeoffs for this property. The property site is promotional. The locator sites do not editorialize. This section is the primary information gain opportunity. Cover four specific tradeoffs the writing agent must address:
+
+1. **Parking cost:** Assigned parking runs approximately $35/month separately. Parking is first-come, first-served in the garage otherwise. Renters who drive to campus should confirm hospital campus parking options before prioritizing building parking costs.
+
+2. **Harry Hines exposure:** Some units facing Harry Hines Boulevard experience more traffic noise than interior-facing units. Ask about unit orientation on tours.
+
+3. **Limited walkable retail in the immediate block radius:** The property's grocery and dining options require a drive or bike ride. The DART station adds transit access to Uptown and Downtown but does not replace car access for most errands.
+
+4. **Lease term flexibility:** Lease terms run 3 to 13 months per competitor data. Short-term options exist but carry a premium, relevant for medical residents and fellows on fellowship cycles.
+
+---
+
+**H2: Pet Policy at Archer Medical District**
+
+*Writing instruction:* Address directly because pet policy is a consistent search filter and PAA-adjacent question. Up to two pets per apartment. Dogs and cats allowed. Breed restrictions apply. Non-refundable pet fee: $350. Monthly pet rent: $15 per pet. Birds and fish allowed with written management approval. No exotic reptiles. On-site bark park available. Source: competitor data from umovefree.com listing.
+
+---
+
+**H2: How Archer Medical District Compares to Nearby Options**
+
+*Writing instruction:* **[CONTENT GAP]** Claude's response in Data Source 3 explicitly framed the Medical District submarket comparatively with a rent table by building vintage. No competitor editorial content does this. Include a comparison table (see Section 7 for column headers) covering Archer Medical District alongside 2-3 named nearby alternatives (MAA Medical District, Inwood on the Park, Aviata West Love) using data from competitor sources. This gives the article comparison value that the property's own site cannot provide and fills the second major content gap.
+
+---
+
+**H2: Frequently Asked Questions About Archer Medical District Apartments**
+
+*Writing instruction:* Write 6 Q&A pairs. Each answer must be 40-60 words. Each pair must directly target a PAA question or a gap identified in the AI engine responses. Use clean HTML for FAQPage schema implementation. Questions are specified in Section 7.
+
+---
+
+## 6. E-E-A-T and Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. Frame rent data with brightplace context: "Based on current listings tracked through brightplace's search data as of Q3 2025, one-bedroom apartments at Archer Medical District are pricing between $1,425 and $1,635 per month depending on floor plan." This positions brightplace as an active data source, not a content aggregator.
+
+2. Include an honest tradeoffs section (outlined in H2 above) that only a source with actual market knowledge would write. The property's own site cannot write this. Listing aggregators do not write this. This is the experience differentiator.
+
+3. Reference the specific detail that Archer Medical District was formerly known as Vibe Medical District, which appears in competitor data (umovefree.com listing details). This specific historical detail reflects granular market familiarity.
+
+### 6b. Expertise Signals
+
+- Include specific floor plan codes (E1, E2, E3, A1-A6, B1-B12 series) alongside pricing. Generic content never gets this specific.
+- Cite the property's 97% occupancy rate (from umovefree data) as an indicator of demand dynamics in this submarket. Explain what high occupancy means for lease availability windows.
+- Include the note that the property was built in 2009 and has undergone renovations, with specific renovation details (quartz countertops, rain showerheads, custom closet systems). This level of specificity distinguishes editorial content from promotional content.
+
+### 6c. Freshness and Date-Stamping
+
+Every rent figure must be followed by "(as of Q3 2025)." Every amenity fee (parking at $35/month, valet trash, pet fees) must be followed by "(as of Q3 2025, confirm with property)."
+
+Include a "Last reviewed: [Month] 2025" note in the article footer or introduction.
+
+Claims most likely to go stale and require updating:
+- All rent figures (update quarterly)
+- Occupancy rate (update semi-annually)
+- Specific lease term range (verify annually)
+- Parking and pet fee amounts (verify annually)
+- Specific availability of short-term leases (verify before publication refresh)
+
+### 6d. Information Gain
+
+**Gap 1: Honest tradeoff analysis.** No competitor provides candid tradeoffs for this property. The property site is promotional. Aggregators list features without commentary. The tradeoffs section (H2 above) covers noise exposure, parking costs, limited immediate walkability, and lease premium for short-term terms. This is original editorial value with zero competitor coverage.
+
+**Gap 2: Submarket comparison table.** Claude's AI response in Data Source 3 organized the Medical District submarket by building vintage and rent tier. No competitor article does this for the specific Archer property. Including a comparison table with 2-3 named nearby alternatives positions this article as the most useful single resource for renters evaluating this property against alternatives.
+
+**Gap 3: Former name reference.** The property was formerly known as Vibe Medical District (confirmed in umovefree data). Searchers using either name should find this article. The writing agent should note the former name once, clearly, within the article body (not as a heading). This handles a navigational query variant that no editorial competitor addresses.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Healthcare professionals, medical students, and young professionals relocating to Dallas who are evaluating Archer Medical District Apartments specifically. Confirmed specific.
+- **First-hand expertise demonstrated:** Through specific floor plan codes, rent ranges with date stamps, honest tradeoff analysis, occupancy data, and former property name detail. Confirmed.
+- **Reader leaves able to achieve their goal:** Goal is to evaluate Archer Medical District Apartments with enough real information to decide whether to tour or apply. The article covers pricing, floor plans, amenities, location, neighborhood infrastructure, honest tradeoffs, and pet policy. Confirmed sufficient.
+- **brightplace brand standards:** No ILS citations. No em dashes. No banned phrases. Lowercase brightplace throughout. Curation title framing. Fair Housing compliant neighborhood description. Confirmed.
+
+---
+
+## 7. AEO and GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT response:** No ChatGPT response data was provided in Data Source 3. The agent should assume this keyword has not been analyzed for ChatGPT citations and should default to structural best practices for citability.
+
+**Claude response:** Claude provided a detailed response (reproduced in Data Source 3) covering:
+- Rent ranges by building vintage (garden, mid-rise, new luxury) with a data table
+- Commute considerations for healthcare workers, with specific reference to DART Parkland Station
+- Harry Hines Boulevard trade-off analysis (cheaper but noisier)
+- Parking cost framing ($100-$200/month noted, though Archer's specific rate is lower at $35/month)
+- Lease flexibility for medical residents (short-term premium noted)
+- Named buildings including "Camden Medical District," "Hanover Medical District," and "Arium Medical District" as specific properties worth researching
+
+Claude did not cite brightplace. Claude cited no specific external source URLs; the response was generated from training data.
+
+**Is brightplace cited?** No, by either engine.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:** Claude's response demonstrated two structural advantages: (1) a rent comparison table organized by building vintage, and (2) specific practical framing around commute mode and shift-schedule variability. These are the direct structural elements to replicate and exceed.
+
+**Information gaps both AI engines identified:**
+- Rent ranges by unit type and building vintage tier (Claude addressed this; the article must present clean structured data that is more accurate and property-specific)
+- Commute mode analysis specifically for shift-schedule healthcare workers (Claude introduced this framing; no competitor covers it)
+- Short-term lease premium for medical residents and fellows (Claude raised this; no competitor editorial content addresses it)
+- Harry Hines Boulevard noise and trade-off framing (Claude raised this; no competitor addresses it honestly)
+- Parking cost clarity: Claude's response overstated parking costs at $100-$200/month; the actual assigned parking rate at Archer is $35/month. This is a direct correction opportunity that improves citability accuracy.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words must contain: (a) a direct answer identifying what Archer Medical District Apartments is and where it is located, (b) the target audience statement naming healthcare workers, medical students, and young professionals as the primary renters, (c) at least one specific numerical data point (unit count of 396, rent starting at $1,205/month as of Q3 2025, or the 0.5-mile proximity to the DART station). This is what LLMs extract for citation.
+
+**Rule 2: Structured data rule.**
+Include two tables:
+
+*Table 1: Archer Medical District Floor Plans and Pricing*
+Column headers: Unit Type | Floor Plan Code | Square Footage | Starting Rent (Q3 2025)
+Rows: Studio (E1, E2, E3), One-Bedroom (A1-A6), One-Bedroom Plus Den (B10-B12), Two-Bedroom (B1-B6)
+
+*Table 2: Archer vs. Nearby Alternatives (Comparison)*
+Column headers: Property | Address | Unit Types | Starting Rent | Distance to UT Southwestern
+Rows: Archer Medical District, MAA Medical District, Inwood on the Park, Aviata West Love
+Note: Use data from competitor sources for alternatives. Flag all figures with "(as of Q3 2025)."
+
+Both tables must use clean, standard HTML table markup. No merged cells. No styling that obscures parsing.
+
+**Rule 3: Definition rule.**
+Define these terms explicitly, in a single clear sentence, at first use:
+
+- *Medical District (Dallas):* The approximately 400-acre medical campus zone in Dallas bounded by Interstate 35E, Mockingbird Lane, Medical District Drive, and Maple Avenue, anchoring UT Southwestern Medical Center, Parkland Memorial Hospital, and Children's Medical Center.
+- *DART Parkland Station:* The DART light rail station on the Green and Orange lines located one block from Archer Medical District, providing direct rail access to Uptown, Downtown, and the broader Dallas rail network.
+- *Valet trash service:* A building-provided service in which staff collect bagged trash directly from residents' doorways on a scheduled basis, included as a community amenity at Archer Medical District for a monthly fee of approximately $30.
+
+**Rule 4: Proof point rule.**
+The article must include all five of these numerical claims with date stamps:
+
+1. "Studios at Archer Medical District start at approximately $1,205 per month (as of Q3 2025)."
+2. "One-bedroom floor plans range from 704 to 967 square feet, with rents from approximately $1,425 to $1,635 per month depending on layout (as of Q3  2025)."
+3. "Two-bedroom floor plans range from 1,172 to 1,618 square feet, with rents from approximately $1,770 to $2,465 per month (as of Q3 2025)."
+4. "The property has 396 total units across four stories and was built in 2009."
+5. "Assigned parking is available for approximately $35 per month; garage parking is first-come, first-served without a reservation (as of Q3 2025, confirm with property)."
+
+**Rule 5: FAQ rule.**
+Write exactly these six Q&A pairs for the FAQ section. Each answer must be 40-60 words. Label source.
+
+1. *What are the rent prices at Archer Medical District Apartments?* (Source: PAA + primary keyword)
+2. *What floor plan sizes are available at Archer Medical District?* (Source: PAA implied, primary keyword)
+3. *Is Archer Medical District pet-friendly?* (Source: PAA implied, competitor content gap)
+4. *How far is Archer Medical District from UT Southwestern?* (Source: Claude information gap)
+5. *Is short-term leasing available at Archer Medical District?* (Source: Claude information gap)
+6. *What was Archer Medical District formerly called?* (Source: competitor data, navigational query gap)
+
+---
+
+## 8. CTA and Funnel Strategy
+
+**Primary CTA:**
+"See current apartment options in Dallas's Medical District on brightplace" linking to brightplace.ai with Dallas Medical District as the search context.
+
+Place this CTA in three locations:
+1. After the first H2 (floor plans and pricing section): "brightplace tracks current availability across Dallas's Medical District, including Archer and nearby properties. Search what is available now."
+2. After the comparison table H2: "Comparing options across the Medical District is faster with brightplace's side-by-side search. See what is currently listed."
+3. End of article, after the FAQ section: "If you are relocating to Dallas for work at UT Southwestern, Parkland, or Children's Medical Center, brightplace can show you current availability across the Medical District in one search."
+
+**Secondary CTA:**
+Link to a relevant brightplace knowledgebase guide on Dallas Medical District neighborhood overview or Dallas apartment renting guide, if one exists in the sitemap. Frame as: "For a broader look at the Medical District submarket and nearby neighborhoods, see brightplace's guide to [relevant guide title]."
+
+**CTA language rules:** No "unlock," "leverage," or aggressive sales framing. Every CTA should read as a practical next step for a renter who just read useful information and naturally wants to act on it.
+
+---
+
+## 9. Writer Rules
+
+**Reproduce the following rules in full. Do not summarize or abbreviate. These rules are non-negotiable.**
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional production rules for this article:**
+
+- **Target word count:** 1,100-1,300 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer.** Not with context or background.
+- **Schema to implement:** Article schema and FAQPage schema on all FAQ pairs. Add Speakable schema to the opening summary paragraph and the FAQ section to support voice search extraction.
+- **Date stamps required** on every rent figure, fee, and statistic: "(as of Q3 2025)" or "(as of Q3 2025, confirm with property)."
+- **Do not fabricate data.** If a specific figure is not available from the sources provided, write "[RESEARCH NEEDED: insert current figure here]" as a placeholder and flag it for editorial review before publication.
+- **Former property name:** Include one mention that the property was formerly known as Vibe Medical District. Place this in the article body as a natural editorial note, not as a heading.
+- **Tables:** Use clean standard HTML table markup. Two tables required as specified in Section 7, Rule 2.
+- **brightplace mentions:** Appear in CTAs only. Do not insert brightplace into editorial body copy as a recommendation. CTAs are clearly separated from editorial content.
