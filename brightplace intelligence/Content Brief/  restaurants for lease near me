@@ -1,0 +1,369 @@
+# CONTENT BRIEF: restaurants for lease near me
+**brightplace.ai/knowledgebase/**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP for "restaurants for lease near me" is dominated by two formats: **commercial listing/directory pages** (restaurantrealty.com, nationalrestaurantproperties.com, restaurantexpert.com, cra-nw.com) and **journalistic/narrative pieces** (publicsource.org, dogsontheline.substack.com). The listing pages function as transactional tools. The narrative content addresses the informational layer: what it actually takes to find, evaluate, and sign a restaurant lease.
+
+The article must be a **practical how-to guide with embedded transactional utility**. It should answer the informational questions thoroughly (how leasing works, what to look for, how pricing is structured) while pointing to the transactional resources searchers need. This hybrid format matches the dual informational/transactional intent stated in the inputs and covers both intent layers present in the SERP.
+
+### 1b. Content Depth Benchmark
+
+The listing competitors (restaurantrealty.com, nationalrestaurantproperties.com) have minimal editorial content: 200-400 words of copy beyond property listings. The narrative competitors (publicsource.org) run 2,000+ words but cover a narrow Pittsburgh-specific angle. The substack piece is 900-1,100 words of personal narrative.
+
+The gap is a structured, nationally applicable guide that serves both the informational and transactional searcher. **Target word count: 1,200-1,400 words.** This exceeds the editorial depth of the listing sites and delivers utility the narrative pieces do not.
+
+### 1c. SERP Features Present
+
+- **People Also Ask (PAA):** 14 questions confirmed in Data Source 2. High-value. Each relevant PAA must map to a dedicated H2 or H3 and a FAQ entry. PAA boxes are Google's direct indicator of subtopics to cover.
+- **No featured snippet:** This is a ranking opportunity. The article's first substantive H2 and its FAQ section are the primary targets for earning a featured snippet. The opening answer paragraph must be 40-60 words.
+- **No AI Overview confirmed** (though Claude and ChatGPT both have structured responses in Data Source 3, confirming AI engine interest). The article must be structured for LLM citation.
+- **Local intent present:** The "near me" modifier pulls local results in practice. Several PAA variations are geo-specific ("near California," "near Texas," "near Houston"). The article cannot provide a local listing but must acknowledge the local search dynamic and explain how to execute it.
+- **No video carousel or knowledge panel** noted.
+
+**Structural targeting:**
+- Featured snippet target: First H2 opening paragraph (40-60 words, direct answer)
+- PAA targeting: Dedicated H2/H3 for lease pricing, the 30/30/30 rule, how restaurant leases work, and small/cheap space variations
+- Local intent: Section explaining how to search locally by market type, with explicit acknowledgment that "near me" results require a city-specific search
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A prospective restaurant operator (or someone evaluating opening one) is searching for available restaurant spaces to lease in their area and wants to know how to find them and what to expect.
+
+**Secondary intent:** Someone who does not fully understand commercial restaurant leasing wants to understand how it works before taking action.
+
+**Primary intent is the target.** The article should lead with practical search guidance and lease mechanics, with the secondary informational layer embedded as context that supports the primary task. The format (practical how-to guide) matches this intent.
+
+---
+
+## 2. Recommended Titles
+
+**Option A (recommended):**
+How to Find Restaurant Space for Lease Near You
+
+**Option B:**
+What to Know Before Leasing a Restaurant Space
+
+**Option C:**
+A Practical Guide to Finding Restaurants for Lease Near Me
+
+**Recommended meta description (154 characters):**
+Looking for restaurants for lease near you? Here is how commercial restaurant leases work, where to search, and what to check before signing anything.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/restaurants-for-lease-near-me`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a prospective restaurant operator: someone evaluating opening a first location, an existing operator looking to expand or relocate, or a food entrepreneur moving from pop-up or commissary to a permanent space. They are at the **transaction-ready or late-comparison stage** of their journey. They know they want to open a restaurant. They are trying to find available spaces and understand what a commercial restaurant lease requires before engaging a broker or landlord. Based on the SERP, they expect a combination of practical search guidance (where to look, what platforms to use) and lease mechanics (how pricing works, what terms to negotiate). The article is not for apartment renters. It is for commercial operators.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+restaurants for lease near me
+
+**Secondary keywords:**
+- restaurant space for lease
+- restaurant space for rent
+- commercial restaurant lease
+- second-generation restaurant space
+- restaurant lease near me
+- small restaurant space for lease
+- cheap restaurant space for lease
+- restaurant for lease by owner
+- NNN lease restaurant
+- restaurant lease terms
+- restaurant buildout cost
+- restaurant tenant improvement allowance
+- restaurant lease agreement
+- lease a restaurant building
+- how does restaurant leasing work
+
+**Entities to include:**
+- LoopNet (commercial listing platform)
+- Crexi (commercial listing platform)
+- CoStar (institutional database)
+- NNN (Triple Net Lease)
+- TI (Tenant Improvement Allowance)
+- Type 1 hood / hood exhaust system
+- grease trap / grease interceptor
+- Letter of Intent (LOI)
+- second-generation restaurant space
+- health department (environmental health inspection)
+- personal guarantee
+- lease options to renew
+
+**Terms to AVOID:**
+- "best," "top," "ultimate," "hidden gem"
+- "deep dive," "navigate," "leverage," "unlock"
+- "vibrant," "bustling," "thriving"
+- "signal," "whether you're X or Y," "from X to Y"
+- Any ILS platform names (Zillow, Apartments.com, etc.)
+- Em dashes in any form
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How to Find Restaurant Space for Lease Near You
+
+---
+
+**H2: What "Restaurants for Lease Near Me" Actually Returns**
+
+*Writing instruction: Open with the direct answer in the first 40-60 words. Explain that this is a commercial real estate query, not a residential one, and that the right search tools are commercial platforms, not apartment sites. This paragraph is the featured snippet target and the LLM citation anchor. It must contain the primary keyword, the audience statement, and one numerical reference.*
+
+---
+
+**H2: Where to Search for Restaurant Space for Lease**
+
+*Writing instruction: This is the highest-utility section. List and briefly characterize each platform: LoopNet, Crexi, CoStar (and why operators do not have direct access), and any broker-specific databases. Explain how to filter for "restaurant" or "food and beverage" use type. Include the instruction to search by ZIP code or city. Do not link to banned sources. This directly addresses the transactional intent and maps to the PAA questions about location-specific searches ("near California," "near Texas," "near Houston").*
+
+**H3: How to Read a Commercial Listing**
+
+*Writing instruction: Explain the key fields in a commercial restaurant listing: square footage, asking rent in $/SF/year vs. monthly, lease type (NNN vs. gross vs. modified gross), and infrastructure notes (hood in place, grease trap, walk-in). This equips the searcher to evaluate what they find. Draw from the listing data in restaurantrealty.com (Data Source 1) as a real-world example of how listings are structured, without citing it directly.*
+
+---
+
+**H2: How Restaurant Lease Pricing Works**
+
+*Writing instruction: This section targets the PAA question "How much can you lease a restaurant for?" and "What does $10 sf yr mean in commercial lease for 2,500 sq?" Explain that asking rents are quoted in dollars per square foot per year, provide the formula to convert to monthly cost, and include the comparison table (see Section 7, structured data rule). Cover the range from secondary markets to prime urban corridors. Flag that asking rent is only one cost: NNN charges, CAM fees, and required buildout costs compound the real monthly burden.*
+
+**Comparison table: Restaurant Lease Pricing by Market Tier**
+
+| Market Tier | Typical Asking Rent | NNN Estimate | Notes |
+|---|---|---|---|
+| Secondary/rural | $12-$25/SF/year | $3-$6/SF | More negotiable |
+| Mid-size city | $20-$45/SF/year | $5-$10/SF | Varies by corridor |
+| Major metro (non-prime) | $35-$80/SF/year | $8-$15/SF | High variance |
+| Prime urban corridor | $80-$200+/SF/year | $15-$30/SF | Manhattan, WeHo, etc. |
+
+---
+
+**H2: How a Restaurant Lease Actually Works**
+
+*Writing instruction: This targets the PAA question "How does leasing a restaurant work?" Walk through the process: search, LOI, negotiation of TI and free rent, personal guarantee, health department pre-lease engagement, and signing. Pull from the PublicSource competitor article (Data Source 1) insight that operators who engage health departments before signing save significant money and delays. Do not cite or name the source. Frame as practical guidance.*
+
+---
+
+**H2: What the 30/30/30 Rule Means for Restaurant Operators**
+
+*Writing instruction: This directly targets the PAA question "What is the 30 30 30 rule for restaurants?" Define the rule clearly: the concept that roughly 30% of revenue goes to food cost, 30% to labor, and 30% to all other costs including rent, leaving approximately 10% net margin. Explain what this means for how much rent an operator can afford: if projected monthly revenue is $50,000, total overhead including rent should not exceed $15,000, and rent specifically should stay under 6-10% of projected revenue. This is a [CONTENT GAP] — none of the top competitors address this PAA question with a clear definition.*
+
+---
+
+**H2: Second-Generation vs. Raw Space: What the Difference Costs You**
+
+*Writing instruction: [CONTENT GAP] This section does not appear in any competitor content but is identified by Claude's response as a high-priority decision point. Define "second-generation restaurant space" as a space previously operated as a restaurant, with infrastructure (hood, grease trap, gas lines, walk-in) already in place. Contrast it with raw or vanilla shell space that requires full buildout. Provide a cost differential: second-gen buildout may run $75-$150/SF versus $200-$400+/SF for raw space. This is the single most useful tactical piece of information for a searcher evaluating listings. Draw from PublicSource's reporting on buildout costs and the restaurant realty listing data to ground the range.*
+
+---
+
+**H2: Key Terms to Negotiate Before You Sign**
+
+*Writing instruction: This section converts readers from informational to transactional. Cover TI (Tenant Improvement Allowance), free rent period during buildout, personal guarantee scope (try to limit to 1-2 years rather than full lease term), options to renew (at least two 5-year options), and co-tenancy protections if in a retail center. Frame as non-negotiable checklist items, not as legal advice. End with a note on engaging a tenant-rep broker at no cost to the tenant.*
+
+---
+
+**H2: Small and Affordable Restaurant Spaces: What to Expect**
+
+*Writing instruction: This targets PAA questions about small, cheap, and under-$1,000 restaurant spaces. Be honest: spaces under $1,000/month exist primarily in rural secondary markets and very small square footages (under 500 SF). Ghost kitchen memberships and commissary kitchens are an alternative for early-stage operators. Provide realistic floor: a 1,000 SF space in a secondary market at $20/SF NNN might run $2,500-$3,500/month all-in. This manages expectations while serving the searcher honestly.*
+
+---
+
+**H2: Frequently Asked Questions About Leasing Restaurant Space**
+
+*Writing instruction: FAQPage schema target. Each answer must be 40-60 words. Use Q&A format with the question as a bolded line, the answer as a direct paragraph below. Include all 5-8 questions specified in Section 7.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace framing on commercial vs. residential intent:** Include a one-line observation such as: "Based on the search patterns brightplace tracks, 'restaurants for lease near me' consistently pulls commercial real estate results, not apartment listings. This is a commercial real estate process, and the tools are different." This demonstrates contextual awareness.
+
+2. **Real-world lease cost anchoring:** Use specific, plausible dollar figures drawn from the listing data visible in Data Source 1 (restaurantrealty.com listings show $3,413/month, $4.00/SF NNN, $7,991/month gross). Reference these as examples of what listings look like in practice, without citing the platform.
+
+3. **Practical tradeoff framing:** Include an honest observation about the tension operators face: the best-located second-gen spaces go quickly because landlords price them to reflect the infrastructure savings. Raw spaces linger longer but cost significantly more to occupy.
+
+### 6b. Expertise Signals
+
+- Define NNN, TI, LOI, and second-generation space with precision the first time each term appears.
+- Include the formula for converting $/SF/year to monthly rent: ($/SF × SF) ÷ 12 = monthly base rent.
+- Include the 30/30/30 rule definition and what it implies for maximum supportable rent.
+- Provide the buildout cost differential between second-gen and raw space as a specific dollar-per-SF range.
+- Mention health department pre-inspection engagement as a cost-avoidance strategy (drawn from Data Source 1 reporting, not attributed).
+
+### 6c. Freshness & Date-Stamping
+
+- Every rent range must include "(as of Q2 2026)" adjacent to the figure.
+- Every buildout cost range must include "(as of 2026)."
+- The article must include: "Last reviewed: June 2026" in the footer or article metadata.
+
+**Claims most likely to go stale (flag for future update):**
+- Rent ranges by market tier (update semi-annually)
+- Buildout cost per square foot (update annually; materials costs volatile)
+- Platform availability and features (LoopNet, Crexi may change pricing or access models)
+
+### 6d. Information Gain
+
+**Gap 1: The 30/30/30 rule explained in lease context.** No competitor covers this PAA question. The article should explain the rule, apply it to a concrete revenue scenario, and derive a maximum supportable rent figure. This is immediately actionable and answers a high-traffic PAA directly.
+
+**Gap 2: Second-generation vs. raw space buildout cost differential.** Listing competitors show infrastructure details but do not explain what those details mean for operator costs. The PublicSource article touches on buildout cost challenges but does not quantify the second-gen advantage. This article should define it, quantify it, and position it as the single most important filter when evaluating listings.
+
+**Gap 3: Health department pre-lease engagement.** The PublicSource article documents multiple cases where operators lost money because they did not engage the health department before signing or beginning construction. No competitor article surfaces this as actionable advice for searchers. This article can name it explicitly: contact your local health department before signing, not after.
+
+### 6e. Helpful Content Checklist
+
+- **Clear audience:** Yes. Prospective restaurant operators evaluating spaces, at the transaction-ready stage.
+- **First-hand expertise:** Yes. Demonstrated through specific numerical claims, formula explanations, buildout cost differential, and practical tradeoff observations grounded in real listing data.
+- **Reader achieves their goal:** Yes. After reading, the searcher knows where to search, how to read a listing, what pricing to expect, what terms to negotiate, and what mistakes to avoid before signing.
+- **brightplace brand standards met:** Yes. No ranking language, no superlatives, no banned phrases, voice is knowledgeable and direct. CTA is non-promotional.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations (from Data Source 3 — response not fully reproduced but inferred from Claude's citation analysis):**
+- LoopNet: cited as the largest commercial real estate listing database in the U.S.
+- CoStar: cited as the institutional-grade database underlying LoopNet
+- Crexi: cited as a growing alternative, noted for strength in South and Southwest markets
+- Brevitas: cited as a boutique option for off-market and smaller markets
+- 42Floors: cited for restaurant/retail space despite office origin
+
+**Claude citations:**
+- LoopNet: direct citation with filter instructions
+- CoStar: cited with access caveat (requires paid subscription, broker-mediated)
+- Crexi: cited with geographic note
+- Brevitas and 42Floors: mentioned as cross-check resources
+
+**brightplace cited by ChatGPT:** No.
+**brightplace cited by Claude:** No.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- LoopNet and Crexi: actual listings (brightplace cannot replicate this, and should not try)
+- CoStar: institutional authority on commercial data
+- What brightplace can offer that none of these have: **clear explanatory content** that helps operators understand what they are looking at, what terms mean, and what to do before and after searching listings. The cited sources provide data. brightplace can provide comprehension.
+
+**Information gaps both AI engines identified:**
+1. How to interpret $/SF/year pricing and convert to monthly cost
+2. What second-generation spaces are and why they matter
+3. What lease terms to negotiate (TI, personal guarantee, options to renew)
+4. What the 30/30/30 rule means for supportable rent
+5. Health department pre-lease engagement as a cost-avoidance step
+6. How to use a tenant-rep broker at no cost to the operator
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words must include: (a) the phrase "restaurant space for lease" or "restaurants for lease," (b) a statement identifying the audience (prospective restaurant operators), and (c) at least one specific number (a rent figure, a square footage, or a cost benchmark). Example anchor: "Restaurant spaces in secondary markets list for as little as $12-$20 per square foot per year (as of Q2 2026); prime urban corridors can run $80-$200+." This is what LLMs extract and surface in AI overviews.
+
+**Rule 2: Structured data rule.**
+Include one comparison table: Restaurant Lease Pricing by Market Tier. Columns: Market Tier, Typical Asking Rent ($/SF/year), Estimated NNN Add-On, Notes. Four rows minimum: secondary/rural, mid-size city, major metro non-prime, prime urban corridor. Table must use clean markdown or HTML. No merged cells. No footnotes inside cells.
+
+Include a second structured element: a numbered checklist of lease terms to negotiate (TI allowance, free rent period, personal guarantee scope, options to renew, co-tenancy clause). This structured list format is highly extractable by AI engines.
+
+**Rule 3: Definition rule.**
+These five terms must be explicitly defined in a single clear sentence the first time each appears:
+
+- **NNN (Triple Net Lease):** A lease structure in which the tenant pays base rent plus their proportionate share of property taxes, building insurance, and maintenance costs.
+- **TI (Tenant Improvement Allowance):** Money the landlord provides toward buildout costs, typically expressed in dollars per square foot of leased space.
+- **Second-generation restaurant space:** A previously operated restaurant space that retains existing kitchen infrastructure, including hood exhaust, grease trap, gas lines, and walk-in cooler connections.
+- **LOI (Letter of Intent):** A non-binding document that outlines the proposed lease terms before a formal lease agreement is drafted, used to negotiate key terms before legal costs are incurred.
+- **Personal guarantee:** A requirement that the tenant personally backs the lease obligations, meaning the landlord can pursue the individual's personal assets if the business defaults.
+
+**Rule 4: Proof point rule.**
+The article must include these specific numerical claims, each with a date reference:
+
+1. "Restaurant spaces in secondary markets typically ask $12-$25 per square foot per year (as of Q2 2026), converting to roughly $1,000-$2,100 per month for a 1,000 SF space."
+2. "Buildout costs for raw commercial space can run $200-$400 per square foot or more (as of 2026), compared to $75-$150 per square foot for a second-generation space with existing infrastructure."
+3. "Most restaurant landlords require lease terms of 5-10 years, with at least one 5-year renewal option negotiated at signing."
+4. "Under the 30/30/30 rule, rent and occupancy costs should ideally stay below 6-10% of projected gross revenue to preserve operating margin."
+5. "Tenant improvement allowances in softer markets can range from $30-$100 per square foot (as of 2026); in tight urban markets, TI may be minimal or absent."
+
+If the writer cannot verify specific figures, they must flag them with "[VERIFY BEFORE PUBLISH]" rather than omit them.
+
+**Rule 5: FAQ rule.**
+Include a FAQ section with the following 8 questions. Each answer must be 40-60 words. Source noted in parentheses (for writing agent reference only; do not include source note in published content):
+
+1. How much does it cost to lease a restaurant space? (PAA)
+2. What is the 30/30/30 rule for restaurants? (PAA)
+3. How does leasing a restaurant work? (PAA)
+4. What does $10/SF/year mean in a commercial lease? (PAA)
+5. What is a second-generation restaurant space? (AI engine gap)
+6. What should I negotiate before signing a restaurant lease? (AI engine gap)
+7. Do I need a broker to find restaurant space for lease? (AI engine gap)
+8. What is a personal guarantee in a restaurant lease? (AI engine gap)
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+brightplace's core product is residential apartment search, not commercial real estate. The CTA must bridge naturally from the commercial topic to the residential one. The most logical bridge: operators looking to open a restaurant are often also relocating or evaluating a new city. The CTA should appear at the end of the article and read as follows:
+
+"If you are evaluating a new market for your restaurant, the neighborhood matters as much as the lease rate. brightplace maps out dining corridors, foot traffic infrastructure, and walkability across major U.S. cities. See what is opening up in [City] at brightplace.ai."
+
+Place the CTA: once at the end of the article, after the FAQ section. Do not place mid-article. The commercial intent of this article means a mid-article residential CTA would feel dissonant.
+
+**Secondary CTA:**
+Link to a brightplace knowledgebase article about evaluating neighborhoods for a new city (if one exists in the sitemap). Framing: "If you are also deciding which city to open in, brightplace's neighborhood guides can help you evaluate foot traffic, dining density, and lease market dynamics by area." The writing agent should check the brightplace knowledgebase sitemap for an applicable article on neighborhood evaluation or city comparison.
+
+**CTA language rules:** No promotional language. No "click here," "sign up," or product-forward phrasing. Frame as a practical next step for an operator who is also evaluating where to locate, not just what space to take.
+
+---
+
+## 9. Writer Rules
+
+Reproduce the following rules exactly. These are non-negotiable.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (if content involves neighborhoods or cities):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES FOR THIS ARTICLE:**
+
+- **Target word count:** 1,200-1,400 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer**, not with context or background.
+- **Schema to implement:** Article schema + FAQPage schema (required on all pieces). HowTo schema is appropriate here given the process-oriented structure of sections 3-6. Speakable schema on the opening summary paragraph and the FAQ section.
+- **Date-stamp every numerical claim.** Every dollar figure, rent range, buildout cost estimate, or statistical claim must include "(as of Q2 2026)" or "(as of 2026)" immediately adjacent to the figure.
+- **Do not cite or name competitor platforms covered in the SERP analysis** (restaurantrealty.com, nationalrestaurantproperties.com, restaurantexpert.com, publicsource.org) as sources. Use their data only to ground real-world examples without attribution.
+- **Define NNN, TI, LOI, second-generation restaurant space, and personal guarantee** the first time each appears. One clear sentence each.
+- **The FAQ section must contain exactly 8 questions** as specified in Section 7, Rule 5. Each answer must be 40-60 words. No answer under 35 words. No answer over 70 words.
+- **Do not use the word "signal" in any form.** Use "indicator," "suggests," "points to," or "reflects" instead.
+- **The article is for commercial operators, not residential renters.** Do not conflate residential and commercial leasing at any point.
