@@ -46,7 +46,7 @@ The South Los Angeles property at 8760 Main Street (ZIP 90003) is a courtyard-st
 
 Las Brisas I & II in the Cudahy and South LA area is an entirely different category. Developed by Abode Communities, this is a **LIHTC** (Low Income Housing Tax Credit) affordable housing community with 152 total homes: 92 in Phase I and 60 in Phase II. The development includes a community center, childcare facility, and Cabrisas Park. Residents must meet income qualifications, with the 60% AMI threshold for a 4-person household in LA County set at $75,660/year (as of current HUD data). Housing vouchers may be accepted.
 
-If you are new to the apartment leasing process, brightplace's [practical apartment rental walkthrough](https://brightplace.ai/knowledgebase/how-to-rent-an-apartment) covers the six stages every renter should know.
+If you are new to the apartment leasing process, brightplace's [practical apartment rental walkthrough](https://brightplace.ai/guides/how-to-rent-an-apartment) covers the six stages every renter should know.
 
 ## Las Brisas Apartments in Southern California (Outside LA)
 
@@ -90,7 +90,7 @@ California renters have specific legal protections regardless of which Las Brisa
 
 **Just Cause Eviction (AB 1482).** Most multi-unit buildings in California require a documented reason for eviction after 12 months of tenancy. Renters in any Las Brisas community with 12 or more months of occupancy have additional lease security under this provision.
 
-If you are comparing apartment options across multiple cities, brightplace's [guide to studio apartments](https://brightplace.ai/knowledgebase/studio-apartments) covers what to expect at the smaller end of the unit spectrum.
+If you are comparing apartment options across multiple cities, brightplace's [guide to studio apartments](https://brightplace.ai/guides/studio-apartments) covers what to expect at the smaller end of the unit spectrum.
 
 **Looking for available apartments in California? brightplace searches current listings so you can compare options without the guesswork. See what is available now at [brightplace.ai](https://brightplace.ai).**
 
@@ -227,7 +227,7 @@ Some Las Brisas properties accept Section 8 Housing Choice Vouchers. Under feder
   "dateModified": "2026-05-15",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/las-brisas-apartments-california"
+    "@id": "https://brightplace.ai/guides/las-brisas-apartments-california"
   }
 }
 ```
@@ -240,7 +240,7 @@ Some Las Brisas properties accept Section 8 Housing Choice Vouchers. Under feder
   "@type": "WebPage",
   "name": "Las Brisas Apartments in California: Which One Are You Looking For?",
   "description": "Multiple Las Brisas apartments exist across California. Compare locations, rent, unit types, and income-restricted options by city.",
-  "url": "https://brightplace.ai/knowledgebase/las-brisas-apartments-california",
+  "url": "https://brightplace.ai/guides/las-brisas-apartments-california",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -266,7 +266,7 @@ Some Las Brisas properties accept Section 8 Housing Choice Vouchers. Under feder
         "@type": "ListItem",
         "position": 3,
         "name": "Las Brisas Apartments in California: Which One Are You Looking For?",
-        "item": "https://brightplace.ai/knowledgebase/las-brisas-apartments-california"
+        "item": "https://brightplace.ai/guides/las-brisas-apartments-california"
       }
     ]
   },
