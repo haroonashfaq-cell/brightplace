@@ -156,6 +156,7 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 **Rules:**
 - All external links must open in a new tab: `target="_blank" rel="noopener"`
 - Link only to authoritative sources: `.gov`, `.edu`, official transit authorities, official property management sites, state/county government pages
+- **NEVER link to competitors or send traffic to competing platforms.** This includes all ILS platforms, review aggregators, score sites, forums, and vacation rental platforms listed in Section 1.6. We do not badmouth competitors, but we do not give them our audience either.
 - Never link to banned sources (see Section 1.6)
 - Prioritize:
   - Government sites (.gov, .edu)
