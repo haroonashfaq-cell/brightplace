@@ -40,6 +40,8 @@ The oversized floor plans are a consistent theme in resident feedback. Units her
 
 ## In-Unit and Community Amenities
 
+### In-Unit Features
+
 Randolph Towers apartments include the following in-unit features:
 
 - Private balconies
@@ -51,12 +53,16 @@ Randolph Towers apartments include the following in-unit features:
 
 Concrete walls between units provide meaningful noise reduction, something residents consistently describe as more effective than the glass-and-steel construction found in newer buildings.
 
+### Modernized Unit Upgrades
+
 Closet space is generous relative to the Ballston market. Updated units (marketed as "modernized") feature:
 
 - Quartz countertops
 - Kitchen backsplash
 - LED lighting
 - Oversized porcelain tile in bathrooms
+
+### Community Amenities
 
 Community amenities include:
 
@@ -74,6 +80,8 @@ An indoor pool is referenced in resident reviews; confirm availability directly 
 
 ## Location and Transit Access
 
+### Metro and Commute Times
+
 The Ballston-MU Metro station, the Washington Metro station on the Orange and Silver lines serving the Ballston neighborhood of Arlington, Virginia, sits approximately one block from Randolph Towers. This makes the building one of the more Metro-adjacent options in the corridor, a practical advantage for commuters who rely on rail transit daily.
 
 From Ballston, riders reach Rosslyn in approximately 10 minutes and can transfer to the Red or Blue/Yellow lines for broader DC access. Pentagon and Pentagon City are directly reachable on the Orange and Silver lines. Ronald Reagan Washington National Airport is approximately 15 minutes away by car or Metro transfer.
@@ -85,6 +93,8 @@ From Ballston, riders reach Rosslyn in approximately 10 minutes and can transfer
 | DC Metro Center | ~20-25 min (Orange/Silver Metro) |
 | Reagan National Airport | ~15 min (by car or Metro transfer) |
 | Dulles International Airport | ~37 min (by car) |
+
+### What Is Nearby
 
 Ballston Quarter, a mixed-use retail and dining destination, is within walking distance. Renters exploring the broader DC suburban corridor may find brightplace's guide to [DC suburbs for downsizers](https://www.brightplace.ai/guides/dc-empty-nesters) useful for additional context.
 
@@ -135,35 +145,41 @@ Newer buildings like The Amelia (816 N Oakland St) offer contemporary finishes a
 
 ## Practical Details Before You Apply
 
+### Application and Move-In Fees
+
 Before contacting the leasing office, here are the specifics that most listing pages leave out. The application fee is $50 per applicant (as of Q2 2026). An administrative fee of $400 (as of Q2 2026) is due at move-in. These are standard for the Arlington corridor but worth budgeting for in advance.
 
+### Lease Terms and Office Hours
+
 Lease terms run 6 to 12 months for unfurnished units and 30 days or more for furnished units. The leasing office is open Monday through Saturday, 9 AM to 6 PM, and Sunday, 12 PM to 6 PM. The building uses an online resident portal for maintenance requests and rent payments.
+
+### Parking and Management
 
 Parking is reserved and available at additional cost; confirm the current monthly rate with leasing directly. Dittmar Company manages multiple communities across the Arlington corridor, so renters comparing within the Dittmar portfolio can ask the leasing team about availability at sister properties. For current unit availability and floor plans, visit the property's official site at rentrt.com or search Ballston-area apartments on [brightplace](https://brightplace.ai). [INTERNAL LINK: how to rent an apartment checklist]
 
 ## Frequently Asked Questions About Randolph Towers
 
-### What is the address of Randolph Towers in Ballston, VA?
+### 1. What is the address of Randolph Towers in Ballston, VA?
 
 Randolph Towers is located at 4001 North 9th Street, Arlington, VA 22203. The building sits in the Ballston neighborhood, approximately one block from the Ballston-MU Metro station on the Orange and Silver lines. The leasing office can be reached at (703) 525-9000 during office hours.
 
-### What are the rent prices at Randolph Towers?
+### 2. What are the rent prices at Randolph Towers?
 
 As of Q2 2026, one-bedroom unfurnished units at Randolph Towers start at approximately $2,530 per month and two-bedroom unfurnished units range from approximately $3,495 to $3,695 per month. Furnished units carry a premium. Contact the leasing office directly for current pricing and availability, as rates vary by floor and lease term.
 
-### Does Randolph Towers allow pets?
+### 3. Does Randolph Towers allow pets?
 
 No. Randolph Towers is a pet-free community. This is a firm policy that applies building-wide. Renters with pets will need to consider other Ballston-area buildings. Several nearby Dittmar properties also do not allow pets; confirm directly with each building before applying.
 
-### Are Randolph Towers apartments furnished?
+### 4. Are Randolph Towers apartments furnished?
 
 Yes, furnished units are available at Randolph Towers for stays of 30 days or longer. Furnished apartments are professionally designed and fully equipped, including furniture, household goods, and kitchen essentials. Pricing is meaningfully higher than unfurnished equivalents. Both Dittmar Company and third-party corporate housing providers offer furnished units in the building.
 
-### How close is Randolph Towers to the Metro?
+### 5. How close is Randolph Towers to the Metro?
 
 The Ballston-MU Metro station is approximately one block from Randolph Towers, making it one of the closer Metro-adjacent buildings in the Ballston corridor. The Orange and Silver lines provide direct access to Rosslyn in roughly 10 minutes and to DC's core in approximately 20 to 25 minutes.
 
-### Is Randolph Towers a historic building?
+### 6. Is Randolph Towers a historic building?
 
 Randolph Towers is not a recognized historic landmark. The building was constructed in 1986 and has since undergone a comprehensive modernization program. It is a concrete high-rise with 21 stories and 509 units. Its relevance to renters is practical rather than historic: location, size, and Metro access.
 

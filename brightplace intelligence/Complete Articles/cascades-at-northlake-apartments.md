@@ -92,13 +92,23 @@ Each property has different lease terms, utility billing structures, and amenity
 
 Before committing to a lease at Cascades at Northlake or any comparable property, ask the leasing office these five questions.
 
+### Net Effective Rent vs. Gross Rent
+
 **Is the quoted price net effective rent or gross rent?** A **lease concession**, a financial incentive such as one or more months of free or reduced rent, can make the first month look cheaper while subsequent months remain at full price.
+
+### Utility Billing
 
 **How are utilities billed?** Ask whether the property uses **RUBS (Ratio Utility Billing System)**, a method where total utility costs for a building are divided among residents based on unit size or occupancy rather than individual metered use. RUBS utility billing can add $50 to $150 per month (as of Q2 2025) to the total housing cost beyond base rent, depending on unit size and building occupancy.
 
+### Early Termination Fee
+
 **What is the early termination fee?** Some properties charge two months' rent; others have a sliding scale. Know the number before you sign.
 
+### Renewal Rate Increases
+
 **What are the historical renewal rate increases?** Ask what percentage rent increased at the last renewal cycle. This tells you more about future costs than the current listed price.
+
+### Pet Deposit and Monthly Pet Rent
 
 **What is the pet deposit and monthly pet rent?** Pet-friendly does not mean pet-free. Monthly pet rent of $25 to $75 per pet (as of Q2 2025) is common at properties in this tier, on top of a one-time deposit.
 
@@ -106,27 +116,27 @@ If you are still comparing options in Charlotte, [brightplace](https://brightpla
 
 ## Frequently Asked Questions About Cascades at Northlake
 
-### Where exactly is Cascades at Northlake located?
+### 1. Where exactly is Cascades at Northlake located?
 
 Cascades at Northlake is located at 8700 Long Creek Club Drive, Charlotte, NC 28216. The community sits in north Charlotte near the Northlake Mall corridor, close to the I-485 and Brookshire Freeway interchange. It is part of the Mecklenburg County jurisdiction and falls within the Charlotte-Mecklenburg Schools (CMS) district.
 
-### What is the phone number for Cascades at Northlake apartments?
+### 2. What is the phone number for Cascades at Northlake apartments?
 
 The leasing office at Cascades at Northlake can be reached at 704-703-1326. Confirm current hours before calling, as leasing office schedules can change seasonally. Calling directly is the most reliable way to confirm unit availability, current pricing, and any active move-in specials that may not appear online.
 
-### Are rents going down at Cascades at Northlake?
+### 3. Are rents going down at Cascades at Northlake?
 
 Charlotte's rental market has seen moderate price adjustments in 2025. For a broader look at affordability across the city, see brightplace's guide to [Charlotte's most affordable neighborhoods](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods), but rent decreases vary by submarket and property. At Cascades at Northlake, listed prices for 1-bedroom units start at $1,194 per month (as of Q2 2025). Contact the leasing office to ask about current concessions, as move-in specials can reduce effective monthly costs.
 
-### Does Cascades at Northlake allow pets?
+### 4. Does Cascades at Northlake allow pets?
 
 Cascades at Northlake is listed as a pet-friendly community. Specific breed restrictions, weight limits, pet deposits, and monthly pet rent amounts should be confirmed directly with the leasing office before applying. Pet fees add to the total monthly housing cost, so factor them into your budget alongside base rent.
 
-### How does Cascades at Northlake compare to other north Charlotte apartments?
+### 5. How does Cascades at Northlake compare to other north Charlotte apartments?
 
 Cascades at Northlake falls in the mid-market range for the north Charlotte submarket, with units priced between $1,194 and $2,279 per month (as of Q2 2025). Comparable properties include Bridges at Mallard Creek and The Grayson. Use [brightplace](https://brightplace.ai) to compare availability and pricing across multiple communities.
 
-### What utilities are included in rent at Cascades at Northlake?
+### 6. What utilities are included in rent at Cascades at Northlake?
 
 Utility inclusions must be confirmed with the leasing office, as they are not consistently listed online. Ask specifically whether the property uses RUBS (Ratio Utility Billing System), which divides building utility costs among residents rather than metering individually. RUBS can add $50 to $150 per month (as of Q2 2025) beyond base rent.
 

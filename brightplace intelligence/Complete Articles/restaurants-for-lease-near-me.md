@@ -21,9 +21,13 @@ Based on the search patterns brightplace tracks, "restaurants for lease near me"
 
 ## Where to Search for Restaurant Space for Lease
 
+### Online Commercial Listing Platforms
+
 The most effective starting points for finding restaurant space for lease are commercial listing platforms that allow filtering by property use type. Start with [LoopNet](https://www.loopnet.com){target="_blank" rel="noopener"}, the largest commercial real estate listing database in the U.S. Filter by "Restaurant" or "Food and Beverage" under property subtype, then enter your target ZIP code or city.
 
 [Crexi](https://www.crexi.com){target="_blank" rel="noopener"} is a growing alternative with particular strength in South and Southwest markets. Both platforms let you sort by square footage, asking rent, and lease type. CoStar is the institutional database that powers much of the commercial brokerage industry, but direct access requires a paid subscription. Most operators encounter CoStar data through their broker.
+
+### Local Tenant-Representation Brokers
 
 Local commercial brokers carry listings that never reach public platforms. A tenant-representation broker works on your behalf at no cost to you; the landlord pays the commission. If you are searching in a specific city, contacting two or three local tenant-rep brokers will surface off-market spaces that LoopNet and Crexi do not show.
 
@@ -44,6 +48,8 @@ A listing that says "vanilla shell" or "white box" means you are building everyt
 
 ## How Restaurant Lease Pricing Works
 
+### Total Occupancy Cost
+
 Restaurant lease pricing varies dramatically by location. Asking rents are only one component of your total occupancy cost. NNN charges, common area maintenance fees, and required buildout costs compound the real monthly cost well beyond the listed rent figure.
 
 | Market Tier | Typical Asking Rent | NNN Estimate | Notes |
@@ -53,9 +59,13 @@ Restaurant lease pricing varies dramatically by location. Asking rents are only 
 | Major metro (non-prime) | $35-$80/SF/year (as of Q2 2026) | $8-$15/SF | High variance |
 | Prime urban corridor | $80-$200+/SF/year (as of Q2 2026) | $15-$30/SF | Manhattan, WeHo, etc. |
 
+### Calculating Monthly All-In Costs
+
 Restaurant spaces in secondary markets typically ask $12 to $25 per square foot per year (as of Q2 2026), converting to roughly $1,000 to $2,100 per month for a 1,000 SF space. A 2,000 SF space in a mid-size city at $30/SF NNN with $8/SF in triple net charges could run $6,333/month all-in. Run the full calculation before scheduling a tour.
 
 ## How a Restaurant Lease Actually Works
+
+### The Leasing Process
 
 The restaurant leasing process starts with identifying spaces and ends with a signed lease, but several critical steps happen in between:
 
@@ -64,6 +74,8 @@ The restaurant leasing process starts with identifying spaces and ends with a si
 3. Negotiate the LOI terms (see below).
 4. Engage a real estate attorney to draft the formal lease.
 5. Sign the lease and begin buildout.
+
+### Key LOI Terms
 
 The LOI covers the following key terms:
 
@@ -74,6 +86,8 @@ The LOI covers the following key terms:
 - **Personal guarantee** scope (a requirement that the tenant personally backs the lease obligations, meaning the landlord can pursue the individual's personal assets if the business defaults)
 
 Most restaurant landlords require lease terms of 5 to 10 years, with at least one 5-year renewal option negotiated at signing.
+
+### Contact the Health Department Early
 
 One step that saves significant money and delays: contact your local health department before signing, not after. Operators who engage environmental health inspectors during the LOI phase can identify code requirements, kitchen layout issues, and permitting timelines that would otherwise become expensive surprises mid-buildout. This costs nothing and can prevent five-figure change orders.
 
@@ -87,12 +101,16 @@ The [SBA's restaurant financing resources](https://www.sba.gov/business-guide/pl
 
 ## Second-Generation vs. Raw Space: What the Difference Costs You
 
+### What a Second-Generation Space Includes
+
 A **second-generation restaurant space** is a previously operated restaurant that retains existing kitchen infrastructure. This distinction is the single most important filter when evaluating listings. Key infrastructure in a second-gen space typically includes:
 
 - Hood exhaust
 - Grease trap
 - Gas lines
 - Walk-in cooler connections
+
+### Buildout Cost Comparison
 
 Buildout costs for raw commercial space can run $200 to $400 per square foot or more (as of 2026), compared to $75 to $150 per square foot for a second-generation space with existing infrastructure. For a 1,500 SF restaurant, that difference is $187,500 to $375,000 in buildout savings.
 
@@ -112,41 +130,45 @@ A tenant-rep broker can negotiate these terms on your behalf at no cost to you. 
 
 ## Small and Affordable Restaurant Spaces: What to Expect
 
+### Budget-Level Traditional Spaces
+
 Spaces under $1,000/month (as of Q2 2026) exist primarily in rural secondary markets and very small square footages under 500 SF. A 1,000 SF space in a secondary market at $20/SF NNN might run $2,500 to $3,500/month all-in (as of Q2 2026). That is typically the realistic floor for a functional restaurant with cooking infrastructure.
+
+### Ghost Kitchens and Commissary Alternatives
 
 Ghost kitchen memberships and commissary kitchens offer an alternative for early-stage operators who are not ready for a full lease commitment. Monthly memberships run $2,000 to $10,000 (as of Q2 2026) depending on the market, but they eliminate buildout costs entirely. For operators building a proof of concept before signing a long-term lease, this path reduces risk considerably. The [apartment lease walkthrough process](https://brightplace.ai/guides/how-to-rent-an-apartment) shares some structural similarities with commercial leasing, though the terms and stakes differ significantly.
 
 ## Frequently Asked Questions About Leasing Restaurant Space
 
-### How much does it cost to lease a restaurant space?
+### 1. How much does it cost to lease a restaurant space?
 
 Restaurant lease costs depend on market tier and space size. Secondary markets run $12 to $25 per square foot per year (as of Q2 2026), while prime urban corridors reach $80 to $200+ per square foot per year. A 1,500 SF space in a mid-size city typically costs $3,500 to $6,500 monthly all-in, including NNN charges.
 
-### What is the 30/30/30 rule for restaurants?
+### 2. What is the 30/30/30 rule for restaurants?
 
 The 30/30/30 rule allocates roughly 30% of gross revenue to food cost, 30% to labor, and 30% to all remaining overhead including rent. The remaining 10% represents net profit margin. This framework means rent and occupancy costs should stay below 6 to 10% of projected gross revenue to maintain viable margins.
 
-### How does leasing a restaurant work?
+### 3. How does leasing a restaurant work?
 
 Restaurant leasing begins with searching commercial platforms like LoopNet or Crexi, then submitting a Letter of Intent to the landlord. Negotiation covers rent, tenant improvement allowance, free rent period, and personal guarantee terms. After the LOI is accepted, a formal lease is drafted. The entire process takes 30 to 90 days.
 
-### What does $10/SF/year mean in a commercial lease?
+### 4. What does $10/SF/year mean in a commercial lease?
 
 A listing priced at $10 per square foot per year means you pay $10 annually for each square foot of leased space. For a 2,500 SF restaurant, that equals $25,000 per year, or approximately $2,083 per month in base rent. NNN charges add property taxes, insurance, and maintenance costs on top of that figure.
 
-### What is a second-generation restaurant space?
+### 5. What is a second-generation restaurant space?
 
 A second-generation restaurant space was previously operated as a restaurant and retains existing kitchen infrastructure: hood exhaust, grease trap, gas lines, and walk-in cooler connections. Buildout costs for second-gen spaces run $75 to $150 per square foot (as of 2026), compared to $200 to $400+ per square foot for raw space.
 
-### What should I negotiate before signing a restaurant lease?
+### 6. What should I negotiate before signing a restaurant lease?
 
 Negotiate tenant improvement allowance, free rent during buildout, personal guarantee scope limited to one or two years, at least two five-year renewal options, and co-tenancy protections if located in a retail center. Address all five items at the Letter of Intent stage before legal costs are incurred. A tenant-rep broker handles this at no cost to you.
 
-### Do I need a broker to find restaurant space for lease?
+### 7. Do I need a broker to find restaurant space for lease?
 
 A broker is not required, but a tenant-representation broker works on your behalf at no cost to you because the landlord pays the commission. Tenant-rep brokers access off-market listings, negotiate TI allowances, and manage the LOI process. For first-time operators, broker representation provides meaningful value without adding expense.
 
-### What is a personal guarantee in a restaurant lease?
+### 8. What is a personal guarantee in a restaurant lease?
 
 A personal guarantee requires the tenant to personally back the lease obligations with their own assets. If the restaurant business defaults on rent, the landlord can pursue the individual's personal finances, not just the business entity. Negotiate to limit the guarantee to one or two years rather than the full lease term.
 

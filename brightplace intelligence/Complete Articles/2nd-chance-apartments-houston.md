@@ -42,7 +42,11 @@ Here is something competitors rarely explain: the reason age thresholds matter i
 
 ## What Houston Landlords Require for Approval
 
+### Income Requirements
+
 Income is the non-negotiable factor. Most Houston properties require gross monthly income of at least 3 times the monthly rent (as of Q2 2026). For a $1,000/month apartment, that means $3,000/month in verifiable income. The 3x rule exists because landlords use it as a baseline indicator that a tenant can cover rent, utilities, and basic expenses without falling behind.
+
+### Documentation
 
 Bring the following documentation to every application:
 
@@ -52,6 +56,8 @@ Bring the following documentation to every application:
 - If you have settled previous rental debt, bring the paid-in-full letter or documented payment plan
 
 For cash-paid workers, bank statement deposits over the last 60 to 90 days can serve as an alternative to traditional pay stubs at some properties.
+
+### Deposits and Fees
 
 Deposits run higher than the market average. Expect to pay a deposit equal to one full month's rent, and sometimes 1.5 to 2 times the monthly rent (as of Q2 2026). Some properties charge a non-refundable **risk fee** instead. A risk fee (sometimes called a surety bond) is a non-refundable fee paid at move-in by higher-risk applicants, typically ranging from $300 to $800 in Houston (as of Q2 2026), that protects the landlord in lieu of a larger security deposit. Ask which structure a property uses before applying.
 
@@ -63,11 +69,19 @@ Older Class C apartment complexes with on-site or small-company management are t
 
 For a broader overview of Houston's rental market by neighborhood, see brightplace's [Houston renter orientation](https://www.brightplace.ai/guides/houston-city-orientation).
 
+### Alief and Southwest Houston
+
 **Alief and Southwest Houston** have a high density of garden-style complexes built in the 1980s and 1990s, many with on-site leasing offices and independent management companies. Proximity to Beltway 8 and Highway 6 makes this area accessible for commuters. Based on rental inventory tracked by brightplace across Houston (as of Q2 2026), second chance properties are well-represented here. Rent in this area falls in the affordable tier of the Houston market.
+
+### Greenspoint and North Houston
 
 **Greenspoint and North Houston** offer a large inventory of mid-tier apartments with historically more flexibility on credit and rental history screening. Access to I-45 North and Beltway 8 supports commutes to downtown and The Woodlands. Some properties in this corridor have older units with fewer amenities than newer construction elsewhere. That is the honest tradeoff.
 
+### Sharpstown
+
 **Sharpstown** sits along Bellaire Boulevard and Bissonnet Street with dense apartment corridors and affordable per-square-foot pricing. Multiple management companies operate here, increasing the range of screening criteria you will encounter.
+
+### East Houston
 
 **East Houston** has a mix of individually-owned properties and smaller management companies. Older housing stock is common, and private landlords in this area may review applications more flexibly than corporate operators.
 
@@ -87,6 +101,8 @@ brightplace tracks available units across Houston neighborhoods. [Search current
 
 ## What to Expect After Approval: Move-In Costs and Rebuilding
 
+### Move-In Costs
+
 Move-in costs at second chance properties run higher than standard apartments. Budget for the following:
 
 - First month's rent
@@ -94,6 +110,8 @@ Move-in costs at second chance properties run higher than standard apartments. B
 - Any application or administrative fees
 
 Ask about move-in specials. Even second chance properties run promotions, particularly during slower leasing months. Specials like reduced first month's rent or waived admin fees are available but change frequently. Calling directly and asking is the only reliable way to confirm current offers.
+
+### Rebuilding Your Rental Record
 
 **Rent reporting** is a service offered by some properties that submits on-time rent payment records to consumer reporting agencies like Experian RentBureau or RealPage LeasingDesk, helping tenants rebuild their credit profile. On-time payments reported through these services build a positive rental history that strengthens future applications. Not every property participates, so ask before signing your lease.
 
@@ -111,35 +129,35 @@ Ready to search? brightplace shows available apartments across Houston, includin
 
 ## Frequently Asked Questions
 
-### Does a 2nd chance apartment accept evictions?
+### 1. Does a 2nd chance apartment accept evictions?
 
 Yes. Many Houston apartments accept evictions on a case-by-case basis. The key factors are the age of the eviction (typically 2 or more years), whether the balance owed is paid or in a payment plan, and whether your current income meets the 3x rent threshold (as of Q2 2026).
 
-### What is the second chance law in Texas?
+### 2. What is the second chance law in Texas?
 
 There is no specific "second chance law" in Texas. Texas law gives landlords the right to set their own approval criteria. However, state law requires landlords to disclose their eligibility criteria in writing before collecting an application fee, so applicants can determine whether their situation fits before paying.
 
-### Will apartments give you a second chance?
+### 3. Will apartments give you a second chance?
 
 Some do. Properties with more flexible screening criteria are typically older complexes, privately managed buildings, or communities that specialize in working with difficult rental histories. Large corporate-managed Class A properties in Houston rarely offer this flexibility. A licensed apartment locator can identify which properties currently accept your profile.
 
-### How do I get an apartment with bad credit and an eviction?
+### 4. How do I get an apartment with bad credit and an eviction?
 
 Start by knowing your exact issue: the date of the eviction, the balance owed, and your current income. Pay off or settle any rental debt if possible. Work with a licensed apartment locator who can pre-screen properties before you pay application fees. Bring documentation of stable income to every application.
 
-### Are there 2nd chance apartments in Houston under $1,000?
+### 5. Are there 2nd chance apartments in Houston under $1,000?
 
 Units under $1,000 per month (as of Q2 2026) exist in Houston, particularly in areas like Alief, Greenspoint, East Houston, and South Houston. Second chance approval at this price point requires strong, verifiable income. Expect a higher deposit or risk fee at these properties compared to standard-screening apartments.
 
-### Are there 2nd chance apartments with no credit check in Houston?
+### 6. Are there 2nd chance apartments with no credit check in Houston?
 
 "No credit check" advertising in Houston is often misleading. Most properties still verify income, rental history through tenant databases, and criminal background. A few private landlords skip credit bureau pulls but still screen in other ways. Properties with truly no screening are uncommon and should be toured in person before any money changes hands.
 
-### How long does an eviction stay on your record in Texas?
+### 7. How long does an eviction stay on your record in Texas?
 
 Eviction records in Texas can appear on tenant screening reports for up to 7 years from the filing date. Evictions filed in Harris County appear in the Harris County District Court public records database, which most third-party screening platforms search as part of a standard background check. Many second chance properties focus on the last 2 to 3 years.
 
-### Can I rent in Houston with a felony on my record?
+### 8. Can I rent in Houston with a felony on my record?
 
 Yes, in many cases. Houston apartments that accept criminal backgrounds typically review the type of offense, how long ago it occurred, and whether the applicant completed any probation or required programs. Non-violent, older offenses are more workable than recent or violent ones. A licensed locator can identify properties that review backgrounds individually.
 

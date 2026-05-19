@@ -36,7 +36,11 @@ The property's description references 1-bedroom and 3-bedroom options, but these
 
 ## Understanding the Full Cost: Fees Beyond Base Rent
 
+### Mandatory Monthly Fee
+
 The gap between listed base rent and what you actually pay each month at Discovery at Space Coast comes down to one mandatory charge. The Smart Technology Fee is a mandatory $125/month charge that bundles Wi-Fi, smart home access, package locker service, pest control, and valet trash into a single line item on the monthly bill (as of Q2 2026). Every lease includes it.
+
+### One-Time Move-In Fees
 
 One-time move-in fees add to the upfront cost:
 
@@ -44,11 +48,15 @@ One-time move-in fees add to the upfront cost:
 - Application fee: $85 per applicant
 - Account setup fee: $25 (as of Q2 2026)
 
+### Situational Fees
+
 Situational fees matter for budgeting, too. Late rent carries a penalty of 10% of rent. An early termination fee equal to two months of rent applies if a resident breaks the lease before the end of the term. Transferring to a different unit within the community costs $750 (as of Q2 2026). Renters on short project cycles should clarify lease transfer options before signing. For a complete breakdown of costs beyond base rent, see brightplace's guide to [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
 **brightplace tracks apartment pricing and availability across Brevard County. Search the Space Coast on [brightplace](https://brightplace.ai) to compare options in one place.**
 
 ## Amenities at Discovery at Space Coast
+
+### In-Unit Features
 
 In-unit features at Discovery at Space Coast include:
 
@@ -62,6 +70,8 @@ In-unit features at Discovery at Space Coast include:
 - USB outlet ports
 - Private screened patios
 - Walk-in closets
+
+### Community Amenities
 
 Community amenities include:
 
@@ -86,7 +96,11 @@ Florida Affordable Veterinary Services is approximately 9 minutes away, and a Pe
 
 ## Where Is Discovery at Space Coast Located?
 
+### What Is Nearby
+
 Rockledge sits in Brevard County on Florida's Space Coast, roughly 45 to 55 miles east of downtown Orlando. Kennedy Space Center is approximately 20 to 25 minutes north. Nearby dining includes Baci, The Twisted Birch, and La Marimba.
+
+### Aerospace and Defense Employment
 
 The area's economy is closely tied to aerospace and defense employers. SpaceX, NASA, and Blue Origin operations at and around Kennedy Space Center generate steady demand for rental housing in Rockledge and neighboring cities. Contractors working on project-based timelines should ask about lease term flexibility before committing, as standard lease lengths here run 12 to 13 months. Renters also considering the Tampa metro should see brightplace's [Tampa renter orientation](https://www.brightplace.ai/guides/tampa-renters-orientation).
 
@@ -118,27 +132,27 @@ Renters who need a 1-bedroom unit or a lease shorter than 12 months should verif
 
 ## Frequently Asked Questions About Discovery at Space Coast
 
-### What area of Florida is the Space Coast?
+### 1. What area of Florida is the Space Coast?
 
 Florida's Space Coast is the eastern coastal corridor of Brevard County, running from Titusville through Cocoa, Rockledge, and Melbourne. It is named for its proximity to Kennedy Space Center and Cape Canaveral Space Force Station, which anchor a major aerospace and defense employment base in the region.
 
-### Does Discovery at Space Coast have a pool?
+### 2. Does Discovery at Space Coast have a pool?
 
 Yes. Discovery at Space Coast features a resort-style saltwater pool with daybeds. The pool area is part of the community's outdoor amenity package, which also includes a lounge with a fireplace and multiple courtyard spaces available to all residents year-round.
 
-### What is included in the Smart Technology Fee at Discovery at Space Coast?
+### 3. What is included in the Smart Technology Fee at Discovery at Space Coast?
 
 The mandatory $125/month Smart Technology Fee covers high-speed Wi-Fi, smart home access and keyless entry integration, package locker service, pest control, and valet trash and recycling pickup. It is added to base rent on every lease and is not optional (as of Q2 2026).
 
-### What is the pet policy at Discovery at Space Coast?
+### 4. What is the pet policy at Discovery at Space Coast?
 
 Discovery at Space Coast allows cats and dogs up to 100 pounds, with a maximum of two indoor pets per apartment. The non-refundable pet fee is $300 per pet, and monthly pet rent is $35 per pet. Breed restrictions apply. Dogs require Poo Prints DNA registration at $50 per dog (as of Q2 2026).
 
-### How far is Discovery at Space Coast from Orlando?
+### 5. How far is Discovery at Space Coast from Orlando?
 
 Discovery at Space Coast in Rockledge, FL is approximately 45 to 55 miles east of downtown Orlando, typically a 45- to 60-minute drive depending on traffic and route. The community is also positioned roughly 20 to 25 minutes south of Kennedy Space Center by car.
 
-### What is the early termination policy at Discovery at Space Coast?
+### 6. What is the early termination policy at Discovery at Space Coast?
 
 Discovery at Space Coast charges an early termination fee equal to two months of rent if a resident breaks the lease before the end of the agreed term. Renters on short-term project contracts should ask the leasing office about lease transfer options or shorter-term availability before committing.
 

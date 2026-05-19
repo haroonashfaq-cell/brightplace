@@ -21,7 +21,7 @@ Built in 2012, the community offers 1BR, 2BR, and select 3BR floor plans. 2BR un
 
 **See what is currently available in Plano's Legacy corridor on [brightplace](https://brightplace.ai).**
 
-### Amenities and Unit Features
+### In-Unit Features
 
 Interior finishes include:
 
@@ -30,6 +30,8 @@ Interior finishes include:
 - Wood-style flooring
 - In-unit washer/dryer
 - Private balconies
+
+### Community Amenities
 
 Community amenities confirmed at the property:
 
@@ -44,9 +46,13 @@ The garage parking is a practical advantage during Texas summers, where surface 
 
 ## Why the Legacy Corridor Location Matters
 
+### Walkability and Retail Access
+
 The Legacy West submarket is one of the few areas in suburban DFW where walkable retail and corporate employment proximity coexist. The Legacy corridor refers to the stretch of Plano running along the Dallas North Tollway between roughly Legacy Drive and Headquarters Drive, anchored by Legacy Business Park and the Legacy West mixed-use development.
 
 Walking access to Legacy West puts Whole Foods, Shops at Legacy, and a concentrated restaurant row within reach on foot. That kind of walkability is uncommon in suburban DFW and accounts for part of the rent premium in this submarket.
+
+### Nearby Employers
 
 The following employers all maintain major campuses within approximately 1-3 miles of the Legacy West submarket:
 
@@ -58,6 +64,8 @@ The following employers all maintain major campuses within approximately 1-3 mil
 - Ericsson
 
 For corporate relocators, this means a commute measured in minutes rather than highway segments.
+
+### Transit Access and Schools
 
 The CityLine/Bush DART station on the Red and Orange Lines sits approximately 2-3 miles from the property. DART rail connects to Downtown Dallas without a car, with travel times of roughly 30-40 minutes depending on the line and time of day. Plano ISD, one of the highest-performing school districts in Texas, serves this area, which matters for renters with children.
 
@@ -111,27 +119,27 @@ Parkside at Legacy is an apartment community, not a condominium complex. Individ
 
 ## Frequently Asked Questions About Parkside at Legacy Plano
 
-### What is Parkside at Legacy in Plano?
+### 1. What is Parkside at Legacy in Plano?
 
 Parkside at Legacy is a Class A apartment community at 5745 Bozeman Dr in Plano, TX 75024. It offers 1BR, 2BR, and select 3BR floor plans with granite countertops, stainless appliances, and in-unit washer/dryer. The property sits within walking distance of Legacy West's retail, dining, and corporate campuses.
 
-### How much does it cost to rent at Parkside at Legacy Plano?
+### 2. How much does it cost to rent at Parkside at Legacy Plano?
 
 As of Q2 2025, 1BR units in the Legacy corridor ranged from approximately $1,500 to $1,900/month. 2BR units ran from roughly $2,000 to $2,800+/month. Pricing varies by floor plan, floor level, and current concession availability. Verify directly with the property for current rates and any available incentives.
 
-### What are reviews saying about Parkside at Legacy Plano?
+### 3. What are reviews saying about Parkside at Legacy Plano?
 
 Consistent feedback categories for Parkside at Legacy tend to center on maintenance responsiveness, parking access, and Tollway-adjacent noise. Rather than relying on aggregated scores, prospective renters should ask specific questions during a tour about maintenance response times, parking garage capacity, and unit placement relative to the Tollway.
 
-### Is Parkside at Legacy Plano for sale?
+### 4. Is Parkside at Legacy Plano for sale?
 
 Parkside at Legacy is an apartment community, not a condominium complex. Individual units are not listed for sale. Renters interested in purchasing property in the Legacy corridor should work with a licensed Texas real estate agent, as the transaction involves a different property type and process.
 
-### What employers are near Parkside at Legacy Plano?
+### 5. What employers are near Parkside at Legacy Plano?
 
 Toyota North America, JPMorgan Chase, Liberty Mutual, HP, FedEx Office, and Ericsson all maintain major campuses within approximately 1-3 miles of Parkside at Legacy. The property is one of the closest residential options to the Legacy Business Park employment cluster in Plano.
 
-### How do you get from Parkside at Legacy to Downtown Dallas without a car?
+### 6. How do you get from Parkside at Legacy to Downtown Dallas without a car?
 
 The CityLine/Bush DART station on the Red and Orange Lines is approximately 2-3 miles from Parkside at Legacy. From that station, DART rail connects to Downtown Dallas without a car. Travel time is roughly 30-40 minutes depending on the line and time of day.
 

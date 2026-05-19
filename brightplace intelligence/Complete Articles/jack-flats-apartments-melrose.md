@@ -39,6 +39,8 @@ Classic units offer a more conventional layout with 9-to-10-foot ceilings and cl
 
 ## Unit Sizes, Finishes, and Pricing
 
+### Standard Finishes Across All Collections
+
 Jack Flats apartments include standard finishes across all three collections:
 
 - Stone countertops
@@ -46,6 +48,8 @@ Jack Flats apartments include standard finishes across all three collections:
 - Gas ranges
 - In-unit washer and dryer
 - Luxury vinyl plank flooring
+
+### Current Rent Ranges
 
 | Unit Type | Approximate Rent Range | Key Finishes | Notes |
 |---|---|---|---|
@@ -56,9 +60,13 @@ Jack Flats apartments include standard finishes across all three collections:
 
 These prices reflect publicly listed rates from Windsor Communities (as of Q2 2026). Actual pricing changes frequently; contact the leasing office at Windsor Radio Factory directly for current availability and rates. For a breakdown of what goes into total housing costs beyond base rent, see brightplace's guide to [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
+### Affordable Housing at Jack Flats
+
 One detail most competitors do not cover: Jack Flats includes an affordable housing component with below-market-rate units. Area Median Income, or AMI, is the federal benchmark used to set income eligibility thresholds for below-market-rate housing programs. In the greater Boston area, AMI for a one-person household is approximately $93,000 (as of Q2 2026). Households meeting AMI guidelines may qualify for reduced rents. Waitlist status for these units is currently unknown; contact the leasing office or Housing Navigator MA for current availability and income requirements.
 
 ## Amenities and Community Features
+
+### Community Amenities
 
 The campus amenities include:
 
@@ -72,11 +80,15 @@ The campus amenities include:
 - Recording studio for creative workspace
 - EV charging stations
 
+### Rewards and Parking
+
 Jack Flats participates in Bilt Rewards, which allows residents to earn points on rent payments. Parking is available on the campus, though renters should confirm pricing and availability for their specific unit type with the leasing office.
 
 ## Commute and Transit Options from Melrose
 
-Wyoming Hill Station is the MBTA commuter rail stop nearest to Jack Flats, serving the Haverhill/Newburyport Line with service to North Station in Boston in under 20 minutes on most weekday departures. Based on brightplace's review of publicly available transit schedules, the Wyoming Hill commuter rail station puts North Station within approximately 18 to 20 minutes on weekday departures (as of Q2 2026).
+### Transit Access
+
+Wyoming Hill Station is the MBTA commuter rail stop nearest to Jack Flats, serving the Haverhill/Newburyport Line with service to North Station in Boston in under 20 minutes on most weekday departures (as of Q2 2026).
 
 Transit options from Jack Flats include:
 
@@ -85,11 +97,17 @@ Transit options from Jack Flats include:
 - MBTA Orange Line within walking distance, providing a second rail option to Boston
 - I-93 access for drivers heading into the city or north toward New Hampshire
 
+### Commute to Cambridge and Somerville
+
 For renters commuting toward Cambridge or Somerville employers, Assembly Row in Somerville is a short trip south and offers an Orange Line connection at Assembly Station. Commuter rail service frequency varies by time of day, so confirm specific departure schedules before relying on a particular train for a daily commute.
 
 ## Neighborhood and Lifestyle Around Jack Flats
 
+### Walking Distance from the Property
+
 Downtown Melrose sits within walking distance of the property, with coffee shops, restaurants, and independent retail concentrated along Main Street. The Middlesex Fells Reservation encompasses over 1,700 acres of trails accessible from the property, making it a practical option for runners, hikers, and dog owners who want trail access without driving.
+
+### Nearby Shopping and Entertainment
 
 Assembly Row, the lifestyle center in Somerville, is a short drive or transit ride south and includes dining, retail, and entertainment options. Market Street Lifestyle Center in Lynnfield offers additional shopping within a 10-minute drive. Grocery stores, pharmacies, and everyday errands are manageable without a car for most residents, though having one expands the radius considerably.
 
@@ -101,35 +119,35 @@ The mill building that now houses Jack Flats Mill Apartments is the original ind
 
 ## Frequently Asked Questions About Jack Flats Melrose
 
-### What are reviews like for Jack Flats apartments in Melrose, MA?
+### 1. What are reviews like for Jack Flats apartments in Melrose, MA?
 
 Windsor Radio Factory, the parent campus containing Jack Flats, holds a 4.5-star rating from Google reviewers (as of Q2 2026). That rating reflects the full campus, not Jack Flats units alone. Prospective renters should request a tour of the specific collection they are considering and ask to speak with current residents for firsthand feedback.
 
-### What apartments are available for rent at Jack Flats in Melrose?
+### 2. What apartments are available for rent at Jack Flats in Melrose?
 
-Jack Flats offers studios, one-bedroom, two-bedroom, and three-bedroom apartments across three collections: Classic, Mill, and Radio Factory Lofts. Availability changes frequently. Contact the leasing office at Windsor Radio Factory or visit windsorradiofactory.com for current openings, floor plans, and  move-in dates.
+Jack Flats offers studios, one-bedroom, two-bedroom, and three-bedroom apartments across three collections: Classic, Mill, and Radio Factory Lofts. Availability changes frequently. Contact the leasing office at Windsor Radio Factory or visit windsorradiofactory.com for current openings, floor plans, and move-in dates.
 
-### How much does it cost to rent at Jack Flats in Melrose?
+### 3. How much does it cost to rent at Jack Flats in Melrose?
 
 Studios start at approximately $2,550 per month, one-bedrooms at $2,639, and two-bedrooms at $3,701 (as of Q2 2026, per Windsor Communities). Below-market-rate units are also available through an affordable housing program. Pricing changes regularly, so verify current rates directly with the leasing office before applying.
 
-### Where is Jack Flats located in Melrose, MA?
+### 4. Where is Jack Flats located in Melrose, MA?
 
 Jack Flats is located at Stone Place and Washington Street, Melrose, MA 02176, within the Windsor Radio Factory campus. The complex spans 1000, 2000, 3000, and 4000 Stone Place. Wyoming Hill commuter rail station and an MBTA bus stop are both within walking distance of the property entrance.
 
-### What is Jack Flats by Windsor?
+### 5. What is Jack Flats by Windsor?
 
 Jack Flats is one component of the Windsor Radio Factory apartment community, managed by Windsor Property Management Co. The Jack Flats name covers three distinct building collections on the Stone Place campus: Classic Apartments (new construction), Mill Apartments (repurposed brick mill), and Radio Factory Lofts (historic factory building).
 
-### What is at 1000 Stone Place in Melrose, MA?
+### 6. What is at 1000 Stone Place in Melrose, MA?
 
 1000 Stone Place is one of the four building addresses within the Jack Flats and Windsor Radio Factory apartment campus in Melrose, Massachusetts. The full complex spans 1000, 2000, 3000, and 4000 Stone Place, Melrose, MA 02176. Each address corresponds to a different building within the campus.
 
-### Is Jack Flats pet friendly?
+### 7. Is Jack Flats pet friendly?
 
 Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in.
 
-### Does Jack Flats have affordable housing units?
+### 8. Does Jack Flats have affordable housing units?
 
 Yes. A portion of units at Jack Flats are designated below-market rate through an affordable housing program. Income eligibility is based on Area Median Income guidelines for the greater Boston metropolitan area. Contact the leasing office or Housing Navigator MA for current availability, income thresholds, and waitlist status.
 
