@@ -23,12 +23,10 @@ The gap between cheapest and most expensive neighborhoods for 2BR apartments can
 
 Not all 2 bedroom apartments share the same layout, and the configuration you choose affects both monthly cost and daily livability. A **2BR/2BA** is a two-bedroom apartment with two full bathrooms, typically providing one bathroom per bedroom. The table below breaks down the four most common configurations renters encounter.
 
-| Configuration | Typical Square Footage | Price Premium | Best For | Key Tradeoff |
-|---|---|---|---|---|
-| 2BR/1BA | 800-1,000 sq ft | Baseline | Budget-conscious renters, couples | Shared bathroom if roommates |
-| 2BR/2BA | 900-1,200 sq ft | 10-20% over 2BR/1BA | Roommates, couples wanting privacy | Higher monthly cost |
-| 2BR/Den or Flex | 850-1,100 sq ft | 5-15% over 2BR/1BA | Remote workers, hobby space | Den often lacks a closet or window |
-| 2BR Townhome | 1,000-1,400 sq ft | 15-30% over 2BR/1BA | Families, pet owners | Stairs, often no elevator access |
+- **2BR/1BA:** 800-1,000 sq ft. Baseline pricing. Best for budget-conscious renters and couples. Tradeoff: shared bathroom if roommates.
+- **2BR/2BA:** 900-1,200 sq ft. 10-20% premium over 2BR/1BA. Best for roommates and couples wanting privacy. Tradeoff: higher monthly cost.
+- **2BR/Den or Flex:** 850-1,100 sq ft. 5-15% premium over 2BR/1BA. Best for remote workers and hobby space. Tradeoff: den often lacks a closet or window.
+- **2BR Townhome:** 1,000-1,400 sq ft. 15-30% premium over 2BR/1BA. Best for families and pet owners. Tradeoff: stairs, often no elevator access.
 
 A 2BR/2BA typically commands a 10-20% premium over a 2BR/1BA in the same building (as of Q2 2025). For roommates splitting rent, that premium often pays for itself in privacy and convenience. Couples or single renters who do not need a second bathroom can save meaningfully by choosing a 1BA layout instead.
 
@@ -38,20 +36,18 @@ Den or flex configurations appeal to remote workers who need a dedicated workspa
 
 Rent for a 2 bedroom apartment depends primarily on your metro area and neighborhood. Based on listings tracked through brightplace's search data across major U.S. metros, the following table captures current rent ranges across twelve markets.
 
-| City | 2BR Monthly Rent Range (Q2 2025) | Notes on Variance |
-|---|---|---|
-| New York City (Manhattan) | $3,200-$5,500 | Outer boroughs 30-40% less |
-| Los Angeles | $2,200-$3,800 | Valley neighborhoods significantly cheaper |
-| Chicago | $1,400-$2,600 | Wide spread between North Side and South Side |
-| Houston | $1,100-$1,800 | Among the most affordable large metros |
-| Austin TX | $1,400-$2,100 | Growth market; prices rising year over year |
-| Phoenix AZ | $1,200-$1,800 | Suburban inventory keeps prices moderate |
-| Philadelphia | $1,300-$2,200 | Center City vs. outer neighborhoods |
-| Salt Lake City UT | $1,200-$1,700 | Limited inventory driving prices up |
-| Milwaukee WI | $900-$1,400 | One of the most affordable Midwest metros |
-| Columbus OH | $1,000-$1,600 | University-area premiums exist |
-| Charlotte NC | $1,200-$1,800 | Growth market with new construction supply |
-| Nampa ID | $1,000-$1,400 | Boise metro spillover market |
+- **New York City (Manhattan):** $3,200-$5,500/month (Q2 2025). Outer boroughs 30-40% less.
+- **Los Angeles:** $2,200-$3,800/month (Q2 2025). Valley neighborhoods significantly cheaper.
+- **Chicago:** $1,400-$2,600/month (Q2 2025). Wide spread between North Side and South Side.
+- **Houston:** $1,100-$1,800/month (Q2 2025). Among the most affordable large metros.
+- **Austin TX:** $1,400-$2,100/month (Q2 2025). Growth market; prices rising year over year.
+- **Phoenix AZ:** $1,200-$1,800/month (Q2 2025). Suburban inventory keeps prices moderate.
+- **Philadelphia:** $1,300-$2,200/month (Q2 2025). Center City vs. outer neighborhoods.
+- **Salt Lake City UT:** $1,200-$1,700/month (Q2 2025). Limited inventory driving prices up.
+- **Milwaukee WI:** $900-$1,400/month (Q2 2025). One of the most affordable Midwest metros.
+- **Columbus OH:** $1,000-$1,600/month (Q2 2025). University-area premiums exist.
+- **Charlotte NC:** $1,200-$1,800/month (Q2 2025). Growth market with new construction supply.
+- **Nampa ID:** $1,000-$1,400/month (Q2 2025). Boise metro spillover market.
 
 Renters willing to consider outer boroughs or suburban neighborhoods can often save 30-40% compared to city-center pricing (as of Q2 2025). In LA, a 2BR under $2,500 typically requires trading proximity to the westside for Valley neighborhoods. Similar dynamics play out in Chicago, Philadelphia, and most other metros with strong urban cores.
 
@@ -61,14 +57,12 @@ Renters willing to consider outer boroughs or suburban neighborhoods can often s
 
 The standard affordability benchmark comes from HUD cost-burden thresholds: spend no more than 30% of your gross monthly income on rent. Applying this rule to common 2BR price points produces the following income requirements.
 
-| Monthly Rent | Annual Income Needed (30% Rule) | Monthly Income Needed |
-|---|---|---|
-| $1,200 | $48,000 | $4,000 |
-| $1,500 | $60,000 | $5,000 |
-| $1,800 | $72,000 | $6,000 |
-| $2,200 | $88,000 | $7,333 |
-| $3,000 | $120,000 | $10,000 |
-| $4,000 | $160,000 | $13,333 |
+- **$1,200/month rent:** $48,000 annual income needed, or $4,000/month gross.
+- **$1,500/month rent:** $60,000 annual income needed, or $5,000/month gross.
+- **$1,800/month rent:** $72,000 annual income needed, or $6,000/month gross.
+- **$2,200/month rent:** $88,000 annual income needed, or $7,333/month gross.
+- **$3,000/month rent:** $120,000 annual income needed, or $10,000/month gross.
+- **$4,000/month rent:** $160,000 annual income needed, or $13,333/month gross.
 
 Most U.S. landlords require gross monthly income to be at least 2.5 to 3 times the monthly rent (as of Q2 2025). The **income multiple** is the ratio landlords use to verify a renter can afford rent; most markets require gross monthly income to be 2.5-3 times the monthly rent. NYC landlords commonly require 40 times monthly rent as annual income, making a $3,500/month apartment accessible only to renters earning $140,000 or more per year.
 

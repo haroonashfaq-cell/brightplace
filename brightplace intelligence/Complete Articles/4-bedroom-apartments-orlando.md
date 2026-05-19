@@ -27,12 +27,10 @@ The most important distinction for renters searching "4 bedroom apartments orlan
 
 Renters searching for 4 bedroom apartments in Orlando on brightplace frequently reconsider their product type after seeing the price gap between traditional apartment units and townhome rentals. The table below breaks down what each category costs and where to find it.
 
-| Product Type | Typical Monthly Rent (Q2 2026) | What You Get | Where to Find It in Orlando Metro |
-|---|---|---|---|
-| Apartment complex unit (4BR) | $2,400-$3,500 | On-site amenities, managed property, structured lease | Downtown Orlando, Lake Nona, MetroWest |
-| Townhome rental | $2,200-$3,200 | More square footage, attached garage, quieter | Kissimmee, Winter Garden, Oviedo |
-| Single-family home rental | $2,500-$4,500 | Private yard, driveway, maximum separation | Throughout metro, heaviest in Kissimmee corridor |
-| Furnished / short-term 4BR | $3,500-$6,000 | Flexible lease, fully furnished, utilities often included | Near Disney, International Drive, Lake Nona |
+**Apartment complex unit (4BR):** $2,400-$3,500/month (Q2 2026). On-site amenities, managed property, structured lease. Found in Downtown Orlando, Lake Nona, MetroWest.
+**Townhome rental:** $2,200-$3,200/month (Q2 2026). More square footage, attached garage, quieter. Found in Kissimmee, Winter Garden, Oviedo.
+**Single-family home rental:** $2,500-$4,500/month (Q2 2026). Private yard, driveway, maximum separation. Found throughout metro, heaviest in Kissimmee corridor.
+**Furnished / short-term 4BR:** $3,500-$6,000/month (Q2 2026). Flexible lease, fully furnished, utilities often included. Found near Disney, International Drive, Lake Nona.
 
 ## Orlando Neighborhoods With 4 Bedroom Rental Inventory
 

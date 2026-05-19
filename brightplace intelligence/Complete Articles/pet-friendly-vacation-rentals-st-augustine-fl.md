@@ -35,14 +35,17 @@ brightplace searches St. Augustine rentals by neighborhood, pet policy, and pric
 
 Pet-friendly vacation rentals in St. Augustine concentrate in six areas, each with different property types, availability levels, and practical considerations for pet owners. Pet-friendly vacation rentals in St. Augustine range from approximately $150 to $400 per night depending on property size, location, and season (as of Q2 2026).
 
-| Area | Property Types | Pet Rental Availability | Beach/Park Access | Key Tradeoff |
-|---|---|---|---|---|
-| Anastasia Island | Houses, cottages | High | Walk to St. Augustine Beach | HOA condos may restrict; standalone homes more reliable |
-| St. Augustine Beach | Houses, condos, cottages | High | Direct beach access | Busier in summer; more options with pools |
-| Crescent Beach | Houses, oceanfront condos | Moderate | Crescent Beach (dogs allowed on leash) | More residential, fewer short-term listings |
-| Vilano Beach | Houses, smaller condos | Moderate | Vilano Beach (dogs welcome, leash required) | Quieter; some listings allow multiple pets |
-| Historic District / Lincolnville | Bungalows, cottages, historic homes | Moderate | Walk to bayfront; limited open space | Parking can be tight; outdoor space often small |
-| Davis Shores | Houses, pool homes | Moderate | Short drive to beach | Between downtown and beach; popular for fenced-yard homes |
+**Anastasia Island:** Houses and cottages. High pet rental availability. Walk to St. Augustine Beach. HOA condos may restrict; standalone homes more reliable.
+
+**St. Augustine Beach:** Houses, condos, and cottages. High pet rental availability. Direct beach access. Busier in summer; more options with pools.
+
+**Crescent Beach:** Houses and oceanfront condos. Moderate pet rental availability. Dogs allowed on leash at Crescent Beach. More residential, fewer short-term listings.
+
+**Vilano Beach:** Houses and smaller condos. Moderate pet rental availability. Dogs welcome on leash at Vilano Beach. Quieter; some listings allow multiple pets.
+
+**Historic District / Lincolnville:** Bungalows, cottages, and historic homes. Moderate pet rental availability. Walk to bayfront; limited open space. Parking can be tight; outdoor space often small.
+
+**Davis Shores:** Houses and pool homes. Moderate pet rental availability. Short drive to beach. Between downtown and beach; popular for fenced-yard homes.
 
 See current availability in each of these areas on [brightplace](https://brightplace.ai).
 

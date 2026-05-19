@@ -27,16 +27,21 @@ Approval criteria change frequently. A property that accepted broken leases six 
 
 Most second chance properties in Houston evaluate applicants on a case-by-case basis, but patterns exist. The table below outlines what typically works and what does not.
 
-| Rental Issue | Typical Age/Status Required | Likelihood of Finding Options | Notes |
-|---|---|---|---|
-| Broken lease (paid or settled) | 2+ years old (as of Q2 2026) | High | A **broken lease** is a lease ended before the contract term expired, typically resulting in a debt owed to the previous landlord. Paid balances are strongly preferred. |
-| Eviction (paid, older) | 2+ years from filing date (as of Q2 2026) | Moderate to high | An **eviction** is a legal process filed by a landlord to remove a tenant, creating a public court record in the county where it occurred. |
-| Bad credit (below 580) | Current, with stable income | Moderate | Income documentation can offset a low score at many properties. |
-| Closed bankruptcy | Discharged | Moderate | Open bankruptcy is significantly harder. |
-| Older non-violent misdemeanor | 3+ years, case closed | Moderate | Type of offense and completion of probation matter. |
-| Open bankruptcy | Active | Low | Very few properties will approve during active proceedings. |
-| Sex offender registration | Any | Very low | Most properties have a blanket denial policy. |
-| Multiple simultaneous issues | Varies | Low | Stacking problems (bad credit plus recent eviction plus criminal record) reduces options sharply. |
+**Broken lease (paid or settled):** Typically must be 2+ years old (as of Q2 2026). High likelihood of finding options. A **broken lease** is a lease ended before the contract term expired, typically resulting in a debt owed to the previous landlord. Paid balances are strongly preferred.
+
+**Eviction (paid, older):** Typically must be 2+ years from filing date (as of Q2 2026). Moderate to high likelihood of finding options. An **eviction** is a legal process filed by a landlord to remove a tenant, creating a public court record in the county where it occurred.
+
+**Bad credit (below 580):** Current, with stable income required. Moderate likelihood of finding options. Income documentation can offset a low score at many properties.
+
+**Closed bankruptcy:** Must be discharged. Moderate likelihood of finding options. Open bankruptcy is significantly harder.
+
+**Older non-violent misdemeanor:** Typically 3+ years, case closed. Moderate likelihood of finding options. Type of offense and completion of probation matter.
+
+**Open bankruptcy:** Active status. Low likelihood of finding options. Very few properties will approve during active proceedings.
+
+**Sex offender registration:** Any status. Very low likelihood of finding options. Most properties have a blanket denial policy.
+
+**Multiple simultaneous issues:** Varies by situation. Low likelihood of finding options. Stacking problems (bad credit plus recent eviction plus criminal record) reduces options sharply.
 
 Here is something competitors rarely explain: the reason age thresholds matter is that third-party screening platforms like RealPage maintain their own rental history databases with proprietary lookback windows. These are separate from credit bureau records pulled by Equifax, Experian, or TransUnion. A property using one screening vendor might see a three-year-old eviction clearly, while another using a different vendor might not pull it at all. This is why the same applicant gets approved at one complex and denied at another with identical history.
 

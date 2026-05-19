@@ -35,12 +35,13 @@ Based on brightplace's review of Greenville apartment communities, a renter with
 
 Here is how those fees typically break down across the Greenville market:
 
-| Fee Type | Typical Range (Greenville) | Notes |
-|---|---|---|
-| Non-refundable pet fee | $200-$500 per pet (as of Q2 2026) | One-time, paid at move-in |
-| Refundable pet deposit | $150-$300 per pet (as of Q2 2026) | Returned if no damage |
-| Monthly pet rent | $20-$75 per pet (as of Q2 2026) | Added to base rent monthly |
-| Maximum pets allowed | 1-2 per unit (as of Q2 2026) | Confirm per property |
+**Non-refundable pet fee:** $200-$500 per pet (as of Q2 2026). One-time, paid at move-in.
+
+**Refundable pet deposit:** $150-$300 per pet (as of Q2 2026). Returned if no damage.
+
+**Monthly pet rent:** $20-$75 per pet (as of Q2 2026). Added to base rent monthly.
+
+**Maximum pets allowed:** 1-2 per unit (as of Q2 2026). Confirm per property.
 
 ### Modeling First-Year Pet Costs
 

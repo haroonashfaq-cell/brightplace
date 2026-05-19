@@ -22,12 +22,10 @@ Searching for 1 bedroom apartments near me starts with understanding what your l
 
 Rent for a one-bedroom apartment depends almost entirely on which metro area and neighborhood you are searching in. The table below groups U.S. cities into four market tiers based on typical rent ranges as of Q2 2026.
 
-| Market Tier | Representative Cities | Typical 1BR Monthly Rent (Q2 2026) |
-|---|---|---|
-| Tier 1: High-cost | New York, San Francisco, Boston, Los Angeles | $2,200-$3,800 |
-| Tier 2: Mid-cost | Chicago, Seattle, Denver, Miami | $1,500-$2,400 |
-| Tier 3: Growth markets | Austin, Nashville, Phoenix, Raleigh | $1,200-$1,800 |
-| Tier 4: Affordable | Cleveland, Indianapolis, Memphis, Kansas City | $700-$1,100 |
+- **Tier 1 (High-cost):** New York, San Francisco, Boston, Los Angeles. Typical 1BR rent: $2,200-$3,800 (Q2 2026).
+- **Tier 2 (Mid-cost):** Chicago, Seattle, Denver, Miami. Typical 1BR rent: $1,500-$2,400 (Q2 2026).
+- **Tier 3 (Growth markets):** Austin, Nashville, Phoenix, Raleigh. Typical 1BR rent: $1,200-$1,800 (Q2 2026).
+- **Tier 4 (Affordable):** Cleveland, Indianapolis, Memphis, Kansas City. Typical 1BR rent: $700-$1,100 (Q2 2026).
 
 Even within a single city, expect 30-50% price variation depending on the neighborhood. A one-bedroom in downtown Denver will cost significantly more than the same size unit in a suburb fifteen minutes away.
 

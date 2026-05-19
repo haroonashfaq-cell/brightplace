@@ -23,12 +23,10 @@ Discovery at Space Coast is a luxury apartment community in Rockledge, Florida, 
 
 All four available floor plans at Discovery at Space Coast are 2-bedroom, 2-bathroom layouts. Base rent is the core rent charge before any required fees are added; the total monthly leasing price includes base rent plus all mandatory monthly fees and reflects the actual minimum monthly cost.
 
-| Plan | Beds/Baths | Square Feet | Base Rent | Total Monthly (with required fees) | Lease Term |
-|---|---|---|---|---|---|
-| B1 | 2 BD / 2 BA | 1,183 SF | $2,130 (as of Q2 2026) | $2,255 (as of Q2 2026) | 13 months |
-| B2 | 2 BD / 2 BA | 1,200 SF | $2,199 (as of Q2 2026) | $2,324 (as of Q2 2026) | 12 months |
-| B3 | 2 BD / 2 BA | 1,297 SF | $2,370 (as of Q2 2026) | $2,495 (as of Q2 2026) | 13 months |
-| B4 | 2 BD / 2 BA | 1,365 SF | $2,300 (as of Q2 2026) | $2,425 (as of Q2 2026) | 12 months |
+**B1:** 2 BD / 2 BA, 1,183 SF. Base rent $2,130 (as of Q2 2026). Total monthly $2,255 (as of Q2 2026). 13-month lease.
+**B2:** 2 BD / 2 BA, 1,200 SF. Base rent $2,199 (as of Q2 2026). Total monthly $2,324 (as of Q2 2026). 12-month lease.
+**B3:** 2 BD / 2 BA, 1,297 SF. Base rent $2,370 (as of Q2 2026). Total monthly $2,495 (as of Q2 2026). 13-month lease.
+**B4:** 2 BD / 2 BA, 1,365 SF. Base rent $2,300 (as of Q2 2026). Total monthly $2,425 (as of Q2 2026). 12-month lease.
 
 The size difference between the smallest plan (B1 at 1,183 SF) and the largest (B4 at 1,365 SF) is 182 square feet. That gap affects bedroom closet depth, living room layout, and whether a home office nook fits comfortably.
 
@@ -116,11 +114,9 @@ The community is gated, and all residents receive an RFID vehicle tag from the l
 
 Discovery at Space Coast sits at the higher end of the Brevard County rental market. The table below provides a brief submarket comparison for renters evaluating alternatives.
 
-| Submarket | Typical 2BR Rent Range | Commute to KSC | Area Character |
-|---|---|---|---|
-| Rockledge (Discovery at Space Coast) | $2,255 to $2,495/month (as of Q2 2026) | 20-25 min | Suburban, newer construction, amenity-focused |
-| Titusville (Dream Space Coast) | Studios from $1,435 (as of Q2 2026) | 10-15 min | Historic, waterfront-adjacent, lower price floor |
-| Melbourne (Aspen Square communities) | 1-3 BR from under $1,500 (as of Q2 2026) | 35-45 min | Broader unit mix, lower entry price |
+**Rockledge (Discovery at Space Coast):** $2,255 to $2,495/month (as of Q2 2026). 20-25 min commute to KSC. Suburban, newer construction, amenity-focused.
+**Titusville (Dream Space Coast):** Studios from $1,435 (as of Q2 2026). 10-15 min commute to KSC. Historic, waterfront-adjacent, lower price floor.
+**Melbourne (Aspen Square communities):** 1-3 BR from under $1,500 (as of Q2 2026). 35-45 min commute to KSC. Broader unit mix, lower entry price.
 
 Dream Space Coast in Titusville is a historically distinctive property originally built for NASA employees. It offers a lower price floor but fewer bundled services. Aspen Square operates Beachway Links and Grand Oaks at the Lake in Melbourne with a wider bedroom range.
 

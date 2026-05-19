@@ -23,16 +23,21 @@ The properties span South Los Angeles, Santa Maria, Colton, Chula Vista, Hunting
 
 Here is a breakdown of the known Las Brisas apartment communities in California.
 
-| Property Name | City / Region | Unit Types | Approx. Rent | Property Type | Managed By |
-|---|---|---|---|---|---|
-| Las Brisas | South Los Angeles | 1-2 BR | Contact property | Market-rate | Cirrus Asset Management |
-| Las Brisas Santa Maria | Santa Maria (Central Coast) | 1-2-3 BR | Contact property | Market-rate | Greystar / MBK Rental Living |
-| Las Brisas | Colton (Inland Empire) | Studio, 1 BR | Contact property | Market-rate | Western National Property Mgmt |
-| Las Brisas Del Mar | Chula Vista (San Diego County) | 3 BR | $2,695-$2,950/mo (as of Q2 2026) | Market-rate | By appointment |
-| Las Brisas Del Mar | Huntington Beach (Orange County) | 2 BR | $2,625-$2,795/mo (as of Q2 2026) | Market-rate | REMM Group |
-| Las Brisas | Indio (Coachella Valley) | 1-2 BR | Contact property | Market-rate | On-site management |
-| Las Brisas | El Centro (Imperial County) | 1-3 BR | Income-restricted | LIHTC | ConAm Management |
-| Las Brisas I & II | Cudahy (South LA area) | 1-3 BR | Income-restricted | LIHTC | Abode Communities |
+**Las Brisas -- South Los Angeles:** 1-2 BR units. Market-rate. Managed by Cirrus Asset Management. Contact property for rent.
+
+**Las Brisas Santa Maria -- Santa Maria (Central Coast):** 1-2-3 BR units. Market-rate. Managed by Greystar / MBK Rental Living. Contact property for rent.
+
+**Las Brisas -- Colton (Inland Empire):** Studio and 1 BR units. Market-rate. Managed by Western National Property Mgmt. Contact property for rent.
+
+**Las Brisas Del Mar -- Chula Vista (San Diego County):** 3 BR units. Market-rate. $2,695-$2,950/mo (as of Q2 2026). By appointment.
+
+**Las Brisas Del Mar -- Huntington Beach (Orange County):** 2 BR units. Market-rate. $2,625-$2,795/mo (as of Q2 2026). Managed by REMM Group.
+
+**Las Brisas -- Indio (Coachella Valley):** 1-2 BR units. Market-rate. On-site management. Contact property for rent.
+
+**Las Brisas -- El Centro (Imperial County):** 1-3 BR units. Income-restricted (LIHTC). Managed by ConAm Management.
+
+**Las Brisas I & II -- Cudahy (South LA area):** 1-3 BR units. Income-restricted (LIHTC). Managed by Abode Communities.
 
 Rent figures marked "Contact property" indicate that pricing was not publicly confirmed at the time of review. Always verify directly with the leasing office before applying.
 

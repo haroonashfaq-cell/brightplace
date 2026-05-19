@@ -26,13 +26,11 @@ An **efficiency apartment** is a variation where a kitchenette is built directly
 
 Not all studios share the same footprint or layout. Five common subtypes exist across U.S. rental markets, and each serves a different lifestyle.
 
-| Subtype | Description | Square Footage | Best For |
-|---|---|---|---|
-| Standard Studio | One open room, no dividers, separate bath | 300-500 sq ft | Budget-focused renters, urban minimalists |
-| Alcove Studio | Partial wall or nook creates a sleeping area | 400-550 sq ft | Light sleepers, part-time remote workers |
-| Convertible/Flex Studio | Large enough to partition with furniture or temporary wall | 500-650 sq ft | Renters who want a pseudo-bedroom feel |
-| Junior One-Bedroom (J1) | Small enclosed bedroom, often no closet | 450-600 sq ft | Renters who need door privacy without 1BR pricing |
-| Micro-Unit | Purpose-built, high-density urban unit | 150-350 sq ft | Dense markets: NYC, SF, Seattle |
+- **Standard Studio:** One open room, no dividers, separate bath. 300-500 sq ft. Best for budget-focused renters and urban minimalists.
+- **Alcove Studio:** Partial wall or nook creates a sleeping area. 400-550 sq ft. Best for light sleepers and part-time remote workers.
+- **Convertible/Flex Studio:** Large enough to partition with furniture or temporary wall. 500-650 sq ft. Best for renters who want a pseudo-bedroom feel.
+- **Junior One-Bedroom (J1):** Small enclosed bedroom, often no closet. 450-600 sq ft. Best for renters who need door privacy without 1BR pricing.
+- **Micro-Unit:** Purpose-built, high-density urban unit. 150-350 sq ft. Best for dense markets: NYC, SF, Seattle.
 
 An **alcove studio** features a partial wall or structural nook that creates a defined sleeping area separated from the main living space without fully enclosing it. A **convertible studio** is large enough to be partitioned with furniture, room dividers, or a temporary wall to create a pseudo-bedroom area. A **junior one-bedroom (J1)** provides a small enclosed bedroom, often without a full closet, offering door privacy at a price between a standard studio and a full one-bedroom.
 
@@ -55,20 +53,18 @@ Below is a city-by-city overview of median asking rents for studio apartments.
 
 **Studio Median Asking Rent by City**
 
-| City | Studio Median Asking Rent (as of Q1 2025) |
-|---|---|
-| New York City (Manhattan) | $2,400-$3,800 |
-| New York City (Brooklyn/Queens) | $1,800-$2,600 |
-| San Francisco | $2,000-$3,200 |
-| Los Angeles (Westside/DTLA) | $1,600-$2,800 |
-| Los Angeles (Valley/East LA) | $1,200-$1,800 |
-| Seattle | $1,500-$2,400 |
-| Miami | $1,600-$2,400 |
-| Chicago | $900-$1,900 |
-| Austin | $1,100-$1,700 |
-| Denver | $1,100-$1,600 |
-| Atlanta | $1,000-$1,600 |
-| Phoenix | $900-$1,400 |
+- **New York City (Manhattan):** $2,400-$3,800/month (as of Q1 2025).
+- **New York City (Brooklyn/Queens):** $1,800-$2,600/month (as of Q1 2025).
+- **San Francisco:** $2,000-$3,200/month (as of Q1 2025).
+- **Los Angeles (Westside/DTLA):** $1,600-$2,800/month (as of Q1 2025).
+- **Los Angeles (Valley/East LA):** $1,200-$1,800/month (as of Q1 2025).
+- **Seattle:** $1,500-$2,400/month (as of Q1 2025).
+- **Miami:** $1,600-$2,400/month (as of Q1 2025).
+- **Chicago:** $900-$1,900/month (as of Q1 2025).
+- **Austin:** $1,100-$1,700/month (as of Q1 2025).
+- **Denver:** $1,100-$1,600/month (as of Q1 2025).
+- **Atlanta:** $1,000-$1,600/month (as of Q1 2025).
+- **Phoenix:** $900-$1,400/month (as of Q1 2025).
 
 Actual prices vary by floor, exposure, amenities, and lease timing. Cities with sub-$1,000 studio inventory exist, but typically require either a secondary market location, a longer commute to the urban core, or accepting significantly reduced square footage.
 

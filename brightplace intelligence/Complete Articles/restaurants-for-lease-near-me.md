@@ -52,12 +52,10 @@ A listing that says "vanilla shell" or "white box" means you are building everyt
 
 Restaurant lease pricing varies dramatically by location. Asking rents are only one component of your total occupancy cost. NNN charges, common area maintenance fees, and required buildout costs compound the real monthly cost well beyond the listed rent figure.
 
-| Market Tier | Typical Asking Rent | NNN Estimate | Notes |
-|---|---|---|---|
-| Secondary/rural | $12-$25/SF/year (as of Q2 2026) | $3-$6/SF | More negotiable |
-| Mid-size city | $20-$45/SF/year (as of Q2 2026) | $5-$10/SF | Varies by corridor |
-| Major metro (non-prime) | $35-$80/SF/year (as of Q2 2026) | $8-$15/SF | High variance |
-| Prime urban corridor | $80-$200+/SF/year (as of Q2 2026) | $15-$30/SF | Manhattan, WeHo, etc. |
+- **Secondary/rural:** $12-$25/SF/year asking rent (as of Q2 2026), $3-$6/SF NNN. More negotiable.
+- **Mid-size city:** $20-$45/SF/year asking rent (as of Q2 2026), $5-$10/SF NNN. Varies by corridor.
+- **Major metro (non-prime):** $35-$80/SF/year asking rent (as of Q2 2026), $8-$15/SF NNN. High variance.
+- **Prime urban corridor:** $80-$200+/SF/year asking rent (as of Q2 2026), $15-$30/SF NNN. Manhattan, WeHo, etc.
 
 ### Calculating Monthly All-In Costs
 

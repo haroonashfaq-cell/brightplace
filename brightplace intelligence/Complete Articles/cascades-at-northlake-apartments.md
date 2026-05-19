@@ -27,11 +27,9 @@ For current availability and pricing across north Charlotte, [brightplace](https
 
 Based on publicly listed units as of Q2 2025, Cascades at Northlake 1-bedroom units are priced from $1,194 to $1,422 per month. Pricing varies by floor plan, unit location within the community, floor level, and lease term length.
 
-| Bedroom Count | Square Footage Range | Rent Range (as of Q2 2025) |
-|---|---|---|
-| 1 Bedroom | 719 to 780 sq ft | $1,194 to $1,422/month |
-| 2 Bedrooms | 1,027 to 1,126 sq ft | $1,422 to $1,694/month |
-| 3 Bedrooms | 1,200 to 1,404 sq ft | $1,920 to $2,279/month |
+**1 Bedroom:** 719 to 780 sq ft. $1,194 to $1,422/month (as of Q2 2025).
+**2 Bedrooms:** 1,027 to 1,126 sq ft. $1,422 to $1,694/month (as of Q2 2025).
+**3 Bedrooms:** 1,200 to 1,404 sq ft. $1,920 to $2,279/month (as of Q2 2025).
 
 Move-in specials may reduce the effective first-month cost, but confirm whether the quoted price reflects net effective rent or gross rent. **Net effective rent** is the average monthly cost when a move-in concession (such as one free month) is spread across the entire lease term. **Gross rent** is the full listed monthly price without any concession applied.
 
@@ -77,12 +75,10 @@ Ask the leasing office directly about average maintenance response times and any
 
 Several north Charlotte apartment communities compete in the same price range as Cascades at Northlake apartments. The table below lists comparable options for renters evaluating properties in this submarket.
 
-| Property | Location | Price Range (as of Q2 2025) | Key Difference |
-|---|---|---|---|
-| Cascades at Northlake | 8700 Long Creek Club Dr | $1,194 to $2,279/month | Highmark-managed, pet-friendly |
-| Parkview Apartments | Huntersville, NC | Starting at $1,428/month | More suburban, near Lake Norman |
-| Bridges at Mallard Creek | Charlotte, NC 28269 | Starting at $1,174/month | Similar tier, south of Northlake |
-| The Grayson | Charlotte, NC 28262 | Starting at $1,035/month | Lower price point, northeast Charlotte |
+**Cascades at Northlake:** 8700 Long Creek Club Dr. $1,194 to $2,279/month (as of Q2 2025). Highmark-managed, pet-friendly.
+**Parkview Apartments:** Huntersville, NC. Starting at $1,428/month (as of Q2 2025). More suburban, near Lake Norman.
+**Bridges at Mallard Creek:** Charlotte, NC 28269. Starting at $1,174/month (as of Q2 2025). Similar tier, south of Northlake.
+**The Grayson:** Charlotte, NC 28262. Starting at $1,035/month (as of Q2 2025). Lower price point, northeast Charlotte.
 
 Each property has different lease terms, utility billing structures, and amenity packages. Comparing base rent alone does not give the full picture.
 

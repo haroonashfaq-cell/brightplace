@@ -27,12 +27,10 @@ One-bedroom unfurnished units at Randolph Towers start at approximately $2,530 p
 
 Lease terms for unfurnished units typically run 6 to 12 months. Furnished units can start at 30 days, making them accessible for shorter assignments. Studio and three-bedroom pricing varies; contact the leasing office directly for current rates on those layouts.
 
-| Unit Type | Approx. Size | Unfurnished Rent Range | Furnished Rent Range |
-|---|---|---|---|
-| Studio | Inquire directly | Inquire for current pricing | N/A |
-| 1 Bedroom | 580-800 sq ft | Approx. $2,530+ (as of Q2 2026) | Available on select units |
-| 2 Bedroom | 950-1,350 sq ft | Approx. $3,495-$3,695+ (as of Q2 2026) | Approx. $4,895-$5,295+ (as of Q2 2026) |
-| 3 Bedroom | Inquire directly | Inquire for current pricing | N/A |
+**Studio:** Size varies; inquire directly. Unfurnished rent: inquire for current pricing. Furnished: N/A.
+**1 Bedroom:** 580-800 sq ft. Unfurnished rent approx. $2,530+ (as of Q2 2026). Furnished available on select units.
+**2 Bedroom:** 950-1,350 sq ft. Unfurnished rent approx. $3,495-$3,695+ (as of Q2 2026). Furnished approx. $4,895-$5,295+ (as of Q2 2026).
+**3 Bedroom:** Size varies; inquire directly. Unfurnished rent: inquire for current pricing. Furnished: N/A.
 
 The oversized floor plans are a consistent theme in resident feedback. Units here tend to be larger than those in newer Ballston construction, where developers optimize for unit count over individual square footage.
 
@@ -85,13 +83,11 @@ The Ballston-MU Metro station, the Washington Metro station on the Orange and Si
 
 From Ballston, riders reach Rosslyn in approximately 10 minutes and can transfer to the Red or Blue/Yellow lines for broader DC access. Pentagon and Pentagon City are directly reachable on the Orange and Silver lines. Ronald Reagan Washington National Airport is approximately 15 minutes away by car or Metro transfer.
 
-| Destination | Approximate Transit Time |
-|---|---|
-| Rosslyn | ~10 min (Orange/Silver Metro) |
-| Pentagon/Pentagon City | ~8-12 min (Orange/Silver Metro) |
-| DC Metro Center | ~20-25 min (Orange/Silver Metro) |
-| Reagan National Airport | ~15 min (by car or Metro transfer) |
-| Dulles International Airport | ~37 min (by car) |
+**Rosslyn:** ~10 min (Orange/Silver Metro).
+**Pentagon/Pentagon City:** ~8-12 min (Orange/Silver Metro).
+**DC Metro Center:** ~20-25 min (Orange/Silver Metro).
+**Reagan National Airport:** ~15 min (by car or Metro transfer).
+**Dulles International Airport:** ~37 min (by car).
 
 ### What Is Nearby
 
@@ -130,12 +126,10 @@ One honest tradeoff to consider: the building was constructed in 1986, and even 
 
 Randolph Towers occupies a mid-tier position in the Ballston rental market. Its strengths are concrete construction with effective sound insulation, larger unit sizes than most newer buildings, and proximity to the Ballston-MU Metro station. The trade-offs include building age, design conventions from the 1980s, and a strict no-pet policy.
 
-| Building | Approx. 1BR Starting Price | Pet Policy | Built |
-|---|---|---|---|
-| Randolph Towers | ~$2,530+ (as of Q2 2026) | Pet-free | 1986 (renovated) |
-| Ballston Place (901 N Pollard St) | Market rate | Confirm with property | Inquire |
-| Avalon Ballston Square (850 N Randolph St) | Market rate | Confirm with property | Inquire |
-| Virginia Square Plaza (801 N Monroe St) | Market rate | Confirm with property | Inquire |
+**Randolph Towers:** 1BR from ~$2,530+ (as of Q2 2026). Pet-free. Built 1986 (renovated).
+**Ballston Place (901 N Pollard St):** 1BR at market rate. Pet policy: confirm with property. Year built: inquire.
+**Avalon Ballston Square (850 N Randolph St):** 1BR at market rate. Pet policy: confirm with property. Year built: inquire.
+**Virginia Square Plaza (801 N Monroe St):** 1BR at market rate. Pet policy: confirm with property. Year built: inquire.
 
 Newer buildings like The Amelia (816 N Oakland St) offer contemporary finishes and pet-friendly policies, but often at a higher price point with smaller floor plans. Randolph Towers appeals to renters who prioritize space and value over brand-new construction. For renters comparing across the [Arlington, VA apartment market](https://brightplace.ai), the decision often comes down to whether updated-but-older construction with larger layouts outweighs the polish of a newer build.
 

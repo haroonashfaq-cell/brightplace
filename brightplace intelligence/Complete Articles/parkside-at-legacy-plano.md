@@ -81,13 +81,13 @@ The CityLine/Bush DART station on the Red and Orange Lines sits approximately 2-
 
 No single Legacy corridor community is the right fit for every renter. The differences come down to walkability, price positioning, and concession timing rather than dramatic quality gaps.
 
-| Factor | Parkside at Legacy | Cortland Legacy | The Preserve at Legacy | Lantower Legacy West |
-|---|---|---|---|---|
-| Walk to Legacy West retail | Yes | Varies by unit | Varies by unit | Yes |
-| Corporate campus commute | Optimal for Legacy employers | Comparable | Comparable | Comparable |
-| Price per square foot | Reflects location premium | Similar tier | Similar tier | Similar tier |
-| New construction competition | High; negotiate on concessions | High | High | High |
-| Urban walkability (by DFW standards) | Among the strongest in submarket | Comparable | Comparable | Comparable |
+**Parkside at Legacy:** Walk to Legacy West retail. Optimal corporate campus commute for Legacy employers. Price per square foot reflects location premium. High new construction competition; negotiate on concessions. Among the strongest urban walkability in the submarket by DFW standards.
+
+**Cortland Legacy:** Walk to Legacy West retail varies by unit. Comparable corporate campus commute. Similar price-per-square-foot tier. High new construction competition. Comparable urban walkability.
+
+**The Preserve at Legacy:** Walk to Legacy West retail varies by unit. Comparable corporate campus commute. Similar price-per-square-foot tier. High new construction competition. Comparable urban walkability.
+
+**Lantower Legacy West:** Walk to Legacy West retail. Comparable corporate campus commute. Similar price-per-square-foot tier. High new construction competition. Comparable urban walkability.
 
 All four communities compete for the same renter profile, which means concession packages shift frequently. The Plano/Frisco Class A market saw elevated vacancy relative to 2022 peak absorption (as of Q2 2025), so a concession, which is a financial incentive such as one month free rent, a reduced deposit, or waived fees, may be available at any of these properties. Ask each leasing office what they are currently offering before committing.
 

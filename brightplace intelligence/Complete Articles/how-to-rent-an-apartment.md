@@ -35,12 +35,10 @@ Your credit score also matters. As of Q2 2026, a score of 650 is generally the f
 
 **Income Qualification Table**
 
-| Monthly Rent | Minimum Monthly Gross Income Required |
-|---|---|
-| $1,200 | $3,000 - $3,600 |
-| $1,800 | $4,500 - $5,400 |
-| $2,400 | $6,000 - $7,200 |
-| $3,000 | $7,500 - $9,000 |
+- **$1,200/month rent:** Minimum monthly gross income required: $3,000 - $3,600.
+- **$1,800/month rent:** Minimum monthly gross income required: $4,500 - $5,400.
+- **$2,400/month rent:** Minimum monthly gross income required: $6,000 - $7,200.
+- **$3,000/month rent:** Minimum monthly gross income required: $7,500 - $9,000.
 
 Use this table as a starting point. If your income falls below the threshold for the rent you want, consider budgeting down or exploring options like a co-signer.
 
@@ -52,14 +50,12 @@ Prepare the following documents and keep digital copies on your phone or in clou
 
 **Document Checklist**
 
-| Document | What It Proves |
-|---|---|
-| Government-issued photo ID | Identity verification |
-| 2-3 most recent pay stubs | Current income |
-| Tax returns (self-employed) | Annual income stability |
-| 2-3 months of bank statements | Financial reserves |
-| Prior landlord contact information | Rental history |
-| Professional or personal references | Character and reliability |
+- **Government-issued photo ID:** Proves identity verification.
+- **2-3 most recent pay stubs:** Proves current income.
+- **Tax returns (self-employed):** Proves annual income stability.
+- **2-3 months of bank statements:** Proves financial reserves.
+- **Prior landlord contact information:** Proves rental history.
+- **Professional or personal references:** Proves character and reliability.
 
 Self-employed renters should also have a CPA letter or 1099 forms available. If you receive non-traditional income, bring official documentation. Common non-traditional income sources to document include:
 

@@ -27,11 +27,9 @@ Renters researching Jack Flats most commonly ask about transit options, pricing,
 
 Windsor Property Management divides Jack Flats into three distinct building types, collectively referred to as "The Collection": Jack Flats Classic Apartments, Jack Flats Mill Apartments, and Radio Factory Lofts. The practical differences between them matter when choosing a unit.
 
-| Collection | Building Type | Ceiling Height | Distinguishing Feature |
-|---|---|---|---|
-| Jack Flats Classic | New construction | 9-10 ft | Contemporary finishes, private balconies available |
-| Jack Flats Mill | Repurposed brick mill | 15-25 ft | Exposed beams, exposed brick, soaring loft ceilings |
-| Radio Factory Lofts | Historic radio factory building | 9-14 ft | Industrial character, oversized windows |
+**Jack Flats Classic:** New construction, 9-10 ft ceilings. Contemporary finishes, private balconies available.
+**Jack Flats Mill:** Repurposed brick mill, 15-25 ft ceilings. Exposed beams, exposed brick, soaring loft ceilings.
+**Radio Factory Lofts:** Historic radio factory building, 9-14 ft ceilings. Industrial character, oversized windows.
 
 Jack Flats Mill is the standout. The four-story repurposed solid brick mill building features ceiling heights of 15 to 25 feet with exposed beams and brick. These are genuinely loft-scale spaces, not marketing language applied to standard apartments.
 
@@ -51,12 +49,10 @@ Jack Flats apartments include standard finishes across all three collections:
 
 ### Current Rent Ranges
 
-| Unit Type | Approximate Rent Range | Key Finishes | Notes |
-|---|---|---|---|
-| Studio | Starting at $2,550/mo (as of Q2 2026) | Stone countertops, LVP flooring, in-unit W/D | Verify with leasing office |
-| 1 Bedroom | Starting at $2,639/mo (as of Q2 2026) | Gas range, stainless appliances | Multiple floor plan options |
-| 2 Bedroom | Starting at $3,701/mo (as of Q2 2026) | Walk-in closets, balcony in select units | Verify with leasing office |
-| 3 Bedroom | Starting at $3,277/mo (as of Q2 2026) | Larger layouts in Mill collection | Verify with leasing office |
+**Studio:** Starting at $2,550/mo (as of Q2 2026). Stone countertops, LVP flooring, in-unit W/D. Verify with leasing office.
+**1 Bedroom:** Starting at $2,639/mo (as of Q2 2026). Gas range, stainless appliances. Multiple floor plan options.
+**2 Bedroom:** Starting at $3,701/mo (as of Q2 2026). Walk-in closets, balcony in select units. Verify with leasing office.
+**3 Bedroom:** Starting at $3,277/mo (as of Q2 2026). Larger layouts in Mill collection. Verify with leasing office.
 
 These prices reflect publicly listed rates from Windsor Communities (as of Q2 2026). Actual pricing changes frequently; contact the leasing office at Windsor Radio Factory directly for current availability and rates. For a breakdown of what goes into total housing costs beyond base rent, see brightplace's guide to [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
