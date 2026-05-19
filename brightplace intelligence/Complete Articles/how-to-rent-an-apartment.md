@@ -81,8 +81,6 @@ Set up alerts on rental platforms so new listings reach you immediately. Filter 
 - Parks
 - Your workplace
 
-[INTERNAL LINK: best time to rent an apartment]
-
 Prioritize in-person visits over photos alone. Listings can be misleading, and floor plans rarely capture storage space, natural light, or noise levels.
 
 > brightplace makes it easier to find apartments that match your budget and priorities. Search available rentals at [brightplace.ai](https://brightplace.ai).
@@ -108,8 +106,7 @@ Take photos and videos of everything, including any pre-existing damage. These b
 - Are there upcoming renovations or construction in the building?
 - What is the parking situation?
 
-Keep your neighborhood evaluation focused on infrastructure: distance to transit stops, condition of sidewalks and streetlights, availability of nearby services. [INTERNAL LINK: apartment tour checklist]
-
+Keep your neighborhood evaluation focused on infrastructure: distance to transit stops, condition of sidewalks and streetlights, availability of nearby services. 
 ## Stage 5: Filling Out the Rental Application
 
 A **rental application** is a formal request submitted to a landlord or property manager that authorizes them to verify your identity, income, employment, credit history, and rental background. Application fees as of 2025 typically range from $25 to $75 per applicant; New York caps this fee at $20 under state law (as of 2025).
@@ -127,13 +124,13 @@ A **co-signer** (also called a guarantor) is a person who agrees to cover your r
 
 A low credit score does not automatically disqualify you. Property managers see applications with credit challenges regularly, and several options exist:
 
-1. **Offer a higher security deposit.** A **security deposit** is a refundable payment held by the landlord to cover potential damages or unpaid rent. Offering an additional month upfront can offset perceived risk. Note that some states cap deposits: California limits security deposits to two months' rent (AB 12, effective July 2024), and New York caps them at one month (Housing Stability and Tenant Protection Act of 2019).
+1. **Offer a higher security deposit.**A **security deposit** is a refundable payment held by the landlord to cover potential damages or unpaid rent. Offering an additional month upfront can offset perceived risk. Note that some states cap deposits: California limits security deposits to two months' rent (AB 12, effective July 2024), and New York caps them at one month (Housing Stability and Tenant Protection Act of 2019).
 
-2. **Bring a qualified co-signer.** A co-signer with a credit score of 700 or above (as of Q2 2026) and verifiable income reassures landlords.
+2. **Bring a qualified co-signer.**A co-signer with a credit score of 700 or above (as of Q2 2026) and verifiable income reassures landlords.
 
-3. **Provide bank statements showing consistent savings.** Three to six months of statements demonstrating stable balances and regular deposits can substitute for a strong credit history.
+3. **Provide bank statements showing consistent savings.**Three to six months of statements demonstrating stable balances and regular deposits can substitute for a strong credit history.
 
-4. **Write a personal letter.** A brief, honest explanation of your financial situation, paired with documentation of stable income, can make a difference with independent landlords.
+4. **Write a personal letter.**A brief, honest explanation of your financial situation, paired with documentation of stable income, can make a difference with independent landlords.
 
 ## Stage 6: Reading and Signing the Lease
 
@@ -141,16 +138,14 @@ A **lease** is a legally binding contract between you and the landlord that defi
 
 Six clauses renters frequently overlook:
 
-- **Early termination.** What fees apply if you need to break the lease? Some charge two months' rent; others require you to pay until a replacement tenant is found.
-- **Late fees.** When do they start? How much are they? Some leases charge a flat fee; others apply a daily penalty.
-- **Pet policy.** Even if you do not have a pet now, understand the policy in case your situation changes. Pet deposits and monthly pet rent vary widely.
-- **Guest policy.** Some leases restrict how long guests can stay before they are considered unauthorized occupants.
-- **Subletting.** Can you sublet if you need to relocate temporarily? Many leases prohibit it without written consent.
-- **Notice-to-vacate.** This clause dictates how far in advance you must notify the landlord if you do not plan to renew.
+- **Early termination.**What fees apply if you need to break the lease? Some charge two months' rent; others require you to pay until a replacement tenant is found.
+- **Late fees.**When do they start? How much are they? Some leases charge a flat fee; others apply a daily penalty.
+- **Pet policy.**Even if you do not have a pet now, understand the policy in case your situation changes. Pet deposits and monthly pet rent vary widely.
+- **Guest policy.**Some leases restrict how long guests can stay before they are considered unauthorized occupants.
+- **Subletting.**Can you sublet if you need to relocate temporarily? Many leases prohibit it without written consent.
+- **Notice-to-vacate.**This clause dictates how far in advance you must notify the landlord if you do not plan to renew.
 
 One clause renters overlook consistently is the notice-to-vacate requirement. Many leases require 60-day written notice to not renew. Missing this window can result in an automatic month-to-month extension at a higher rate.
-
-[INTERNAL LINK: how to read a lease agreement]
 
 ## Before You Move In: The Walk-Through Inspection
 
@@ -165,8 +160,7 @@ Schedule a walk-through inspection with your landlord before carrying in any fur
 
 Send the complete documentation to your landlord the same day, either by email with a read receipt or through the property management portal. Keep your own copy stored securely.
 
-This record protects your security deposit when you move out. Most states require landlords to return security deposits within 14 to 30 days of move-out (as of 2025), minus documented deductions. Without a move-in inspection on file, disputing charges becomes significantly harder. [INTERNAL LINK: move-in checklist for renters]
-
+This record protects your security deposit when you move out. Most states require landlords to return security deposits within 14 to 30 days of move-out (as of 2025), minus documented deductions. Without a move-in inspection on file, disputing charges becomes significantly harder. 
 ## Frequently Asked Questions About Renting an Apartment
 
 **How much income do I need to rent an apartment?**

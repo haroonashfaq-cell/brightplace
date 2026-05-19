@@ -94,23 +94,23 @@ Before committing to a lease at Cascades at Northlake or any comparable property
 
 ### Net Effective Rent vs. Gross Rent
 
-**Is the quoted price net effective rent or gross rent?** A **lease concession**, a financial incentive such as one or more months of free or reduced rent, can make the first month look cheaper while subsequent months remain at full price.
+**Is the quoted price net effective rent or gross rent?**A **lease concession**, a financial incentive such as one or more months of free or reduced rent, can make the first month look cheaper while subsequent months remain at full price.
 
 ### Utility Billing
 
-**How are utilities billed?** Ask whether the property uses **RUBS (Ratio Utility Billing System)**, a method where total utility costs for a building are divided among residents based on unit size or occupancy rather than individual metered use. RUBS utility billing can add $50 to $150 per month (as of Q2 2025) to the total housing cost beyond base rent, depending on unit size and building occupancy.
+**How are utilities billed?**Ask whether the property uses **RUBS (Ratio Utility Billing System)**, a method where total utility costs for a building are divided among residents based on unit size or occupancy rather than individual metered use. RUBS utility billing can add $50 to $150 per month (as of Q2 2025) to the total housing cost beyond base rent, depending on unit size and building occupancy.
 
 ### Early Termination Fee
 
-**What is the early termination fee?** Some properties charge two months' rent; others have a sliding scale. Know the number before you sign.
+**What is the early termination fee?**Some properties charge two months' rent; others have a sliding scale. Know the number before you sign.
 
 ### Renewal Rate Increases
 
-**What are the historical renewal rate increases?** Ask what percentage rent increased at the last renewal cycle. This tells you more about future costs than the current listed price.
+**What are the historical renewal rate increases?**Ask what percentage rent increased at the last renewal cycle. This tells you more about future costs than the current listed price.
 
 ### Pet Deposit and Monthly Pet Rent
 
-**What is the pet deposit and monthly pet rent?** Pet-friendly does not mean pet-free. Monthly pet rent of $25 to $75 per pet (as of Q2 2025) is common at properties in this tier, on top of a one-time deposit.
+**What is the pet deposit and monthly pet rent?**Pet-friendly does not mean pet-free. Monthly pet rent of $25 to $75 per pet (as of Q2 2025) is common at properties in this tier, on top of a one-time deposit.
 
 If you are still comparing options in Charlotte, [brightplace](https://brightplace.ai) shows you available apartments in north Charlotte without the sponsored listing clutter of traditional search sites. For context on how north Charlotte rents compare to the broader market, see brightplace's [look at 1-bedroom apartment pricing](https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me) or the [practical guide to renting a 2-bedroom apartment](https://brightplace.ai/knowledgebase/renting-a-2-bedroom-apartment).
 

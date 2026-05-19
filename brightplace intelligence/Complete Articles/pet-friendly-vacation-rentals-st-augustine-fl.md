@@ -50,7 +50,7 @@ See current availability in each of these areas on [brightplace](https://brightp
 
 The most common booking mistake we see with St. Augustine pet rentals is assuming the listing filter is comprehensive. Community HOA rules can prohibit pets regardless of what the individual owner states in the listing. Before committing to any property, verify the following points directly with the property manager:
 
-**1. Weight and breed limits.** Many St. Augustine rentals cap pet weight at 25 to 50 pounds. **Breed restrictions**, policies that prohibit specific dog breeds from staying at a rental, are typically enforced at the community or HOA level. Breeds commonly excluded by multiple resort communities in this market include:
+**1. Weight and breed limits.**Many St. Augustine rentals cap pet weight at 25 to 50 pounds. **Breed restrictions**, policies that prohibit specific dog breeds from staying at a rental, are typically enforced at the community or HOA level. Breeds commonly excluded by multiple resort communities in this market include:
 
 - Pit bulls
 - Rottweilers
@@ -59,13 +59,13 @@ The most common booking mistake we see with St. Augustine pet rentals is assumin
 
 Ask about breed-specific rules even if the listing does not mention them.
 
-**2. Number of pets.** Some resort communities in St. Augustine limit guests to one pet per rental, strictly enforced at check-in. If you are traveling with two dogs, confirm the pet count policy before paying any deposit.
+**2. Number of pets.**Some resort communities in St. Augustine limit guests to one pet per rental, strictly enforced at check-in. If you are traveling with two dogs, confirm the pet count policy before paying any deposit.
 
-**3. Fee structure.** Clarify whether the property charges a flat pet fee or a nightly surcharge. These are very different costs for a week-long stay.
+**3. Fee structure.**Clarify whether the property charges a flat pet fee or a nightly surcharge. These are very different costs for a week-long stay.
 
-**4. Fenced yard availability.** A **fenced yard**, an enclosed outdoor area where dogs can be off-leash safely, is a filterable amenity on major short-term rental platforms and one of the highest-value filters for dog owners. Fenced yards are available at a subset of St. Augustine pet-friendly rentals, primarily standalone houses in Anastasia Island and Davis Shores.
+**4. Fenced yard availability.**A **fenced yard**, an enclosed outdoor area where dogs can be off-leash safely, is a filterable amenity on major short-term rental platforms and one of the highest-value filters for dog owners. Fenced yards are available at a subset of St. Augustine pet-friendly rentals, primarily standalone houses in Anastasia Island and Davis Shores.
 
-**5. HOA confirmation.** For any condo rental, contact the property management company directly. Do not rely solely on the listing description.
+**5. HOA confirmation.**For any condo rental, contact the property management company directly. Do not rely solely on the listing description.
 
 If you are considering renting with pets long-term in Florida, the rules differ significantly from short-term stays. See brightplace's guide to [how to rent an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) for a lease-focused walkthrough.
 

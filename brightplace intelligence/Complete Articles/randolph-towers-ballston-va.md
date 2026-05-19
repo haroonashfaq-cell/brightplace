@@ -76,8 +76,7 @@ Community amenities include:
 - Reserved parking
 - Onsite convenience store with retail shops
 
-An indoor pool is referenced in resident reviews; confirm availability directly with the leasing office. The building does not allow pets of any kind, so renters with animals should factor this into their search early. [INTERNAL LINK: pet-friendly apartments Arlington VA]
-
+An indoor pool is referenced in resident reviews; confirm availability directly with the leasing office. The building does not allow pets of any kind, so renters with animals should factor this into their search early. 
 ## Location and Transit Access
 
 ### Metro and Commute Times
@@ -103,16 +102,13 @@ Nearby essentials include:
 - Grocery: Harris Teeter, Trader Joe's, and Giant, all reachable by a short walk or bus ride
 - Fitness: Orangetheory, Solidcore, and Gold's Gym in the immediate area
 
-[INTERNAL LINK: Ballston Arlington VA neighborhood guide]
-
 ## Furnished and Short-Term Options at Randolph Towers
 
 Furnished units at Randolph Towers are professionally designed and fully equipped for stays of 30 days or longer. A furnished lease at this building includes furniture, household goods, and kitchen essentials at a monthly rate above the unfurnished equivalent. For a two-bedroom, the premium runs approximately $1,200 to $1,600 per month more than the unfurnished rate (as of Q2 2026).
 
 This option primarily serves government employees on temporary assignment, contractors working in the DC metro area, relocating professionals who need immediate housing, and visitors requiring a home base for an extended period. Both Dittmar Company directly and third-party corporate housing providers offer furnished units in the building.
 
-The distinction matters for budgeting. A furnished two-bedroom at approximately $4,895 to $5,295 per month (as of Q2 2026) eliminates the upfront cost of furnishing a unit, but the monthly premium adds up on longer stays. For assignments under six months, furnished often makes financial sense. Beyond that, running the numbers on an unfurnished unit plus furniture costs is worth doing. [INTERNAL LINK: furnished apartments vs unfurnished cost comparison]
-
+The distinction matters for budgeting. A furnished two-bedroom at approximately $4,895 to $5,295 per month (as of Q2 2026) eliminates the upfront cost of furnishing a unit, but the monthly premium adds up on longer stays. For assignments under six months, furnished often makes financial sense. Beyond that, running the numbers on an unfurnished unit plus furniture costs is worth doing. 
 ## Has Randolph Towers Been Renovated?
 
 Randolph Towers underwent a substantial modernization program that updated both individual units and community spaces. A modernized unit at Randolph Towers includes:
@@ -155,8 +151,7 @@ Lease terms run 6 to 12 months for unfurnished units and 30 days or more for fur
 
 ### Parking and Management
 
-Parking is reserved and available at additional cost; confirm the current monthly rate with leasing directly. Dittmar Company manages multiple communities across the Arlington corridor, so renters comparing within the Dittmar portfolio can ask the leasing team about availability at sister properties. For current unit availability and floor plans, visit the property's official site at rentrt.com or search Ballston-area apartments on [brightplace](https://brightplace.ai). [INTERNAL LINK: how to rent an apartment checklist]
-
+Parking is reserved and available at additional cost; confirm the current monthly rate with leasing directly. Dittmar Company manages multiple communities across the Arlington corridor, so renters comparing within the Dittmar portfolio can ask the leasing team about availability at sister properties. For current unit availability and floor plans, visit the property's official site at rentrt.com or search Ballston-area apartments on [brightplace](https://brightplace.ai). 
 ## Frequently Asked Questions About Randolph Towers
 
 ### 1. What is the address of Randolph Towers in Ballston, VA?

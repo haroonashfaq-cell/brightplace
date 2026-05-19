@@ -104,8 +104,6 @@ Rockledge sits in Brevard County on Florida's Space Coast, roughly 45 to 55 mile
 
 The area's economy is closely tied to aerospace and defense employers. SpaceX, NASA, and Blue Origin operations at and around Kennedy Space Center generate steady demand for rental housing in Rockledge and neighboring cities. Contractors working on project-based timelines should ask about lease term flexibility before committing, as standard lease lengths here run 12 to 13 months. Renters also considering the Tampa metro should see brightplace's [Tampa renter orientation](https://www.brightplace.ai/guides/tampa-renters-orientation).
 
-
-
 ## What Area of Florida Is the Space Coast?
 
 Florida's Space Coast is the eastern coastal corridor of Brevard County, stretching from Titusville in the north through Cocoa, Rockledge, and Melbourne toward Palm Bay in the south. The name comes from its proximity to Kennedy Space Center and Cape Canaveral Space Force Station, which anchor a large aerospace and defense employment base in the region.

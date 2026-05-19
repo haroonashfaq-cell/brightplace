@@ -70,19 +70,19 @@ Several factors move 4 bedroom rents up or down within the same submarket, and n
 
 ### Furnished vs. Unfurnished
 
-**Furnished vs. unfurnished.** Furnished 4 bedroom rentals in Orlando typically run 30-60% higher than unfurnished equivalents, often ranging from $3,500 to $6,000 per month (as of Q2 2026). The premium reflects included furniture, kitchenware, and bundled utilities.
+**Furnished vs. unfurnished.**Furnished 4 bedroom rentals in Orlando typically run 30-60% higher than unfurnished equivalents, often ranging from $3,500 to $6,000 per month (as of Q2 2026). The premium reflects included furniture, kitchenware, and bundled utilities.
 
 ### HOA Pass-Through Fees
 
-**HOA pass-through fees.** In communities governed by homeowner associations, landlords sometimes pass HOA fees to tenants as a separate monthly charge. Ask about this before signing. It can add $100 to $400 per month (as of Q2 2026).
+**HOA pass-through fees.**In communities governed by homeowner associations, landlords sometimes pass HOA fees to tenants as a separate monthly charge. Ask about this before signing. It can add $100 to $400 per month (as of Q2 2026).
 
 ### Toll Road Costs
 
-**Toll road costs.** Toll road costs for renters who depend on SR-417 or SR-528 for daily commuting can add $150 to $300 per month in transportation costs. This is a real line item in your budget, especially if you are commuting from Oviedo, Kissimmee, or Winter Garden to central Orlando.
+**Toll road costs.**Toll road costs for renters who depend on SR-417 or SR-528 for daily commuting can add $150 to $300 per month in transportation costs. This is a real line item in your budget, especially if you are commuting from Oviedo, Kissimmee, or Winter Garden to central Orlando.
 
 ### Seasonal Pricing
 
-**Seasonal pricing.** February through June is peak rental demand in Orlando, with landlords holding firm on pricing. Renters who search in July or August typically find more flexibility on move-in concessions than those searching in spring. If your timeline allows it, the summer months offer more negotiating room. For a full breakdown of what goes into actual monthly housing costs, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
+**Seasonal pricing.**February through June is peak rental demand in Orlando, with landlords holding firm on pricing. Renters who search in July or August typically find more flexibility on move-in concessions than those searching in spring. If your timeline allows it, the summer months offer more negotiating room. For a full breakdown of what goes into actual monthly housing costs, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
 ## 4 Bedroom Apartments Downtown Orlando
 

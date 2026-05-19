@@ -51,8 +51,6 @@ Combined, move-in costs total 2-3x your monthly rent (as of Q2 2026).
 
 For a $1,500/month apartment, that means having $3,000-$4,500 in cash ready before move-in day. Factor in application fees and potential broker fees in markets like New York or Boston, and the number climbs higher.
 
-[INTERNAL LINK: apartment budgeting guide]
-
 ## What Credit Score Do You Need to Rent a 1 Bedroom Apartment?
 
 Most landlords require a minimum credit score of 620-650 to approve a rental application (as of Q2 2026). Professionally managed apartment communities, particularly in Tier 1 and Tier 2 markets, often prefer applicants with scores of 700 or above.
@@ -68,11 +66,11 @@ If your score falls below these thresholds, you still have options:
 
 The listing price alone does not tell you what an apartment actually costs each month. Before scheduling a tour, run through this five-point evaluation:
 
-1. **All-in monthly cost.** Add utilities, parking, pet fees, and any other recurring charges to the base rent. These extras typically add $150-$400/month (as of Q2 2026) on top of the listed price.
-2. **Lease term flexibility.** Check whether the property offers a standard 12-month lease, shorter terms, or a **month-to-month lease**, which is a rental agreement that renews automatically each month rather than for a fixed term, offering flexibility but often at a premium rate.
-3. **Move-in date match.** Confirm the unit's available date aligns with your timeline. A mismatch of even two weeks can mean paying double rent or needing temporary housing.
-4. **Building amenities.** Identify whether the building includes **in-unit laundry** (a washer and dryer located inside the apartment unit itself, as distinct from shared laundry facilities), parking, and storage. Missing amenities often mean added monthly expenses elsewhere.
-5. **Commute verification.** Test the actual travel time from the apartment to your workplace during rush hour using a maps app. Listed distances can be misleading when traffic or transit schedules are factored in.
+1. **All-in monthly cost.**Add utilities, parking, pet fees, and any other recurring charges to the base rent. These extras typically add $150-$400/month (as of Q2 2026) on top of the listed price.
+2. **Lease term flexibility.**Check whether the property offers a standard 12-month lease, shorter terms, or a **month-to-month lease**, which is a rental agreement that renews automatically each month rather than for a fixed term, offering flexibility but often at a premium rate.
+3. **Move-in date match.**Confirm the unit's available date aligns with your timeline. A mismatch of even two weeks can mean paying double rent or needing temporary housing.
+4. **Building amenities.**Identify whether the building includes **in-unit laundry** (a washer and dryer located inside the apartment unit itself, as distinct from shared laundry facilities), parking, and storage. Missing amenities often mean added monthly expenses elsewhere.
+5. **Commute verification.**Test the actual travel time from the apartment to your workplace during rush hour using a maps app. Listed distances can be misleading when traffic or transit schedules are factored in.
 
 Verify whether the listed square footage includes closet space, as definitions vary by property and can reduce usable living area by 10-15%.
 

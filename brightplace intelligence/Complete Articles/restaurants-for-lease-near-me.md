@@ -120,11 +120,11 @@ The tradeoff: well-located second-gen spaces go quickly because landlords price 
 
 Negotiation happens at the LOI stage, not after the lease is drafted. These five terms should be addressed before you engage a real estate attorney:
 
-1. **TI allowance.** Tenant improvement allowances in softer markets can range from $30 to $100 per square foot (as of 2026); in tight urban markets, TI may be minimal or absent. Push for the highest TI the landlord will offer.
-2. **Free rent period.** Request 3 to 6 months of free rent during buildout and permitting. You cannot generate revenue while construction is underway.
-3. **Personal guarantee scope.** Try to limit the personal guarantee to 1 to 2 years rather than the full lease term. This reduces your personal financial exposure if the business does not perform.
-4. **Options to renew.** Negotiate at least two 5-year renewal options at signing. Without renewal options, you risk losing your location after investing heavily in buildout.
-5. **Co-tenancy protections.** If your space is in a retail center, include a clause that reduces your rent obligation if the anchor tenant leaves. Foot traffic drops when anchors close.
+1. **TI allowance.**Tenant improvement allowances in softer markets can range from $30 to $100 per square foot (as of 2026); in tight urban markets, TI may be minimal or absent. Push for the highest TI the landlord will offer.
+2. **Free rent period.**Request 3 to 6 months of free rent during buildout and permitting. You cannot generate revenue while construction is underway.
+3. **Personal guarantee scope.**Try to limit the personal guarantee to 1 to 2 years rather than the full lease term. This reduces your personal financial exposure if the business does not perform.
+4. **Options to renew.**Negotiate at least two 5-year renewal options at signing. Without renewal options, you risk losing your location after investing heavily in buildout.
+5. **Co-tenancy protections.**If your space is in a retail center, include a clause that reduces your rent obligation if the anchor tenant leaves. Foot traffic drops when anchors close.
 
 A tenant-rep broker can negotiate these terms on your behalf at no cost to you. The landlord pays the broker commission. Understanding [your true monthly cost](https://brightplace.ai/guides/your-true-monthly-cost) before committing ensures you account for every line item beyond base rent.
 

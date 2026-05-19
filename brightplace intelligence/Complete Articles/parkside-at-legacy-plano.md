@@ -71,11 +71,11 @@ The CityLine/Bush DART station on the Red and Orange Lines sits approximately 2-
 
 ### Honest Tradeoffs for This Location
 
-**Tollway congestion.** The Dallas North Tollway and SH-121 (Sam Rayburn Tollway) interchange creates significant congestion during peak commute hours. At current NTTA rates, a round-trip daily commute from the Legacy area to Downtown Dallas via the Dallas North Tollway runs approximately $8-$14/day (as of Q2 2025). Over a 20-day work month, that adds $160-$280 to your effective housing cost.
+**Tollway congestion.**The Dallas North Tollway and SH-121 (Sam Rayburn Tollway) interchange creates significant congestion during peak commute hours. At current NTTA rates, a round-trip daily commute from the Legacy area to Downtown Dallas via the Dallas North Tollway runs approximately $8-$14/day (as of Q2 2025). Over a 20-day work month, that adds $160-$280 to your effective housing cost.
 
-**Car dependency outside the corridor.** For a full picture of what monthly costs look like beyond base rent, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost). Walkability within Legacy West is strong by DFW standards, but destinations outside the immediate corridor still require a car. Grocery runs beyond Whole Foods, medical appointments, and weekend activities in other parts of the metroplex all mean driving.
+**Car dependency outside the corridor.**For a full picture of what monthly costs look like beyond base rent, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost). Walkability within Legacy West is strong by DFW standards, but destinations outside the immediate corridor still require a car. Grocery runs beyond Whole Foods, medical appointments, and weekend activities in other parts of the metroplex all mean driving.
 
-**Rent premium.** Comparable square footage in Frisco or Richardson typically runs 10-20% less per month than Legacy-area pricing (as of Q2 2025). Renters who do not require walkability to Legacy West often find similar finishes and amenities at a lower monthly cost in those adjacent submarkets. The premium here pays for proximity, not a fundamentally different apartment.
+**Rent premium.**Comparable square footage in Frisco or Richardson typically runs 10-20% less per month than Legacy-area pricing (as of Q2 2025). Renters who do not require walkability to Legacy West often find similar finishes and amenities at a lower monthly cost in those adjacent submarkets. The premium here pays for proximity, not a fundamentally different apartment.
 
 ## How Parkside at Legacy Compares to Nearby Alternatives
 

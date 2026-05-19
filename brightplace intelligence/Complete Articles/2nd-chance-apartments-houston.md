@@ -119,12 +119,6 @@ Proactive communication with your landlord matters more than anything else for k
 
 Ready to search? brightplace shows available apartments across Houston, including options in areas with historically more flexible approval criteria. [Start your search at brightplace.ai](https://brightplace.ai).
 
-[INTERNAL LINK: Houston apartment renting guide]
-
-[INTERNAL LINK: how to rent an apartment with bad credit]
-
-[INTERNAL LINK: apartment move-in costs guide]
-
 *Last reviewed: May 2026*
 
 ## Frequently Asked Questions

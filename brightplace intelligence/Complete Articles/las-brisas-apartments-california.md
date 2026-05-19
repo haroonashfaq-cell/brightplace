@@ -58,19 +58,19 @@ Four Las Brisas properties operate in Southern California outside the Los Angele
 
 ### Colton (Inland Empire)
 
-**Colton (Inland Empire).** Las Brisas Colton sits at 2001 N Rancho Ave, Colton, CA 92324. Managed by Western National Property Management, the community offers studio and 1-bedroom floor plans in a garden-style layout with outdoor picnic and BBQ areas. The property is accessible to Interstate 10 and the Inland Empire's commercial corridors.
+**Colton (Inland Empire).**Las Brisas Colton sits at 2001 N Rancho Ave, Colton, CA 92324. Managed by Western National Property Management, the community offers studio and 1-bedroom floor plans in a garden-style layout with outdoor picnic and BBQ areas. The property is accessible to Interstate 10 and the Inland Empire's commercial corridors.
 
 ### Chula Vista (San Diego County)
 
-**Chula Vista (San Diego County).** Las Brisas Del Mar at 916 4th Avenue offers 3-bedroom units priced at $2,695 to $2,950 per month (as of Q2 2026). The property operates by appointment only, so schedule a visit before showing up. Chula Vista is roughly 7 miles from downtown San Diego, with access to the Bayfront and Third Avenue Village dining district.
+**Chula Vista (San Diego County).**Las Brisas Del Mar at 916 4th Avenue offers 3-bedroom units priced at $2,695 to $2,950 per month (as of Q2 2026). The property operates by appointment only, so schedule a visit before showing up. Chula Vista is roughly 7 miles from downtown San Diego, with access to the Bayfront and Third Avenue Village dining district.
 
 ### Huntington Beach (Orange County)
 
-**Huntington Beach (Orange County).** Las Brisas Del Mar at 16552 Sell Circle is located in the Huntington Harbour area, a quiet cul-de-sac approximately 1 mile from Pacific Coast Highway. Two-bedroom units were listed at $2,625 to $2,795 per month (as of Q2 2026). Harbour Mall is nearby, and the property falls within the <a href="https://www.ovsd.org" target="_blank" rel="noopener">Ocean View School District</a>. REMM Group manages the property.
+**Huntington Beach (Orange County).**Las Brisas Del Mar at 16552 Sell Circle is located in the Huntington Harbour area, a quiet cul-de-sac approximately 1 mile from Pacific Coast Highway. Two-bedroom units were listed at $2,625 to $2,795 per month (as of Q2 2026). Harbour Mall is nearby, and the property falls within the <a href="https://www.ovsd.org" target="_blank" rel="noopener">Ocean View School District</a>. REMM Group manages the property.
 
 ### Indio (Coachella Valley)
 
-**Indio (Coachella Valley).** The Indio location offers 1-bedroom and 2-bedroom units with controlled access, a pool, and covered parking. Situated in the Coachella Valley's desert climate, the community provides proximity to Interstate 10 and seasonal events in the area. Contact the on-site leasing office for current availability.
+**Indio (Coachella Valley).**The Indio location offers 1-bedroom and 2-bedroom units with controlled access, a pool, and covered parking. Situated in the Coachella Valley's desert climate, the community provides proximity to Interstate 10 and seasonal events in the area. Contact the on-site leasing office for current availability.
 
 ## Las Brisas Apartments on California's Central Coast
 
@@ -125,15 +125,15 @@ California renters have specific legal protections regardless of which Las Brisa
 
 ### AB 1482 (Tenant Protection Act of 2019)
 
-**AB 1482 (Tenant Protection Act of 2019).** This law caps annual rent increases at 5% plus local CPI, with a maximum of 10%, for most residential buildings 15 years or older. The Santa Maria property (built 2024/2026) is too new to qualify currently. Older properties in LA, Colton, and Chula Vista likely fall under AB 1482. The full text is available through the <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB1482" target="_blank" rel="noopener">California Legislative Information site</a>.
+**AB 1482 (Tenant Protection Act of 2019).**This law caps annual rent increases at 5% plus local CPI, with a maximum of 10%, for most residential buildings 15 years or older. The Santa Maria property (built 2024/2026) is too new to qualify currently. Older properties in LA, Colton, and Chula Vista likely fall under AB 1482. The full text is available through the <a href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB1482" target="_blank" rel="noopener">California Legislative Information site</a>.
 
 ### AB 12 (Security Deposit Reform)
 
-**AB 12 (Security Deposit Reform, effective July 1, 2024).** Security deposits for unfurnished units are now capped at one month's rent (as of Q2 2026). Previously, the cap was two months for unfurnished units. This is a direct financial benefit for renters signing new leases at any Las Brisas community.
+**AB 12 (Security Deposit Reform, effective July 1, 2024).**Security deposits for unfurnished units are now capped at one month's rent (as of Q2 2026). Previously, the cap was two months for unfurnished units. This is a direct financial benefit for renters signing new leases at any Las Brisas community.
 
 ### Just Cause Eviction (AB 1482)
 
-**Just Cause Eviction (AB 1482).** Most multi-unit buildings in California require a documented reason for eviction after 12 months of tenancy. Renters in any Las Brisas community with 12 or more months of occupancy have additional lease security under this provision.
+**Just Cause Eviction (AB 1482).**Most multi-unit buildings in California require a documented reason for eviction after 12 months of tenancy. Renters in any Las Brisas community with 12 or more months of occupancy have additional lease security under this provision.
 
 If you are comparing apartment options across multiple cities, brightplace's [guide to studio apartments](https://brightplace.ai/guides/studio-apartments) covers what to expect at the smaller end of the unit spectrum.
 

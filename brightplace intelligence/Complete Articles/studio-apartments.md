@@ -102,21 +102,19 @@ Yes. Studios rent for 25-40% less per month than a comparable one-bedroom in the
 
 Studios amplify small design flaws that you might overlook in a larger apartment. Before committing, inspect these studio-specific checkpoints.
 
-1. **Natural light and window count.** A single north-facing window in 400 square feet will feel significantly darker than two windows with southern or western exposure. Confirm the number, size, and orientation of windows during your tour.
+1. **Natural light and window count.**A single north-facing window in 400 square feet will feel significantly darker than two windows with southern or western exposure. Confirm the number, size, and orientation of windows during your tour.
 
-2. **Ventilation and HVAC placement.** Open-plan cooking means food odors spread everywhere. Check whether the unit has a range hood that vents externally, adequate HVAC airflow, and at least one operable window near the kitchen zone.
+2. **Ventilation and HVAC placement.**Open-plan cooking means food odors spread everywhere. Check whether the unit has a range hood that vents externally, adequate HVAC airflow, and at least one operable window near the kitchen zone.
 
-3. **Storage availability.** Studios rarely offer generous closet space. Look for additional storage options:
+3. **Storage availability.**Studios rarely offer generous closet space. Look for additional storage options:
 
    - Overhead cabinets
    - Under-bed clearance
    - Building-level storage lockers
 
-4. **Ceiling height.** Ceilings at nine feet or above create a visual sense of openness that offsets the small footprint. Standard eight-foot ceilings in a compact studio can feel compressed.
+4. **Ceiling height.**Ceilings at nine feet or above create a visual sense of openness that offsets the small footprint. Standard eight-foot ceilings in a compact studio can feel compressed.
 
-5. **Temporary wall permissibility.** If you plan to partition a convertible studio, confirm with the landlord or property manager that temporary walls or pressurized dividers are allowed under the lease. Some buildings prohibit them due to fire code or sprinkler clearance requirements.
-
-[INTERNAL LINK: first apartment guide]
+5. **Temporary wall permissibility.**If you plan to partition a convertible studio, confirm with the landlord or property manager that temporary walls or pressurized dividers are allowed under the lease. Some buildings prohibit them due to fire code or sprinkler clearance requirements.
 
 ## Frequently Asked Questions About Studio Apartments
 
