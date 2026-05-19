@@ -42,17 +42,24 @@ See current availability in each of these areas on [brightplace](https://brightp
 
 ## What to Check Before Booking Any Pet-Friendly Rental
 
-The most common booking mistake we see with St. Augustine pet rentals is assuming the listing filter is comprehensive. Community HOA rules can prohibit pets regardless of what the individual owner states in the listing. Before committing to any property, verify these six points directly with the property manager.
+The most common booking mistake we see with St. Augustine pet rentals is assuming the listing filter is comprehensive. Community HOA rules can prohibit pets regardless of what the individual owner states in the listing. Before committing to any property, verify the following points directly with the property manager:
 
-**Weight and breed limits.** Many St. Augustine rentals cap pet weight at 25 to 50 pounds. **Breed restrictions**, policies that prohibit specific dog breeds from staying at a rental, are typically enforced at the community or HOA level. Pit bulls, Rottweilers, German Shepherds, and Dobermans are commonly excluded by multiple resort communities in this market. Ask about breed-specific rules even if the listing does not mention them.
+**1. Weight and breed limits.** Many St. Augustine rentals cap pet weight at 25 to 50 pounds. **Breed restrictions**, policies that prohibit specific dog breeds from staying at a rental, are typically enforced at the community or HOA level. Breeds commonly excluded by multiple resort communities in this market include:
 
-**Number of pets.** Some resort communities in St. Augustine limit guests to one pet per rental, strictly enforced at check-in. If you are traveling with two dogs, confirm the pet count policy before paying any deposit.
+- Pit bulls
+- Rottweilers
+- German Shepherds
+- Dobermans
 
-**Fee structure.** Clarify whether the property charges a flat pet fee or a nightly surcharge. These are very different costs for a week-long stay.
+Ask about breed-specific rules even if the listing does not mention them.
 
-**Fenced yard availability.** A **fenced yard**, an enclosed outdoor area where dogs can be off-leash safely, is a filterable amenity on major short-term rental platforms and one of the highest-value filters for dog owners. Fenced yards are available at a subset of St. Augustine pet-friendly rentals, primarily standalone houses in Anastasia Island and Davis Shores.
+**2. Number of pets.** Some resort communities in St. Augustine limit guests to one pet per rental, strictly enforced at check-in. If you are traveling with two dogs, confirm the pet count policy before paying any deposit.
 
-**HOA confirmation.** For any condo rental, contact the property management company directly. Do not rely solely on the listing description.
+**3. Fee structure.** Clarify whether the property charges a flat pet fee or a nightly surcharge. These are very different costs for a week-long stay.
+
+**4. Fenced yard availability.** A **fenced yard**, an enclosed outdoor area where dogs can be off-leash safely, is a filterable amenity on major short-term rental platforms and one of the highest-value filters for dog owners. Fenced yards are available at a subset of St. Augustine pet-friendly rentals, primarily standalone houses in Anastasia Island and Davis Shores.
+
+**5. HOA confirmation.** For any condo rental, contact the property management company directly. Do not rely solely on the listing description.
 
 If you are considering renting with pets long-term in Florida, the rules differ significantly from short-term stays. See brightplace's guide to [how to rent an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) for a lease-focused walkthrough.
 
@@ -76,7 +83,14 @@ For off-leash exercise, <a href="https://www.sjcfl.us/Parks/TreatyPark" target="
 
 Standalone houses and cottages are the most reliable property type for pet owners in St. Augustine. The owner sets the policy directly. Houses are more likely to have fenced yards and direct outdoor access, both of which make a stay with dogs significantly easier.
 
-Condos in resort communities like Ocean Village Club, Barefoot Trace, Beacher's Lodge, and St. Augustine Beach and Tennis Resort present a different situation. Individual owners within these communities may list their units as pet-friendly, but HOA rules override. Always confirm with the property manager at the community level, not just the listing level.
+Condos in resort communities present a different situation. Communities with their own pet policies include:
+
+- Ocean Village Club
+- Barefoot Trace
+- Beacher's Lodge
+- St. Augustine Beach and Tennis Resort
+
+Always confirm with the property manager at the community level, not just the listing level.
 
 Pool homes are common on Anastasia Island and in St. Augustine Beach. Pets are typically restricted from the pool area across virtually all listings. Verify that the property has outdoor space separate from the pool for your dog.
 

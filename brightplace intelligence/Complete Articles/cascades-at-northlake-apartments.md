@@ -57,7 +57,13 @@ Charlotte Area Transit System (CATS) bus routes serve parts of this area, but sc
 
 ### What Is Close By
 
-Northlake Mall is the primary retail anchor, with Target, a food court, and several chain restaurants. Grocery options include stores along the Brookshire Freeway corridor. Latta Nature Preserve is approximately 4 miles south and offers hiking trails and green space. Lake Norman, about 15 minutes north by car, provides boating and waterfront dining options. Fitness centers and medical offices cluster along the I-485 interchange exits.
+Nearby points of interest include:
+
+- Northlake Mall with Target, food court, and chain restaurants
+- Grocery stores along the Brookshire Freeway corridor
+- Latta Nature Preserve approximately 4 miles south with hiking trails and green space
+- Lake Norman about 15 minutes north by car with boating and waterfront dining
+- Fitness centers and medical offices along the I-485 interchange exits
 
 ## What Renters Are Saying About Cascades at Northlake
 

@@ -64,9 +64,28 @@ Four Las Brisas properties operate in Southern California outside the Los Angele
 
 Las Brisas Santa Maria is the newest and largest Las Brisas community in California. This 340-unit, garden-style apartment community in Santa Barbara County opened for leasing in early 2026. Developed by MBK Rental Living and managed by Greystar, the property offers 1-, 2-, and 3-bedroom floor plans.
 
-The amenity package is extensive: resort-style pool and spa, 24-hour fitness center with Precor equipment, dog park, dog spa, California Room, co-working spaces, EV charging stations, and a digital parcel system. Two designer color schemes (Sunrise and Sunset) are available across units.
+The amenity package includes:
 
-In-unit features include quartz countertops, stainless steel appliances, stacked washer/dryer, wood-grain vinyl flooring, and patio or balcony on select units. The location offers access to Highway 101, with Pismo State Beach roughly 20 minutes south and the Guadalupe-Nipomo Dunes nearby.
+- Resort-style pool and spa
+- 24-hour fitness center with Precor equipment
+- Dog park
+- Dog spa
+- California Room
+- Co-working spaces
+- EV charging stations
+- Digital parcel system
+
+Two designer color schemes (Sunrise and Sunset) are available across units.
+
+In-unit features include:
+
+- Quartz countertops
+- Stainless steel appliances
+- Stacked washer/dryer
+- Wood-grain vinyl flooring
+- Patio or balcony on select units
+
+The location offers access to Highway 101, with Pismo State Beach roughly 20 minutes south and the Guadalupe-Nipomo Dunes nearby.
 
 A leasing promotion offering up to 6 weeks free on base rent was active at the time of this review (as of Q2 2026). Restrictions apply and minimum lease terms are required. Contact the property directly for current specials.
 

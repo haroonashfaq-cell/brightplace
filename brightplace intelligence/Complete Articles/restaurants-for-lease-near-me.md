@@ -33,7 +33,14 @@ Commercial restaurant listings look different from anything in residential real 
 
 Pay attention to the lease type. A **NNN (Triple Net Lease)** is a lease structure in which the tenant pays base rent plus their proportionate share of property taxes, building insurance, and maintenance costs. Those NNN charges add $3 to $30 per square foot per year (as of Q2 2026) depending on the market, and they come on top of the asking rent.
 
-Infrastructure notes matter enormously. Listings that mention an existing hood exhaust system, grease trap, gas lines, and walk-in cooler describe a space that could save you six figures in buildout. A listing that says "vanilla shell" or "white box" means you are building everything from scratch.
+Infrastructure notes matter enormously. Listings that mention existing kitchen infrastructure describe a space that could save you six figures in buildout. Key infrastructure to look for:
+
+- Hood exhaust system
+- Grease trap
+- Gas lines
+- Walk-in cooler
+
+A listing that says "vanilla shell" or "white box" means you are building everything from scratch.
 
 ## How Restaurant Lease Pricing Works
 
@@ -50,9 +57,23 @@ Restaurant spaces in secondary markets typically ask $12 to $25 per square foot 
 
 ## How a Restaurant Lease Actually Works
 
-The restaurant leasing process starts with identifying spaces and ends with a signed lease, but several critical steps happen in between. After you find a space, the next move is submitting a **Letter of Intent (LOI)**, a non-binding document that outlines the proposed lease terms before a formal lease agreement is drafted, used to negotiate key terms before legal costs are incurred.
+The restaurant leasing process starts with identifying spaces and ends with a signed lease, but several critical steps happen in between:
 
-The LOI covers rent, lease term, **Tenant Improvement Allowance (TI)** (money the landlord provides toward buildout costs, typically expressed in dollars per square foot of leased space), free rent during construction, and **personal guarantee** scope (a requirement that the tenant personally backs the lease obligations, meaning the landlord can pursue the individual's personal assets if the business defaults). Most restaurant landlords require lease terms of 5 to 10 years, with at least one 5-year renewal option negotiated at signing.
+1. Find and evaluate potential spaces.
+2. Submit a **Letter of Intent (LOI)**, a non-binding document that outlines the proposed lease terms before a formal lease agreement is drafted, used to negotiate key terms before legal costs are incurred.
+3. Negotiate the LOI terms (see below).
+4. Engage a real estate attorney to draft the formal lease.
+5. Sign the lease and begin buildout.
+
+The LOI covers the following key terms:
+
+- Rent
+- Lease term
+- **Tenant Improvement Allowance (TI)** (money the landlord provides toward buildout costs, typically expressed in dollars per square foot of leased space)
+- Free rent during construction
+- **Personal guarantee** scope (a requirement that the tenant personally backs the lease obligations, meaning the landlord can pursue the individual's personal assets if the business defaults)
+
+Most restaurant landlords require lease terms of 5 to 10 years, with at least one 5-year renewal option negotiated at signing.
 
 One step that saves significant money and delays: contact your local health department before signing, not after. Operators who engage environmental health inspectors during the LOI phase can identify code requirements, kitchen layout issues, and permitting timelines that would otherwise become expensive surprises mid-buildout. This costs nothing and can prevent five-figure change orders.
 
@@ -66,7 +87,12 @@ The [SBA's restaurant financing resources](https://www.sba.gov/business-guide/pl
 
 ## Second-Generation vs. Raw Space: What the Difference Costs You
 
-A **second-generation restaurant space** is a previously operated restaurant that retains existing kitchen infrastructure, including hood exhaust, grease trap, gas lines, and walk-in cooler connections. This distinction is the single most important filter when evaluating listings.
+A **second-generation restaurant space** is a previously operated restaurant that retains existing kitchen infrastructure. This distinction is the single most important filter when evaluating listings. Key infrastructure in a second-gen space typically includes:
+
+- Hood exhaust
+- Grease trap
+- Gas lines
+- Walk-in cooler connections
 
 Buildout costs for raw commercial space can run $200 to $400 per square foot or more (as of 2026), compared to $75 to $150 per square foot for a second-generation space with existing infrastructure. For a 1,500 SF restaurant, that difference is $187,500 to $375,000 in buildout savings.
 

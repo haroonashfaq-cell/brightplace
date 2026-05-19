@@ -38,7 +38,11 @@ The property's description references 1-bedroom and 3-bedroom options, but these
 
 The gap between listed base rent and what you actually pay each month at Discovery at Space Coast comes down to one mandatory charge. The Smart Technology Fee is a mandatory $125/month charge that bundles Wi-Fi, smart home access, package locker service, pest control, and valet trash into a single line item on the monthly bill (as of Q2 2026). Every lease includes it.
 
-One-time move-in fees add to the upfront cost. The administration fee is $250, the application fee runs $85 per applicant, and there is a $25 account setup fee (as of Q2 2026).
+One-time move-in fees add to the upfront cost:
+
+- Administration fee: $250
+- Application fee: $85 per applicant
+- Account setup fee: $25 (as of Q2 2026)
 
 Situational fees matter for budgeting, too. Late rent carries a penalty of 10% of rent. An early termination fee equal to two months of rent applies if a resident breaks the lease before the end of the term. Transferring to a different unit within the community costs $750 (as of Q2 2026). Renters on short project cycles should clarify lease transfer options before signing. For a complete breakdown of costs beyond base rent, see brightplace's guide to [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
@@ -46,11 +50,31 @@ Situational fees matter for budgeting, too. Late rent carries a penalty of 10% o
 
 ## Amenities at Discovery at Space Coast
 
-Units at Discovery at Space Coast include luxury vinyl plank flooring, in-home full-size washer and dryer, stainless steel Whirlpool appliances, quartz countertops, a kitchen prep island, and soft-close cabinetry. Smart home keyless entry, USB outlet ports, private screened patios, and walk-in closets come standard across floor plans.
+In-unit features at Discovery at Space Coast include:
 
-Community amenities lean toward a resort-style package. The saltwater pool has daybeds, and the outdoor lounge includes a fireplace. A 24-hour fitness center with a virtual training room sits alongside a cyber cafe with private micro offices, a conference room, and an entertainment clubroom with shuffleboard.
+- Luxury vinyl plank flooring
+- In-home full-size washer and dryer
+- Stainless steel Whirlpool appliances
+- Quartz countertops
+- Kitchen prep island
+- Soft-close cabinetry
+- Smart home keyless entry
+- USB outlet ports
+- Private screened patios
+- Walk-in closets
 
-The dog park includes agility equipment. Gated access uses RFID vehicle tags, and EV charging stations are available onsite. A coffee bar rounds out the common spaces.
+Community amenities include:
+
+- Saltwater pool with daybeds
+- Outdoor lounge with fireplace
+- 24-hour fitness center with virtual training room
+- Cyber cafe with private micro offices
+- Conference room
+- Entertainment clubroom with shuffleboard
+- Dog park with agility equipment
+- Gated access with RFID vehicle tags
+- EV charging stations
+- Coffee bar
 
 ## Pet Policy at Discovery at Space Coast
 

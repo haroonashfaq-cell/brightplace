@@ -14,7 +14,16 @@ author: brightplace
 
 ## The Rental Process in Six Stages
 
-Learning how to rent an apartment starts with understanding the six stages every renter moves through: assessing your finances, preparing your documents, searching for listings, touring units in person, submitting your application, and reading and signing the lease. Each stage has specific actions that keep the process efficient and reduce the chance of surprises at move-in.
+Learning how to rent an apartment starts with understanding the six stages every renter moves through:
+
+1. Assessing your finances
+2. Preparing your documents
+3. Searching for listings
+4. Touring units in person
+5. Submitting your application
+6. Reading and signing the lease
+
+Each stage has specific actions that keep the process efficient and reduce the chance of surprises at move-in.
 
 ## Stage 1: Know Your Numbers Before You Search
 
@@ -52,7 +61,11 @@ Prepare the following documents and keep digital copies on your phone or in clou
 | Prior landlord contact information | Rental history |
 | Professional or personal references | Character and reliability |
 
-Self-employed renters should also have a CPA letter or 1099 forms available. If you receive non-traditional income (disability benefits, alimony, or investment returns), bring official documentation of those sources as well.
+Self-employed renters should also have a CPA letter or 1099 forms available. If you receive non-traditional income, bring official documentation. Common non-traditional income sources to document include:
+
+- Disability benefits
+- Alimony
+- Investment returns
 
 ## Stage 3: Start Your Search (and When to Start)
 
@@ -60,7 +73,15 @@ Begin your apartment search six to eight weeks before your desired move-in date.
 
 brightplace tracks rental listing velocity across major U.S. markets. In cities like Austin, Denver, and Boston, desirable one-bedroom units spend an average of 3 to 7 days on market before being taken. In New York and San Francisco, that window is often 24 to 48 hours.
 
-Set up alerts on rental platforms so new listings reach you immediately. Filter by price, neighborhood, and apartment size to reduce noise. When evaluating neighborhoods, focus on infrastructure: proximity to public transit, grocery stores, hospitals, parks, and your workplace. [INTERNAL LINK: best time to rent an apartment]
+Set up alerts on rental platforms so new listings reach you immediately. Filter by price, neighborhood, and apartment size to reduce noise. When evaluating neighborhoods, focus on proximity to key infrastructure:
+
+- Public transit
+- Grocery stores
+- Hospitals
+- Parks
+- Your workplace
+
+[INTERNAL LINK: best time to rent an apartment]
 
 Prioritize in-person visits over photos alone. Listings can be misleading, and floor plans rarely capture storage space, natural light, or noise levels.
 
@@ -68,9 +89,14 @@ Prioritize in-person visits over photos alone. Listings can be misleading, and f
 
 ## Stage 4: Touring Apartments, What to Check
 
-A tour is your one chance to evaluate the apartment beyond what photos show, so arrive with a checklist. Run the faucets and shower to test water pressure. Check cell service in every room. Visit at different times of day if possible to assess natural light and street noise.
+A tour is your one chance to evaluate the apartment beyond what photos show, so arrive with a checklist. Work through these inspection steps during each tour:
 
-Open closets and cabinets to evaluate storage. Test all appliances: stove burners, oven, refrigerator temperature, dishwasher cycle. Look under sinks and around windows for water damage, mold, or pest activity (droppings, traps, or holes in baseboards).
+1. Run the faucets and shower to test water pressure.
+2. Check cell service in every room.
+3. Open closets and cabinets to evaluate storage.
+4. Test all appliances: stove burners, oven, refrigerator temperature, dishwasher cycle.
+5. Look under sinks and around windows for water damage, mold, or pest activity (droppings, traps, or holes in baseboards).
+6. Visit at different times of day if possible to assess natural light and street noise.
 
 Take photos and videos of everything, including any pre-existing damage. These become critical during your move-out inspection.
 
@@ -88,7 +114,12 @@ Keep your neighborhood evaluation focused on infrastructure: distance to transit
 
 A **rental application** is a formal request submitted to a landlord or property manager that authorizes them to verify your identity, income, employment, credit history, and rental background. Application fees as of 2025 typically range from $25 to $75 per applicant; New York caps this fee at $20 under state law (as of 2025).
 
-The screening process usually takes one to three business days. Landlords check credit reports, contact previous landlords, and verify employment. Some also run background checks.
+The screening process usually takes one to three business days. Landlords typically verify the following:
+
+- Credit reports
+- Previous landlord references
+- Employment status
+- Background checks (some landlords)
 
 A **co-signer** (also called a guarantor) is a person who agrees to cover your rent if you cannot pay. If your application needs strengthening, a co-signer with a credit score of 700 or above can significantly improve your chances.
 
@@ -123,7 +154,14 @@ One clause renters overlook consistently is the notice-to-vacate requirement. Ma
 
 ## Before You Move In: The Walk-Through Inspection
 
-Schedule a walk-through inspection with your landlord before carrying in any furniture. Document every existing scratch, dent, stain, and malfunction with timestamped photos and video. Check walls, floors, countertops, appliances, windows, and fixtures.
+Schedule a walk-through inspection with your landlord before carrying in any furniture. Document every existing issue with timestamped photos and video. Check the following areas for pre-existing damage:
+
+- Walls
+- Floors
+- Countertops
+- Appliances
+- Windows
+- Fixtures
 
 Send the complete documentation to your landlord the same day, either by email with a read receipt or through the property management portal. Keep your own copy stored securely.
 

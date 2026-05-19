@@ -73,7 +73,14 @@ The standard affordability benchmark comes from HUD cost-burden thresholds: spen
 
 Most U.S. landlords require gross monthly income to be at least 2.5 to 3 times the monthly rent (as of Q2 2025). The **income multiple** is the ratio landlords use to verify a renter can afford rent; most markets require gross monthly income to be 2.5-3 times the monthly rent. NYC landlords commonly require 40 times monthly rent as annual income, making a $3,500/month apartment accessible only to renters earning $140,000 or more per year.
 
-The 30% rule provides a useful starting point, but does not account for student loan payments, childcare costs, high-cost-of-living adjustments, or two-income households splitting rent. Two roommates each earning $40,000 can comfortably afford a $2,000/month 2BR that would stretch a single $60,000 income past recommended limits. [INTERNAL LINK: how much rent can I afford]
+The 30% rule provides a useful starting point, but does not account for several factors that affect real affordability:
+
+- Student loan payments
+- Childcare costs
+- High-cost-of-living adjustments
+- Two-income households splitting rent
+
+Two roommates each earning $40,000 can comfortably afford a $2,000/month 2BR that would stretch a single $60,000 income past recommended limits. [INTERNAL LINK: how much rent can I afford]
 
 ## What Total Cost of Occupancy Actually Includes
 
@@ -99,7 +106,13 @@ Five factors consistently separate a good 2 bedroom apartment from a frustrating
 
 **2. Lease term flexibility.** Month-to-month or short-term leases typically cost 10-25% more than standard 12-month leases (as of Q2 2025). If you know you will stay at least a year, locking in a 12-month term saves real money. Shorter terms make sense only when job relocation or life changes are genuinely likely.
 
-**3. Pet policy.** Policies range from fully pet-friendly to breed-restricted or pet-free. Distinguish between non-refundable pet fees (one-time), refundable pet deposits, and monthly pet rent. Some buildings impose breed or weight restrictions that may not appear in the initial listing.
+**3. Pet policy.** Policies range from fully pet-friendly to breed-restricted or pet-free. Distinguish between these common pet-related charges:
+
+- Non-refundable pet fees (one-time)
+- Refundable pet deposits
+- Monthly pet rent
+
+Some buildings impose breed or weight restrictions that may not appear in the initial listing.
 
 **4. Parking.** Dedicated parking is a must-evaluate line item in LA, NYC, and Chicago, where monthly garage fees reach $200-$300. Free surface parking in suburban markets can offset a slightly higher base rent in a further-out neighborhood.
 

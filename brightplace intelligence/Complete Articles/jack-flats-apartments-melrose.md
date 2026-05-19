@@ -39,7 +39,13 @@ Classic units offer a more conventional layout with 9-to-10-foot ceilings and cl
 
 ## Unit Sizes, Finishes, and Pricing
 
-Jack Flats apartments include standard finishes across all three collections: stone countertops, stainless steel appliances, gas ranges, in-unit washer and dryer, and luxury vinyl plank flooring.
+Jack Flats apartments include standard finishes across all three collections:
+
+- Stone countertops
+- Stainless steel appliances
+- Gas ranges
+- In-unit washer and dryer
+- Luxury vinyl plank flooring
 
 | Unit Type | Approximate Rent Range | Key Finishes | Notes |
 |---|---|---|---|
@@ -54,9 +60,17 @@ One detail most competitors do not cover: Jack Flats includes an affordable hous
 
 ## Amenities and Community Features
 
-The campus includes a heated saltwater pool, a 24-hour fitness center with a yoga and spinning studio, and two fenced dog parks with a dog wash station. An outdoor kitchen with grills, a sun terrace with a fire pit, and coworking spaces with a conference room round out the shared areas.
+The campus amenities include:
 
-The historic Gatehouse building on the campus houses a resident clubroom with restored fireplaces. A recording studio is available for residents who need creative workspace. EV charging stations are installed on site.
+- Heated saltwater pool
+- 24-hour fitness center with yoga and spinning studio
+- Two fenced dog parks with dog wash station
+- Outdoor kitchen with grills
+- Sun terrace with fire pit
+- Coworking spaces with conference room
+- Resident clubroom with restored fireplaces in the historic Gatehouse building
+- Recording studio for creative workspace
+- EV charging stations
 
 Jack Flats participates in Bilt Rewards, which allows residents to earn points on rent payments. Parking is available on the campus, though renters should confirm pricing and availability for their specific unit type with the leasing office.
 
@@ -64,7 +78,12 @@ Jack Flats participates in Bilt Rewards, which allows residents to earn points o
 
 Wyoming Hill Station is the MBTA commuter rail stop nearest to Jack Flats, serving the Haverhill/Newburyport Line with service to North Station in Boston in under 20 minutes on most weekday departures. Based on brightplace's review of publicly available transit schedules, the Wyoming Hill commuter rail station puts North Station within approximately 18 to 20 minutes on weekday departures (as of Q2 2026).
 
-An MBTA bus stop sits directly in front of the property. The GID acquisition press release noted walkability to both the MBTA Orange Line and the commuter rail, giving residents two distinct rail options for reaching Boston. Drivers can access I-93 for a direct route into the city or north toward New Hampshire.
+Transit options from Jack Flats include:
+
+- MBTA commuter rail at Wyoming Hill Station (Haverhill/Newburyport Line, ~18-20 min to North Station)
+- MBTA bus stop directly in front of the property
+- MBTA Orange Line within walking distance, providing a second rail option to Boston
+- I-93 access for drivers heading into the city or north toward New Hampshire
 
 For renters commuting toward Cambridge or Somerville employers, Assembly Row in Somerville is a short trip south and offers an Orange Line connection at Assembly Station. Commuter rail service frequency varies by time of day, so confirm specific departure schedules before relying on a particular train for a daily commute.
 

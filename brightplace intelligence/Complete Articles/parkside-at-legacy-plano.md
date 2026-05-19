@@ -23,7 +23,13 @@ Built in 2012, the community offers 1BR, 2BR, and select 3BR floor plans. 2BR un
 
 ### Amenities and Unit Features
 
-Interior finishes include granite or quartz countertops, stainless steel appliances, wood-style flooring, and in-unit washer/dryer. Units include private balconies.
+Interior finishes include:
+
+- Granite or quartz countertops
+- Stainless steel appliances
+- Wood-style flooring
+- In-unit washer/dryer
+- Private balconies
 
 Community amenities confirmed at the property:
 
@@ -42,7 +48,16 @@ The Legacy West submarket is one of the few areas in suburban DFW where walkable
 
 Walking access to Legacy West puts Whole Foods, Shops at Legacy, and a concentrated restaurant row within reach on foot. That kind of walkability is uncommon in suburban DFW and accounts for part of the rent premium in this submarket.
 
-Toyota North America, JPMorgan Chase, Liberty Mutual, HP, FedEx Office, and Ericsson all maintain major campuses within approximately 1-3 miles of the Legacy West submarket. For corporate relocators, this means a commute measured in minutes rather than highway segments.
+The following employers all maintain major campuses within approximately 1-3 miles of the Legacy West submarket:
+
+- Toyota North America
+- JPMorgan Chase
+- Liberty Mutual
+- HP
+- FedEx Office
+- Ericsson
+
+For corporate relocators, this means a commute measured in minutes rather than highway segments.
 
 The CityLine/Bush DART station on the Red and Orange Lines sits approximately 2-3 miles from the property. DART rail connects to Downtown Dallas without a car, with travel times of roughly 30-40 minutes depending on the line and time of day. Plano ISD, one of the highest-performing school districts in Texas, serves this area, which matters for renters with children.
 

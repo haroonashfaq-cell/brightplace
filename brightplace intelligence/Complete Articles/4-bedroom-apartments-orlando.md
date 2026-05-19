@@ -84,7 +84,11 @@ Downtown renters who need 4 bedrooms at lower price points should search adjacen
 
 ## 4 Bedroom Townhomes for Rent in Orlando
 
-Townhomes are often the practical answer for renters who want 4 bedrooms but are priced out of full apartment communities at this size. Standard townhome floor plans offer 1,200 to 1,800 sq ft, with luxury product reaching 2,200+ sq ft. Common inclusions are an attached garage, in-unit laundry, and a private patio or small yard.
+Townhomes are often the practical answer for renters who want 4 bedrooms but are priced out of full apartment communities at this size. Standard townhome floor plans offer 1,200 to 1,800 sq ft, with luxury product reaching 2,200+ sq ft. Common inclusions are:
+
+- Attached garage
+- In-unit laundry
+- Private patio or small yard
 
 The Bella Vita community in West Orlando at 4700 Cason Cove Drive offers a 4 bedroom, 2 bathroom townhome floor plan (the "Amistad" at 1,296 sq ft) starting around $2,299 per month (as of Q2 2026). That price point illustrates the gap: traditional apartment complex 4 bedroom units start at $2,400 to $3,500 (as of Q2 2026), while townhomes come in at $2,200 to $3,200 (as of Q2 2026).
 

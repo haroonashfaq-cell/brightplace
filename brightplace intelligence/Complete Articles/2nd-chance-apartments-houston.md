@@ -44,7 +44,14 @@ Here is something competitors rarely explain: the reason age thresholds matter i
 
 Income is the non-negotiable factor. Most Houston properties require gross monthly income of at least 3 times the monthly rent (as of Q2 2026). For a $1,000/month apartment, that means $3,000/month in verifiable income. The 3x rule exists because landlords use it as a baseline indicator that a tenant can cover rent, utilities, and basic expenses without falling behind.
 
-Bring recent pay stubs covering 2 to 4 weeks, a government-issued ID, and employment verification. If you have settled previous rental debt, bring the paid-in-full letter or documented payment plan. For cash-paid workers, bank statement deposits over the last 60 to 90 days can serve as an alternative to traditional pay stubs at some properties.
+Bring the following documentation to every application:
+
+- Recent pay stubs covering 2 to 4 weeks
+- A government-issued ID
+- Employment verification
+- If you have settled previous rental debt, bring the paid-in-full letter or documented payment plan
+
+For cash-paid workers, bank statement deposits over the last 60 to 90 days can serve as an alternative to traditional pay stubs at some properties.
 
 Deposits run higher than the market average. Expect to pay a deposit equal to one full month's rent, and sometimes 1.5 to 2 times the monthly rent (as of Q2 2026). Some properties charge a non-refundable **risk fee** instead. A risk fee (sometimes called a surety bond) is a non-refundable fee paid at move-in by higher-risk applicants, typically ranging from $300 to $800 in Houston (as of Q2 2026), that protects the landlord in lieu of a larger security deposit. Ask which structure a property uses before applying.
 
@@ -80,7 +87,11 @@ brightplace tracks available units across Houston neighborhoods. [Search current
 
 ## What to Expect After Approval: Move-In Costs and Rebuilding
 
-Move-in costs at second chance properties run higher than standard apartments. Budget for first month's rent, a deposit of one to two months' rent or a risk fee of $300 to $800 (as of Q2 2026), and any application or administrative fees.
+Move-in costs at second chance properties run higher than standard apartments. Budget for the following:
+
+- First month's rent
+- A deposit of one to two months' rent or a risk fee of $300 to $800 (as of Q2 2026)
+- Any application or administrative fees
 
 Ask about move-in specials. Even second chance properties run promotions, particularly during slower leasing months. Specials like reduced first month's rent or waived admin fees are available but change frequently. Calling directly and asking is the only reliable way to confirm current offers.
 

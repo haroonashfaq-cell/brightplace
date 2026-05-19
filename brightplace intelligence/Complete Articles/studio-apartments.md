@@ -42,7 +42,16 @@ Based on search patterns brightplace tracks across major urban markets, alcove a
 
 ## What Does a Studio Apartment Cost?
 
-Studios rent for 25-40% less per month than a comparable one-bedroom in the same building (as of Q1 2025). The exact discount depends on city, building age, floor level, unit exposure, amenity package, and lease timing. Below is a city-by-city overview of median asking rents for studio apartments.
+Studios rent for 25-40% less per month than a comparable one-bedroom in the same building (as of Q1 2025). The exact discount depends on several factors:
+
+- City and neighborhood
+- Building age
+- Floor level
+- Unit exposure
+- Amenity package
+- Lease timing
+
+Below is a city-by-city overview of median asking rents for studio apartments.
 
 **Studio Median Asking Rent by City**
 
@@ -97,7 +106,11 @@ Studios amplify small design flaws that you might overlook in a larger apartment
 
 2. **Ventilation and HVAC placement.** Open-plan cooking means food odors spread everywhere. Check whether the unit has a range hood that vents externally, adequate HVAC airflow, and at least one operable window near the kitchen zone.
 
-3. **Storage availability.** Studios rarely offer generous closet space. Look for additional storage options such as overhead cabinets, under-bed clearance, or building-level storage lockers.
+3. **Storage availability.** Studios rarely offer generous closet space. Look for additional storage options:
+
+   - Overhead cabinets
+   - Under-bed clearance
+   - Building-level storage lockers
 
 4. **Ceiling height.** Ceilings at nine feet or above create a visual sense of openness that offsets the small footprint. Standard eight-foot ceilings in a compact studio can feel compressed.
 

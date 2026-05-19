@@ -41,7 +41,13 @@ The standard affordability benchmark is the 30% rule: spend no more than 30% of 
 
 Applying this rule produces clear monthly ceilings. A $40,000 annual salary translates to roughly $3,333 per month gross, setting a rent ceiling of about $1,000/month (as of Q2 2026). A $60,000 salary puts the ceiling at approximately $1,500/month (as of Q2 2026).
 
-Beyond monthly rent, budget for upfront **move-in costs**, which represent the total upfront cash required to secure an apartment, typically including first month's rent, security deposit, and any required last month's rent. Most landlords require a **security deposit**, a refundable payment, typically equal to one to two months' rent, held by the landlord to cover damages or unpaid rent. Combined, move-in costs total 2-3x your monthly rent (as of Q2 2026).
+Beyond monthly rent, budget for upfront **move-in costs**, which represent the total upfront cash required to secure an apartment. Typical move-in cost components include:
+
+- First month's rent
+- **Security deposit** (a refundable payment, typically equal to one to two months' rent, held by the landlord to cover damages or unpaid rent)
+- Last month's rent (if required)
+
+Combined, move-in costs total 2-3x your monthly rent (as of Q2 2026).
 
 For a $1,500/month apartment, that means having $3,000-$4,500 in cash ready before move-in day. Factor in application fees and potential broker fees in markets like New York or Boston, and the number climbs higher.
 
@@ -51,7 +57,12 @@ For a $1,500/month apartment, that means having $3,000-$4,500 in cash ready befo
 
 Most landlords require a minimum credit score of 620-650 to approve a rental application (as of Q2 2026). Professionally managed apartment communities, particularly in Tier 1 and Tier 2 markets, often prefer applicants with scores of 700 or above.
 
-If your score falls below these thresholds, you still have options. Offering a co-signer with stronger credit, paying a larger security deposit, or using a third-party guarantor service can help you qualify. Some smaller landlords and owner-managed properties place less weight on credit scores and may accept a demonstrated history of on-time bill payments instead.
+If your score falls below these thresholds, you still have options:
+
+- Offering a co-signer with stronger credit
+- Paying a larger security deposit
+- Using a third-party guarantor service
+- Demonstrating a history of on-time bill payments (some smaller landlords and owner-managed properties accept this in lieu of a strong credit score)
 
 ## How to Evaluate a 1 Bedroom Apartment Listing Before You Tour
 

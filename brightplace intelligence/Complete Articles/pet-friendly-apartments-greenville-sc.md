@@ -40,7 +40,15 @@ To model the real cost: a renter with one dog at a Greenville community charging
 
 ## Breed Restrictions in Greenville, SC Apartments: What to Expect
 
-Several Greenville apartment communities advertise no breed restrictions, but they are the exception rather than the rule. Most institutionally managed communities maintain restricted breed lists that typically include pit bull terriers, Rottweilers, Doberman Pinschers, German Shepherds, Chow Chows, Akitas, and wolf hybrids (as of Q2 2026).
+Several Greenville apartment communities advertise no breed restrictions, but they are the exception rather than the rule. Most institutionally managed communities maintain restricted breed lists that typically include the following (as of Q2 2026):
+
+- Pit bull terriers
+- Rottweilers
+- Doberman Pinschers
+- German Shepherds
+- Chow Chows
+- Akitas
+- Wolf hybrids
 
 A **breed restriction** is a policy that prohibits specific dog breeds, typically maintained by communities whose liability insurance excludes coverage for those breeds. The restriction usually originates with the management company's insurance carrier, not the on-site property manager. Larger national and regional operators follow stricter insurance requirements, which is why Class A apartment communities tend to have longer restricted breed lists than smaller, privately managed properties.
 
@@ -72,13 +80,34 @@ Confirming pet acceptance by phone before you apply is the single most important
 
 Beyond breed and weight confirmation, ask for the full fee breakdown in writing: pet fee amount, whether a separate pet deposit applies, and the monthly pet rent per pet. Request a copy of the **pet addendum** before signing the lease. A pet addendum is a supplemental lease document that defines the renter's financial obligations for pet-related damage beyond normal wear and tear. Common clauses include carpet replacement liability, flea treatment requirements at move-out, and stain or claw damage deductions that may exceed the pet deposit. Renters who read this document before signing are in a stronger position to protect their deposit at move-out.
 
-If you have a dog that needs regular outdoor access, ask about ground-floor availability or elevator access, on-site pet amenities like bark parks or walking paths, and waste station locations. These details affect daily quality of life more than most renters expect.
+If you have a dog that needs regular outdoor access, ask about:
+
+1. Ground-floor availability or elevator access
+2. On-site pet amenities like bark parks or walking paths
+3. Waste station locations
+
+These details affect daily quality of life more than most renters expect.
 
 ## Pet-Friendly Resources Near Greenville Apartments
 
-Greenville has strong outdoor infrastructure for dog owners. The Swamp Rabbit Trail runs 22 miles and is dog-accessible throughout. Falls Park on the Reedy is a go-to for leashed walks in the center of town. Paris Mountain State Park offers wooded hiking trails. Lake Conestee Nature Preserve provides additional greenspace for on-leash walks, and the Pavilion Dog Park offers a fenced off-leash option.
+Greenville has strong outdoor infrastructure for dog owners:
 
-For veterinary care, Greenville's options include Integrity Animal Health, East Greenville Animal Hospital, Upstate Vet Emergency and Special Care (for after-hours emergencies), Roper Mountain Animal Hospital, Furwell Veterinary Hospital, and Hudson Road Veterinary Clinic. Confirm hours and new-patient availability before relying on any single provider, as wait times for new clients have increased across the Greenville area (as of Q2 2026). Renters moving from other pet-friendly cities may find brightplace's [San Diego dog-friendly neighborhoods guide](https://brightplace.ai/guides/dog-friendly-neighborhoods-san-diego) useful for comparison.
+- **Swamp Rabbit Trail** runs 22 miles and is dog-accessible throughout
+- **Falls Park on the Reedy** is a go-to for leashed walks in the center of town
+- **Paris Mountain State Park** offers wooded hiking trails
+- **Lake Conestee Nature Preserve** provides additional greenspace for on-leash walks
+- **Pavilion Dog Park** offers a fenced off-leash option
+
+For veterinary care, Greenville's options include:
+
+- Integrity Animal Health
+- East Greenville Animal Hospital
+- Upstate Vet Emergency and Special Care (for after-hours emergencies)
+- Roper Mountain Animal Hospital
+- Furwell Veterinary Hospital
+- Hudson Road Veterinary Clinic
+
+Confirm hours and new-patient availability before relying on any single provider, as wait times for new clients have increased across the Greenville area (as of Q2 2026). Renters moving from other pet-friendly cities may find brightplace's [San Diego dog-friendly neighborhoods guide](https://brightplace.ai/guides/dog-friendly-neighborhoods-san-diego) useful for comparison.
 
 ## Frequently Asked Questions About Pet-Friendly Apartments in Greenville, SC
 

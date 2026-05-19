@@ -40,11 +40,37 @@ The oversized floor plans are a consistent theme in resident feedback. Units her
 
 ## In-Unit and Community Amenities
 
-Randolph Towers apartments include private balconies, in-unit washers and dryers, wood-style flooring, slate appliances, designer-inspired kitchens, and individually controlled heating and cooling. Concrete walls between units provide meaningful noise reduction, something residents consistently describe as more effective than the glass-and-steel construction found in newer buildings.
+Randolph Towers apartments include the following in-unit features:
 
-Closet space is generous relative to the Ballston market. Updated units (marketed as "modernized") feature quartz countertops, kitchen backsplash, LED lighting, and oversized porcelain tile in bathrooms.
+- Private balconies
+- In-unit washers and dryers
+- Wood-style flooring
+- Slate appliances
+- Designer-inspired kitchens
+- Individually controlled heating and cooling
 
-Community amenities include a 24-hour front desk, a 24-hour fitness center, a resident lounge, a private courtyard with grilling stations and a fire pit, electric vehicle charging stations, a business center, bike lockers, reserved parking, and an onsite convenience store with retail shops. An indoor pool is referenced in resident reviews; confirm availability directly with the leasing office. The building does not allow pets of any kind, so renters with animals should factor this into their search early. [INTERNAL LINK: pet-friendly apartments Arlington VA]
+Concrete walls between units provide meaningful noise reduction, something residents consistently describe as more effective than the glass-and-steel construction found in newer buildings.
+
+Closet space is generous relative to the Ballston market. Updated units (marketed as "modernized") feature:
+
+- Quartz countertops
+- Kitchen backsplash
+- LED lighting
+- Oversized porcelain tile in bathrooms
+
+Community amenities include:
+
+- 24-hour front desk
+- 24-hour fitness center
+- Resident lounge
+- Private courtyard with grilling stations and fire pit
+- Electric vehicle charging stations
+- Business center
+- Bike lockers
+- Reserved parking
+- Onsite convenience store with retail shops
+
+An indoor pool is referenced in resident reviews; confirm availability directly with the leasing office. The building does not allow pets of any kind, so renters with animals should factor this into their search early. [INTERNAL LINK: pet-friendly apartments Arlington VA]
 
 ## Location and Transit Access
 
@@ -60,7 +86,14 @@ From Ballston, riders reach Rosslyn in approximately 10 minutes and can transfer
 | Reagan National Airport | ~15 min (by car or Metro transfer) |
 | Dulles International Airport | ~37 min (by car) |
 
-Ballston Quarter, a mixed-use retail and dining destination, is within walking distance. Renters exploring the broader DC suburban corridor may find brightplace's guide to [DC suburbs for downsizers](https://www.brightplace.ai/guides/dc-empty-nesters) useful for additional context. Grocery options include Harris Teeter, Trader Joe's, and Giant, all reachable by a short walk or bus ride. Fitness studios including Orangetheory, Solidcore, and Gold's Gym operate in the immediate area. [INTERNAL LINK: Ballston Arlington VA neighborhood guide]
+Ballston Quarter, a mixed-use retail and dining destination, is within walking distance. Renters exploring the broader DC suburban corridor may find brightplace's guide to [DC suburbs for downsizers](https://www.brightplace.ai/guides/dc-empty-nesters) useful for additional context.
+
+Nearby essentials include:
+
+- Grocery: Harris Teeter, Trader Joe's, and Giant, all reachable by a short walk or bus ride
+- Fitness: Orangetheory, Solidcore, and Gold's Gym in the immediate area
+
+[INTERNAL LINK: Ballston Arlington VA neighborhood guide]
 
 ## Furnished and Short-Term Options at Randolph Towers
 
@@ -72,7 +105,16 @@ The distinction matters for budgeting. A furnished two-bedroom at approximately 
 
 ## Has Randolph Towers Been Renovated?
 
-Randolph Towers underwent a substantial modernization program that updated both individual units and community spaces. A modernized unit at Randolph Towers includes updated kitchen finishes, wood-style flooring, slate appliances, in-unit washer/dryer, quartz countertops, kitchen backsplash, LED lighting, and updated bathrooms with oversized porcelain tiles.
+Randolph Towers underwent a substantial modernization program that updated both individual units and community spaces. A modernized unit at Randolph Towers includes:
+
+- Updated kitchen finishes
+- Wood-style flooring
+- Slate appliances
+- In-unit washer/dryer
+- Quartz countertops
+- Kitchen backsplash
+- LED lighting
+- Updated bathrooms with oversized porcelain tiles
 
 Resident reviews from the 2021 to 2022 period reference construction noise during the renovation work. More recent feedback (2023 through 2026) describes the building positively, with residents noting the updated finishes and improved common areas.
 
