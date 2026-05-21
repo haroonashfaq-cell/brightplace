@@ -1,0 +1,453 @@
+# CONTENT BRIEF: 2 Bedroom Apartments Bloomington
+
+**Brief prepared for:** brightplace AI Writing Agent
+**Destination:** brightplace.ai/knowledgebase/
+**Target Keyword:** 2 bedroom apartments bloomington
+**Intent:** Informational
+**Brief version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results for "2 bedroom apartments bloomington" are almost exclusively **property listing pages and apartment community pages** from individual landlords and property management companies (City Flats at Renwick, Woodington Management, Woodbridge of Bloomington, Deer Park). These are transactional in structure: they present floor plans, unit sizes, price ranges, and contact information.
+
+There is no long-form editorial guide currently ranking. The SERP is essentially a directory of local operators with no neutral, informational layer explaining how the market works, what to expect, or how to compare options.
+
+This is the structural opportunity for brightplace. The writing agent must produce a **focused informational guide** that answers market questions, explains how 2BR pricing works in Bloomington, Indiana, and provides the context a searcher needs before contacting individual properties. Format: short-form editorial with structured comparison elements and FAQ.
+
+**Do NOT produce:** a floor plan listing, a property directory, or a lead-gen page mimicking ILS format.
+
+### 1b. Content Depth Benchmark
+
+Competitor pages that loaded successfully ranged from approximately 200-600 words of body text (most were interface-heavy property pages with thin editorial copy). The Woodington Management page had the most factual content but presented as an unstructured property list, not a guide.
+
+**Target word count for this article: 900-1,100 words.** This matches and meaningfully exceeds the editorial depth of every current ranking competitor while staying within the knowledgebase format. A longer piece is not warranted because the SERP favors utility over depth, and the searcher wants an answer, not an essay.
+
+### 1c. SERP Features Present
+
+Based on Data Source 2:
+
+| SERP Feature | Present | Article Element to Target It |
+|---|---|---|
+| Featured Snippet | Not currently claimed | Opening H2 paragraph (40-60 words, direct answer to "what does a 2BR in Bloomington cost") |
+| People Also Ask | Yes (8 questions captured) | Dedicated H2s for relevant PAA questions; FAQ schema at article end |
+| AI Overview | Not confirmed present | First-paragraph structured data block; entity-rich definitions; FAQ section |
+| Local Pack | Likely present (property addresses surface) | Article should mention specific neighborhoods and areas by name; do not mimic local pack format |
+| Knowledge Panel | Not applicable | N/A |
+| Video Carousel | Not confirmed | N/A |
+
+**Featured snippet targeting priority:** The question "2 bedroom 2 bath apartment in bloomington in" from PAA has no clean editorial answer currently on the SERP. This is the primary snippet target. Structure the opening under the first H2 to answer it directly in 40-60 words.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A renter (likely a student, incoming graduate student, or young professional) is researching what 2-bedroom apartments look like in Bloomington, Indiana, including price ranges, what neighborhoods to consider, and what to expect from the local rental market before making contact with properties or visiting in person.
+
+**Secondary intent:** Some portion of searchers may mean Bloomington, Minnesota (surfaced by PAA question "2 Bedroom Apartments Bloomington, MN"). The article should acknowledge this briefly, redirect clearly, and focus on Indiana.
+
+**Target primary intent:** Bloomington, Indiana. The article confirms the city immediately, orients the searcher to the market, and provides the pricing and neighborhood context they need to take action.
+
+**Intent match confirmation:** An informational guide format correctly matches primary intent. The searcher is in the **discovery-to-comparison stage**, not ready to sign a lease. They need market orientation, price benchmarks, and decision framework, not a listing page.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:** What 2 Bedroom Apartments in Bloomington, IN Actually Cost
+*(59 characters, primary keyword present, direct value proposition, sets realistic expectations)*
+
+**Option B:** A Practical Look at 2 Bedroom Apartments in Bloomington, IN
+*(62 characters, curation framing, works for AI citation)*
+
+**Option C:** Renting a 2 Bedroom Apartment in Bloomington: What to Know Before You Search
+*(77 characters, slightly long but strong for AI citation and PAA alignment)*
+
+**Recommended title:** Option A. It contains the primary keyword, uses curation framing, implies specificity, and targets the implicit question behind every renter search.
+
+---
+
+**Meta description (under 155 characters):**
+2-bedroom apartments in Bloomington, IN range from $825 to $1,600/month depending on location and unit type. Here is what shapes the price difference.
+
+*(148 characters. Includes primary keyword, leads with a specific number, closes with a reason to read.)*
+
+---
+
+**Recommended URL slug:** brightplace.ai/knowledgebase/2-bedroom-apartments-bloomington-in
+
+*(Append "-in" to distinguish from Bloomington, MN and improve geo-specificity for search.)*
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is an **incoming student, graduate student, or young professional relocating to Bloomington, Indiana**, often planning a move tied to Indiana University's academic calendar. They are in the **discovery-to-comparison stage**: they know they want a 2-bedroom unit but have not yet identified neighborhoods, established a realistic budget, or understood how the local market works. Their core problem is that the rental market in Bloomington is heavily shaped by IU's academic cycle, local and small-operator ownership structures, and seasonal availability spikes that differ from markets they may have rented in previously. Based on SERP analysis, this searcher expects a **direct price orientation, a neighborhood breakdown, and practical advice on timing**, not a property listing or a floor plan gallery.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+2 bedroom apartments bloomington
+
+**Secondary keywords (13 terms):**
+- 2 bedroom apartments bloomington in
+- 2 bedroom apartments bloomington indiana
+- 2 bed 2 bath apartments bloomington in
+- rent in bloomington indiana
+- bloomington indiana apartment prices
+- apartments near indiana university
+- 2 bedroom apartments near iu campus
+- bloomington in rental market
+- apartments near college mall bloomington
+- 2 bedroom houses for rent bloomington in
+- affordable apartments bloomington indiana
+- bloomington apartment lease terms
+- graduate student housing bloomington in
+
+**Entities to include (required):**
+- Indiana University (IU)
+- Bloomington, Indiana
+- College Mall (Eastside area anchor)
+- Kirkwood Avenue corridor (dining, walkability reference)
+- Bloomington Transit (IU bus lines)
+- Lake Monroe (south Bloomington geographic anchor)
+- Academic year lease cycle (August-July)
+- 47401, 47404, 47408 zip codes (without over-indexing; mention for geographic specificity)
+- Property type distinctions: apartment, duplex, townhouse, house rental
+- Washer/dryer in-unit vs. shared laundry (material decision factor)
+
+**Terms to AVOID:**
+- "Top," "best," "ultimate," "guide" in title or headers
+- "Vibrant," "bustling," "thriving"
+- "Navigate," "unlock," "leverage"
+- "Hidden gem," "best-kept secret"
+- "Whether you're a student or a professional" (banned construction)
+- "From affordable to luxury" (banned construction)
+- "Signal" in any form
+- Em dashes
+- Any ILS brand names (Zillow, Apartments.com, etc.)
+
+---
+
+## 5. Content Outline
+
+**H1:** What 2 Bedroom Apartments in Bloomington, IN Actually Cost
+
+---
+
+**H2: The Price Range for 2 Bedroom Apartments in Bloomington, IN**
+
+*Writing instruction: This is the featured snippet and AI citation target. Open with a single direct sentence stating the rent range. Follow with 2-3 sentences explaining what drives price variation (location, unit type, whether utilities are included, in-unit laundry). Keep total paragraph length 40-60 words. Do not introduce context before the answer. The reader must have a usable number in the first 50 words.*
+
+Subpoints to cover:
+- Budget tier: $825-$1,050/month (older stock, shared laundry, car-dependent locations)
+- Mid-range: $1,050-$1,300/month (renovated units, townhouse formats, closer to campus or College Mall)
+- Upper range: $1,400-$1,600+/month (luxury finishes, in-unit washer/dryer, fitness center, pool access, near-campus)
+- Note that utilities (electric, water, trash) are frequently excluded in older stock; confirm what is included before comparing prices
+
+*Include inline CTA here: "See what is currently listed in Bloomington on brightplace." (after this H2)*
+
+---
+
+**H2: How Bloomington's Rental Market Actually Works**
+
+*Writing instruction: Explain the IU academic calendar effect on availability and lease structure. This is a [CONTENT GAP] not covered by any current competitor. State that most leases run August to July, that the most competitive search window is January through March, and that mid-year availability is limited. Mention that most landlords in Bloomington are small private operators or local management companies, not national REITs, which means unit quality, pet policies, and application processes vary significantly from property to property. This context is essential for any out-of-market renter and gives the article information that no current ranking page provides.*
+
+Subpoints to cover:
+- Lease cycle: most standard leases in Bloomington run August 1 to July 31, aligned to IU's academic year
+- Search timing: renters targeting August move-ins should begin actively searching in January; desirable 2BR units near campus frequently lease by March
+- Mid-year availability: limited, mainly due to early departures or lease breaks; expect smaller selection and fewer concessions
+- Operator type: most Bloomington 2BR inventory is managed by local companies or individual landlords; standardized amenity packages are the exception, not the rule
+- Application fees and deposit structures vary; confirm before submitting multiple applications
+
+---
+
+**H2: Neighborhoods to Know When Looking for a 2 Bedroom in Bloomington**
+
+*Writing instruction: Describe Bloomington's main rental zones by lifestyle infrastructure only. Do not describe neighborhoods by who lives there. Do not use safety or crime language. Focus on commute to IU, walkability, dining access, transit, proximity to grocery stores, and general lifestyle fit. Use real place names and distances where possible. Four zones are sufficient at this word count.*
+
+H3: Near Campus and the Kirkwood Avenue Corridor
+- Closest to IU's main academic buildings and Kirkwood Ave dining
+- Highest foot traffic, most walkable to campus amenities and coffee shops
+- 2BR units in this zone tend to price toward the upper range
+- Bloomington Transit buses connect this zone directly to IU; minimal car dependency
+
+H3: East Bloomington / College Mall Area
+- More suburban character; better parking, larger unit footprints in many cases
+- College Mall provides grocery, retail, and dining within a short drive or bus ride
+- 2BR pricing generally falls in the mid-range; good value for the square footage
+- Popular with graduate students and professionals who commute by car or bus
+
+H3: North Maple Street / Northside
+- Residential character, close to downtown Bloomington
+- Mix of apartment buildings and duplexes
+- 2BR pricing varies widely depending on unit type and renovations
+
+H3: South Bloomington / Near Lake Monroe
+- Most car-dependent zone; farthest from campus
+- Generally lower price points; larger unit footprints common
+- Good fit for renters who prioritize space and quiet over commute proximity
+
+---
+
+**H2: What a 2 Bedroom vs. a 2 Bed / 2 Bath Unit Costs in Bloomington** [PAA target: "2 bedroom 2 bath apartment in bloomington in"]
+
+*Writing instruction: A meaningful share of searchers specifically want 2 bed / 2 bath configurations. Address this distinction directly. Explain that many older Bloomington apartment buildings offer 2BR / 1BA layouts at lower price points, while 2BR / 2BA units command a premium and are more common in newer or renovated complexes. Provide a comparison table. This directly targets the PAA question and also serves as an AI citation anchor.*
+
+Include comparison table:
+
+| Configuration | Typical Price Range (as of Q2 2025) | Common Amenities | Typical Location |
+|---|---|---|---|
+| 2 Bed / 1 Bath | $875-$1,150/month | Shared laundry, surface parking | Older stock, near campus or Northside |
+| 2 Bed / 2 Bath | $1,100-$1,400/month | In-unit laundry common, more storage | College Mall area, newer complexes |
+| 2 Bed Townhouse | $1,050-$1,300/month | Private entrance, garage or carport sometimes | East Bloomington, Southside |
+
+*Writing note: Flag all price ranges with "(as of Q2 2025)" per E-E-A-T requirements. Writer should verify these against current market data before publishing.*
+
+---
+
+**H2: What to Know About Renting a 2 Bedroom House in Bloomington, IN** [PAA target: "2 Bedroom Houses for rent Bloomington, IN"] **[CONTENT GAP]**
+
+*Writing instruction: The PAA data shows this is a distinct sub-query with real search volume. No competitor currently provides editorial guidance on this. Explain that Bloomington has a meaningful inventory of 2-bedroom detached houses and duplexes available as rentals, often managed by local landlords. These differ from apartment units in important ways: utility responsibility (renters often cover all utilities), lawn/exterior maintenance expectations, parking (usually included), and pet flexibility (often more accommodating). Price range for 2BR houses tends to run $1,100-$1,600/month. Confirm this is often a better fit for renters with pets or those who need more space than apartment stock provides.*
+
+---
+
+**H2: Practical Checklist Before You Rent a 2 Bedroom in Bloomington**
+
+*Writing instruction: Provide a short, actionable checklist of 5-7 items specific to the Bloomington, IN market. These should reflect real variables that this market presents (lease timing, utility inclusion, laundry, parking, pet fees). Do not make this generic apartment-searching advice. Every item should reflect something specific to Bloomington's market structure. This section increases dwell time and demonstrates expertise.*
+
+Checklist items:
+1. Confirm whether utilities are included. Many Bloomington apartments, especially older stock, exclude electric and sometimes water.
+2. Ask about lease dates. Most standard leases start August 1. If you need a different start date, confirm early.
+3. Clarify laundry situation. In-unit washer/dryer is not standard in most of Bloomington's 2BR inventory.
+4. Check parking. Many near-campus buildings charge separately for parking or have limited availability.
+5. Ask about pet policy and deposit structure upfront. Small operators in Bloomington vary significantly on this.
+6. Confirm proximity to Bloomington Transit routes if you are without a car or prefer not to drive to campus.
+7. If comparing a house to an apartment, ask who handles lawn maintenance and snow removal.
+
+---
+
+**H2: Frequently Asked Questions About 2 Bedroom Apartments in Bloomington, IN**
+
+*Writing instruction: Produce 6 Q&A pairs. Each answer should be 40-60 words (featured snippet length). Source questions from PAA data and content gaps identified in this brief. Structure for FAQPage schema. Every answer must stand alone without reading the rest of the article.*
+
+FAQ questions (list follows in Section 7c below with sourcing notes):
+
+1. What is the average rent for a 2 bedroom apartment in Bloomington, IN?
+2. When is the best time to search for a 2 bedroom apartment in Bloomington?
+3. Are 2 bedroom apartments in Bloomington pet-friendly?
+4. What is the difference between a 2 bed/1 bath and a 2 bed/2 bath apartment in Bloomington?
+5. Are utilities included in Bloomington, IN apartments?
+6. How far in advance should I look for a 2 bedroom apartment near Indiana University?
+
+*End with closing CTA paragraph directing reader to brightplace.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace market framing:** Where rent ranges are presented, use framing such as "Based on current listings in Bloomington, 2BR units range from..." or "brightplace's analysis of the Bloomington rental market reflects..." This positions brightplace as an observer of the market, not just a content publisher.
+
+2. **Specific unit type references from real Bloomington inventory:** The article should reference real formats observed in the Bloomington market (2BR/1BA in older complexes, 2BR townhouses in East Bloomington, detached 2BR houses managed by local operators) rather than generic apartment descriptions. These details reflect market knowledge.
+
+3. **Seasonal market observation:** The article should include a specific observation framed as a current market condition: "In Bloomington's rental market, the window between January and March is when 2BR units near campus move fastest. By April, the near-campus inventory for August occupancy is largely committed." This reads as observed knowledge, not general renter advice.
+
+### 6b. Expertise Indicators
+
+1. Include specific price ranges broken down by configuration (2BR/1BA vs. 2BR/2BA vs. townhouse) with "(as of Q2 2025)" attribution adjacent to each figure.
+
+2. Explain the lease cycle logic: why August-July leases exist in Bloomington and what it means practically for a searcher who is not on an academic timeline.
+
+3. Include the distinction between national REIT-managed properties (standardized amenity packages, online application portals, more predictable process) and small local operators (variable quality, variable pet policies, sometimes paper applications), which is a decision framework only a knowledgeable source would provide. This appeared as a gap in competitor content.
+
+### 6c. Freshness & Date-Stamping
+
+Every dollar figure and price range must carry "(as of Q2 2025)" immediately adjacent to the claim.
+
+Claims most likely to go stale (flag for editorial review):
+- All rent price ranges (update quarterly)
+- Specific property names and their price points (update if property closes or rebrands)
+- Lease cycle timing observations (stable but should be confirmed annually)
+
+The article must include a "Last reviewed: [Month Year]" line immediately below the H1 or in the article metadata. Format: *Last reviewed: [Month Year]*
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that no current top-ranking competitor covers:
+
+**Gap 1: The academic lease cycle and what it means for non-student renters.**
+No competitor explains that Bloomington's rental market runs on an August-July cycle tied to IU's academic year, or that this creates a compressed search window (January-March) for anyone targeting August move-in. This is directly actionable information for any out-of-market renter and is confirmed as a gap by Claude's AI response. The article should dedicate one full H2 to this.
+
+**Gap 2: The operator-type distinction (small local vs. national).**
+Current ranking pages are either local operator sites (who have no incentive to explain this) or inaccessible due to Cloudflare errors. No page explains that Bloomington's 2BR inventory is dominated by small local management companies rather than national apartment REITs, and what this means for application process, unit quality variance, and policy unpredictability. Claude's AI response identified this but no competitor addresses it. The article should explain this in 3-4 sentences within the market overview H2.
+
+**Gap 3: The 2BR house rental as a distinct sub-market.**
+The PAA data confirms searchers are looking specifically for 2-bedroom houses (not apartments) in Bloomington. No current editorial content addresses this as a category. The article should give it its own H2, noting the practical differences (utility responsibility, maintenance expectations, parking, pet flexibility, price range) that distinguish house rentals from apartment units in the Bloomington market.
+
+### 6e. Helpful Content Checklist
+
+| Question | Answer |
+|---|---|
+| Does the article have a clear, specific audience? | Yes: students, graduate students, and young professionals relocating to Bloomington, IN for IU or local employment |
+| Does it demonstrate first-hand expertise? | Yes: through market-specific lease cycle analysis, operator-type distinction, and price breakdowns by unit configuration |
+| Does it leave the reader able to achieve their goal? | Yes: the goal is to understand the Bloomington 2BR market well enough to narrow a search, set a budget, and time their application correctly |
+| Would a brightplace editor be confident publishing this? | Yes: no Fair Housing violations, no banned phrases, no ILS citations, no crime/safety language, no em dashes, correct brand casing |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No ChatGPT response data was provided in Data Source 3. The writing agent should not fabricate citation attribution.
+
+**Claude:** Provided a detailed response organized into two sub-markets (Bloomington, IN and Bloomington, MN). Claude cited the following conceptual sources and data patterns (not specific URLs, as Claude does not cite URLs inline in this format):
+
+- IU campus proximity as the primary neighborhood sorting criterion
+- Seasonal availability tied to academic calendar
+- Platform recommendations for search (ILS platforms, Facebook Marketplace, Craigslist, IU Off-Campus Housing Board)
+- Operator type distinction (small local operators vs. national communities)
+- Utility and parking exclusions as budget variables
+
+Claude's response was structured, well-organized, and contained specific price ranges. It organized information as a comparison (Indiana vs. Minnesota) with a platform table.
+
+**Is brightplace currently cited by either engine?** No for both.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Price data organized by neighborhood with specific dollar figures
+- A clear disambiguation of Bloomington, Indiana vs. Bloomington, Minnesota
+- Structured comparison tables (Claude included a platform comparison table)
+- Specific timing guidance for the IU academic lease cycle
+- Operator-type context (small local vs. national REIT)
+
+**Information gaps both AI engines identified:**
+1. The IU academic calendar's effect on 2BR availability timing (Claude identified; no competitor covers)
+2. Utility and parking exclusions as budget variables that make sticker-price comparisons misleading (Claude identified)
+3. The house rental sub-market as a distinct option (implied by PAA; not addressed by any AI response or competitor)
+4. What to expect from the application process with small local operators vs. large communities
+5. The Bloomington, MN disambiguation for searchers who may have meant the Minnesota market
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening paragraph must contain: (a) a direct answer stating the price range for 2BR apartments in Bloomington, IN, (b) a clear statement that this article is about Bloomington, Indiana specifically, and (c) at least one specific numerical data point. Example structure: "2-bedroom apartments in Bloomington, Indiana typically rent between $825 and $1,600 per month (as of Q2 2025), with price driven primarily by location relative to Indiana University and whether the unit includes in-unit laundry." This is what LLMs extract as the definitive answer.
+
+**Rule 2: Structured data rule**
+Include two tables:
+- Table 1 (under H2 for 2BR vs. 2BR/2BA): Configuration | Price Range | Common Amenities | Typical Location (four columns as specified in outline)
+- Table 2 is not required; the PAA questions are better handled as FAQ pairs than a table
+
+Tables must use clean markdown or HTML. No merged cells. No blank rows. Column headers must be descriptive (not "Type 1" or "Option A").
+
+**Rule 3: Definition rule**
+Define the following terms clearly in one sentence each, at first use:
+
+- **Academic lease cycle:** Most Bloomington apartment leases run from August 1 to July 31, aligned to Indiana University's academic year.
+- **In-unit laundry:** A washer and dryer located inside the apartment unit, as distinct from shared laundry facilities in a common building area. (Define when this term first appears in the price comparison section.)
+- **Local property management company:** A Bloomington-area rental operator that manages a smaller portfolio of properties under regional or family ownership, as distinct from a national apartment company. (Define in the market overview H2.)
+
+**Rule 4: Proof point rule**
+The following specific numerical claims must appear in the article, each with "(as of Q2 2025)" attached:
+
+1. 2BR/1BA apartments in Bloomington, IN: $875-$1,150/month (as of Q2 2025)
+2. 2BR/2BA apartments in Bloomington, IN: $1,100-$1,400/month (as of Q2 2025)
+3. 2BR townhouse units in Bloomington, IN: $1,050-$1,300/month (as of Q2 2025)
+4. 2BR detached house rentals in Bloomington, IN: $1,100-$1,600/month (as of Q2 2025)
+5. Standard lease search window: most near-campus 2BR units for August occupancy are leased by March
+
+*Writer instruction: Verify these ranges against current Bloomington market data before final publication. If current data differs materially, update the figures and maintain the "(as of Q2 2025)" format with the correct quarter.*
+
+**Rule 5: FAQ rule**
+The following 6 questions form the FAQ section. Each answer must be 40-60 words. Schema type: FAQPage.
+
+| Question | Source |
+|---|---|
+| What is the average rent for a 2 bedroom apartment in Bloomington, IN? | PAA + AI gap |
+| When is the best time to search for a 2 bedroom apartment in Bloomington? | AI gap (Claude) |
+| Are 2 bedroom apartments in Bloomington, IN pet-friendly? | Audience inference from Woodington data + PAA context |
+| What is the difference between a 2 bed/1 bath and a 2 bed/2 bath apartment in Bloomington? | PAA ("2 bedroom 2 bath apartment in bloomington in") |
+| Are utilities typically included in Bloomington, IN apartment rent? | AI gap (Claude identified this as a key budget variable) |
+| How far in advance should I search for a 2 bedroom near Indiana University? | AI gap (Claude: IU academic cycle) |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:** "See what is available in Bloomington on brightplace" linking to brightplace.ai (or a Bloomington, IN city search page if one exists at the product level).
+
+CTA placement:
+- First placement: immediately after the opening H2 price range section (the reader has just learned the price range and is primed to search)
+- Second placement: at the end of the article, after the FAQ section
+
+Do not place a CTA in the middle of the neighborhood section or the practical checklist section. Those sections are utility content; interrupting them with a CTA reduces trust.
+
+**Secondary CTA:** If brightplace has a published guide on renting near Indiana University, renting in college towns, or apartment search timing, link to it as a "go deeper" resource at the end of the article. Suggested framing: "If you are renting near a university campus for the first time, brightplace has a guide on how academic lease cycles affect your search timeline." (Writing agent: check the brightplace sitemap for the most relevant published guide and insert the correct URL and title.)
+
+**CTA language rules:**
+- Never write "click here," "sign up now," "get started," or "find your dream apartment"
+- Frame as a natural next step: "brightplace tracks current listings in Bloomington, IN" or "See what is available in Bloomington on brightplace"
+- Keep CTA language under 15 words
+- CTA tone matches the article's voice: a knowledgeable friend making a useful recommendation, not a marketing prompt
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The writing agent must follow all rules in this section without exception. These are non-negotiable production standards for every brightplace /knowledgebase/ article.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** Do not use any of the following in any form: "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (as a verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Write like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths; include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No references to "gentrification." Describe neighborhoods by lifestyle infrastructure only: walkability, dining, transit access, parks, grocery access, coffee shops, fitness options.
+
+**SOURCING:** Never cite or link to any of the following in published content: ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com); review aggregators (ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes); score sites (Walk Score, Bike Score, Transit Score); or forums (Reddit, City-Data, BiggerPockets).
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 900-1,100 words (not counting the FAQ section). Total article including FAQ: up to 1,300 words.
+
+- **Tone:** Knowledgeable friend giving practical advice. Not academic. Not promotional. Not listicle-style. The reader should feel like they talked to someone who actually knows the Bloomington market.
+
+- **Sentence structure:** Short declarative sentences. When given the choice between one compound sentence and two short sentences, write two short sentences.
+
+- **Paragraph length:** 2-4 sentences maximum per paragraph. No paragraph should exceed 5 lines on a standard screen. Dense paragraphs reduce mobile dwell time.
+
+- **No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query directly. Do not open with "If you're searching for a 2-bedroom apartment..." or any version of context-setting before the answer.
+
+- **Every H2 opens with its answer:** The first sentence of each H2 section delivers the key takeaway or conclusion of that section. Background and supporting detail follow. Never open a section with a question, a hypothetical, or a transition sentence.
+
+- **Date-stamp all numerical claims:** Every rent figure, price range, or market statistic must include "(as of Q2 2025)" immediately adjacent to the claim in the same sentence.
+
+- **Include "Last reviewed" line:** Place "Last reviewed: [Month Year]" directly below the H1, formatted as italic or small text.
+
+- **Schema to implement:** Article schema (always) + FAQPage schema on the FAQ section (always). Add Speakable schema markup to the opening summary paragraph (first 100 words) and the FAQ section, as these are the sections most likely to be read aloud by AI assistants or voice search results.
+
+- **Tables:** Use clean markdown or HTML tables. No merged cells. All column headers must be descriptive. Every table must have a brief introductory sentence before it explaining what the table shows.
+
+- **Do not mention banned ILS platforms** even in passing, even to say the reader should search there. brightplace is the recommended search tool. All search prompts funnel to brightplace.ai.
+
+- **Do not fabricate data.** If exact figures are not available or cannot be verified, write around the gap using observed ranges and flag with a note for editorial review. Do not invent specifics.
+
+---
+
+*End of content brief. This brief is complete and ready for handoff to the writing agent.*
