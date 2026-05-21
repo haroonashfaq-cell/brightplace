@@ -103,7 +103,21 @@ The first 100 words must contain:
 - End with a clear value proposition
 - No questions, no clickbait
 
-### 3.4 URL Slug
+### 3.4 Keyword Density and Placement
+- **Exact-match keyword must appear 7-12 times** in a 1,200-1,500 word article (0.5-1.0% density)
+- **H1 title must contain the exact keyword** (not a variation)
+- **First 100 words must contain the exact keyword**
+- **At least 2 H2 headings** must contain keyword words
+- Mix exact-match and natural variations (e.g., "2 bedroom apartments Bloomington" + "2 bedroom apartments in Bloomington")
+- Never force a keyword where it reads awkwardly; if it doesn't fit, use a close variant
+- Do NOT exceed 1.5% density (keyword stuffing penalty risk)
+
+### 3.5 No Markdown Tables
+- **NEVER use markdown tables.** Webflow CMS rich text cannot render them.
+- Convert all comparison/pricing/feature data to **bold-label bullet points** instead
+- Example: `**Studio:** $2,550/mo (as of Q2 2026). Stone countertops, LVP flooring.`
+
+### 3.6 URL Slug
 - Lowercase, hyphen-separated
 - Contains the primary keyword
 - No stop words unless needed for readability
