@@ -151,6 +151,99 @@ Top-down flat lay photograph on a wooden table showing commercial real estate do
 
 ---
 
+---
+
+## Article: 2 Bedroom Apartments Bloomington
+
+**Keyword:** 2 bedroom apartments bloomington
+**Article Theme:** Market guide covering pricing, neighborhoods, and rental market mechanics for 2BR apartments in Bloomington, Indiana
+
+### Prompt Option A (Recommended):
+```
+Editorial photograph of a charming two-story brick apartment building on a tree-lined residential street in a midwestern college town. Mature deciduous trees with full green leaves arch over the sidewalk. A bicycle is parked against an iron railing near the entrance. Warm late afternoon sunlight. Indiana small-town character with red and brown brick facades. Clean architectural photography, no people, no text, no logos. 1200x628 pixels, 16:9 aspect ratio.
+```
+
+### Prompt Option B:
+```
+Wide photograph of a quiet residential neighborhood in Bloomington, Indiana at golden hour. A mix of garden-style apartment buildings and older converted homes line both sides of a leafy street. Limestone accents on the buildings (characteristic of southern Indiana). A "For Rent" sign partially visible on one front yard. Warm tones, soft natural light. No people, no text. 16:9 aspect ratio.
+```
+
+**Alt text:** `Tree-lined residential street with brick apartment buildings in Bloomington, Indiana`
+**File name:** `2-bedroom-apartments-bloomington-featured.webp`
+
+---
+
+## Article: Homes for Rent No Deposit
+
+**Keyword:** homes for rent no deposit
+**Article Theme:** National guide explaining what "no deposit" actually means, deposit alternatives, and how to find them
+
+### Prompt Option A (Recommended):
+```
+Clean editorial photograph of a front door key being handed over between two hands at the entrance of a modern rental home. Focus on the key and the door frame, with a bright, well-maintained front porch visible in the background. Warm natural daylight. The home has a clean white exterior with a dark front door. Welcoming, accessible aesthetic suggesting a fresh start. No faces visible, only hands and key. No text, no logos. 1200x628 pixels, 16:9 aspect ratio.
+```
+
+### Prompt Option B:
+```
+Flat lay photograph on a light wood table showing a house key on a keyring, a blank lease document, and a small potted plant. Bright overhead natural light from a window. Minimal, modern, clean composition. The lease document is slightly blurred so no text is readable. Warm neutral tones suggesting simplicity and accessibility. No people, no text overlays. 1200x628 pixels, 16:9 aspect ratio.
+```
+
+**Alt text:** `House key being handed over at the entrance of a rental home with no deposit`
+**File name:** `homes-for-rent-no-deposit-featured.webp`
+
+---
+
+## Article: Luxury Home Rentals Phoenix
+
+**Keyword:** luxury home rentals phoenix
+**Article Theme:** Market guide covering pricing ($3,500-$25,000+), Scottsdale/Paradise Valley/Arcadia submarkets, furnished vs unfurnished, and HOA rules
+
+### Prompt Option A (Recommended):
+```
+Editorial photograph of a luxury desert modern home exterior in Scottsdale, Arizona at golden hour. Single-story contemporary architecture with clean lines, floor-to-ceiling glass walls, a negative-edge pool reflecting the sky, and mature saguaro cacti in the xeriscaped front yard. Camelback Mountain faintly visible in the warm orange-pink background. Desert luxury aesthetic with warm earth tones. No people, no text, no logos. Professional architectural photography. 1200x628 pixels, 16:9 aspect ratio.
+```
+
+### Prompt Option B:
+```
+Wide photograph of a Spanish colonial luxury rental home in the Paradise Valley area of Phoenix, Arizona. Terracotta tile roof, arched entryway, mature palm trees and bougainvillea in the courtyard. A turquoise pool visible through an open iron gate. Sonoran desert landscape in the background with saguaro silhouettes. Warm sunset light. Clean real estate photography. No people, no text. 16:9 aspect ratio.
+```
+
+**Alt text:** `Luxury desert modern home with pool and saguaro cacti in Scottsdale, Arizona`
+**File name:** `luxury-home-rentals-phoenix-featured.webp`
+
+---
+
+## Article: Rooms for Rent Huntsville AL
+
+**Keyword:** rooms for rent huntsville al
+**Article Theme:** Market guide covering room rental types, pricing, neighborhoods near Redstone Arsenal, and what to verify before signing
+
+### Prompt Option A (Recommended):
+```
+Editorial photograph of a well-furnished bedroom in a shared house, viewed from the doorway. The room has a neatly made bed with neutral bedding, a small desk near a window with natural light streaming in, and a closet with an open door showing organized shelves. Southern United States residential character with warm hardwood floors and white walls. Clean, practical, move-in ready aesthetic. No people, no text, no logos. 1200x628 pixels, 16:9 aspect ratio.
+```
+
+### Prompt Option B:
+```
+Wide photograph of a quiet residential street in Huntsville, Alabama with a mix of single-family homes and duplexes. Green lawns, mature oak trees, and a "Room for Rent" sign in one front yard. Warm morning sunlight with a hint of southern humidity haze. Blue sky with scattered white clouds. Suburban Alabama character. Clean editorial photography. No people visible, no text other than the rent sign. 16:9 aspect ratio.
+```
+
+**Alt text:** `Furnished bedroom for rent in a shared house in Huntsville, Alabama`
+**File name:** `rooms-for-rent-huntsville-al-featured.webp`
+
+---
+
+## Quick Reference: All 4 New Prompts (Recommended Options)
+
+| Article | Style | Key Visual Elements |
+|---------|-------|-------------------|
+| 2BR Bloomington | College town street | Brick apartments, tree-lined, bicycle, Indiana character |
+| Homes No Deposit | Key handover | Front door, key exchange, welcoming porch, fresh start |
+| Luxury Phoenix | Desert modern home | Pool, saguaro cacti, Camelback Mountain, golden hour |
+| Rooms Huntsville | Furnished bedroom | Desk, window light, hardwood floors, move-in ready |
+
+---
+
 ## Sources
 
 - [Image SEO in the Age of AI 2026](https://ignitevisibility.com/image-seo/)
