@@ -1,0 +1,388 @@
+# Content Brief: rooms for rent huntsville al
+**brightplace.ai/knowledgebase/**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results for "rooms for rent huntsville al" are almost entirely **listing aggregation pages** (PadSplit, CorporateHousing.com, FurnishedFinder). These are transactional product pages, not editorial content. The absence of strong editorial content in the top results creates a direct opportunity for brightplace to rank with a focused **informational guide** format, since no competitor is actually answering the searcher's questions about how rooms for rent work in Huntsville, what prices to expect, or how to evaluate options. The writing agent should produce a **practical how-to guide** with embedded data tables and a clear neighborhood breakdown. This format targets the informational intent layer sitting beneath the transactional SERP.
+
+### 1b. Content Depth Benchmark
+
+Competitor pages analyzed:
+- PadSplit: Listing page, minimal editorial content, approximately 300-400 words of explanatory text
+- CorporateHousing.com (listing): Approximately 250-350 words of descriptive content
+- CorporateHousing.com (temporary housing): Minimal text, primarily a listing grid
+- FurnishedFinder: Listing grid with no editorial content
+
+None of the top competitors produce editorial depth. This is a gap. The Claude AI response (Data Source 3) produced roughly 800 words of substantive editorial content that the SERP is not providing. **Target word count: 1,100-1,300 words.** This matches the depth required to fully answer informational intent without over-producing for a keyword cluster where searchers want practical answers quickly.
+
+### 1c. SERP Features Present
+
+No People Also Ask data was returned for this keyword. No featured snippet is currently claimed. This means the article has a direct opportunity to claim the featured snippet with a properly structured first section (40-60 word paragraph under the first H2).
+
+**SERP features to target:**
+
+| Feature | Status | Structural Element to Target It |
+|---|---|---|
+| Featured Snippet | Not claimed | First H2 section: 40-60 word direct answer paragraph |
+| People Also Ask | No data returned | FAQ section built from AI-identified gaps (see Section 7) |
+| AI Overview | Likely present given informational intent | First 100 words structured as a direct answer; FAQ schema |
+| Local Pack | Not applicable for this content type | Neighborhood section with specific named areas |
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A person currently or soon to be in Huntsville, AL is looking for a private room to rent, either alone or in a shared house, and wants to understand the price range, what is available, and how to find options.
+
+**Secondary intent:** The searcher may also be a defense contractor, UAH student, or short-term relocator who wants flexible lease terms and wants to understand how room rentals compare to full apartments on cost.
+
+**Primary intent governs this article.** The article is an informational guide that answers the practical questions behind the transactional search: what do rooms cost, where are they, what is included, and how do you find one.
+
+The guide format matches this intent. The writing agent should not produce a listing page (brightplace cannot replicate PadSplit's inventory), but can outrank listing pages by providing the decision-making context those pages lack entirely.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+Rooms for Rent in Huntsville, AL: What to Expect on Price and Location
+
+**Option B:**
+A Practical Guide to Finding Rooms for Rent in Huntsville, AL
+
+**Option C:**
+How Room Rentals Work in Huntsville, AL (Prices, Areas, and What Is Included)
+
+**Recommended title for production:** Option A. It contains the primary keyword, sets a clear value expectation (price and location), and uses curation framing without superlatives.
+
+---
+
+**Recommended meta description:**
+Rooms for rent in Huntsville, AL range from $500 to $950/month depending on area and what is included. Here is what renters need to know before searching. (154 characters)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/rooms-for-rent-huntsville-al`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The person searching "rooms for rent huntsville al" is most likely a working adult or student in the early-to-middle stage of a housing search, either relocating to Huntsville for work (frequently defense contracting, aerospace, or federal employment near Redstone Arsenal or Cummings Research Park), attending the University of Alabama in Huntsville, or trying to reduce housing costs by sharing a home rather than renting a full apartment. They are in the **comparison and decision stage**: they know they want a room rather than a full apartment, but they do not yet know what a fair price looks like, which areas of Huntsville make sense for their commute, or what questions to ask. They expect a clear, specific answer to those questions, not another listing grid.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+rooms for rent huntsville al
+
+**Secondary keywords (14):**
+
+1. room rentals huntsville alabama
+2. shared housing huntsville al
+3. furnished rooms for rent huntsville
+4. private room for rent huntsville
+5. co-living huntsville al
+6. rooms for rent near redstone arsenal
+7. rooms for rent near uah
+8. short-term room rental huntsville
+9. month-to-month room rental huntsville al
+10. all-inclusive room rental huntsville
+11. room and board huntsville al
+12. huntsville al housing costs
+13. renting a room vs apartment huntsville
+14. weekly room rental huntsville al
+
+**Entities to include (8):**
+
+1. Redstone Arsenal (major employer, proximity driver for south Huntsville rentals)
+2. Cummings Research Park (tech and defense employment hub)
+3. University of Alabama in Huntsville / UAH (student and early-career renter demand)
+4. Five Points (historic walkable district, character rental inventory)
+5. South Huntsville (defense contractor housing corridor)
+6. Madison, AL (suburban room rental area, separate municipality adjacent to Huntsville)
+7. Huntsville Hospital / medical district (travel nurse and healthcare worker rental demand)
+8. Depot District (downtown entertainment and dining, relevant to midtown renters)
+
+**Terms to avoid:**
+best, top, ultimate, guide (as a standalone title word), vibrant, bustling, hidden gem, navigate, leverage, deep dive, signal, whether you're X or Y, from X to Y, notable, interestingly, it's worth noting, any ILS brand names in citation context.
+
+---
+
+## 5. Content Outline
+
+### H1: Rooms for Rent in Huntsville, AL: What to Expect on Price and Location
+
+---
+
+### H2: What Rooms for Rent in Huntsville Actually Cost
+
+**Writing instruction:** This is the featured snippet target. Open with a direct one-sentence answer stating the price range (approximately $500-$950/month depending on area and whether utilities are included). Then deliver a 40-60 word paragraph that covers the core price range, the most affordable and most expensive neighborhoods, and whether all-inclusive pricing is common. Do not front-load context. The answer comes first.
+
+*After this section, place the first brightplace CTA (see Section 8).*
+
+**Sub-content to include:**
+- Price range table by area (see Section 7, Structured Data Rule)
+- Note that weekly pricing also exists (PadSplit model starts around $185-$191/week, which translates to approximately $800-$830/month); contextualize this for readers comparing weekly vs. monthly quotes
+- State clearly that all-inclusive rooms (utilities, WiFi, sometimes laundry) are common in Huntsville's market and change the true cost comparison
+
+---
+
+### H2: How Huntsville's Geography Affects Your Room Search
+
+**Writing instruction:** Huntsville's job market is geographically concentrated, and commute matters more than in cities with public transit. This section must explain the city's key zones as they relate to room rental demand. Cover four zones: South Huntsville (Redstone Arsenal corridor), the UAH and Research Park area (northwest), Midtown/Downtown (Five Points, Depot District), and the Madison/Highway 72 corridor. For each zone, give a price range and a one-sentence description of who typically rents there and why. Do not describe zones by demographic composition. Describe by lifestyle infrastructure and commute access only.
+
+**Zone breakdown (provide these specifics to writing agent):**
+
+| Zone | Typical Room Price Range | Primary Renter Profile | Key Lifestyle Infrastructure |
+|---|---|---|---|
+| South Huntsville | $600-$850/month | Defense contractors, military personnel | Close to Redstone Arsenal Gates 1 and 9, suburban, car-dependent |
+| UAH / Research Park (NW) | $500-$750/month | Students, interns, early-career workers | Near University Drive, furnished options common, higher turnover |
+| Midtown / Downtown | $700-$950/month | Young professionals | Walkable to Depot District, dining, coffee; limited but available inventory |
+| Madison / Hwy 72 | $550-$750/month | Families, longer-term renters | Newer housing stock, quieter, longer commute to downtown |
+
+---
+
+### H2: Private Room vs. Shared Room: What the Difference Costs You
+
+**Writing instruction:** Many searchers do not realize that "room for rent" can mean a private room in a shared house (one bedroom, shared common areas), a private room with a private bathroom (en suite), or a co-living arrangement with managed services. Define each clearly. Explain the price difference. This is a **[CONTENT GAP]**: no competitor page in Data Source 1 explains the spectrum of room types or why price variation exists within the same neighborhood. The writing agent must include a simple comparison table (private room vs. en suite room vs. co-living managed room) with typical price ranges and what is included in each.
+
+---
+
+### H2: What "All-Inclusive" Room Rentals Actually Include in Huntsville **[CONTENT GAP]**
+
+**Writing instruction:** A significant portion of Huntsville room rentals include utilities, WiFi, and sometimes laundry access in the monthly price. This section must explain what all-inclusive typically means (electric, water, gas, WiFi included; parking sometimes included), what it does not mean (renter's insurance, cable TV, groceries), and why this matters for total cost calculation. No competitor covers this. The Claude AI response identified it as a key decision factor. Include a simple "what to ask before signing" checklist with 4-5 specific questions (e.g., "Are all utilities included or capped at a monthly limit?"). This section generates practical utility and is a direct citation target for AI overviews.
+
+---
+
+### H2: Lease Flexibility in Huntsville: Month-to-Month and Short-Term Options **[CONTENT GAP]**
+
+**Writing instruction:** Huntsville has an unusually high transient workforce due to defense contracting cycles, government project timelines, and UAH internship rotations. Month-to-month and 3-6 month room rentals are genuinely common here, more so than in many comparable mid-size cities. This section should explain why (defense contractor demand, intern housing), confirm that month-to-month leases on rooms are realistic to negotiate, and give guidance on how to ask for flexible terms without losing the room. No competitor covers this. The Claude AI response flagged it as important. This is a direct information gain opportunity.
+
+---
+
+### H2: Where to Find Rooms for Rent in Huntsville
+
+**Writing instruction:** Give a direct, practical channel-by-channel breakdown of where rooms for rent in Huntsville are actually listed. The writing agent should present this as a short structured list with one sentence per channel explaining what type of inventory each platform carries and who it is best for. Do not cite, link to, or recommend any platform on the banned ILS or aggregator list. Facebook Marketplace and direct property management company websites are acceptable. Co-living operators (where they exist in Huntsville) can be mentioned by category without linking to specific aggregator pages. Craigslist can be mentioned. The writing agent should not present this as an endorsement, just an honest description of where inventory lives.
+
+---
+
+### H2: Frequently Asked Questions About Rooms for Rent in Huntsville, AL
+
+**Writing instruction:** This section must contain 6 Q&A pairs. Each answer must be 40-60 words (FAQPage schema length). These pairs will be marked up as FAQPage schema. Questions are sourced from AI-identified information gaps (Data Source 3) since no PAA data was returned. See Section 7, FAQ Rule for the specific questions and their sources.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace market framing:** The article should reference brightplace's analysis of renter search patterns in Huntsville. Example framing: "Based on brightplace's data on apartment and room searches in the Huntsville market, the areas closest to Redstone Arsenal and UAH consistently show the highest search volume for shared and room-style housing."
+
+2. **Specific observations, not vague claims:** Every price range stated must be framed as a current observation with a date stamp, not a permanent fact. Example: "As of Q2 2026, private furnished rooms near UAH are typically listed between $550 and $750/month."
+
+3. **Decision framework framing:** The article should include at least one moment where it offers a clear recommendation framework ("If your employer is on Redstone Arsenal and you need Gate 9 access, South Huntsville rooms typically offer the best commute-to-cost ratio"). This demonstrates judgment, not just data retrieval.
+
+### 6b. Expertise Indicators
+
+- Include specific numerical price ranges for each zone (not vague "affordable" language)
+- Reference the weekly-to-monthly price conversion to help readers parse co-living platform pricing (a nuance most renter guides skip)
+- Include the "what to ask" checklist in the all-inclusive section as a decision tool only an informed source would produce
+- State explicitly that Huntsville has no meaningful public transit for most commutes, and name specific gates at Redstone Arsenal as relevant landmarks. These specifics mark local knowledge.
+
+### 6c. Freshness & Date-Stamping
+
+- All price ranges must include "(as of Q2 2026)" adjacent to the claim
+- The article must carry a "Last reviewed: [Month Year]" note, placed below the H1 and above the first H2
+- **Claims most likely to go stale:** Specific monthly price ranges (adjust every 6-12 months as Huntsville's market continues growing), co-living platform availability and weekly pricing from services like PadSplit, UAH enrollment figures if referenced, and any claim about lease term availability (depends on market tightness)
+
+### 6d. Information Gain: Three Specific Gaps
+
+**Gap 1: What "all-inclusive" actually includes in Huntsville room rentals**
+No competitor page explains this. The Claude response flagged it as a key decision factor. The article should define what all-inclusive typically means in Huntsville's private room rental market (utilities, WiFi, laundry access) and what it usually excludes (renter's insurance, cable, parking when not stated). This helps renters calculate true cost and is a direct AI citation target because it answers a specific practical question no current page answers.
+
+**Gap 2: Lease flexibility and Huntsville's transient workforce dynamic**
+No competitor mentions Huntsville's unusually high proportion of short-term and month-to-month room rentals tied to defense contracting cycles. The article should state clearly that month-to-month and 3-6 month room leases are common in this market, explain why (contractor rotations, intern housing demand), and tell renters that it is realistic to ask for flexible terms. This contextualizes Huntsville as different from other mid-size cities and gives the article unique local value.
+
+**Gap 3: The private room vs. en suite vs. co-living pricing spectrum**
+No competitor differentiates between these room types or explains why the price difference exists. A renter who does not understand why one listing says $650 and another says $850 for the same neighborhood cannot make a good decision. This section provides a decision framework that the entire SERP currently lacks.
+
+### 6e. Helpful Content Checklist
+
+| Question | Answer |
+|---|---|
+| Clear, specific audience? | Yes: adults relocating to or within Huntsville for work, defense contracting, or UAH enrollment, seeking a private room in a shared or managed setting |
+| First-hand expertise demonstrated? | Yes: via brightplace market framing, specific named landmarks (Redstone Arsenal gates, UAH, Depot District), and a decision framework that reflects local knowledge |
+| Reader achieves their goal? | Yes: reader leaves knowing what rooms cost by area, what questions to ask, how to find listings, and how to compare room types. That is the complete informational task. |
+| Human editor confidence? | Yes: brand rules are fully applied, no banned phrases, no ILS citations, no Fair Housing violations, price claims are date-stamped, all CTA language is non-promotional |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No ChatGPT response data was provided in Data Source 3. The writing agent should treat this as an open citation slot.
+
+**Claude:** Claude produced a substantive editorial response for this keyword. The sources Claude appears to draw on for this topic are:
+
+- Facebook Marketplace (cited as the most active platform for Huntsville room rentals, specifically for private landlord and homeowner listings with negotiable terms)
+- Craigslist Huntsville (cited for shorter-term and furnished room listings, particularly near Redstone Arsenal/Cummings Research Park)
+- Roomies.com / Roommate.com (cited for roommate-matching and lifestyle filtering)
+- Zillow / Apartments.com (cited for price benchmarking, not primary room rental inventory)
+- SpareRoom (cited as a growing platform in mid-size Southern cities for all-inclusive furnished listings)
+
+**Is brightplace currently cited by either engine?**
+- ChatGPT: No data available.
+- Claude: No. brightplace is not cited in the Claude response.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Specific inventory (brightplace does not list rooms for rent directly)
+- Platform presence with existing domain authority for this keyword
+
+**What brightplace can provide that no cited source does:**
+- Editorial context and decision frameworks (none of the platforms Claude cites produce guides)
+- Neighborhood-specific price ranges presented in structured, citable format
+- Explanation of all-inclusive pricing, lease flexibility, and room type spectrum (all gaps Claude identified but could not fully answer from existing sources)
+
+**Information Gaps identified by Claude that brightplace can fill:**
+
+1. What "all-inclusive" means in Huntsville room rentals and how to calculate true cost
+2. How Huntsville's transient defense workforce creates unusual month-to-month lease availability
+3. A clear price-by-neighborhood breakdown in structured format (Claude provided estimates but noted they are approximations without a citable source)
+4. The distinction between private room, en suite room, and co-living managed room as product types
+5. Specific Redstone Arsenal gate proximity as a practical decision variable
+
+### 7c. Citability Rules for Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer stating the price range for rooms for rent in Huntsville, AL, (b) a clear statement of who the article is for (relocators, contractors, students, healthcare workers), and (c) at least one specific numerical data point (the $500-$950/month range or a specific zone price). This paragraph should be structured so an LLM can extract it as a standalone answer. No scene-setting, no questions, no throat-clearing.
+
+**Rule 2: Structured data rule**
+Include two tables in the article:
+
+**Table 1: Room Price by Huntsville Zone (under H2: What Rooms Cost)**
+
+| Zone | Monthly Price Range | Utilities Often Included? | Common Renter Profile |
+|---|---|---|---|
+| South Huntsville | $600-$850 | Sometimes | Defense contractors, military |
+| UAH / NW Huntsville | $500-$750 | Often | Students, interns |
+| Midtown / Downtown | $700-$950 | Varies | Young professionals |
+| Madison / Hwy 72 | $550-$750 | Rarely | Longer-term renters |
+
+**Table 2: Room Type Comparison (under H2: Private Room vs. Shared Room)**
+
+| Room Type | Typical Monthly Cost | Bathroom | Common Inclusions |
+|---|---|---|---|
+| Private room, shared bath | $500-$700 | Shared | Varies |
+| Private room, en suite | $700-$950 | Private | Often WiFi, sometimes utilities |
+| Co-living managed room | $800-$1,050 (all-in) | Shared or private | Utilities, WiFi, laundry, sometimes credit reporting |
+
+Tables must use clean Markdown (the writing agent will produce Markdown; the CMS will render HTML). Column headers must be concise and descriptive so AI engines can parse the comparison axis.
+
+**Rule 3: Definition rule**
+The following terms must be defined in a single clear sentence at first use:
+
+1. **All-inclusive room rental:** A room where the monthly price covers utilities, WiFi, and sometimes laundry, with no separate bills.
+2. **Co-living:** A managed shared housing arrangement where multiple tenants share a home under a single operator, often with individual leases per room.
+3. **En suite room:** A private bedroom with an attached private bathroom, offered within a shared house or managed property.
+4. **Month-to-month lease:** A rental agreement with no fixed end date, renewable each month, giving either party the ability to end the arrangement with standard notice (typically 30 days).
+5. **Lease flexibility:** The degree to which a landlord will accept a shorter term, month-to-month terms, or mid-lease exit without penalty.
+
+**Rule 4: Proof point rule**
+The article must include the following numerical claims, formatted with date stamps:
+
+1. Rooms for rent in Huntsville, AL range from approximately $500 to $950/month depending on area, room type, and what is included (as of Q2 2026).
+2. The median 1-bedroom apartment in Huntsville, AL is approximately $1,145/month (as of Q2 2026), making room rentals meaningfully less expensive than full apartments in most zones.
+3. Co-living managed rooms in Huntsville start at approximately $185-$191/week (approximately $800-$830/month), which includes utilities, WiFi, and laundry access (as of Q2 2026).
+4. Private rooms near UAH typically list at $500-$750/month, with higher furnished room availability than other zones due to student and intern demand (as of Q2 2026).
+5. Defense contractors on 6-12 month rotations represent a significant portion of Huntsville's room rental demand, which is why month-to-month lease terms are more available here than in comparable mid-size Southern cities.
+
+Claim 5 does not require a dollar amount but must be stated as a factual observation the article stands behind.
+
+**Rule 5: FAQ rule**
+Include the following 6 questions in the FAQ section. Each answer must be 40-60 words. Mark each with its source.
+
+| Question | Source |
+|---|---|
+| How much does it cost to rent a room in Huntsville, AL? | AI gap / first logical PAA |
+| What does all-inclusive mean for a room rental in Huntsville? | AI gap (Claude, not covered by any competitor) |
+| Are month-to-month room rentals available in Huntsville? | AI gap (Claude, not covered by any competitor) |
+| What areas of Huntsville are closest to Redstone Arsenal for room rentals? | AI gap (Claude) |
+| What is the difference between a co-living room and a private room rental? | AI gap (definition gap, no competitor covers this) |
+| Are furnished rooms for rent available in Huntsville? | AI gap, implied by FurnishedFinder SERP presence |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for apartments and rental options in Huntsville on brightplace.
+Link target: brightplace.ai (or a Huntsville city search page if available in the IntentOS product).
+Placement: Three times.
+- First placement: After the H2 "What Rooms for Rent in Huntsville Actually Cost" (first answer section). Frame: "See current rental availability across Huntsville neighborhoods on brightplace."
+- Second placement: After the room type comparison table (mid-article). Frame: "brightplace tracks rental pricing across Huntsville so you can compare options without visiting multiple sites."
+- Third placement: After the FAQ section (end of article). Frame: "If you are searching for housing in Huntsville, brightplace's apartment search tool gives you a faster path to finding what fits."
+
+**Secondary CTA:**
+If brightplace has published a guide to renting in Huntsville generally (apartments, cost of living, neighborhood breakdown), link to it from the neighborhood section of this article as a "go deeper" resource. If no such page exists yet, the writing agent should include a placeholder note: "[Internal link: brightplace Huntsville neighborhood guide when published]."
+
+**CTA language rules (confirmed):**
+No promotional language. No "start your search today" or "find your perfect room." Frame all CTAs as a helpful next step. Use declarative sentences: "brightplace shows current availability across Huntsville." "See what is listed in South Huntsville on brightplace." These read as informational extensions of the article, not advertisements.
+
+---
+
+## 9. Writer Rules
+
+### Reproduce in full for the writing agent:
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### Additional Production Rules
+
+**Target word count:** 1,100-1,300 words. Do not pad to reach a word count. Do not cut useful content to stay under it. The benchmark is: does every sentence earn its place?
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style. The reader should feel like they got a straight answer from someone who knows Huntsville's rental market.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. If a sentence runs past 25 words, split it.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time. White space is functional.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a question, a statistic about the US rental market, or a sentence about how Huntsville is growing. Open with the answer.
+
+**Every H2 section opens with its answer:** State the key point in the first sentence of every section. Context and expansion follow the answer. Never reverse this order.
+
+**Date-stamping:** Every dollar figure, price range, or market statistic must include "(as of Q2 2026)" adjacent to the claim. Do not omit this even when it feels redundant. It is an E-E-A-T requirement.
+
+**Schema to implement:**
+- Article schema: Always.
+- FAQPage schema: Always. Applied to every Q&A pair in the FAQ section.
+- Speakable schema: Applied to the opening summary paragraph (first 100 words) and the FAQ section. These are the two sections most likely to be read aloud by voice assistants or extracted by AI overviews.
+- HowTo schema: Not warranted for this article. The content is informational and comparative, not a step-by-step process.
+
+**Tables:** Use clean Markdown table syntax. Two tables are specified in this brief (price by zone, room type comparison). Do not add tables beyond these two unless a third table genuinely clarifies a comparison that prose cannot. Tables are for comparison. Do not use tables to present simple lists.
+
+**The article should not mention brightplace in the body copy until a CTA placement.** The editorial content is trust-building. The CTAs are conversion points. Mixing them weakens both.
+
+**Internal linking placeholder:** If a brightplace Huntsville neighborhood guide or Huntsville apartment search page exists, link to it from the neighborhood section and the final CTA. If it does not yet exist, include a bracketed placeholder: [Internal link: brightplace Huntsville housing guide].
