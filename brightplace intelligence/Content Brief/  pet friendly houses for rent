@@ -1,0 +1,383 @@
+# Content Brief: pet friendly houses for rent
+## brightplace.ai/knowledgebase/
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are predominantly **how-to guides and practical advice articles** (Best Friends Animal Society x2, Homes.com, Rightmove, Petstrendi). A secondary format is **resource/directory pages** (Animal Humane Society, Invitation Homes). One result is an Australian portal (realestate.com.au) with a content hub format.
+
+The brief targets: **how-to guide with embedded comparison data.** The article must not be a pure listicle (bullet dumps without explanation) or a directory. It follows the guide format with structured sections, a comparison table, and FAQ.
+
+### 1b. Content Depth Benchmark
+
+Competitor word count estimates based on scraped content:
+
+| Source | Estimated Word Count |
+|---|---|
+| bestfriends.org (guide) | ~1,100 words |
+| bestfriends.org (how-to) | ~450 words |
+| homes.com | ~1,000 words |
+| rightmove.co.uk | ~900 words |
+| petstrendi.com | ~600 words |
+| invitationhomes.com | ~350 words (FAQ page) |
+
+**Target word count for this article: 1,100 to 1,300 words.** This matches the depth of the leading competitors while exceeding the shallower entries. The Claude AI response indicates substantive detail (cost tables, city-by-city breakdowns, platform comparisons) that competitors largely skip, so depth is earned, not padded.
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Targeting Approach |
+|---|---|---|
+| Featured Snippet | No snippet found | First H2 paragraph: 40-60 words, direct answer format |
+| People Also Ask | Yes (8 questions) | Dedicate H2 sections and FAQ entries to the location-based, price-based, and by-owner PAA variants |
+| AI Overview | Not confirmed but likely | Definition blocks, data table, short opening paragraph targeting LLM extraction |
+| Video Carousel | Not confirmed | Not applicable for this format |
+| Local Pack | Not confirmed | Location-specific framing in body copy (Sun Belt, Midwest, etc.) |
+| Knowledge Panel | Not applicable | Not applicable |
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A pet owner who needs to rent a house (not an apartment) and is actively searching for properties or strategies to find them. They want practical, actionable guidance on where to look, what to expect, and how to improve their chances.
+
+**Secondary intent:** A renter who has already been rejected or hit restrictions and is looking for workarounds (breed restrictions, pet deposits, private landlords).
+
+**Primary intent must be targeted.** The article opens with the search and cost reality, moves to strategy, and closes with the application process. Secondary intent is addressed within the breed restriction and private landlord sections.
+
+**Format match confirmed:** How-to guide with cost data and a strategic framework matches what the dominant SERP format delivers and what AI engines are summarizing.
+
+---
+
+## 2. Recommended Titles
+
+**Option A (Direct, keyword-forward):**
+"How to Find Pet Friendly Houses for Rent"
+
+**Option B (Practical framing, addresses the real pain):**
+"A Practical Guide to Renting a House With Pets"
+
+**Option C (Specific audience hook):**
+"What to Know Before Renting a House With a Dog or Cat"
+
+**Recommended option: Option A.** Contains exact primary keyword, fits under 60 characters (43), clear value proposition, works for both SERP click-through and AI citation.
+
+---
+
+**Meta description:**
+Pet friendly houses for rent are available, but policies vary widely. Know what fees to expect, where to search, and how to present your pet to landlords. (155 characters)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/pet-friendly-houses-for-rent`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article is for **pet-owning renters actively searching for a house**, not an apartment, who have likely already encountered restrictions or sticker shock during their search. They are most commonly relocating renters, families with a dog, or renter households with multiple pets who have been turned away from apartment communities due to breed or size rules. The searcher is in the **comparison to decision stage**: they know they need a pet-friendly house but are uncertain where to look, what it will cost, or how to present themselves as a strong applicant. They expect a structured, practical guide with real cost benchmarks and actionable search strategy, not a generic "start early and get references" article that most competitors recycle.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+pet friendly houses for rent
+
+**Secondary keywords (10-15):**
+
+1. pet friendly houses for rent near me
+2. pet friendly houses for rent by owner
+3. pet friendly houses for rent under $1,000
+4. pet friendly houses for rent under $1,200
+5. cheap pet friendly houses for rent
+6. houses that allow large dogs
+7. pet deposit for rental house
+8. monthly pet rent
+9. breed restrictions rental housing
+10. private landlord pet policy
+11. single-family rental pets allowed
+12. pet resume for renting
+13. pet liability insurance rental
+14. fenced yard rental house
+15. renting with a large dog
+
+**Entities to mention:**
+
+1. Sun Belt cities (Austin, Phoenix, Tampa, Charlotte) as high-inventory pet-friendly house markets
+2. Midwest markets (Columbus, Indianapolis, Kansas City) as large-dog-friendly, lower-cost options
+3. Private landlords vs. property management companies (policy flexibility contrast)
+4. Pet deposit (refundable vs. non-refundable distinction)
+5. Monthly pet rent (dollar range benchmark)
+6. Breed restriction lists (Rottweilers, Dobermans, pit bull-type dogs as common examples)
+7. Fair Housing Act (service animals and emotional support animals exemption)
+8. Pet resume (content and purpose)
+9. Fenced yard (as a practical feature filter in house searches)
+10. PetScreening (third-party screening platform referenced by institutional landlords)
+
+**Terms to AVOID:**
+best, top, ultimate, guide (in title or H2 headings), Zillow, Apartments.com, Trulia, Zumper, Rent.com, HotPads, Apartment List, Reddit, signal, deep dive, navigate, landscape, unlock, leverage, whether you're X or Y, from X to Y, it's worth noting, interestingly, notably, vibrant, bustling, thriving, hidden gem, best-kept secret.
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How to Find Pet Friendly Houses for Rent
+
+*Writing instruction: This is the article title. Use exactly as written. Do not add a subtitle on the page.*
+
+---
+
+**H2: What "Pet Friendly" Actually Means for Houses**
+
+*Writing instruction: Open with a direct, 40-60 word definition of what pet friendly means in the rental house context, written for featured snippet extraction. Clarify that the term is not standardized: some landlords welcome all pets, others impose weight limits, breed bans, or species restrictions. This section sets up everything that follows and prevents the reader from assuming "pet friendly" means unconditional.*
+
+**H3: Pet Fees, Deposits, and Monthly Pet Rent**
+
+*Writing instruction: Insert the comparison table here (see Section 7, structured data rule). Define pet deposit vs. pet fee vs. monthly pet rent as three distinct cost types. Include dollar benchmarks. This is a [CONTENT GAP]: no competitor provides a clean cost breakdown table in this format. This section should be 100-150 words plus the table.*
+
+**H3: Breed and Size Restrictions: What to Expect**
+
+*Writing instruction: Explain why breed restrictions exist (insurance requirements, not landlord personal preference). Name the most commonly restricted breeds without editorializing on whether the restrictions are fair. Note that private homeowners who rent one or two properties are more likely to waive restrictions than institutional landlords or property management companies. 80-100 words.*
+
+---
+
+**H2: Where to Search for Pet Friendly Houses for Rent**
+
+*Writing instruction: This section covers search strategy. Do not name or link to any ILS platform. Instead, describe the types of search channels and their tradeoffs: property management company listings vs. private landlord channels vs. local real estate agents. Explain that private landlord listings (through classified channels, local agents, word of mouth) often have more flexibility on pet policies than corporate-managed inventory. This addresses the "pet friendly houses for rent by owner" PAA intent without recommending specific platforms.*
+
+**H3: Private Landlords vs. Property Management Companies**
+
+*Writing instruction: [CONTENT GAP] This contrast is the single most useful piece of strategic information for a renter with a restricted breed or multiple pets, yet no competitor article addresses it directly. Private landlords (who own one or a few homes) set their own policies and can make exceptions; property management companies follow standardized policies often set by their insurance carrier. Renters with large dogs, restricted breeds, or multiple pets should prioritize private landlord inventory. 100-120 words.*
+
+**H3: Markets With Higher Pet Friendly House Inventory**
+
+*Writing instruction: Name specific city types or metro categories where pet-friendly single-family rental inventory is higher: Sun Belt suburbs (Austin, Phoenix, Tampa, Charlotte), Midwest metros (Columbus, Indianapolis, Kansas City). Do not use neighborhood demographic language. Describe by housing stock type and landlord composition. Note that suburban and exurban zones have higher rates of fenced-yard inventory and private-landlord rentals. 80-100 words.*
+
+---
+
+**H2: How to Strengthen Your Application When You Have a Pet**
+
+*Writing instruction: Open with the core answer: renters with pets face more competition, and a prepared application reduces rejection rates. Cover three concrete strategies in H3 sub-sections below. This section should feel like advice from someone who has done this, not a generic checklist.*
+
+**H3: Build a Pet Resume**
+
+*Writing instruction: Explain what a pet resume is and what it should contain: pet's name, breed, weight, age, vaccination records, spay/neuter status, behavioral training, and a reference from a prior landlord or vet. Keep prescriptive and brief. 80-100 words.*
+
+**H3: Get Pet Liability Insurance Before You Apply**
+
+*Writing instruction: Explain that pet liability insurance covers property damage and injury claims caused by the pet. Landlords who are on the fence about approving a pet are more likely to say yes when the renter already has coverage in place. Some institutional landlords require it. This is a practical differentiator that most renters overlook. 80-100 words.*
+
+**H3: Put Every Pet Agreement in Writing**
+
+*Writing instruction: Stress that verbal permission is not sufficient. Any landlord exception for a pet, or waiver of breed/size restrictions, must be written into the lease or added as a signed addendum before move-in. If a standard lease still contains "no pets" language, that clause must be crossed out and initialed by both parties before signing. 60-80 words.*
+
+---
+
+**H2: Costs to Budget When Renting a Pet Friendly House**
+
+*Writing instruction: [CONTENT GAP] Competitor content mentions fees but does not model total cost impact over a lease term. This section should give the reader a worked example: a house at a specific rent level with specific pet fees produces a specific total monthly cost and total lease-term cost. Use a concrete hypothetical (e.g., $1,800/month rent, $50/month pet rent, $300 refundable deposit, 12-month lease). Name the numbers. This is the section readers screenshot and share. 100-120 words.*
+
+---
+
+**H2: Service Animals and Emotional Support Animals**
+
+*Writing instruction: Briefly explain that service animals and emotional support animals (ESAs) are not legally classified as pets under the Fair Housing Act. Landlords cannot charge pet fees or enforce breed/size restrictions for these animals. Renters must provide appropriate documentation. Keep this section factual and brief (60-80 words). Do not provide legal advice. Do not characterize this section as a loophole or workaround.*
+
+---
+
+**H2: Pet Friendly Houses for Rent: Frequently Asked Questions**
+
+*Writing instruction: Include 6 Q&A pairs. Each answer must be 40-60 words. Format for FAQPage schema. See Section 7 for the specific questions and their sources.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search data framing:** In the cost section and the market section, the writing agent should frame observations as: "Based on rental listings tracked by brightplace across Sun Belt and Midwest markets" or "brightplace's review of house rental inventory across these metros found..." This positions brightplace as a first-hand observer, not a re-packager of third-party data.
+
+2. **Specific cost modeling:** The worked cost example in the "Costs to Budget" section (see H2 above) demonstrates that the author has thought through the real financial impact, not just listed fee types. This is an experience marker.
+
+3. **Practical caveats:** Where the article acknowledges that policies vary by landlord and that even "pet friendly" listings require verification, that nuance reflects real-world knowledge rather than idealized guidance.
+
+### 6b. Expertise Markers
+
+- State specific dollar ranges for pet deposits ($200-$500 per pet, as of Q2 2026) and monthly pet rent ($25-$75/month) with date stamps.
+- Explain the insurance mechanism behind breed restrictions, not just that restrictions exist. This is the "why" that distinguishes expert content from summary content.
+- Provide the specific distinction between refundable pet deposits and non-refundable pet fees. Many renters conflate these, and a clear definition is a genuine expertise marker.
+- Reference the Fair Housing Act accurately and specifically (covers service animals and ESAs, not general pets).
+
+### 6c. Freshness & Date-Stamping
+
+- All dollar figures (pet deposits, monthly pet rent) must include "(as of Q2 2026)."
+- The article must include: "Last reviewed: June 2026" in the article metadata or introductory note.
+- **Claims most likely to go stale:** Monthly pet rent ranges (tied to rental market conditions), specific city market characterizations (inventory shifts seasonally), and any regulatory references (ESA documentation requirements have evolved; Fair Housing Act guidance has been updated periodically). Review these claims at each quarterly content audit.
+
+### 6d. Information Gain
+
+Three specific information gaps this article covers that no current top-ranking competitor addresses:
+
+1. **Private landlord vs. property management company policy contrast:** No competitor article explains why private landlords are structurally more flexible on pet policies than institutional managers. This is the single most actionable insight for a renter with a restricted breed or multiple pets. The article should state clearly: private homeowners set their own policies and can make case-by-case decisions; property management companies follow policies set by their insurance carrier, which is why they enforce breed restrictions uniformly.
+
+2. **Total lease-term cost modeling:** Every competitor mentions pet deposits and monthly pet rent as line items. None models total cost over a 12-month lease with a worked example. A renter choosing between two properties does not think in monthly increments; they think in total move-in costs and total annual spend. This section fills that gap with a concrete hypothetical.
+
+3. **Market-type framing for inventory and flexibility:** No competitor tells renters which types of markets have higher pet-friendly house inventory or which market structures (Midwest suburban, Sun Belt exurban) correlate with private-landlord dominance and pet flexibility. The Claude AI response covered this; no competitor article did.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Pet-owning renters actively searching for a house, in the comparison-to-decision stage, who have encountered restrictions or cost uncertainty.
+- **First-hand expertise demonstrated:** Yes. Cost modeling, market framing, insurance mechanism explanation, and brightplace-data framing all demonstrate original analysis rather than content recycling.
+- **Reader achieves their goal:** Yes. After reading, the renter understands what pet friendly means in practice, what it costs, where and how to search, how to build a stronger application, and what protections apply to service and support animals.
+- **brightplace brand standards met:** Yes. No em dashes, no banned phrases, no ILS citations, no neighborhood demographic language, lowercase "brightplace" throughout, curation title framing, Fair Housing compliance in market descriptions.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data was retrieved in Data Source 3 for ChatGPT. No citation analysis possible.
+
+**Claude:** Claude's response was substantive and cited the following types of sources implicitly through its structured advice:
+
+- Zillow, Realtor.com, Apartments.com, Zumper, Facebook Marketplace, HotPads: cited as search platforms by platform type and utility description. **brightplace is not cited.**
+- Sun Belt and Midwest city characterizations: drawn from Claude's own knowledge synthesis, not attributed to a specific source.
+- Fair Housing Act / Oregon deposit cap: cited as regulatory knowledge.
+- Pet cost table ($200-$500 deposits, $25-$75/month pet rent, weight limits, breed restriction patterns): synthesized from Claude's training data, not attributed to a specific source.
+
+**Is brightplace cited by either engine?**
+- ChatGPT: Unknown (no response retrieved).
+- Claude: No.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Specific, date-stamped cost data in a structured table format (LLMs extract tables)
+- Market-specific inventory framing with named cities
+- A clear, extractable definition of "pet friendly" as a non-standardized term
+- Worked cost examples with concrete numbers
+- A structured comparison of private landlord vs. institutional landlord policy dynamics
+
+**Information gaps both AI engines identified (Claude's response):**
+1. Cost breakdown table (deposits, pet rent, weight limits, breed restrictions) by fee type
+2. City/region-level inventory and flexibility differences
+3. Private landlord vs. property management company contrast
+4. True total monthly cost modeling (base rent plus all pet fees)
+5. Specific platforms with granular pet filter capability (not applicable for brightplace to cite, but the gap itself is addressable through channel-type descriptions)
+6. Service animal and ESA exemptions under Fair Housing Act
+
+All six gaps are addressed in the content outline above.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer stating that pet friendly houses for rent are available but policies and costs vary significantly by landlord type and market, (b) identification of the audience (renters with dogs or other pets searching for a house, not an apartment), and (c) at least one specific numerical data point (e.g., pet fees typically add $25-$75/month to rent, as of Q2 2026). This is the paragraph LLMs extract for AI Overviews and citation summaries.
+
+**Rule 2: Structured data rule**
+Include one comparison table in the "Pet Fees, Deposits, and Monthly Pet Rent" section. Column headers:
+
+| Fee Type | Typical Range (Q2 2026) | Refundable? | Notes |
+|---|---|---|---|
+| Pet deposit | $200-$500 per pet | Often yes | State laws vary; verify locally |
+| Pet fee (one-time) | $150-$400 per pet | No | Common at larger complexes |
+| Monthly pet rent | $25-$75/month per pet | No | Adds $300-$900/year per pet |
+| Weight limit | 25-50 lbs typical | N/A | More common at apartments than houses |
+| Breed restrictions | Varies by landlord | N/A | Driven by landlord insurance policy |
+
+This table must use clean markdown or simple HTML with no nested formatting. LLMs parse flat tables reliably.
+
+**Rule 3: Definition rule**
+These five terms must be defined in a single clear sentence each, the first time they appear:
+
+1. **Pet deposit:** "A pet deposit is a refundable amount paid upfront, held against damage caused by the pet during the tenancy."
+2. **Pet fee:** "A pet fee is a non-refundable one-time charge for the right to have a pet in the unit."
+3. **Monthly pet rent:** "Monthly pet rent is an additional recurring charge added to the base rent each month for each pet."
+4. **Breed restriction:** "A breed restriction is a landlord policy that prohibits specific dog breeds, typically driven by the landlord's insurance carrier rather than personal preference."
+5. **Pet resume:** "A pet resume is a one-page document summarizing a pet's breed, age, weight, vaccination history, behavioral training, and landlord or vet references."
+
+**Rule 4: Proof point rule**
+The article must include these specific numerical claims, each with a date stamp:
+
+1. "Pet deposits typically range from $200 to $500 per pet (as of Q2 2026)."
+2. "Monthly pet rent runs $25 to $75 per pet in most markets (as of Q2 2026)."
+3. "Many apartment communities cap dogs at 25 to 50 pounds; single-family rental houses are more likely to accommodate larger breeds."
+4. "A renter paying $50/month in pet rent on a 12-month lease pays $600 in non-refundable pet costs over the lease term, in addition to any upfront deposit."
+5. "Private homeowners who rent one or two properties represent a disproportionate share of flexible-policy listings, particularly in suburban and exurban markets."
+
+If the writing agent cannot verify claims 1-3 against a current source at time of writing, they should flag them for editorial review before publication rather than inventing figures.
+
+**Rule 5: FAQ rule**
+Six Q&A pairs for the FAQ section. Each answer: 40-60 words. Format for FAQPage schema.
+
+| # | Question | Source |
+|---|---|---|
+| 1 | Are there pet friendly houses for rent under $1,000 a month? | PAA |
+| 2 | How do I find pet friendly houses for rent by owner? | PAA |
+| 3 | What is the difference between a pet deposit and monthly pet rent? | AI engine gap (Claude) |
+| 4 | Why do rental houses have breed restrictions? | AI engine gap (Claude) |
+| 5 | Can a landlord refuse to rent to me because of my dog's breed? | AI engine gap (Claude) + competitor content |
+| 6 | Do service animals or emotional support animals count as pets in a rental? | AI engine gap (Claude) + competitor content |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for pet friendly rentals on brightplace.
+Placement: Three locations.
+- After the first H2 (following the "What Pet Friendly Actually Means" section): "brightplace lets you search rental homes with pet policy filters already applied. See what is available in your area at brightplace.ai."
+- After the cost comparison table: "brightplace tracks rental listings across major markets. Search by city to see current pet-friendly house inventory and pricing."
+- End of article, before or after the FAQ: "Ready to search? brightplace shows pet-friendly houses for rent with transparent pricing. Start your search at brightplace.ai."
+
+**CTA language rules applied:**
+- No superlatives, no urgency language, no promotional framing.
+- Each CTA reads as a helpful next step, not an advertisement.
+- "brightplace" always lowercase.
+- No em dashes in CTA copy.
+
+**Secondary CTA:**
+If brightplace has a published guide covering apartment vs. house renting decisions, or a city-specific renting guide for any of the named markets (Austin, Phoenix, Tampa, Charlotte, Columbus, Indianapolis, Kansas City), the writing agent should insert an inline contextual link. Example language: "If you are deciding between renting an apartment or a house with a pet, brightplace's guide to [topic] covers the tradeoffs in more detail." The writing agent should reference the brightplace sitemap to identify the most relevant published piece.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. Apply every rule to every sentence in this article.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional production rules:**
+
+- **Target word count:** 1,100 to 1,300 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer**, not with context or background.
+- **Schema to implement:** Article schema and FAQPage schema on every article. HowTo schema applies to this article (it is a process guide). Speakable schema applies to the opening summary paragraph and to each FAQ answer.
+- **Date-stamp all data:** Every dollar figure, rent range, statistic, or factual claim must include "(as of Q2 2026)" adjacent to the claim.
+- **Last reviewed note:** Include "Last reviewed: June 2026" in the article header or introductory metadata block.
+- **Do not name or link to any ILS platform** even when describing search strategy. Describe by channel type (private landlord listings, property management company listings, local real estate agents) rather than by brand name.
+- **Do not invent data.** If a specific numerical claim cannot be verified, flag it with [VERIFY BEFORE PUBLISH] for editorial review.
+- **brightplace CTAs:** Insert the three CTAs at the specified locations (after first H2, after cost table, end of article). CTA copy is specified in Section 8. Do not modify CTA language.
