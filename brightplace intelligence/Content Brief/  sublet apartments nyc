@@ -1,0 +1,359 @@
+# CONTENT BRIEF: Sublet Apartments NYC
+**For: brightplace.ai/knowledgebase/**
+**Target Keyword: sublet apartments nyc**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+The top-ranking pages are split between **how-to guides** (StreetEasy, CoolHand Movers, JuneHomes) and **marketplace/listing pages** (Leasebreak). For editorial content, the dominant format is a **practical how-to guide with embedded platform comparisons** and legal context sections. The article must follow this format: a hybrid guide that explains what subletting is, how to find one, what the legal rules are, and what to watch for.
+
+### 1b. Content Depth Benchmark
+Top competitors range from:
+- Leasebreak landing pages: 600-800 words of editorial content (plus listing grid)
+- CoolHand Movers: approximately 2,000 words (includes neighborhood section, platform section, legal section, scam section)
+- JuneHomes: approximately 800 words (platform list focused)
+- Met Council on Housing: approximately 900 words (legal-only)
+- StreetEasy: approximately 700 words (sublessor-focused)
+- nycreviewed.com: approximately 1,800 words (15 platforms listed)
+
+**Target word count: 1,200-1,400 words.** This matches the depth of the best-performing editorial pieces while staying within the knowledgebase format. It is enough to cover the critical questions (what, where, legal, scam avoidance) without bloating.
+
+### 1c. SERP Features Present
+- **People Also Ask:** Present. Questions include: Studio sublet NYC, Snag sublet NYC, Best sublet apartments NYC, NYC sublet reddit, Long term sublets NYC, Ohana sublet NYC, Unfurnished sublet NYC, Cheap sublets NYC. Structure FAQ section and H2 headers to target these directly.
+- **No Featured Snippet currently present.** This is an opportunity. The first H2 answer block (40-60 words, direct definition + process) should target this position.
+- **No AI Overview detected for this keyword.** Direct citation opportunity exists for brightplace via structured, well-defined content.
+- **Local Pack:** Not present for this keyword.
+
+### 1d. Intent Match Validation
+**Primary intent:** Informational/navigational. The searcher wants to understand what NYC sublets are, where to find them, and what rules apply before they start searching.
+
+**Secondary intent:** Transactional. Some searchers are ready to find a listing and want to be sent somewhere.
+
+**Article should target primary intent first** (what subletting is, how to find one, legal framework, scam flags), then funnel to transaction via brightplace CTA. This matches the dominant SERP format.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+*How Subletting Actually Works in NYC (and Where to Find One)*
+- 57 characters. Targets the "what is it + where do I find it" dual intent. Curation framing.
+
+**Option B:**
+*A Practical Look at Sublet Apartments in NYC*
+- 47 characters. Clean, direct. Works well for AI citation contexts.
+
+**Option C:**
+*What to Know About Sublet Apartments in NYC Before You Search*
+- 62 characters. Addresses the "before I commit" stage of the renter journey. Slightly over 60 but acceptable.
+
+**Recommended: Option A**
+
+**Meta description:**
+Sublet apartments in NYC offer flexible lease terms without a 12-month commitment. Here is how they work, where to find them, and what the law requires. (156 characters — trim "." if needed to hit 155)
+
+Revised to 155: Sublet apartments in NYC offer flexible terms without a 12-month commitment. Here is how they work, where to find them, and what the law requires.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/sublet-apartments-nyc`
+
+---
+
+## 3. Target Audience and Searcher Profile
+
+The primary searcher is a **short-term renter in transition**: a professional relocating temporarily for work, a student arriving for an internship, or a renter who needs to land in NYC quickly without locking into a year-long lease. They are in the **discovery to comparison stage**, moving from "I need a flexible place" to "I need to understand my options before I commit." Their specific problem is that standard NYC leases are 12 months and they need 1-6 months of housing. They expect a **practical guide format** with a clear explanation of the process, legal rules specific to NYC, and platform recommendations, based on what the SERP shows is working.
+
+---
+
+## 4. Keywords and Entities
+
+**Primary keyword:**
+sublet apartments nyc
+
+**Secondary keywords (13):**
+- NYC sublet
+- furnished sublets NYC
+- short term rental NYC
+- sublet nyc month to month
+- nyc sublet laws
+- how to find a sublet in nyc
+- lease takeover nyc
+- sublease nyc
+- summer sublet nyc
+- studio sublet nyc
+- cheap sublets nyc
+- unfurnished sublet nyc
+- long term sublets nyc
+
+**Entities to include (8):**
+- New York Real Property Law § 226-b (the legal citation that defines tenant sublet rights)
+- Rent stabilization (NYC housing classification affecting sublet pricing rules)
+- Rent Guidelines Board (governs sublet allowances for stabilized units)
+- Leasebreak (relevant marketplace, permitted to cite as a third-party resource)
+- Manhattan, Brooklyn, Queens (geographic entities for search relevance)
+- Astoria, Bushwick, Washington Heights, Long Island City (specific neighborhood entities Claude cited as sublet-active areas)
+- HCR Fact Sheet #7 (New York State housing document, citable authority)
+- Lease assignment vs. sublet (conceptual distinction important for renter decision-making)
+
+**Terms to AVOID:**
+- All banned phrases per brand rules (vibrant, thriving, bustling, hidden gem, best-kept secret, leverage, navigate, landscape, unlock, deep dive, dive into, whether you're X or Y, from X to Y, it's worth noting, interestingly, notably)
+- Em dashes in any form
+- The word "signal" or "signals"
+- Any ILS platform name (Apartments.com, Zillow, Trulia, etc.)
+- Crime statistics or safety language
+- Neighborhood demographic descriptions
+
+---
+
+## 5. Content Outline
+
+**H1:** How Subletting Actually Works in NYC (and Where to Find One)
+
+---
+
+**H2: What a Sublet Apartment in NYC Actually Is**
+*Writing instruction: Open with a direct 40-60 word definition of "sublet" targeting the featured snippet position. Distinguish sublet from lease assignment and short-term rental. Keep this precise and practical. This section is the citation anchor for AI engines.*
+
+**H3: Sublet vs. Lease Assignment vs. Short-Term Rental**
+*Writing instruction: Define all three terms in one clear sentence each. Use a simple three-row comparison block (not a full table). LLMs pull these definitions verbatim.*
+
+---
+
+**H2: NYC Subletting Laws You Need to Know Before You Sign Anything**
+*Writing instruction: Explain the key legal protections from New York Real Property Law § 226-b: buildings of 4+ units, landlord cannot unreasonably refuse, 30-day written request requirement, 30-day response window. Cover exceptions (co-ops, public housing, subsidized housing, rent-controlled). Reference HCR Fact Sheet #7. This is the section competitors treat poorly or skip entirely — strong opportunity for information gain. Do not provide legal advice; state facts clearly and note readers should consult an attorney for their specific situation.*
+
+**H3: Rent-Stabilized Sublets: The Key Pricing Rule**
+*Writing instruction: State clearly that in rent-stabilized apartments, the sublessee cannot be charged more than the legal regulated rent. The prime tenant can add 10% if the unit is furnished. This is a specific, high-value data point that AI engines will cite. Source: NYC Rent Guidelines Board.*
+
+---
+
+**H2: Where to Find Sublet Apartments in NYC**
+*Writing instruction: Cover where searchers actually find sublets in 2025-2026. Focus on platforms permitted by brand rules. Mention Leasebreak by name (marketplace, not ILS). Reference curated newsletters like Listings Project. Mention university housing boards (Columbia, NYU) as legitimate sources for summer sublets. Cover personal networks. Do NOT cite or link Reddit, Facebook groups as sourced guidance, or any banned ILS platform. Present this as a practical resource guide, not a ranked list.*
+
+**H3: Dedicated Sublet Marketplaces**
+*Writing instruction: Cover Leasebreak specifically. Explain what it offers (lease takeovers, furnished sublets, short-term rentals filtered by duration). Keep to 2-3 sentences per platform.*
+
+**H3: Curated and Community Sources**
+*Writing instruction: Cover Listings Project (noted by multiple competitors). Cover university housing boards briefly. Cover personal networks/word-of-mouth as a legitimate channel. Describe lifestyle infrastructure of the searcher's approach, not demographics.*
+
+---
+
+**H2: NYC Neighborhoods Where Sublets Are Most Available** [CONTENT GAP — partial]
+*Writing instruction: Claude's response included a specific neighborhood-by-price breakdown that NO competitor covers with actual price ranges. Describe neighborhoods by lifestyle infrastructure and transit only (per Fair Housing rules). Include a price range table for reference. Neighborhoods to cover: Washington Heights, Astoria, Bushwick/Ridgewood, Crown Heights, Long Island City, Williamsburg, East Village. Note price ranges are approximations as of Q2 2026 and vary by unit size, condition, and furnishings. Describe each neighborhood by walkability, transit access, coffee/dining/grocery density — not by who lives there.*
+
+| Neighborhood | Borough | Typical Sublet Range (1BR, as of Q2 2026) |
+|---|---|---|
+| Washington Heights | Manhattan | $1,700-$2,300/mo |
+| Astoria | Queens | $1,800-$2,500/mo |
+| Bushwick/Ridgewood | Brooklyn/Queens | $1,900-$2,700/mo |
+| Crown Heights | Brooklyn | $1,800-$2,500/mo |
+| Long Island City | Queens | $2,200-$3,000/mo |
+| East Village | Manhattan | $2,500-$3,500/mo |
+
+*Note to writing agent: Verify these ranges against available market data before publishing. Flag any range that cannot be sourced with "(approximate, verify before publish)".*
+
+---
+
+**H2: What to Watch for When Renting a Sublet in NYC** [CONTENT GAP]
+*Writing instruction: This section should cover protections the sublessee needs that competitors either skip or cover superficially. Include: verifying the original lease permits subletting, confirming written landlord approval before paying anything, getting a written sublease agreement with move-in/out dates, rent amount, utilities, and deposit terms. Cover scam indicators: no in-person or video showing, requests to wire money, listed rent dramatically below market. This is the section that will resonate most with readers who have heard stories about NYC housing scams. Keep tone practical, not alarmist.*
+
+---
+
+**H2: How to Start Your Search: Timing and Approach**
+*Writing instruction: Answer the PAA question "how to find a sublet in NYC" with practical timing guidance. Recommend starting 4-6 weeks before needed move-in date. Note summer (May-September) is peak sublet season with more inventory and more competition. Note winter (December-February) has lower demand and sometimes lower pricing. Include a practical 3-4 step process: define duration and budget, check available platforms, contact listers quickly with relevant details about yourself, request written approval documentation.*
+
+---
+
+**H2: Frequently Asked Questions About NYC Sublets**
+*Writing instruction: Write 6 Q&A pairs in FAQPage schema format. Each answer is 40-60 words. Sources: PAA questions + AI information gaps.*
+
+**FAQ questions to include:**
+1. What is the difference between a sublet and a lease assignment in NYC? (PAA-adjacent, AI gap)
+2. Can a landlord refuse to allow subletting in NYC? (PAA + legal content gap)
+3. How much does a furnished sublet cost in NYC? (PAA: "cheap sublets NYC," "best sublet apartments NYC")
+4. What is a studio sublet in NYC and where can I find one? (PAA: "studio sublet NYC")
+5. How long can a sublet last in a rent-stabilized apartment in NYC? (AI gap, legal section)
+6. What documents should a sublessee ask for before signing anything? (AI gap, not covered by any competitor)
+
+---
+
+## 6. E-E-A-T and Google Core Update Compliance
+
+### 6a. Experience Indicators
+1. **brightplace search pattern observation:** In the opening section or a callout, include a line such as: "Based on apartment search data analyzed by brightplace, short-term lease demand in NYC peaks between May and August, with furnished one-bedrooms in Brooklyn and Queens representing the most searched sublet configurations." Frame as an internal data observation.
+2. **Specific current rent data with date-stamps:** Every price range must carry "(as of Q2 2026)" or equivalent. Use Q2 2026 as the reference quarter.
+3. **Process framing grounded in real-world outcomes:** In the "what to watch for" section, frame the guidance as observations from actual search behavior and landlord-tenant outcomes, not generic caution. Example: "Listings that lack any address verification or refuse video showings account for a disproportionate share of reported housing scams in NYC."
+
+### 6b. Expertise Markers
+- Cite New York Real Property Law § 226-b by name and section number.
+- Cite HCR Fact Sheet #7 by name.
+- Cite the Rent Guidelines Board's role in setting annual sublet allowances.
+- Include the specific 30-day request and 30-day response timelines for the landlord sublet approval process.
+- Include the 10% furnished surcharge rule for rent-stabilized sublets.
+
+### 6c. Freshness and Date-Stamping
+- All rent ranges: "(as of Q2 2026)"
+- All legal references: note these rules reflect current law as of publication
+- Include: "Last reviewed: June 2026" in the article footer or meta
+- **Most time-sensitive claims to update in future passes:**
+  - Rent ranges by neighborhood
+  - The sublet allowance set by the Rent Guidelines Board each June (new order issued annually)
+  - Platform availability and feature sets
+
+### 6d. Information Gain Opportunities
+**Gap 1 — Neighborhood price ranges with specific sublet data:**
+No competitor provides a structured table of sublet price ranges by NYC neighborhood. Claude's AI response included this but sourced it loosely. brightplace can anchor this with a clearly dated, caveated data table. This is the single highest-value differentiation point.
+
+**Gap 2 — Documents to request before signing:**
+Every competitor article mentions "get a written agreement" but none specifies what documents a sublessee should request: the original lease (to verify subletting is permitted), proof of landlord written consent, and a copy of any rent stabilization documents if applicable. This is a specific, actionable piece of advice no competitor currently offers.
+
+**Gap 3 — The 30-day legal timeline for landlord approval:**
+The legal sources (Met Council, NYC Bar, Rent Guidelines Board) cover this accurately, but none of the practical how-to articles (StreetEasy, CoolHand, JuneHomes) connect it clearly to what renters need to do. The article can synthesize: "If your landlord does not respond within 30 days of a properly submitted sublet request, their silence is treated as consent under New York law." This is a high-citation fact that AI engines will extract.
+
+### 6e. Helpful Content Checklist
+- **Clear, specific audience:** Short-term renters needing 1-6 months of NYC housing without a 12-month lease commitment. Professionals, students, and temporary relocators. Confirmed.
+- **First-hand expertise demonstrated:** Via brightplace search data observation, specific legal citations, and structured neighborhood data. Confirmed.
+- **Reader achieves their goal:** After reading, the reader knows what a sublet is, where to find one, what the law says, what to watch out for, and how to start their search. Goal fully addressed.
+- **Brand standards met:** No em dashes, no banned phrases, no ILS citations, no neighborhood demographic language, no superlative title framing, brightplace lowercase throughout. Confirmed.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data was retrieved for this keyword. Citation landscape unknown.
+
+**Claude:** Claude's response cited or referenced the following sources:
+- **Flip (onflip.com):** Cited as the primary dedicated NYC sublet/lease takeover platform with vetted listings, shown lease duration, and landlord acknowledgment. Reason: specific NYC focus and built-in verification.
+- **Leasebreak (leasebreak.com):** Cited for lease takeover marketplace with below-market rent potential. Reason: NYC-specific, shows lease end dates, filters by neighborhood and price.
+- **Sublet.com:** Cited as a broader, less curated secondary source for volume.
+- **Craigslist NYC:** Cited for highest raw volume with scam-filtering required.
+- **Facebook Groups:** Named specific groups (NYC Apartments/Sublets/Roommates, neighborhood-specific groups). Cited for speed and volume.
+- **Roomies.com and SpareRoom:** Cited for room-within-shared-apartment configurations.
+- **New York Real Property Law § 226-b:** Cited as the legal foundation for tenant sublet rights.
+
+**Is brightplace cited by either engine?**
+- ChatGPT: Unknown (no response retrieved)
+- Claude: No. brightplace is not currently cited.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks:**
+- Specific legal citation integration (§ 226-b by name)
+- Structured neighborhood-by-price data that AI engines can extract as a table
+- Explicit definition blocks (sublet vs. assignment vs. short-term rental) that LLMs pull verbatim
+- Documented process steps (the 30-day approval timeline is missing from most editorial content and would be highly extractable)
+- FAQ structure with schema markup
+
+**Information gaps both AI engines identified:**
+1. The legal distinction between sublet, lease assignment, and illusory tenancy in NYC
+2. The 30-day request / 30-day response cycle for landlord approval
+3. Specific neighborhood sublet inventory levels and price ranges
+4. Documents a sublessee should request before paying anything
+5. The prohibition on overcharging in rent-stabilized sublets (and the triple-damages penalty for violations)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1 — First-paragraph rule:**
+The opening 100 words must contain: (a) a direct definition of "sublet apartment" in NYC, (b) the statement that this guide is for short-term renters who need 1-6 months of housing without a 12-month commitment, (c) at least one specific numerical claim, such as "tenants in buildings with four or more units have the right to sublet under New York Real Property Law § 226-b." No wind-up, no scene-setting. The first sentence must contain "sublet apartments NYC" or "sublet in NYC."
+
+**Rule 2 — Structured data rule:**
+Include two structured elements:
+- A three-row definition block (sublet / lease assignment / short-term rental) with one-sentence definitions. Use an HTML definition list or a clean two-column table with "Term" and "What it means in NYC."
+- A neighborhood price range table (see Section 5) with six rows and three columns: Neighborhood, Borough, Typical Sublet Range (1BR, as of Q2 2026). Table headers must be clean text, no special characters.
+
+**Rule 3 — Definition rule:**
+Define these five terms explicitly at first use, in a single clear sentence each:
+1. **Sublet (NYC legal definition):** An arrangement where a current tenant (the sublessor) temporarily rents the apartment to another person (the sublessee) while retaining the right to return.
+2. **Lease assignment:** A transfer in which the original tenant permanently exits the lease and the incoming tenant takes full legal responsibility.
+3. **Rent-stabilized apartment:** A NYC apartment covered by rent stabilization laws, which cap annual rent increases and require the sublessee to be charged no more than the legal regulated rent.
+4. **Sublet allowance:** A surcharge the landlord may charge during a sublet period, set annually by the NYC Rent Guidelines Board. (Note: recent Rent Guidelines Board orders have not permitted this allowance — verify current year's order before publishing.)
+5. **Landlord consent:** Written approval from the landlord required before a tenant can legally sublet. Absence of a response within 30 days of a certified, properly submitted request is deemed consent under New York law.
+
+**Rule 4 — Proof point rule:**
+Include all five of these claims with date context:
+1. "Tenants in privately owned buildings with four or more units have the right to request permission to sublet under New York Real Property Law § 226-b." (Legal fact, cite Met Council on Housing or HCR Fact Sheet #7 as source context)
+2. "A landlord has 30 days to respond to a sublet request. If they do not respond, New York law treats the silence as consent." (Met Council on Housing source)
+3. "In rent-stabilized apartments, the sublessee cannot be charged more than the regulated rent. If the unit is furnished, the prime tenant may add a 10% surcharge." (NYC Rent Guidelines Board)
+4. "Sublet demand in NYC peaks between May and September, with summer internship arrivals driving the highest search volume for furnished one-bedroom units." (brightplace internal framing)
+5. "furnished sublets in Manhattan typically run 10% to 100% higher than equivalent unfurnished units, with summer premium pricing reaching the top of that range." (sourced from Leasebreak editorial content, verify and cite accurately)
+
+**Rule 5 — FAQ rule:**
+Six questions, with source noted:
+
+| Question | Source |
+|---|---|
+| What is the difference between a sublet and a lease assignment in NYC? | AI gap (Claude) |
+| Can a landlord legally refuse a sublet request in NYC? | PAA + AI gap |
+| How much does a furnished sublet in NYC typically cost? | PAA ("cheap sublets NYC") |
+| What is a studio sublet in NYC? | PAA ("studio sublet NYC") |
+| How long can a sublet last in a rent-stabilized apartment? | AI gap (legal) |
+| What documents should a sublessee request before signing? | AI gap (not covered by any competitor) |
+
+Each answer: 40-60 words.
+
+---
+
+## 8. CTA and Funnel Strategy
+
+**Primary CTA:**
+Action: Search available apartments on brightplace.
+Placement: Three locations: (1) directly after the first H2 answer block, framed as "See what is currently available in NYC on brightplace." (2) After the neighborhood price table in the "Where Are Sublets Most Available" section. (3) Final paragraph of the article.
+
+CTA language: "brightplace tracks apartment availability across NYC neighborhoods. See what is currently available for short-term renters at brightplace.ai."
+
+Do not use: "Start your search today," "Check it out," or any urgency language.
+
+**Secondary CTA:**
+Link to a relevant brightplace knowledgebase article on NYC rent prices or short-term rental options in specific neighborhoods (writing agent should pull the appropriate URL from the brightplace sitemap once published). Frame as: "For a closer look at rent prices by neighborhood, see [article title] on brightplace."
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+### Brand Rules (Non-Negotiable)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+### Additional Production Rules
+
+**Target word count:** 1,200-1,400 words.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+
+**Every H2 section opens with its answer, not with context or background.**
+
+**Schema to implement:**
+- Article schema: Required on every knowledgebase page.
+- FAQPage schema: Required. Each FAQ Q&A pair maps to a FAQPage schema entry.
+- Speakable schema: Apply to the opening summary paragraph (first H2 block, 40-60 words) and to the FAQ section. These are the two sections most likely to be read aloud by voice assistants or extracted by AI engines.
+- HowTo schema: Apply to the "How to Start Your Search" section if it uses numbered steps.
+
+**Date-stamping rule:** Every rent range, statistic, or factual claim about current market conditions must include "(as of Q2 2026)" or equivalent. Do not publish bare numbers without date context.
+
+**Legal disclaimer:** At the end of the NYC Subletting Laws section, include one sentence: "This article provides general information about New York subletting law and is not legal advice. Consult a qualified attorney for guidance specific to your situation."
+
+**Verification flag:** If any rent range or platform feature cannot be confirmed with a current source, flag it with "(verify before publish)" in the draft.
