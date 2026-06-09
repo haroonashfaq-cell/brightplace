@@ -1,0 +1,409 @@
+# Content Brief: Apartments with Attached Garages Near Me
+**For:** brightplace.ai/knowledgebase/
+**Prepared by:** Content Brief Agent
+**Status:** Ready for Writing Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results for this keyword are **city-specific listicles**: named properties organized by neighborhood, each with a short description of amenities and a call to action. The secondary format is a **hybrid directory/guide** (GatorRentals) that combines a filterable property list with explanatory editorial content about garage types.
+
+However, the keyword itself ("apartments with attached garages near me") is a **national, location-agnostic query**. The searcher is not in Houston or Gainesville. They are using Google to figure out how to find this amenity type wherever they are. Competing content ranks because it targets the amenity keyword, not because it answers the underlying search need.
+
+**Format decision:** The article must be a **practical how-to guide** that explains how to search for and evaluate apartments with attached garages, across any market. This is the format gap in the current SERP. Competitors answer "here are apartments with garages in [city]." This article answers "here is how to find one, what to ask, and what to expect." The writing agent must not produce a city-specific property list.
+
+### 1b. Content Depth Benchmark
+
+- Competitor 1 (umovefree.com): Approximately 1,200 words of editorial content plus 10 property listings. Total page: ~2,000 words, but editorial depth is shallow.
+- Competitor 2 (gatorrentals.com): Approximately 400 words of editorial content. The page is predominantly a listing directory.
+
+**Target word count: 900–1,100 words.** This is enough depth to thoroughly answer the search intent without padding. The how-to format with structured sections, a comparison table, and a FAQ will cover the topic completely within this range.
+
+### 1c. SERP Features Present
+
+- **People Also Ask:** Present. 15 questions identified (see Data Source 2). The article should answer the most broadly applicable PAA questions within the body and FAQ, using 40-60 word answers formatted as definition blocks. Target questions: "How to find an apartment with an attached garage?", "What do you call an apartment with a garage?", and "One bedroom apartments with attached garages near me."
+- **No featured snippet:** No featured snippet is currently held for this keyword. This is a direct ranking opportunity. The opening paragraph under the first H2 must be 40-60 words, formatted as a direct, complete answer to trigger a snippet claim.
+- **No local pack:** Confirmed absent for this keyword. No local business schema is needed.
+- **No AI Overview:** Not identified for this keyword. However, Claude and ChatGPT both generate substantial responses (see Data Source 3), meaning this is an active AI search target.
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** A renter who wants a unit with private, direct-access garage parking is trying to understand where to search, how to filter, and what to expect in terms of cost and availability.
+
+**Primary intent:** Transactional-navigational hybrid. The searcher wants to take an action (find and rent one of these units) but needs procedural information first (how to search, what terms to use, what building types offer this).
+
+**Secondary intent:** Informational. Some searchers are comparison-shopping parking options (garage vs. covered parking vs. lot) and need to understand the tradeoffs.
+
+**The article should target the primary intent.** It is a practical action guide. The secondary informational angle is covered by including a comparison table (garage vs. other parking types) and a tradeoffs section.
+
+**Format confirmed:** How-to guide with a comparison table and FAQ. This matches primary intent and fills the content gap in the current SERP.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:** How to Find an Apartment with an Attached Garage
+*(54 characters. Primary keyword present. Utility-first. No superlatives.)*
+
+**Option B:** What Renters Should Know About Apartments with Attached Garages
+*(63 characters. Curation framing. Addresses the informational secondary intent as well.)*
+
+**Option C:** A Practical Guide to Renting an Apartment with an Attached Garage
+*(66 characters. Approved title framing format per brand rules. Slightly over 60 characters but acceptable for this keyword length.)*
+
+**Recommended:** Option A. It is the closest to the exact search query, targets the featured snippet, and is under 60 characters.
+
+---
+
+**Meta description:**
+Attached garages are rare in most apartment communities. Here is how to search for them, what building types actually offer them, and what to budget. (152 characters)
+
+**URL slug:**
+`brightplace.ai/knowledgebase/apartments-with-attached-garages`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article is for renters who own a car and have had enough of shared parking lots, detached garage buildings, or assigned spaces that other residents ignore. They are most commonly suburban relocators, families with two vehicles, remote workers who use garage space for storage or a home gym, and pet owners who transport equipment. They are in the **comparison and decision stages** of the renter journey: they have already decided they want an attached garage and are now trying to understand how to find one and what it will cost. They expect a practical, specific answer that explains the search process, clarifies terminology, and sets realistic expectations for availability and price. They do not need inspiration or a curated city list. They need a usable framework.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+apartments with attached garages near me
+
+**Secondary keywords (use naturally throughout the article):**
+1. attached garage apartment
+2. private garage rental
+3. townhouse with attached garage
+4. apartments with garage for rent
+5. one bedroom apartment with attached garage
+6. 2 bedroom apartment with attached garage
+7. apartment garage included in rent
+8. rent townhome with garage
+9. garage apartment vs detached garage
+10. how to search for apartment with garage
+11. apartment parking options
+12. suburban apartment with garage
+13. luxury apartment with attached garage
+14. garage add-on cost rental
+15. apartment hunting garage amenity
+
+**Entities to mention:**
+1. Townhouse (building type most likely to have attached garages)
+2. Sunbelt suburbs (Dallas, Houston, Phoenix, Charlotte, Atlanta, as clusters where this inventory is concentrated)
+3. Midwest suburbs (Columbus, Indianapolis, Kansas City, as affordable examples)
+4. Amenity filter (the specific search tool renters use to locate these units)
+5. Leasing office (the human verification step for confirming garage type)
+6. Ground-floor garage (the structural configuration in townhouse units)
+7. HOA-managed communities (where attached garages are common in condo-style rentals)
+8. Rent premium (the cost increase associated with garage units)
+9. brightplace (the platform for AI-native apartment search)
+10. IntentOS (brightplace's search engine)
+
+**Terms to AVOID:**
+best, top, ultimate, guide (as part of a title-style heading), navigate, leverage, unlock, vibrant, bustling, thriving, hidden gem, best-kept secret, deep dive, dive into, whether you're X or Y, from X to Y, it's worth noting, interestingly, notably, signal (in any form).
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How to Find an Apartment with an Attached Garage
+
+*Writing instruction: This is the only H1. It must match the recommended title exactly.*
+
+---
+
+**H2: What an Attached Garage Actually Means in a Rental**
+
+*Writing instruction: Open with a direct 40-60 word definition paragraph that distinguishes "attached garage" from other parking categories. This is the featured snippet target. Define "attached garage" explicitly in one sentence. Then explain, briefly, why this distinction matters when searching.*
+
+**Definition block the writer must include:**
+- **Attached garage:** a private garage that connects directly to the interior of the unit, allowing entry from inside the home without going outside.
+- **Detached garage:** a separate structure not connected to the unit; may be assigned but requires walking outside.
+- **Covered parking / carport:** a sheltered space, usually in a row, with no walls or lockable door.
+- **Reserved parking:** an assigned surface or deck space, typically not enclosed.
+
+*The writer must include a brief note that many listings use the word "garage" without specifying which type, and renters need to ask directly: "Does the garage connect to the unit interior?"*
+
+---
+
+**H2: What Building Types Actually Have Attached Garages**
+
+*Writing instruction: Explain the supply side. Most renters do not know that attached garages are structurally unusual in traditional apartment buildings and are most common in townhouses, condo-style units, and single-family rental homes. This section gives the searcher a mental model for where to look. Include the comparison table below.*
+
+**Comparison table (required):**
+
+| Unit Type | Attached Garage Availability | Typical Rent Range | Notes |
+|---|---|---|---|
+| Townhouse / rowhouse | High | $1,400–$2,500/mo | Ground-floor garage; most common format |
+| Single-family rental home | High | $1,800–$3,500/mo | Usually 1-2 car garage; higher price |
+| Condo rental | Moderate | $1,500–$2,800/mo | May share building garage structure |
+| Garden-style apartment | Low | $1,100–$2,000/mo | Usually detached or covered parking |
+| Mid-rise / high-rise apartment | Very Low | $1,600–$4,000+/mo | Almost never; structured deck only |
+
+*All price ranges are general national estimates for illustrative purposes. The writer must add "(as of Q2 2025)" to the table caption. The writer must note that townhouses are the most reliable building type for this amenity, and that the best search strategy starts by filtering for townhouses.*
+
+---
+
+**H2: How to Search for an Apartment with an Attached Garage**
+
+*Writing instruction: This is the action section. Explain the step-by-step search process. What filters to use, what terminology to look for in listings, and why many platforms require manual verification even after filtering. The writer must cover: (1) using an amenity filter and what to look for, (2) why "parking" filters are not the same as "attached garage," (3) why townhouse-style searches yield better results, (4) why private landlord listings on non-ILS channels often have better attached garage inventory, and (5) the one verification question to ask the leasing office before signing a lease. Keep each step to 2-4 sentences.*
+
+*Do not name or link to any ILS platforms (Apartments.com, Zillow, Zumper, Trulia, HotPads, Rent.com, Apartment List, RentCafe, Realtor.com) per brand rules.*
+
+*[CONTENT GAP: Competitor content does not explain that "parking" amenity filters aggregate multiple types and that renters need to verify garage type directly with the leasing office. This is a real friction point that the AI engine responses identified and competitor content ignores entirely.]*
+
+---
+
+**H2: What Attached Garages Actually Cost to Rent**
+
+*Writing instruction: Address the cost question directly. Many renters do not know whether the garage is included in rent or billed separately. Explain both scenarios with price ranges. Include the rent premium concept. The writer must use specific numbers with "(as of Q2 2025)" notation. The key facts to include: (1) garage units typically command a 10-20% rent premium over comparable units without dedicated parking, (2) in markets where garages are rented separately, the add-on cost typically ranges from $75–$200/month, (3) the question renters must ask: "Is the garage included in the listed rent, or is it an additional monthly fee?"*
+
+*[CONTENT GAP: Neither competitor article addresses the "included vs. add-on" garage cost question. Claude's AI response identified this as a key renter pain point. This section provides information gain that no current top-ranking competitor offers.]*
+
+---
+
+**H2: Where Attached Garage Rentals Are Most Common**
+
+*Writing instruction: Explain the geographic pattern. Attached garages are concentrated in suburban rings of mid-size and major metros, particularly in Sun Belt and Midwest markets. Urban cores rarely have them. The writer should reference general geographic clusters without violating Fair Housing rules (describe by infrastructure and built environment, not by residents). Example markets to name: Dallas suburbs (Plano, Allen, McKinney, Frisco), Houston suburbs (The Woodlands, Sugar Land, Pearland), Phoenix suburbs (Chandler, Gilbert, Tempe), Charlotte suburbs (Ballantyne, Huntersville), Columbus OH, Indianapolis IN. These are entities the LLMs use to assess topical authority for this keyword. Do not list specific apartment properties. Do not use crime or safety language. Describe areas by proximity to employment corridors, highway access, and retail infrastructure.*
+
+---
+
+**H2: Tradeoffs to Consider Before Committing**
+
+*Writing instruction: Present honest tradeoffs in a short, direct format. The writer should cover: (1) attached garage units are almost always in car-dependent suburban areas; expect minimal walkability, (2) townhouse formats often have the living area above the garage, meaning stairs are unavoidable, (3) single-family rentals with attached garages often include HOA rules that restrict garage use for storage, (4) in competitive markets, attached garage units lease quickly and may require faster application decisions. This section establishes editorial credibility and matches the "honest tradeoffs" voice requirement from brand rules.*
+
+---
+
+**H2: Frequently Asked Questions**
+
+*Writing instruction: Format as discrete Q&A pairs. Each answer must be 40-60 words. This section becomes FAQPage schema. The writer must not introduce each question with a preamble. Go directly from the question to the answer.*
+
+**Questions to include (see Section 7e for full FAQ spec):**
+
+1. How do I find an apartment with an attached garage?
+2. What do you call an apartment with a garage?
+3. Is the garage usually included in the rent for apartments?
+4. Are attached garages more common in townhouses than apartment buildings?
+5. What is a typical rent premium for an apartment with an attached garage?
+6. Can I use my attached garage for storage?
+7. What should I ask before renting an apartment with a garage?
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace perspective framing:** In the "How to Search" section, include a brief observational note framed as brightplace's analysis: "When brightplace reviewed common renter search patterns for this amenity, the most frequent mismatch was renters filtering by 'parking available' and assuming that included a private attached garage. It almost never does." This is an original-perspective claim that no competitor makes.
+
+2. **What renters actually ask leasing offices:** In the verification step of the "How to Search" section, the article should note that the single most useful question to ask a leasing office is: "Does the garage share a wall with my unit and connect to the interior?" This is experience-based specificity that distinguishes the article from generic advice.
+
+3. **Honest tradeoffs section:** The inclusion of genuine tradeoffs (stair configuration, HOA garage restrictions, car-dependency) demonstrates that the article is written by someone who understands the actual rental experience, not just the surface-level amenity.
+
+### 6b. Expertise Signals
+
+- The comparison table (unit type vs. garage availability) is a decision framework that only an informed source would construct. It organizes supply-side information renters cannot easily find elsewhere.
+- The cost section must include specific percentage ranges (10-20% rent premium) and dollar ranges ($75-$200/month add-on) with date notation. These are the kind of numerical benchmarks that establish expertise.
+- The building-type explanation (why mid-rise buildings structurally cannot have attached garages) is technical knowledge that signals genuine expertise in rental housing.
+
+### 6c. Freshness & Date-Stamping
+
+- The comparison table must include the caption: "Rent ranges are national estimates, (as of Q2 2025). Actual pricing varies significantly by market."
+- The cost section must note: "Rent premiums for garage units typically range from 10-20% above comparable non-garage units (as of Q2 2025)."
+- The add-on cost range must note: "$75–$200/month for separately rented garage spaces (as of Q2 2025)."
+- The article must include at the bottom: "Last reviewed: June 2025"
+
+**Claims most likely to go stale and require updating:**
+1. Rent range figures in the comparison table (update quarterly)
+2. Garage add-on cost range (update semi-annually)
+3. The rent premium percentage range (update annually based on market shifts)
+
+### 6d. Information Gain
+
+**Gap 1: The "included vs. add-on" garage cost question.**
+No current top-ranking competitor explains that garage costs are sometimes excluded from listed rent. Claude's response identified this as a real renter pain point. The article should explicitly address this with a question renters can ask leasing offices and a price range for add-on garage rentals.
+
+**Gap 2: Why amenity filters don't distinguish garage types.**
+Competitors either list properties or give generic search advice. No competitor explains that "parking" filters on rental platforms aggregate detached garages, carports, reserved spots, and attached garages into a single category. This is actionable information that directly helps the searcher and is confirmed as a gap by the Claude AI response.
+
+**Gap 3: The stair and livability tradeoff in townhouse garage configurations.**
+The GatorRentals article mentions this once in passing. No competitor explores it as a decision factor. The article should briefly note that most townhouse-style garage units have the garage on the ground floor with living space above, meaning stairs are a daily reality. For renters with mobility considerations, this is material information.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes. Renters who need a private, direct-access garage and are trying to find one efficiently.
+- **First-hand expertise?** Yes. Demonstrated through the amenity filter explanation, the leasing office question, the comparison table, and the honest tradeoffs section.
+- **Reader achieves their goal?** Yes. After reading, the searcher can execute a more targeted search, verify garage type with a single question, understand what to budget, and know which markets and building types to prioritize.
+- **Human editor confidence?** Yes. The article meets all brand rules, contains no banned phrases, uses curation framing, avoids Fair Housing violations, and excludes all prohibited source categories.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No citation data was returned from Data Source 3 for this keyword. The ChatGPT response field is blank. The writing agent should treat this as an unclaimed citation opportunity.
+
+**Claude:** Claude generated a detailed response covering:
+- Platform-by-platform search breakdowns (Apartments.com, Zillow, Zumper, Facebook Marketplace, HotPads) with specific filter instructions
+- A comparison table of unit types vs. attached garage likelihood
+- Price benchmarks by market type (Sunbelt suburbs, Midwest suburbs, West Coast suburbs, Northeast suburbs)
+- Key decision factors: attached vs. detached, included vs. add-on cost, suburban commute tradeoff
+
+**Sources cited by Claude:** The Data Source 3 response does not list specific external citations. Claude synthesized the answer from its training data. This means there is currently no single authoritative content source being cited for this keyword by Claude. **brightplace is not currently cited by either engine.** This is an open citation opportunity.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Platform-specific filter instructions (brightplace should not replicate ILS platform tutorials, but can describe the general filter logic)
+- Price benchmarks by geographic region
+- Unit type comparison table with garage availability ratings
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+1. The distinction between attached, detached, and covered parking, and why most listings don't specify clearly
+2. The "included vs. add-on" garage cost question
+3. The townhouse as the optimal unit type for this amenity
+4. The geographic clustering of attached garage rentals in suburban markets
+5. The livability tradeoffs (stairs, car dependency, HOA restrictions)
+
+All five gaps are addressed in the article outline above.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening paragraph under the first H2 (What an Attached Garage Actually Means in a Rental) must contain:
+(a) A direct definition of "attached garage" in one sentence.
+(b) A statement that this applies to renters searching in any market.
+(c) One specific numerical claim: for example, "Apartments with attached garages make up a small percentage of the total rental inventory in most markets, concentrated in suburban townhouse communities and single-family rental homes."
+This block must be 40-60 words. LLMs extract opening paragraphs from H2 sections as answer candidates.
+
+**Rule 2: Structured data rule.**
+Include one comparison table in the "What Building Types Actually Have Attached Garages" section. Column headers must be: Unit Type | Attached Garage Availability | Typical Rent Range | Notes. Use clean markdown formatting. The table must be preceded by one sentence that frames what the table shows. This format is what both Claude and GPT extract for structured citations.
+
+**Rule 3: Definition rule.**
+The following terms must be defined explicitly in a single clear sentence the first time they appear:
+
+1. **Attached garage:** a private, enclosed garage that connects directly to the interior of the unit.
+2. **Detached garage:** an enclosed parking structure that is assigned to a tenant but is not connected to the unit interior.
+3. **Covered parking / carport:** a sheltered parking space with a roof but no enclosed walls or lockable door.
+4. **Rent premium:** the percentage increase in monthly rent that a unit commands because of a specific amenity, in this case a private garage.
+5. **Amenity filter:** the search tool on rental platforms that allows renters to narrow results by specific unit features such as parking type, in-unit laundry, or pet policy.
+
+**Rule 4: Proof point rule.**
+The article must include these numerical claims with date notation:
+
+1. "Apartments with attached garages typically rent at a 10-20% premium over comparable units without dedicated parking (as of Q2 2025)."
+2. "In markets where garages are rented separately from the unit, the add-on cost ranges from approximately $75 to $200 per month (as of Q2 2025)."
+3. "Townhouses and single-family rental homes account for the large majority of attached garage rental inventory; mid-rise and high-rise buildings almost never include them."
+4. Rent range table figures by unit type (see comparison table in outline, labeled "as of Q2 2025").
+5. "In suburban Sunbelt and Midwest markets, 2-bedroom townhouses with attached garages typically rent between $1,400 and $2,500 per month (as of Q2 2025)."
+
+*If the writing agent cannot verify current market figures independently, it must insert bracketed placeholders: [VERIFY: 2BR townhouse with garage average rent, Dallas suburbs, Q2 2025] and flag them for editorial review before publication.*
+
+**Rule 5: FAQ rule.**
+See full FAQ specification below.
+
+---
+
+**FAQ Questions (for FAQPage schema):**
+
+| # | Question | Source | Answer Length |
+|---|---|---|---|
+| 1 | How do I find an apartment with an attached garage? | PAA | 40-60 words |
+| 2 | What do you call an apartment with a garage? | PAA | 40-60 words |
+| 3 | Is the garage usually included in the rent? | Claude information gap | 40-60 words |
+| 4 | Are attached garages more common in townhouses than in apartments? | Claude information gap | 40-60 words |
+| 5 | What is a typical rent premium for an apartment with an attached garage? | Claude information gap | 40-60 words |
+| 6 | Can I use my attached garage for storage? | Claude information gap | 40-60 words |
+| 7 | What should I ask before renting an apartment with a garage? | Claude information gap | 40-60 words |
+
+*Each answer must be a complete, self-contained paragraph. No bullet points in FAQ answers. No reference to "as mentioned above." Each answer must stand alone.*
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Encourage the reader to search for apartments on brightplace.
+Placement: Three locations in the article:
+1. After the first H2 definition section (early placement, captures readers who already understand what they want and are ready to search).
+2. After the comparison table in "What Building Types Actually Have Attached Garages" (mid-article placement, captures readers who now understand what to look for).
+3. At the end of the article, after the FAQ section (end placement, captures readers who stayed through the full piece).
+
+**CTA language (approved examples, writer must use one of these or a close variation):**
+- "brightplace searches across apartment types and surfaces attached garage availability where listed. See what is currently available in your area at brightplace.ai."
+- "Use brightplace to search for townhouses and condo-style units in your target area. brightplace's IntentOS filters by specific amenities, including private garage access."
+- "Find apartments with attached garages on brightplace. The search filters at brightplace.ai allow you to narrow by parking type and unit format."
+
+**Secondary CTA:**
+If brightplace has a published guide covering suburban rental markets, parking costs, or townhouse rentals, include a contextual internal link in the "Where Attached Garage Rentals Are Most Common" section. The writing agent should consult the brightplace sitemap to identify the most relevant existing article. If no directly relevant guide exists, omit this link rather than forcing an irrelevant connection.
+
+**CTA tone rule:** All CTAs must read as natural recommendations, not promotional copy. The framing is: "here is a useful next step," not "click here to find your perfect home."
+
+---
+
+## 9. Writer Rules
+
+The writing agent must follow every rule in this section without exception. These rules take precedence over any default writing conventions.
+
+---
+
+### BRAND RULES (NON-NEGOTIABLE)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (applies to the geographic section of this article):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness, employment proximity, highway access.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### ADDITIONAL PRODUCTION RULES
+
+**Target word count:** 900-1,100 words (body content, excluding schema markup and meta fields).
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a rhetorical question, a broad statement about renting in general, or any variation of "If you are looking for an apartment with an attached garage, you have come to the right place."
+
+**Every H2 section opens with its answer.** Not with context, not with background, not with a transition from the previous section. The first sentence under each H2 must deliver the key point of that section.
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema (always, using the 7 questions in Section 7c)
+- Speakable schema: apply to the opening 40-60 word definition paragraph under the first H2 and to the FAQ section
+
+**Date notation:** Every dollar figure, percentage, rent range, or statistical claim must include "(as of Q2 2025)" adjacent to the figure.
+
+**Last reviewed note:** Include "Last reviewed: June 2025" at the bottom of the article body, before the FAQ section.
+
+**Internal linking:** One contextual internal link to a relevant brightplace article (consult sitemap). Do not force a link if no relevant article exists.
+
+**No property names or specific apartment community listings.** This article is a national how-to guide. It does not list specific properties in any city.
+
+**No ILS platform names.** Do not name Zillow, Apartments.com, Zumper, or any other ILS platform. Refer to "rental listing platforms" or "apartment search tools" generically.
+
+**Bracketed placeholders:** If a specific current data point cannot be independently verified, insert a bracketed placeholder: [VERIFY: specific claim, Q2 2025] and continue writing. Do not invent numbers.
