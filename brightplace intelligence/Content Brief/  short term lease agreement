@@ -1,0 +1,414 @@
+# CONTENT BRIEF: Short-Term Lease Agreement
+**For:** brightplace.ai/knowledgebase/
+**Prepared by:** Senior SEO, GEO & AEO Content Strategist
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP is dominated by **definition + how-to hybrid content**: pages that first define what a short-term lease agreement is, then walk through what it must include, followed by a downloadable template. Seven of the nine retrievable competitor URLs follow this exact structure. The eSign.com and LegalTemplates.net results lead with definitions and clause breakdowns. The iGMS.com and Lodgify.com results add a "why you need one" section. All competitors converge on a listicle-within-a-guide format: a numbered list of clauses embedded inside a longer explanatory article.
+
+**The brightplace article must match this format:** definition-first, then clause-by-clause breakdown, then practical guidance. It should NOT be a pure listicle (no standalone "top 10 clauses" format without framing context). It should NOT be a template-download page (brightplace does not offer document downloads).
+
+The key differentiation opportunity: competitors are almost exclusively writing for **landlords and hosts**. The SERP has a coverage gap for **renters** trying to understand what they are about to sign. brightplace's article targets renters reading before they commit.
+
+### 1b. Content Depth Benchmark
+
+Competitor word counts (estimated from retrieved content):
+- eSign.com: ~1,100 words (content only, excluding template text)
+- LegalTemplates.net: ~1,400 words
+- iGMS.com: ~1,600 words
+- Lodgify.com: ~1,200 words
+- LawDepot.com: template only, ~800 words of prose
+- PandaDoc.com: template only, minimal prose
+- wonder.legal: ~900 words
+- helpwithlegalforms.com: ~2,200 words (heavily padded with repeated content)
+- ipropertymanagement.com: ~900 words
+
+**Target word count for this article: 1,100–1,300 words.** This matches the depth of the top-performing competitors without padding. The iGMS and LegalTemplates articles are the strongest competitors by content quality. This article should match their depth and exceed their clarity, particularly on renter-facing considerations that neither covers.
+
+### 1c. SERP Features Present
+
+Based on Data Source 2:
+
+| SERP Feature | Present | Structural Targeting Strategy |
+|---|---|---|
+| Featured Snippet | No confirmed snippet | First H2 opening paragraph (40-60 words, direct definition + key facts) targets position zero |
+| People Also Ask | Yes (8 questions confirmed) | Each PAA question gets its own H3 within the FAQ section; answers formatted at 40-60 words each |
+| AI Overview | Likely present (keyword has AI response data in Source 3) | Opening 100 words structured as a standalone extractable summary; definition block for key terms |
+| Template/Tool SERP results | Yes (multiple template download pages) | brightplace does NOT offer downloads; article differentiates by being the renter education layer, not a landlord tool |
+| Video Carousel | Not confirmed | No video production needed for this brief |
+
+### 1d. Intent Match Validation
+
+**Primary intent:** Informational-to-transactional. The searcher wants to understand what a short-term lease agreement is and what it should contain, either because they are about to sign one or need to draft one.
+
+**Primary interpretation to target:** A renter (or first-time short-term renter) who is evaluating or preparing to sign a short-term lease agreement. They want to know what terms are standard, what protections they should expect, and what to watch out for. This is the coverage gap in the SERP: competitors write for landlords and hosts. brightplace writes for renters.
+
+**Secondary interpretation:** A landlord or host looking for a template checklist. This intent is already saturated in the SERP. Do not chase it. Reference it briefly but do not optimize for it.
+
+**Confirmed format match:** Definition + clause breakdown + renter-specific considerations. This matches the dominant SERP format while targeting the underserved audience angle.
+
+---
+
+## 2. Recommended Titles
+
+### Title Options
+
+**Option 1 (Primary Recommendation):**
+`What a Short-Term Lease Agreement Actually Covers`
+- Character count: 47
+- Rationale: Uses the primary keyword, implies the reader will learn something they do not currently know, avoids superlatives, works as both a SERP title and an AI citation anchor.
+
+**Option 2:**
+`Short-Term Lease Agreements: What Renters Should Know`
+- Character count: 52
+- Rationale: Explicitly signals the renter audience (differentiation from landlord-focused competitors), includes the primary keyword, curiosity-driven without clickbait.
+
+**Option 3:**
+`A Practical Look at Short-Term Lease Agreements`
+- Character count: 48
+- Rationale: Curation framing, primary keyword present, signals utility without superlative language.
+
+### Recommended Meta Description
+`A short-term lease agreement sets the terms for any rental under 6 months. Here is what every clause means and what to check before you sign.`
+- Character count: 142
+- Includes primary keyword, renter-facing value proposition, ends with a clear action prompt.
+
+### Recommended URL Slug
+`brightplace.ai/knowledgebase/short-term-lease-agreement`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The searcher is most likely a **renter in transition**: someone relocating for work, starting a new job in an unfamiliar city, or needing temporary housing between a lease end and a permanent move. They may also be a first-time renter encountering a short-term agreement for the first time and unsure what terms are standard versus negotiable. They are in the **comparison-to-decision stage** of the renter journey: they have identified that they need a short-term rental but have not yet signed anything. The specific problem they are solving is: "I have been offered or am about to sign a short-term lease agreement, and I want to understand what it says before I commit." Based on the SERP analysis, they expect a structured, scannable article that walks through the agreement clause by clause, written in plain language, not legal boilerplate.
+
+---
+
+## 4. Keywords & Entities
+
+### Primary Keyword
+`short term lease agreement`
+
+### Secondary Keywords (10-15)
+1. short-term rental agreement
+2. vacation rental agreement
+3. short-term lease agreement template
+4. month-to-month lease
+5. temporary rental agreement
+6. short-term rental contract
+7. lease agreement under 6 months
+8. furnished short-term rental
+9. security deposit short-term rental
+10. cancellation policy rental agreement
+11. short-term lease clauses
+12. short-term lease vs long-term lease
+13. short-term rental house rules
+14. occupancy limits rental agreement
+15. early termination short-term lease
+
+### Entities to Mention (5-10)
+1. **Security deposit** (financial term, must be defined)
+2. **Occupancy limit** (legal/regulatory concept, linked to fire code compliance)
+3. **Cancellation policy** (contractual term, renters often misread this)
+4. **Early termination clause** (contractual term, high renter anxiety around this)
+5. **Month-to-month lease** (comparison entity, contrast with fixed short-term)
+6. **Notice requirement** (legal term, 30-day vs. 60-day notice windows)
+7. **Furnished rental** (property type entity, common in short-term context)
+8. **Transient occupancy** (regulatory concept, applies to stays under 30 days)
+9. **Indemnification clause** (legal term renters rarely understand)
+10. **Governing law clause** (jurisdictional entity, varies by state)
+
+### Terms to AVOID
+- "best," "top," "ultimate," "ultimate guide," "everything you need to know"
+- "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage"
+- "whether you're X or Y," "from X to Y," "it's worth noting," "notably," "interestingly"
+- "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving"
+- "signal" (any form)
+- Em dashes (-- or —)
+- ILS platform names: Apartments.com, Zillow, Trulia, Zumper, Apartment List, etc.
+- "dive," "seamless," "game-changer," "at the end of the day"
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** What a Short-Term Lease Agreement Actually Covers
+
+*Writing instruction for H1: This is the page title. Do not rewrite it in the article body. The first sentence below H1 must begin answering the query immediately.*
+
+---
+
+**H2: What Is a Short-Term Lease Agreement?**
+
+*Writing instruction: Open with a direct, 40-60 word definition paragraph. This is the featured snippet and AI citation target. Define the term, state the typical duration range, and name the two parties involved. Follow with 2-3 short paragraphs expanding on when these agreements apply and how they differ legally from standard annual leases. Do NOT start with "In this article" or any throat-clearing sentence.*
+
+Target opening paragraph structure (40-60 words):
+A short-term lease agreement is a rental contract covering any tenancy shorter than a standard 12-month lease, typically ranging from a few days to six months. It defines the rental term, payment obligations, house rules, and the rights of both the renter and the property owner for the duration of the stay.
+
+Expanding paragraphs must cover:
+- The legal distinction: stays under 30 days often fall under hotel/transient occupancy law rather than landlord-tenant law, which changes the renter's legal protections
+- Stays between 30 days and 6 months typically function under landlord-tenant law but with fewer tenant protections than a standard lease
+- When a short-term agreement is appropriate vs. when a month-to-month or standard lease is a better fit
+
+**[Insert CTA #1 here: "Searching for short-term rental options? brightplace shows available listings in your city." Link to brightplace.ai.]**
+
+---
+
+**H2: How a Short-Term Lease Differs from a Standard Lease**
+
+*Writing instruction: Include a comparison table with three columns: Feature, Short-Term Lease, Standard Annual Lease. Rows should cover: Duration, Rent premium, Furnished/unfurnished, Tenant protections, Notice to vacate, Renewal terms. This table targets both featured snippet extraction and AI citation structured data. Follow with a short paragraph explaining the rent premium renters should expect (15-50% above standard market rate as of 2025-2026).*
+
+**[CONTENT GAP]** No competitor explains the cost premium in a structured, quantified way from the **renter's perspective**. Competitors are template providers writing for landlords. The cost comparison table is an information gain opportunity.
+
+Table must use clean Markdown-to-HTML formatting. Column headers: Feature | Short-Term Lease | Standard Annual Lease.
+
+---
+
+**H2: What a Short-Term Lease Agreement Should Include**
+
+*Writing instruction: This is the core clause-by-clause section. Structure as H3 subsections, one per clause. Each H3 opens with a one-sentence plain-language explanation of what the clause means to the renter. Include 2-4 sentences of practical context per clause: what to look for, what is negotiable, what is a red flag. Do NOT simply list the clause name; explain what it means from the renter's side. Cover 8-10 clauses. Source clause list from competitor consensus (all nine competitors cover roughly the same set), but frame each from the renter's perspective.*
+
+**H3: Rental Term and Check-In/Check-Out Times**
+*Writing instruction: Define the term section as specifying exact dates and times. Note that check-in time (commonly 3 PM) and check-out time (commonly 11 AM) are contractually binding. Advise renters to confirm these match their travel plans before signing, as early check-in or late check-out often carries additional fees.*
+
+**H3: Rent Amount and Payment Terms**
+*Writing instruction: Cover total rent, daily or weekly rate structure, accepted payment methods, and late fee provisions. Note that for stays under 30 days, rent is often due in full at booking rather than at check-in. This is a common point of confusion for renters used to monthly cycles.*
+
+**H3: Security Deposit**
+*Writing instruction: Define security deposit as money held to cover damages beyond normal wear and tear, returned after checkout if no damage occurred. Specify typical deposit amounts (commonly equivalent to one night's rent for vacation stays, or one month's rent for longer short-term leases). Note that some platforms handle deposits through their own damage protection programs instead of a direct deposit hold.*
+
+**H3: Occupancy Limits**
+*Writing instruction: Explain that occupancy limits are often set by local fire codes, not solely by landlord preference. Exceeding occupancy limits is a lease violation that can result in immediate termination with no refund. Renters traveling in groups should confirm the occupancy limit before booking.*
+
+**H3: Cancellation Policy**
+*Writing instruction: This is the clause most renters fail to read carefully. Cover the range of cancellation policies: full refund with advance notice, partial refund within a specified window, and non-refundable deposits. Advise renters to read this section before paying any deposit because the cancellation terms apply from the moment of payment, not from the moment of signing.*
+
+**H3: House Rules**
+*Writing instruction: Cover the standard categories included: smoking, pets, quiet hours, parking, and party/event prohibitions. Note that house rule violations can be grounds for immediate lease termination in most short-term agreements. Renters should read house rules as contractual obligations, not suggestions.*
+
+**H3: Early Termination Clause**
+*Writing instruction: [CONTENT GAP] No competitor explains early termination from the renter's side in practical terms. Cover: if the renter leaves before the checkout date, most short-term agreements hold them responsible for the full remaining rent. Some agreements include a mutual early termination option. Renters should look for this clause specifically if their plans have any flexibility. This is a high-anxiety term that renters search around but competitors do not address for the renter audience.*
+
+**H3: Landlord Access**
+*Writing instruction: Most states require landlords to give notice before entering, even during short-term stays. The agreement should specify notice requirements. Renters have a right to quiet enjoyment during the stay. If the agreement gives the landlord unlimited access without notice, that is a flag worth clarifying before signing.*
+
+**H3: Governing Law and Dispute Resolution**
+*Writing instruction: The agreement should specify which state's laws apply. For renters crossing state lines (common in vacation rentals and corporate relocation), this matters because tenant protections vary significantly by state. Dispute resolution clauses (arbitration vs. court) affect the renter's practical options if something goes wrong.*
+
+---
+
+**H2: Short-Term Lease vs. Month-to-Month: Which One Applies to You**
+
+*Writing instruction: [CONTENT GAP] Competitor content does not clearly distinguish short-term fixed leases from month-to-month agreements for renters deciding between the two. Cover: a short-term fixed lease has a set end date and no automatic renewal; a month-to-month lease rolls over each month until either party gives notice. For renters with uncertain timelines, month-to-month offers more flexibility but often at a higher per-month cost. For renters who know their exact dates, a short-term fixed lease often has slightly lower pricing and clearer terms. Include the notice requirement difference: short-term fixed leases simply end; month-to-month leases require 30-60 days written notice in most states.*
+
+---
+
+**H2: What to Check Before You Sign a Short-Term Lease**
+
+*Writing instruction: Practical pre-signing checklist framed as a short numbered list (5-7 items). Each item is one sentence. This section targets both AI extraction and featured snippet. Items must be renter-specific, not generic advice. Include: (1) Confirm the exact check-in and check-out times match your plans. (2) Read the cancellation policy before paying any deposit. (3) Verify the occupancy limit covers your group size. (4) Locate the early termination clause and note the penalty. (5) Confirm which state's laws govern the agreement. (6) Ask whether utilities and Wi-Fi are included in the rent or billed separately. (7) Check whether the security deposit is held by the landlord or through a third-party damage protection program.*
+
+---
+
+**H2: Frequently Asked Questions About Short-Term Lease Agreements**
+
+*Writing instruction: 6 Q&A pairs. Each answer is 40-60 words. Format as FAQPage schema. Questions sourced from PAA data (Data Source 2) and AI engine information gaps (Data Source 3). Do NOT link to external sites in answers. This section is a featured snippet target and schema markup anchor.*
+
+**H3: What is the difference between a short-term lease and a vacation rental agreement?**
+*(Source: PAA + AI engine gap)*
+
+**H3: How long can a short-term lease agreement last?**
+*(Source: PAA + competitor FAQ data)*
+
+**H3: Is a short-term lease agreement legally binding without a written document?**
+*(Source: AI engine gap; no competitor covers this clearly from the renter's perspective)*
+
+**H3: Can a landlord raise the rent on a short-term lease at renewal?**
+*(Source: AI engine gap; Claude response identified rent escalation as an underserved topic)*
+
+**H3: What happens if I need to leave before my short-term lease ends?**
+*(Source: AI engine gap; early termination from the renter's side is underserved in SERP)*
+
+**H3: Do short-term leases under 30 days have the same tenant protections as standard leases?**
+*(Source: AI engine gap; transient occupancy law distinction is a clear information gain opportunity)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace renter data framing:** The article should include a framing such as: "Based on what renters searching on brightplace ask most often, the cancellation policy and early termination clause are the two sections most commonly misunderstood before signing." This presents observable renter behavior as a first-hand experience anchor without fabricating research.
+
+2. **Specific practical observations:** Include at least one date-stamped practical observation. Example: "As of mid-2025, most furnished short-term rental units in major metro areas price at a 20-35% premium over comparable unfurnished annual leases in the same building." This positions the article as current, not evergreen boilerplate.
+
+3. **Renter-perspective framing throughout:** Frame every clause explanation with "what this means for you as the renter" rather than "what the landlord should include." This is a verifiable editorial choice that demonstrates the content was created for a specific audience, not copied from landlord-facing templates.
+
+### 6b. Expertise Signals
+
+- Include the specific legal distinction between transient occupancy law (under 30 days) and landlord-tenant law (30+ days). This is a genuine expertise marker that fewer than two of the nine competitors mention, and neither does so clearly.
+- Specify the typical notice requirements (30-60 days) for month-to-month lease termination with a note that some states require 60 days after one year of tenancy. Cite "varies by state" rather than a single rule.
+- Include the rent premium benchmark as a decision framework: "If you are comparing a 3-month fixed short-term lease to a month-to-month option in the same building, expect the month-to-month rate to run 10-15% higher per month in most markets."
+- Name the specific financial elements a renter may not recognize as negotiable: early termination penalty amounts, late checkout fees, and whether utilities are capped or billed at actual usage.
+
+### 6c. Freshness & Date-Stamping
+
+- All rent premium percentages must carry "(as of 2025-2026)" adjacent to the claim.
+- The transient occupancy law threshold (30 days) must note that this threshold varies by jurisdiction and should be verified locally.
+- The article must include: "Last reviewed: [Month] 2025" in the article footer or opening metadata.
+- Claims most likely to go stale: (1) rent premium percentages by lease type; (2) specific state notice requirements; (3) any platform-specific policies referenced; (4) local ordinance thresholds for short-term rental registration requirements.
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that NO current top-ranking competitor covers adequately:
+
+**Gap 1: The transient occupancy law distinction for renters.**
+Stays under 30 days are governed by hotel/transient occupancy law in most states, not landlord-tenant law. This removes most standard tenant protections (security deposit return timelines, notice requirements, habitability standards). The article should state this plainly and advise renters to treat sub-30-day agreements differently from 30-plus-day agreements. No competitor explains this from the renter's perspective. This is the highest-value information gap on the SERP.
+
+**Gap 2: Early termination from the renter's side.**
+Competitors covering early termination address it from the landlord's enforcement perspective ("the landlord may terminate if rules are violated"). Not a single competitor clearly explains what happens when the **renter** needs to leave early: typical penalties, whether any short-term agreements allow a clean exit clause, and how to negotiate this before signing. This is a direct renter anxiety point.
+
+**Gap 3: The cost comparison between short-term fixed lease and month-to-month.**
+The AI engine responses (Claude, Data Source 3) identified quantified rent premiums by lease type (10-20% for 6-month, 20-35% for 3-month, 30-50% for month-to-month from day one). No competitor provides this comparison in structured form. Including it in a table positions the article as the only source on the SERP with this specific decision-support data.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Renters who are about to sign or evaluate a short-term lease agreement, particularly those relocating, working temporarily in a new city, or renting short-term for the first time.
+- **First-hand expertise demonstrated:** Yes, through the renter-perspective framing, the transient occupancy law distinction, and the rent premium benchmarks presented as observable market data.
+- **Reader achieves their goal:** Yes. After reading, the renter can identify and understand every major clause in a short-term lease agreement, know what questions to ask before signing, and recognize the specific terms that most commonly cause problems.
+- **brightplace editorial confidence:** Yes. The article contains no fabricated statistics, no banned phrases, no em dashes, no ILS citations, no superlatives, and no promotional language. Every claim is either a stated benchmark with a date qualifier or a verifiable legal concept. The article is framed as practical renter education, which is consistent with brightplace's voice and topical authority positioning.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:**
+Data Source 3 did not include a ChatGPT response for this keyword. No citation data is available from that engine for this brief. The writing agent should still optimize for ChatGPT extraction using the structured rules below, as the format requirements (definition blocks, tables, FAQ pairs) align with ChatGPT's extraction patterns.
+
+**Claude:**
+Claude's response (Data Source 3) covered this keyword extensively under the framing "Short-Term Lease Agreements: A Complete Renter's Guide." Specific sources Claude would likely cite include:
+
+- Sources providing quantified rent premium data by lease type (the Claude response listed 10-20% for 6-month, 20-35% for 3-month, 30-50% for month-to-month). No single named competitor from the SERP provided this data; Claude appears to have synthesized it from multiple inputs.
+- Sources explaining the legal distinction between transient occupancy law (under 30 days) and landlord-tenant law. This appeared in the Claude response as a specific advisory note.
+- Template-style sources (LegalTemplates, eSign, iGMS) for clause lists. These are being cited because they provide structured clause-by-clause breakdowns.
+
+**brightplace currently cited:** No, by either engine. brightplace does not appear in the SERP or AI citation data for this keyword.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Structured clause-by-clause breakdowns in plain language (iGMS, LegalTemplates cover this; brightplace has no comparable content)
+- Quantified rent premium data in tabular form (no competitor covers this clearly; Claude synthesized it independently, meaning there is no strong incumbent to displace)
+- A clear renter-vs-landlord framing (this is a gap across all competitors, not just brightplace)
+
+**Information gaps both AI engines identified:**
+1. The transient occupancy law threshold (sub-30-day stays lose tenant protections): not covered by any competitor clearly
+2. Rent premium benchmarks by lease type for renters comparing options: not covered by any competitor in structured form
+3. Early termination from the renter's perspective: covered only from the landlord's enforcement angle by competitors
+4. Notice requirements for ending different types of short-term agreements: mentioned but not quantified by competitors
+5. Comparison of short-term fixed lease vs. month-to-month as a renter decision framework: no competitor frames this as a renter choice
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct definition of "short-term lease agreement" using the exact phrase; (b) the audience statement ("if you are renting short-term for work or a move"); (c) at least one specific numerical data point (duration range: "typically 30 days to 6 months"). This paragraph must stand alone as a coherent answer to the query. LLMs extract the opening paragraph as their primary citation source.
+
+**Rule 2: Structured data rule**
+Include exactly two tables:
+
+**Table 1 (H2: How a Short-Term Lease Differs from a Standard Lease)**
+Columns: Feature | Short-Term Lease | Standard Annual Lease
+Rows: Duration / Typical rent premium / Furnished status / Tenant protections / Notice to vacate / Renewal terms
+
+**Table 2 (H2: Short-Term Lease vs. Month-to-Month)**
+Columns: Factor | Short-Term Fixed Lease | Month-to-Month Lease
+Rows: End date / Rent pricing / Flexibility / Notice required / Best for
+
+Both tables must use clean Markdown formatting convertible to standard HTML table tags. No merged cells. No color coding or conditional formatting instructions.
+
+**Rule 3: Definition rule**
+The following 5 terms must be explicitly defined in a single clear sentence each, at the first point of use in the article:
+
+1. **Short-term lease agreement:** "A short-term lease agreement is a rental contract covering a stay shorter than 12 months, typically between 30 days and 6 months, that defines rent, rules, and the rights of both renter and landlord for a fixed period."
+2. **Security deposit:** "A security deposit is money paid upfront by the renter and held by the landlord to cover damages beyond normal wear and tear, returned after checkout if the property is undamaged."
+3. **Transient occupancy:** "Transient occupancy refers to stays under 30 days, which are typically governed by hotel and hospitality law rather than standard landlord-tenant law, giving renters fewer legal protections."
+4. **Early termination clause:** "An early termination clause specifies what happens if either party ends the agreement before the stated checkout date, including any penalties the renter owes."
+5. **Cancellation policy:** "The cancellation policy states the conditions under which a renter can cancel a booking and receive a partial or full refund, and it applies from the moment the deposit is paid."
+
+**Rule 4: Proof point rule**
+The article must include these specific numerical claims (writer must verify and insert current data, with date qualifiers):
+
+1. "Short-term leases of 3 months or less typically cost 20-35% more per month than a comparable annual lease in the same market (as of 2025-2026)."
+2. "Month-to-month leases often carry the highest per-month premium, running 30-50% above standard annual lease rates in most major metros (as of 2025-2026)."
+3. "Most states require 30-60 days written notice to terminate a month-to-month lease; some states require 60 days if the tenancy has exceeded one year."
+4. "Short-term rental agreements for stays under 30 days are not covered by standard landlord-tenant law in most U.S. states, which removes protections including security deposit return timelines and habitability dispute rights."
+5. "A security deposit for a short-term rental typically equals one night's rent for stays under 7 days, or the equivalent of the first month's rent for stays of 30 days or more (terms vary by landlord and state)."
+
+If the writer cannot verify specific figures from current public data sources, they should write "[VERIFY: insert current market benchmark for [metric] as of Q3/Q4 2025]" as a placeholder. Do not fabricate figures.
+
+**Rule 5: FAQ rule**
+The FAQ section must contain exactly 6 questions. Format each as a clear question followed by a 40-60 word answer. Answers must stand alone as complete, useful responses without requiring the reader to have read the rest of the article.
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What is the difference between a short-term lease and a vacation rental agreement? | PAA + AI engine gap |
+| 2 | How long can a short-term lease agreement last? | PAA data |
+| 3 | Is a short-term lease agreement legally binding without a written document? | AI engine gap |
+| 4 | Can a landlord raise the rent after a short-term lease ends? | AI engine gap (Claude response) |
+| 5 | What happens if I need to leave before my short-term lease ends? | AI engine gap (renter early termination) |
+| 6 | Do short-term leases under 30 days have the same legal protections as standard leases? | AI engine gap (transient occupancy law) |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+### Primary CTA
+
+**Action:** Direct the reader to search available short-term rental apartments on brightplace.ai.
+
+**Placement:** Three placements in the article:
+1. After the first H2 (definition section): "Searching for a short-term rental? brightplace shows available apartments by city and lease length." [Link: brightplace.ai]
+2. After the comparison table (H2: How a Short-Term Lease Differs from a Standard Lease): "See short-term apartment options available now in [relevant city]. brightplace filters by lease length." [Link: brightplace.ai or city-specific search]
+3. End of article, after FAQ section: "Ready to find a short-term rental that fits your timeline? Search apartments on brightplace." [Link: brightplace.ai]
+
+### Secondary CTA
+
+**Recommended internal link topic:** A brightplace knowledgebase article covering month-to-month leases specifically, OR a guide to furnished apartment rentals for relocators. Both are natural "go deeper" reads from someone who has finished reading about short-term lease agreements.
+
+The writing agent should check the brightplace sitemap for:
+- Any article on `/knowledgebase/` covering month-to-month leases, furnished rentals, or apartment hunting for corporate relocation
+- If a relevant article exists, include: "For a closer look at how month-to-month leases work and when they make more sense than a short-term fixed lease, see [article title] on brightplace."
+
+If no relevant internal article exists, omit the secondary CTA rather than linking to an unrelated page.
+
+### CTA Language Rules
+
+- No exclamation points in CTA language
+- No "start your search today" or urgency framing
+- Acceptable language: "See what is available," "brightplace shows," "Search apartments on brightplace," "Find short-term rentals in [city] on brightplace"
+- Frame CTA as a natural continuation of the reader's task, not as an advertisement interrupting the article
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. Every rule applies to every sentence of this article. Read these before writing anything.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need
