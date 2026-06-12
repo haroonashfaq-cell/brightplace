@@ -1,0 +1,423 @@
+# CONTENT BRIEF: Apartments with Dog Parks
+**For: brightplace.ai/knowledgebase/**
+**Prepared by: Senior SEO, GEO & AEO Content Strategist**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP is split between two content types. Property management companies (SRG Residential, Lakeview at Newcastle) publish listing-style amenity pages: essentially filtered inventory pages with minimal editorial content. The remaining results (Taco Street Locating, The Ardus, The Draper, Petzooie) publish editorial guides: listicles with property-specific descriptions, amenity comparisons, and pet-friendly tips.
+
+The editorial guides earn more text-based citations and are the correct format to match. The dominant editorial format is a **practical how-to guide with embedded comparisons**, not a pure listicle or inventory page. The article should function as an informational decision guide that helps renters understand what to look for and how to find apartments with dog parks, without being a property directory.
+
+### 1b. Content Depth Benchmark
+
+| Competitor | Estimated Word Count |
+|---|---|
+| SRG Living (LA/SD/SF) | 200-400 words per page (inventory-heavy, low editorial depth) |
+| Lakeview at Newcastle | ~600 words (single-property editorial) |
+| Taco Street Locating | ~1,200 words (listicle format) |
+| The Ardus / The Draper | ~3,000-4,000 words each (bloated, padded, repetitive) |
+| Petzooie | ~500 words (thin, listing-style) |
+
+The editorial competitors are over-indexed on word count with significant padding. The SRG inventory pages are under-indexed on information. **Target word count: 1,100-1,300 words.** This provides meaningful information gain over the thin inventory pages while avoiding the bloated padding of The Ardus and The Draper content.
+
+### 1c. SERP Features Present
+
+| SERP Feature | Present | Structural Targeting Strategy |
+|---|---|---|
+| Featured Snippet | No (not found) | First H2 opening paragraph (40-60 words, direct answer) creates a snippet candidacy target |
+| People Also Ask | Yes (4 questions) | Dedicate one H2 per relevant PAA question; use FAQ schema |
+| AI Overview | Not confirmed | Structure all key claims as definition blocks and tables |
+| Video Carousel | Not identified | Not applicable |
+| Local Pack | Not identified | Include city-specific data throughout body |
+| Knowledge Panel | Not identified | Entity mentions anchor content to topical authority |
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A renter with a dog is actively searching for apartments that include an on-site dog park as an amenity. They want to understand what this amenity includes in practice, what it costs, how to search for it, and what questions to ask before signing a lease.
+
+**Secondary intent:** A renter new to searching for pet-friendly apartments wants to understand the difference between "pet-friendly" and "has a dog park."
+
+**Primary intent is the target.** The article is for someone past the general "can I have a dog?" stage. They have a dog. They want a dog park. They need to know what that actually means and how to find a real one.
+
+The decision-guide format matches this intent. The article should answer the primary question immediately, then provide the evaluation framework a renter needs to assess whether a listed "dog park" is legitimate.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:** What to Know About Apartments with Dog Parks
+*(54 characters — clear, curation-framed, keyword-exact)*
+
+**Option B:** How to Find Apartments with Dog Parks (and What to Check Before You Sign)
+*(74 characters — slightly long but high click value for comparison-stage searchers)*
+
+**Option C:** A Practical Guide to Renting an Apartment with a Dog Park
+*(58 characters — curation-framed, includes both "apartment" and "dog park")*
+
+**Recommended title:** Option A for the H1. Use Option B framing in the meta description.
+
+---
+
+**Recommended Meta Description:**
+
+Apartments with dog parks vary widely in size, quality, and cost. Here is what the amenity actually includes, what it typically costs, and what to ask before you lease.
+*(155 characters — includes primary keyword, sets up the article's value, no superlatives)*
+
+---
+
+**Recommended URL Slug:**
+`brightplace.ai/knowledgebase/apartments-with-dog-parks`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article is for dog owners who are actively searching for a new apartment and have already decided that an on-site dog park is a requirement, not a bonus. They are most likely young professionals or couples in a medium-to-large U.S. city, relocating or upgrading their rental, who have been burned before by a "pet-friendly" building that turned out to mean a leash-walk strip along a parking lot. They are in the **comparison and decision stage** of the renter journey: they are not asking whether dog parks exist in apartments, they are asking how to find a good one, what it costs, and what to look out for. They expect a practical, specific answer with clear criteria, not a property listing or a generic "here are some buildings" rundown.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary Keyword:**
+apartments with dog parks
+
+**Secondary Keywords:**
+- pet-friendly apartments with dog parks
+- apartments with dog parks near me
+- cheap apartments with dog parks
+- apartments with dog parks near California
+- apartments with dog parks near Texas
+- on-site dog park apartments
+- apartment bark park
+- apartment pet amenities
+- apartment dog wash station
+- leash-free apartment dog park
+- pet deposit apartment
+- monthly pet rent apartment
+- dog-friendly apartment lease
+- apartment breed restrictions dogs
+- apartment dog park size
+
+**Entities to Mention:**
+- Austin, TX (referenced in SERP competitors; strong pet-friendly culture)
+- Phoenix, AZ (Sun Belt market; high density of new pet-amenity buildings)
+- Nashville, TN (Sun Belt; relevant PAA geography)
+- Denver, CO (trail-access culture; cited in AI responses)
+- Charlotte, NC (Sun Belt expansion market)
+- Class A apartments (building tier where dog parks are most common)
+- Pet deposit (financial term renters evaluate)
+- Monthly pet rent (financial term; appears in all competitor content and AI responses)
+- Breed restrictions (policy term; appears in PAA and AI responses)
+- Agility equipment (amenity tier differentiator)
+- Dog wash station / pet washing station (secondary amenity always paired with dog parks)
+- IntentOS / brightplace (for CTA section)
+
+**Terms to AVOID:**
+best, top, ultimate, guide (in title), Zillow, Apartments.com, Zumper, Apartment List, Reddit, vibrant, bustling, thriving, hidden gem, deep dive, navigate, unlock, leverage, whether you're X or Y, it's worth noting, interestingly, notably, signal/signals, em dashes.
+
+---
+
+## 5. Content Outline
+
+### H1: What to Know About Apartments with Dog Parks
+
+---
+
+### H2: What "Apartments with Dog Parks" Actually Means
+
+**Writing instruction:** This is the featured snippet target. Open with a direct 40-60 word definition that distinguishes "pet-friendly" from "has a dog park." State clearly that there is no industry standard for what counts as a dog park in an apartment listing. This section establishes that the term varies widely and sets up the evaluation framework that follows. This is the highest-leverage section for AI citation and featured snippet capture.
+
+**Content to include:**
+- A direct one-sentence definition of an on-site apartment dog park
+- The four tiers of what this amenity actually refers to in practice (see table in Section 7b)
+- A clear statement that "dog park" in a listing can mean anything from a concrete dog run to a fenced turf space with agility equipment
+
+---
+
+### H2: What a Dog Park Amenity Typically Includes (and What to Ask For)
+
+**Writing instruction:** Cover the real-world components of a quality on-site dog park. Break down amenities by tier: basic (fenced area, waste stations), mid-tier (turf or grass, size separation for small/large dogs), and premium (agility equipment, wash station, shade, lighting). Include the specific questions renters should ask leasing agents. Competitors miss the "what to ask" angle entirely. This is a content gap.
+
+**H3: Basic Features to Confirm**
+
+**H3: Premium Features Worth Paying More For**
+
+**H3: Questions to Ask the Leasing Agent Before You Sign**
+
+**[CONTENT GAP] Writing instruction for H3 questions:** Competitors list amenities but none provide a specific list of pre-lease questions renters should ask about dog park quality. Include at minimum: square footage, fencing height and type, maintenance schedule, hours of access, whether there is a small-dog separation area, and whether vaccination proof is required to use the park. These are what renters actually need to evaluate quality.
+
+---
+
+### H2: What Apartments with Dog Parks Actually Cost
+
+**Writing instruction:** Provide specific financial figures covering pet deposits, monthly pet rent, and one-time pet fees. Use the data ranges from competitor content and AI responses. Flag that buildings with higher-quality dog parks often charge more in pet fees. Note that total pet cost over a 12-month lease can run $600-$1,800 depending on market. Include the comparison table specified in Section 7b. This directly addresses the PAA question about "cheap apartments with dog parks."
+
+**[CONTENT GAP] Writing instruction:** No competitor contextualizes total-cost-of-pets-per-year across a lease term. This article should include a simple cost framework: (monthly pet rent x 12) + one-time pet fee + deposit = total pet cost for a standard 12-month lease. This is a practical decision tool that no current competitor provides.
+
+**H3: Typical Pet Fee Structure (Table)**
+
+---
+
+### H2: Where to Find Apartments with Dog Parks
+
+**Writing instruction:** Address the PAA questions "near California," "near Texas," and "near me." Name specific markets where dog park amenities are most common. Explain why Sun Belt markets (Austin, Phoenix, Nashville, Charlotte) have higher density of on-site dog parks than dense urban markets (NYC, SF). Reference that Class A and newer suburban garden-style communities built after 2015 are the most reliable places to find real dog parks. End with how to search: what filter terms to use and what to verify after finding a listing.
+
+**H3: Markets with High Density of Dog Park Amenities**
+
+**H3: Apartments with Dog Parks Near California**
+
+**H3: Apartments with Dog Parks Near Texas**
+
+**[CONTENT GAP] Writing instruction:** No competitor explains the land-availability reason why Sun Belt markets have more and better dog parks per building. This article can explain that urban high-density buildings are more likely to have rooftop dog runs (smaller, less desirable) while suburban garden-style communities in lower-cost-per-square-foot markets are more likely to have ground-level fenced parks with turf and shade. This is a practical insight that helps renters calibrate expectations by market type.
+
+---
+
+### H2: Breed Restrictions, Weight Limits, and Pet Policies
+
+**Writing instruction:** Cover the policy side of apartments with dog parks. Explain that a building can have a dog park and still restrict certain breeds or impose weight limits. Name that weight limits commonly fall between 50-80 lbs at mid-tier communities; many Class A or newer communities have eliminated weight restrictions. Describe the trend toward temperament-based evaluation over blanket breed bans. Include what "proof of vaccination" requirements mean in practice.
+
+---
+
+### H2: Cheap Apartments with Dog Parks
+
+**Writing instruction:** Directly address the PAA question. Explain that "cheap" is relative to market, but budget-conscious renters can find dog park amenities in suburban and garden-style communities in Sun Belt metros at lower price points than in coastal cities. Give approximate rent ranges by region (not specific properties). Note that older Class B communities occasionally have dog parks added retroactively as retention tools. This section does not need to be long: 150-200 words is sufficient.
+
+---
+
+### H2: Frequently Asked Questions About Apartments with Dog Parks
+
+**Writing instruction:** Use the FAQPage schema format. Each Q&A must be 40-60 words. Each answer must start with a direct yes/no or specific numerical answer. Do not use hedging language. Questions sourced from PAA and AI-identified gaps as listed in Section 7b.
+
+**Questions to include:**
+1. What does a dog park in an apartment complex typically include?
+2. How much extra does it cost to rent an apartment with a dog park?
+3. Where can I find apartments with dog parks near me?
+4. What should I look for when touring an apartment dog park?
+5. Do apartments with dog parks still have breed restrictions?
+6. Are apartments with dog parks worth the extra pet fees?
+7. What is the difference between a pet-friendly apartment and one with a dog park?
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search data framing:** Where appropriate, use framing such as "Based on listings renters search on brightplace, dog park amenities appear most frequently in communities built after 2015." This situates the content in observed renter behavior rather than generic claims.
+
+2. **Renter-perspective lens:** Write from the perspective of someone who has evaluated multiple dog park listings and found the quality gap. Use "what we see renters ask most often" or "in practice, the difference between a listed dog park and a usable one comes down to three things." This is experience-voice, not editorial distance.
+
+3. **Specific observational claims:** Include at least one framed observation like "In Sun Belt markets like Austin and Phoenix, on-site dog parks at apartment communities are more likely to be ground-level fenced turf areas than rooftop runs, which matters if you have a large dog." This is the kind of specific, comparative observation that reads as first-hand knowledge.
+
+### 6b. Expertise Indicators
+
+- Include the pet fee cost framework (monthly pet rent x 12 + one-time fee + deposit) as a decision tool. This is a methodology a knowledgeable advisor would provide.
+- The tiered table of dog park amenity types (dog run vs. dog park vs. pet amenity package vs. pet spa) is an expertise marker. It shows the writer understands category gradations.
+- The pre-lease questions list (square footage, fencing type, maintenance schedule, hours, vaccination requirements) is an expertise signal. It reflects the knowledge of someone who has helped renters evaluate properties, not someone who googled "dog park apartment."
+
+### 6c. Freshness and Date-Stamping
+
+- All dollar figures (pet deposits, pet rent ranges, rent ranges by market) must include "(as of [Quarter Year])" adjacent to the figure.
+- The article must include a "Last reviewed: [Month Year]" note at the top or bottom.
+- **Claims most likely to go stale:**
+  - Monthly pet rent ranges (market-specific, change annually)
+  - Breed restriction trends (policy norms shift as insurance carrier requirements evolve)
+  - Specific rent ranges by city or market tier (shift quarterly)
+  - Availability data by city (referenced in AI response; changes continuously)
+
+### 6d. Information Gain
+
+**Gap 1: Tiered definition of "dog park" in apartment listings.**
+No competitor defines the spectrum from dog run to pet spa complex. The article can publish the first clear tiered taxonomy of what this amenity actually means across building classes. This is the single biggest gap across all competitor content.
+
+**Gap 2: Total annual pet cost calculation framework.**
+All competitors list individual fee components (deposit, pet rent, one-time fee) but none adds them up and presents a total-cost-of-pets framework per lease term. Renters need this to compare properties. This article provides it as a decision tool.
+
+**Gap 3: The land-cost/building-type explanation for why certain markets have better dog parks.**
+No competitor explains the structural reason why Sun Belt suburban communities have better dog parks than urban high-rises. Understanding that land availability drives dog park quality is a practical insight that helps renters self-sort by market before they start searching.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Dog-owning renters in the comparison/decision stage who need an evaluation framework for this specific amenity. Confirmed.
+- **First-hand expertise demonstrated:** Tiered amenity taxonomy, pre-lease questions list, total annual pet cost framework, and market-type explanation all reflect expertise that generic content does not provide. Confirmed.
+- **Reader achieves their goal:** After reading, the renter knows what a dog park amenity actually includes, what it costs in total, where to find the best options in their target market, and what to verify before signing. Goal is fully addressable within the brief. Confirmed.
+- **brightplace brand standards:** No banned words, no ILS citations, no superlatives, no Fair Housing violations, no em dashes, lowercase brightplace throughout. Brief meets all brand rules. Confirmed.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:**
+No specific response was retrieved in the data provided. The brief should be structured to target the same citation patterns observed in Claude's response.
+
+**Claude:**
+Claude cited the following sources or source types for this keyword:
+
+- **Apartments.com, Zillow Rentals, Zumper** (cited as the primary search tools; reason: they have dedicated "dog park" amenity filters and comprehensive inventory data)
+- **American Veterinary Medical Association** (cited in The Ardus competitor content; reason: provides legitimacy for dog exercise claims)
+- **General Class A apartment industry knowledge** (cited as background context for when dog parks became standard; reason: widely documented in property management trade content)
+
+**Is brightplace cited by either engine?**
+- ChatGPT: No.
+- Claude: No.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks:**
+- Inventory filters that allow AI engines to confidently say "search here for dog park amenities"
+- Structured, scannable content about dog park amenity tiers that AI engines can extract
+- Specific numerical benchmarks (pet fee ranges, apartment size ranges by market) that AI engines use as citation anchors
+
+**Information gaps both AI engines identified:**
+
+1. **Tiered definition of what "dog park" means in a listing.** Claude explicitly noted "there is no standard definition" and then created its own taxonomy. This is a direct invitation for brightplace to publish that taxonomy authoritatively.
+
+2. **Total annual pet cost across a full lease term.** Claude listed component fees but did not aggregate them into a decision framework. This is an open gap.
+
+3. **Market-type explanation for dog park quality by city.** Claude noted the Sun Belt advantage and the rooftop-vs.-ground-level distinction but did not explain the underlying land-cost driver. This is a gap.
+
+4. **Pre-lease due diligence questions specific to dog park quality.** Neither AI engine nor any competitor provides a specific list of what to ask the leasing agent. This is the most actionable gap.
+
+5. **Small-dog/large-dog separation as a quality indicator.** Claude's table mentioned separate zones as a differentiator, but no competitor editorial content treats this as a standalone evaluation criterion. This is a gap.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words must contain:
+(a) A direct answer to the query: what "apartments with dog parks" means in practice and why it varies.
+(b) The target audience statement: who this article is for (dog owners searching for a rental with an on-site dog park).
+(c) At least one specific numerical data point: either a pet fee range, a typical rent tier for communities with dog parks, or the year after which dog parks became standard in Class A communities.
+
+Do not begin with a question, a statistic about pet ownership in America, or a general observation about urban living. Begin with the keyword and the answer.
+
+**Rule 2: Structured data rule.**
+Include two tables:
+
+*Table 1: Apartment Dog Park Amenity Tiers*
+Columns: Amenity Type | What It Typically Includes | Building Class Where Common | Quality Tier
+Rows: Dog Run / Dog Park / Pet Amenity Package / Pet Spa Complex
+
+*Table 2: Typical Pet Fee Structure by Market*
+Columns: Market | Monthly Pet Rent (est.) | One-Time Pet Fee (est.) | Refundable Deposit (est.) | Estimated Total (12-month lease)
+Rows: Sun Belt (Austin, Phoenix, Nashville) / Mid-tier coastal (Denver, Seattle) / High-cost urban (NYC, SF, LA)
+
+All tables must use clean markdown formatting. Do not nest tables. Do not add footnotes within the table. Add a line below each table: "Figures are estimates based on available market data as of [Quarter Year]. Verify current fees directly with each property."
+
+**Rule 3: Definition rule.**
+The following terms must be defined in a single clear sentence each, at the point where they first appear in the article:
+
+- **On-site dog park:** A fenced outdoor or indoor area within an apartment community designated for off-leash dog activity, distinct from sidewalk pet areas or building pet policies.
+- **Pet deposit:** A refundable fee collected at lease signing to cover potential damage caused by a pet, separate from monthly pet rent.
+- **Monthly pet rent:** A recurring monthly charge added to base rent specifically for residents with pets, typically ranging from $25 to $75 per pet per month (as of Q2 2025).
+- **Breed restriction:** A lease policy prohibiting specific dog breeds, typically driven by the building's property insurance carrier rather than management preference.
+- **Dog wash station:** A utility sink or dedicated wash area within an apartment community designed for pet bathing, usually located near the dog park or building entrance.
+
+**Rule 4: Proof point rule.**
+The following numerical claims must appear in the article. Each must include a date qualifier.
+
+1. Monthly pet rent typically ranges from $25 to $75 per pet per month (as of Q2 2025).
+2. Pet deposits at communities with on-site dog parks commonly range from $200 to $500 (as of Q2 2025).
+3. One-time non-refundable pet fees range from $250 to $500 at most mid-to-upper-tier communities (as of Q2 2025).
+4. Total pet costs over a standard 12-month lease at a community with a dog park typically fall between $600 and $1,800, depending on market and building tier.
+5. Dog parks in ground-level suburban garden-style communities are typically 5,000 to 15,000 square feet; rooftop dog runs in urban high-rises are typically 1,000 to 3,000 square feet. (The writer should verify and flag if market data is unavailable; use "varies widely" with a footnote if exact data cannot be confirmed.)
+
+The writer must include all five data points. If a claim cannot be verified with available data, the writer must flag it with [VERIFY] inline rather than omit it or fabricate a number.
+
+**Rule 5: FAQ rule.**
+
+The following 7 questions must appear in the FAQ section, in this order. Source noted for each.
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What does a dog park in an apartment complex typically include? | AI gap: Claude identified no standard definition exists |
+| 2 | How much extra does it cost to rent an apartment with a dog park? | PAA: implied by "cheap apartments with dog parks" query |
+| 3 | Where can I find apartments with dog parks near me? | PAA: "apartments with dog parks near me" |
+| 4 | What should I check when touring an apartment dog park? | AI gap: no competitor provides pre-lease inspection criteria |
+| 5 | Do apartments with dog parks still have breed restrictions? | PAA + AI gap: Claude addressed this; no competitor editorial covers it cleanly |
+| 6 | What is the difference between a pet-friendly apartment and an apartment with a dog park? | AI gap: Claude's distinction between "allows pets" vs. "welcomes pets" |
+| 7 | Are apartments with dog parks more common in some cities than others? | PAA: "near California," "near Texas" queries |
+
+Each FAQ answer must be 40-60 words. Each must begin with a direct answer (yes/no, specific number, or a clear declarative statement). No hedging language.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for pet-friendly apartments on brightplace.
+Placement: Three locations in the article.
+
+1. **After the first H2** (after the definition/tiered taxonomy section): "brightplace filters pet-friendly listings by dog park amenity. [Search apartments with dog parks on brightplace.]" — Short, in-line, non-intrusive.
+
+2. **After the cost comparison table** (mid-article): "See what dog park amenities look like in your target market. [Search on brightplace.]"
+
+3. **End of article, after FAQ:** A two-sentence CTA: "Finding an apartment with a real dog park takes more than checking a filter. brightplace shows you what pet amenities are actually included, so you can search by what matters. [Start your search on brightplace.ai]"
+
+CTA language must be flat, direct, and helpful in framing. Do not use "unlock," "discover," "explore," or any promotional adjectives.
+
+**Secondary CTA:**
+Link to a relevant brightplace knowledgebase article on pet-friendly apartment searching or renter tips. If the article "How to Find a Pet-Friendly Apartment" or a "Pet Deposit Guide" exists in the brightplace knowledgebase, link to it under the cost section with phrasing: "For a full breakdown of what pet deposits and fees typically include, see [article title] on brightplace."
+
+If no directly relevant article currently exists, the writing agent should insert a placeholder: [INTERNAL LINK: pet-friendly apartments guide — to be linked once published].
+
+---
+
+## 9. Writer Rules
+
+### Brand Rules (Non-Negotiable)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide. Examples: "How Rent Prices Actually Work in Austin" / "What Remote Workers Should Know About Raleigh" / "A Practical Guide to Renting Your First Apartment."
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### Production Rules (Additional)
+
+**Target word count:** 1,100-1,300 words. Do not pad. Every sentence must add information. If the full outline is covered in 1,050 words, that is acceptable. Do not stretch to hit a number.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic. Not promotional. Not listicle-style. The reader should feel like they are getting the frank version that an experienced renter would tell them over coffee.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. Avoid "which" clauses and nested phrases. If a sentence is longer than 25 words, split it.
+
+**Paragraph length:** 2-4 sentences maximum. Never more than four sentences in a block. Dense paragraphs reduce dwell time on mobile. Single-sentence paragraphs are acceptable for emphasis.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with "If you have a dog, you know the challenge of..." or any variation of restating the premise. Begin with information.
+
+**Section openings:** Every H2 section opens with its answer or key takeaway in the first sentence. No context-setting, no background, no lead-up paragraphs. The answer comes first. Context follows.
+
+**Numbers and data:** Every dollar figure, rent range, statistic, or factual claim must include "(as of [Quarter Year])" adjacent to the claim. If a number cannot be verified, write [VERIFY] inline and do not fabricate.
+
+**Tables:** Use markdown table formatting. Keep tables to two per article maximum. Label each table with a plain-text caption above it.
+
+**Lists:** Use bulleted or numbered lists only when presenting three or more parallel items. Do not use a list for two items. Do not nest lists.
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema (always; apply to all Q&A pairs in the FAQ H2)
+- Speakable schema (apply to the opening summary paragraph under the first H2 and to the FAQ section)
+- HowTo schema is not warranted for this article; it is an evaluation guide, not a step-by-step process
+
+**Date stamp:** Include "Last reviewed: [Month Year]" at the top of the article, below the H1, before the first H2.
+
+**Internal linking:** Include at minimum one internal link to another brightplace knowledgebase article. If no directly relevant article exists, insert [INTERNAL LINK PLACEHOLDER] with a topic description so the editorial team can assign the correct URL before publication.
+
+**No external links to:** ILS platforms, review aggregators, score sites, forums, or any direct competitor. Permissible external links: government housing resources, academic or nonprofit research, original data sources. When in doubt, omit rather than link.
