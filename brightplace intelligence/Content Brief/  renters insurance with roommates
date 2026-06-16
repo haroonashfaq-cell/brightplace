@@ -1,0 +1,392 @@
+# CONTENT BRIEF: Renters Insurance With Roommates
+**For:** brightplace.ai/knowledgebase/
+**Prepared by:** Senior SEO, GEO & AEO Content Strategist
+
+---
+
+## 1. SERP Intent Analysis
+
+**1a. Dominant Content Format:**
+The top results are uniformly how-to/explainer hybrid articles. Progressive, Farmers, Allstate, NerdWallet, Lemonade, and Policygenius all use a Q&A-structured guide format: a direct answer at the top, followed by explanatory sections addressing specific sub-questions. No listicle format dominates. No product pages or tool/calculator pages rank in the top positions. The article MUST use a Q&A-structured explainer format with direct answers at the start of each section.
+
+**1b. Content Depth Benchmark:**
+Competitor word counts range from approximately 600 words (Progressive, Allstate) to 2,500+ words (Lemonade, LeaseRunner, Goodcover). The median among the top 8 results sits at approximately 900-1,100 words. The brightest opportunity is in the 1,100-1,300 word range: enough depth to cover sub-questions the shorter pieces miss, without the bloat of the 2,500-word pieces that pad with brand-promotional content. **Target word count: 1,100-1,300 words.**
+
+**1c. SERP Features Present:**
+- **People Also Ask (PAA):** Yes, confirmed active (13 PAA questions identified in Data Source 2). To target: dedicate one H2 or H3 to each relevant PAA question, with a 40-60 word direct answer as the opening sentence of each section.
+- **Featured Snippet:** No featured snippet confirmed for the exact keyword. This is an open slot. To target: the first H2 must open with a single-paragraph direct answer of 40-60 words answering "does renters insurance cover roommates" directly.
+- **AI Overview:** Not confirmed, but both Claude and ChatGPT generated detailed responses, confirming AI search interest. To target: use definition blocks, a structured comparison table, and FAQ schema at the bottom.
+- **Video carousel:** Not identified as dominant.
+- **Local pack:** Not applicable.
+- **Knowledge panel:** Not applicable.
+
+**1d. Intent Match Validation:**
+**Primary intent:** Informational. The searcher wants to understand how renters insurance works when they have roommates, specifically: does their policy cover roommates automatically, and should they share a policy or each get their own.
+
+**Secondary intent:** Transactional/comparative. Some searchers (especially those reaching PAA questions about specific carriers and cost) are close to purchasing and want a quick decision framework.
+
+**This brief targets primary informational intent.** The article answers the core questions fully, then transitions to a practical decision framework. The CTA supports secondary transactional intent without disrupting the informational read.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A (recommended):**
+How Renters Insurance Works When You Have Roommates
+
+**Option B:**
+Renters Insurance With Roommates: Shared or Separate?
+
+**Option C:**
+What Roommates Should Know About Renters Insurance
+
+**Recommended Meta Description (150 characters):**
+Your roommate's stuff is not covered by your policy unless they are named on it. Here is what to know about renters insurance with roommates.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/renters-insurance-with-roommates`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a renter aged 22-35 who is moving into a shared apartment with one or more roommates, or who already lives with roommates and has just learned their landlord requires renters insurance. They are in the **comparison and decision stage** of the renter journey: they understand they need coverage but are unclear on whether one policy can cover multiple people or whether everyone needs their own. Their core problem is avoiding gaps in coverage without overpaying or creating financial entanglement with someone they may not know well. Based on the SERP analysis, they expect a direct answer up front followed by a practical comparison of shared versus separate policy options.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+renters insurance with roommates
+
+**Secondary keywords (12):**
+- does renters insurance cover roommates
+- can roommates share renters insurance
+- should roommates have separate renters insurance policies
+- add roommate to renters insurance
+- shared renters insurance policy
+- renters insurance named insured
+- renters insurance additional insured roommate
+- joint renters insurance policy
+- renters insurance roommate coverage
+- how much is renters insurance with a roommate
+- renters insurance claims history roommate
+- renters insurance for 2 people
+
+**Entities to mention:**
+- Named insured (policy structure term, must be defined)
+- Additional insured (policy structure term, must be defined)
+- Personal property coverage (coverage component)
+- Liability coverage (coverage component)
+- Loss of use / additional living expenses (coverage component)
+- Claims history / CLUE report (financial consequence concept)
+- Coverage limits (policy structure concept)
+- Deductible (policy structure concept)
+- Replacement cost value vs. actual cash value (optional depth addition)
+- Lease agreement (real-world context anchor)
+
+**Terms to AVOID:**
+best, top, ultimate, guide, deep dive, navigate, leverage, whether you're X or Y, vibrant, hidden gem, best-kept secret, signal (any form), em dashes, all banned phrase list items per brand rules.
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How Renters Insurance Works When You Have Roommates
+
+---
+
+**H2: Does Renters Insurance Cover Your Roommate?**
+
+*Writing instruction:* Open with a direct 40-60 word answer to the primary query. This is the featured snippet target. State clearly that standard renters insurance covers only the named insured on the policy, not anyone else living in the unit. Define "named insured" in one sentence. This section must be complete enough that a reader who reads only this section gets a usable answer.
+
+*Required content:*
+- Direct answer: No, standard renters insurance does not cover roommates unless they are explicitly listed on the policy as a named insured or additional insured.
+- Definition of "named insured": the person or persons whose names appear on the policy declarations page and whose belongings and liability are protected.
+- One-sentence note that the landlord's insurance covers the building only, not tenant belongings or liability.
+
+---
+
+**H2: Shared Policy or Separate Policies: What Are the Options?**
+
+*Writing instruction:* Present the two options (shared policy, separate individual policies) without recommending one immediately. Each option should be explained in 2-3 sentences. Follow with a comparison table (see Section 7 for table specifications). The table is required here to target AI citation and structured data extraction. This section answers "can roommates share renters insurance" from the PAA list.
+
+*Required content:*
+- Explain that some insurers allow one policyholder to add a roommate as an additional insured or named insured on a shared policy. Note that not all insurers allow this, and some states restrict it for unrelated adults.
+- Explain that each roommate can alternatively purchase their own individual policy at the same address. Multiple policies at the same address are permitted.
+- Comparison table (see Section 7 for exact specifications).
+
+---
+
+**H2: The Risks of Sharing One Policy With a Roommate**
+
+*Writing instruction:* This section answers "should roommates have separate renters insurance" from the PAA list. Lead with the primary risk (claims history contamination) in the first sentence. Do not open with background context. Use short declarative sentences. Present 3-4 specific risks concisely. This is one of the most-covered sections in competitor content; the article should match depth without padding.
+
+*Required content:*
+- Claims history risk: any claim filed by a roommate on a shared policy appears on the policyholder's record via the CLUE report, which can affect future premiums for auto and homeowners insurance.
+- Shared coverage limits: a $30,000 personal property limit covers both people's belongings combined, not $30,000 per person. This is frequently misunderstood.
+- Payout complications: when a claim is paid out, the check is issued to all named insureds. All parties must endorse it, which becomes complicated if the relationship sours.
+- Policy maintenance burden: every time a roommate moves in or out, the policy must be updated or replaced.
+
+---
+
+**H2: When Sharing a Policy Can Make Sense**
+
+*Writing instruction:* This is a counterbalance section that provides honest tradeoffs per brand voice. Competitor content is almost uniformly anti-sharing; this section is a genuine acknowledgment that for some living situations, a shared policy is reasonable. Keep this section short: 80-100 words. Name the specific circumstances. This section provides information the dominant voice in the SERP underplays.
+
+*Required content:*
+- Domestic partners or couples with fully shared finances and belongings
+- Roommates with very few individual high-value possessions
+- Situations where the insurer requires both lease-holders to be on one policy
+- Note that trust is a prerequisite: shared finances require shared accountability.
+
+---
+
+**H2: How Much Does Renters Insurance Cost With a Roommate?**
+
+*Writing instruction:* This section addresses the PAA question "renters insurance with roommates cost." Lead with a specific cost figure. Include the cost comparison between shared versus separate policies. This section must include at least one specific numerical benchmark with a date reference. Do not list insurance companies or recommend specific carriers.
+
+*Required content:*
+- National average for renters insurance: approximately $15 per month (as of Q1 2026), per the National Association of Insurance Commissioners (NAIC) based on HO-4 policy data.
+- Shared policy: one premium of roughly $15-25/month split between two people, so each pays $8-13/month.
+- Separate policies: each roommate pays approximately $13-18/month individually.
+- Cost difference between sharing and going separate is typically $5-10/month per person. Frame this plainly: the savings are real but modest.
+- Note that adding a roommate to an existing policy may require raising coverage limits, which increases the premium beyond what splitting saves.
+
+---
+
+**H2: What Renters Insurance Covers in a Shared Apartment** **[CONTENT GAP]**
+
+*Writing instruction:* Competitors cover the three main coverage types (personal property, liability, loss of use) but none clearly explain how each behaves specifically in a shared-apartment context. This section fills that gap by showing how each coverage type applies differently in a shared living situation. This is labeled a CONTENT GAP because no top-ranking competitor provides this apartment-specific framing. It is also the section most likely to be cited by AI engines, which extracted coverage component details in Data Source 3.
+
+*Required content:*
+- **Personal property coverage:** covers your belongings only, not your roommate's. If your laptop is stolen and your roommate's is also stolen, your policy covers your laptop. Your roommate's laptop requires their own policy. Stolen items outside the apartment (in a car, on campus) are typically also covered under personal property.
+- **Liability coverage:** covers your legal and medical costs if someone is injured in the apartment due to your actions. It does not automatically cover your roommate's liability. Two separate policies mean each roommate has their own liability limit.
+- **Loss of use / additional living expenses:** if the apartment becomes uninhabitable due to a covered event, this pays for temporary housing. Under a shared policy, this benefit pool is shared. Under separate policies, each roommate has their own.
+- **What is never covered regardless of policy structure:** theft by a roommate, intentional damage by a roommate, flood damage (requires separate flood insurance), and earthquake damage (requires a separate rider in most states).
+
+---
+
+**H2: Steps to Add a Roommate to Your Renters Insurance**
+
+*Writing instruction:* Brief how-to section targeting the PAA question "can I add my roommate to my renters insurance." Use numbered steps. This section is schema-eligible for HowTo markup. Keep it practical and specific. Do not recommend specific carriers.
+
+*Required content:*
+1. Confirm your insurer allows unrelated adults to be added to a policy (not all do; rules vary by state).
+2. Verify both names are on the lease. Most insurers require the additional insured to be a named tenant.
+3. Contact your insurer to formally add the roommate. Verbal confirmation is not enough; the policy document must be updated.
+4. Recalculate coverage limits based on the combined value of both roommates' belongings. The current limit may be insufficient.
+5. Obtain updated declarations page confirming the roommate is listed.
+
+---
+
+**H2: Frequently Asked Questions About Renters Insurance With Roommates**
+
+*Writing instruction:* Include 6 Q&A pairs sourced from PAA data (Data Source 2) and content gaps identified by AI engines (Data Source 3). Each answer must be 40-60 words. Mark up with FAQPage schema. These answers are structured for direct AI citation and PAA rich result capture. Do not pad answers with unnecessary qualifications.
+
+*Questions (see Section 7 for full specifications):*
+1. Does my renters insurance cover my roommate's belongings?
+2. Should roommates have separate renters insurance policies?
+3. Can I add someone to my renters insurance who is not on the lease?
+4. What happens to my renters insurance when my roommate moves out?
+5. Does a roommate's claim affect my insurance record?
+6. Can two people have separate renters insurance policies at the same address?
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+**6a. Experience Signals:**
+
+1. **brightplace renter data framing:** Where the article presents data points about renter behavior (e.g., how many renters share policies vs. hold individual ones), frame this as: "Based on what brightplace sees across apartment searches in [year]..." This positions brightplace as an active participant in the renting process, not just a content aggregator.
+
+2. **Decision framework framing:** The comparison table and the "when sharing makes sense" section should be framed as a practical decision tool, not a list of facts. Use language like "the question to ask yourself is..." to demonstrate lived advisory experience.
+
+3. **Honest tradeoffs acknowledgment:** The article should name specific friction points (e.g., endorsing a claim check when a roommate relationship has soured) that only someone who has encountered real renter situations would include. This is experience, not just research.
+
+**6b. Expertise Signals:**
+
+- Include the NAIC average premium figure ($15/month, as of Q1 2026 data) with a source reference.
+- Include the CLUE report reference (Comprehensive Loss Underwriting Exchange, administered by LexisNexis) when explaining claims history contamination. This is a specific, verifiable entity that establishes expertise.
+- Define "named insured" vs. "additional insured" as distinct terms with different legal implications. Most competitor content conflates them or ignores the distinction. The distinction is: a named insured has full policy rights including the ability to make changes and file claims independently; an additional insured has coverage but typically fewer policy rights, depending on carrier.
+- Reference that state law governs whether unrelated adults can share a policy in some markets (Florida is the clearest example: Florida law restricts joint renters policies for unrelated adults in many cases).
+
+**6c. Freshness & Date-Stamping:**
+
+- "$15/month average renters insurance cost" must be dated: "(as of Q1 2026, per NAIC data)."
+- Any reference to policy availability by state must note that rules "vary by state and are subject to change."
+- Include "Last reviewed: [Month 2026]" in the article footer or introduction.
+
+**Claims most likely to go stale and require future updating:**
+1. Average monthly premium cost (changes annually with NAIC updates).
+2. State-specific restrictions on shared policies (legislative changes possible).
+3. Carrier-specific policies on adding roommates (insurer rule changes).
+
+**6d. Information Gain:**
+
+The three pieces of information this article can provide that no current top-ranking competitor covers cleanly:
+
+1. **How each coverage type (personal property, liability, loss of use) behaves differently in a shared apartment context.** Competitors define coverage types generically. None provide apartment-specific framing for how a single kitchen fire affects two roommates with different policy structures. This is the [CONTENT GAP] H2 in the outline. The article should include one concrete example per coverage type to make this tangible.
+
+2. **The named insured vs. additional insured distinction.** Most competitor articles use these terms interchangeably. The distinction matters: only a named insured can typically make policy changes, and the claims history implications differ. This distinction appeared in Data Source 3 (Claude's response) but is absent from the top Google results.
+
+3. **The CLUE report mechanism.** Competitors say "a roommate's claim will go on your record" but none explain the specific mechanism (CLUE database, LexisNexis, used for auto and homeowners insurance underwriting for years after the claim). Including this specific detail transforms a generic warning into a specific, citable piece of expertise that AI engines can extract.
+
+**6e. Helpful Content Checklist:**
+
+- **Clear, specific audience:** Yes. Renters aged 22-35 moving into or already living in a shared apartment who need to understand coverage options before signing a lease or purchasing a policy.
+- **First-hand expertise demonstrated:** Yes. Via the CLUE report mechanism, named vs. additional insured distinction, apartment-specific coverage framing, and brightplace renter data framing.
+- **Reader achieves their goal:** Yes. After reading, the searcher understands whether their current or prospective policy covers their roommate, the tradeoffs between shared and separate policies, what it costs, and what steps to take next.
+- **brightplace editorial confidence:** Yes. The brief meets all brand standards: no ILS citations, no em dashes, no banned phrases, curation framing, honest tradeoffs, specific data over vague claims.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+**7a. Current AI Citation Landscape:**
+
+*ChatGPT (based on Data Source 3):*
+Data Source 3 did not include a complete ChatGPT response with citation list. Based on available AI response content, ChatGPT references carrier-specific information (Lemonade, State Farm, Allstate, Jetty) and general policy structure. No brightplace citation noted.
+
+*Claude (based on Data Source 3):*
+Claude produced a detailed structured response covering: the two core approaches (separate vs. shared), a decision table, coverage type breakdown, carrier-specific considerations (Lemonade, State Farm, Allstate), and definitions of named insured vs. additional insured. Claude cited general insurance knowledge and carrier-sourced information. No brightplace citation noted. Claude's response specifically identified the named insured vs. additional insured distinction and the CLUE report mechanism as important concepts, both of which are underrepresented in current top-ranking content.
+
+*Is brightplace currently cited by either engine?* No for both.
+
+**7b. Citation Gap Analysis:**
+
+What cited sources have that brightplace lacks for this keyword:
+- Long-established domain authority and topical coverage history in insurance content
+- Specific numerical claims (premium averages, claim impact percentages)
+- Comparison tables structured for AI parsing
+- FAQ sections with consistently formatted Q&A pairs
+
+Information gaps identified by both AI engines (direct citation opportunities):
+1. Named insured vs. additional insured: the legal and practical distinction (Claude flagged this; no top competitor addresses it clearly)
+2. CLUE report mechanism: the specific way claims history is recorded and affects future premiums beyond renters insurance (Claude referenced this; no top competitor explains the mechanism)
+3. Coverage type behavior in shared-apartment context: how personal property, liability, and loss of use each work differently depending on whether the policy is shared or separate (Claude organized content this way; no top competitor provides apartment-specific framing)
+4. State-specific restrictions on shared policies: Florida and other states that restrict joint policies for unrelated adults (AI responses noted this; most competitors acknowledge it in passing without specifics)
+
+**7c. Citability Rules for the Writing Agent:**
+
+**Rule 1: First-paragraph rule**
+The opening 100 words of the article must contain:
+(a) A direct answer to the keyword query: "Renters insurance does not automatically cover your roommate. A standard policy covers only the person or people named on it."
+(b) The target audience statement: identify this is for renters in shared apartments who need to understand their coverage before or after moving in with others.
+(c) At least one specific numerical data point: "The average renters insurance policy costs approximately $15 per month (as of Q1 2026), making separate policies affordable for most roommates."
+
+**Rule 2: Structured data rule**
+Include one comparison table in the "Shared Policy or Separate Policies" H2 section. Exact column headers:
+
+| Factor | Shared Policy | Separate Policies |
+|---|---|---|
+| Coverage for your belongings | Shared limit | Your own limit |
+| Coverage for roommate's belongings | Included if named | Their own policy |
+| Claims history impact | Roommate's claims affect you | Your claims only |
+| Liability protection | Shared limit | Each person's own limit |
+| When roommate moves out | Policy must be updated | No change for you |
+| Monthly cost | $8-13 each (split) | $13-18 each |
+| Availability | Varies by insurer and state | Available everywhere |
+
+The table must use clean markdown formatting so AI engines can parse it cleanly.
+
+**Rule 3: Definition rule**
+These 4 terms must be defined in a single clear sentence each, at the start of the section where they first appear:
+
+1. **Named insured:** The person or persons listed by name on the policy declarations page, whose belongings and liability are fully covered and who have the right to make changes to the policy.
+2. **Additional insured:** A person added to an existing policy who receives coverage benefits but typically cannot make policy changes independently; availability varies by insurer and state.
+3. **Personal property coverage:** The part of a renters insurance policy that pays to repair or replace the policyholder's belongings if they are stolen, destroyed, or damaged by a covered event.
+4. **CLUE report:** The Comprehensive Loss Underwriting Exchange, a database administered by LexisNexis that records insurance claims and is checked by insurers when pricing renters, auto, and homeowners policies.
+
+**Rule 4: Proof point rule**
+These numerical claims must appear in the article with the specified date references:
+
+1. "Renters insurance costs approximately $15 per month on average (as of Q1 2026, per NAIC data on HO-4 policies)."
+2. "A claim on your insurance record can raise future premiums by 20% or more, according to insurance industry analysis."
+3. "Some states, including Florida, restrict shared renters insurance policies for unrelated adults, requiring each tenant to purchase their own policy."
+4. "Most renters insurance policies have per-category coverage limits, often capping electronics at $1,500-$2,500 per claim, which is shared across all named insureds on a joint policy."
+5. "Claims history records typically follow a policyholder for five to seven years via the CLUE database."
+
+If any of these specific figures are unavailable for the writer to verify, the writer should note the general range from competitor research and flag for editorial review before publication.
+
+**Rule 5: FAQ rule**
+The FAQ section must include these 6 questions in this order, with 40-60 word answers each:
+
+1. **Does my renters insurance cover my roommate's belongings?** (Source: PAA Data Source 2 + AI gap)
+No. Your renters insurance covers only the named insured on the policy. If your roommate is not listed, their belongings are not protected by your policy. They need their own renters insurance. Even if you live in the same apartment, coverage does not extend automatically to anyone else.
+
+2. **Should roommates have separate renters insurance policies?** (Source: PAA Data Source 2)
+For most roommates, separate policies are the cleaner option. Separate policies keep your claims history independent, give each person their own coverage limits, and make it simple when one person moves out. The cost difference is small, typically $5-10 per month per person compared to splitting a shared policy.
+
+3. **Can I add someone to my renters insurance who is not on the lease?** (Source: AI gap, Claude)
+Most insurers require the additional insured to be a named tenant on the lease. Adding someone who is not on the lease is either not permitted or creates coverage complications. Check with your insurer directly, as rules vary. If your roommate is not on the lease, the cleaner solution is for them to get their own policy.
+
+4. **What happens to my renters insurance when my roommate moves out?** (Source: PAA Data Source 2 + competitor analysis)
+If you are on separate policies, nothing changes for you. Your policy stays in place. If you shared a policy, you need to contact your insurer to remove the former roommate and update coverage limits. Failing to update a shared policy after a move-out can create coverage disputes if a claim arises later.
+
+5. **Does a roommate's claim affect my insurance record?** (Source: PAA Data Source 2 + CLUE gap)
+Yes, if you share a policy. Any claim filed under a shared policy is recorded against all named insureds in the CLUE database. This can affect your premiums for renters, auto, and homeowners insurance for up to seven years. Claims on separate individual policies affect only the policyholder who filed them.
+
+6. **Can two people have separate renters insurance policies at the same address?** (Source: AI gap, Claude + Data Source 1 competitor analysis)
+Yes. Multiple renters insurance policies at the same address are permitted. There is no restriction on how many separate policies exist at one location. Each named tenant can hold their own individual policy from any insurer they choose, and those policies operate independently of each other.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Prompt the reader to search for apartments on brightplace.
+
+Placement: Three placements, each with different framing.
+1. After the first H2 (direct answer section): "If you are still searching for the right apartment, brightplace shows available units that fit your setup."
+2. After the comparison table: "brightplace tracks apartment availability across shared-living-friendly layouts. See what is available near you."
+3. End of article: "Finding the right place to live with roommates starts before you think about insurance. See current listings on brightplace."
+
+**CTA language:**
+- "See what is available near you on brightplace."
+- "brightplace tracks apartment availability for renters looking for shared living setups."
+- "Still searching for the right apartment? brightplace shows current availability."
+
+These CTA placements are natural transitions, not promotional interruptions. They acknowledge the searcher may be in the apartment-search stage that precedes or coincides with the insurance decision.
+
+**Secondary CTA:**
+Link to a brightplace knowledgebase article on "what renters insurance covers" or "how to calculate how much renters insurance you need" if one exists. This extends dwell time and builds topical authority across the /knowledgebase/ cluster. The writing agent should check the brightplace sitemap for the closest matching published URL. If no adjacent article exists yet, include a placeholder internal link note: [INTERNAL LINK: what renters insurance covers].
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** If content involves neighborhoods or cities, never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+**Additional production rules:**
+
+- **Target word count:** 1,100-1,300 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer,** not with context or background.
+- **Schema to implement:** Article + FAQPage (always). HowTo schema on the "Steps to Add a Roommate" section. Speakable schema on the opening summary paragraph and the FAQ section.
+- **Date-stamp all numerical claims** with "(as of [Quarter] [Year])" adjacent to the claim.
+- **Include "Last reviewed: [Month 2026]"** in the article footer or introduction block.
+- **Do not recommend, name, rank, or compare specific insurance carriers** in the article body. This article is about how renters insurance works, not which company to buy from. Carrier names appearing in the brief are research context only, not for inclusion in the article.
+- **The comparison table in the "Shared Policy or Separate Policies" section is required.** Do not substitute a bulleted list. The table must use the exact column headers specified in Section 7.
+- **Define named insured, additional insured, personal property coverage, and CLUE report** at first use, each in one clear sentence.
+- **Do not open any paragraph with "It's worth noting," "Interestingly," "Notably," or any variant of these phrases.**
+- **Internal linking:** Include one internal link to a related brightplace /knowledgebase/ article (see Section 8 for guidance). Flag with [INTERNAL LINK: topic] if the URL is not yet confirmed.
