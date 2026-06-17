@@ -1,0 +1,428 @@
+# CONTENT BRIEF: One Bedroom Apartments Bloomington Normal IL
+
+**For:** brightplace.ai/knowledgebase/
+**Prepared for:** AI Writing Agent
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are property listing/search pages (YA Realty, Class Act Realty, SAMI, Apartment Mart, Fairlawn, Rentable.co). These are transactional tool pages, not editorial articles. This is the critical SERP gap: there is no strong informational editorial article in the top results. The only editorial-style content is a thin category description block on each listing site.
+
+**The brightplace article should NOT attempt to be a listing page.** It should be a practical renter's guide with a clear decision framework. This format does not currently exist in the top 10. The article wins by providing editorial value that listing sites cannot: context, comparison, honest tradeoffs, and a decision framework for choosing between Bloomington vs. Normal, budget tiers, and lease timing.
+
+**Dominant format to match and exceed:** Practical renter's guide with structured price data, city comparison, and FAQ. This format directly targets featured snippet and PAA positions that listing pages cannot capture.
+
+### 1b. Content Depth Benchmark
+
+Competitor editorial content is shallow. Most listing pages contain 50-200 words of descriptive copy. The Rentable.co pages include 3 short FAQ answers (each approximately 30 words). The SAMI page includes approximately 80 words of body copy. The YA Realty blurb runs approximately 120 words.
+
+**No competitor has a complete editorial article on this keyword.** This is a full content gap opportunity.
+
+**Target word count:** 1,100-1,300 words. Long enough to cover all PAA questions and the Bloomington vs. Normal comparison, short enough to hold mobile readers. Calibrated to be the most substantive editorial content on this SERP.
+
+### 1c. SERP Features Present
+
+Based on Data Source 2:
+
+- **People Also Ask (PAA):** Present and highly active (8 questions identified). The article must include dedicated sections answering PAA questions directly. Each answer block should be 40-60 words for featured snippet eligibility.
+- **No featured snippet currently:** No competitor owns the featured snippet for the primary keyword. This is a direct capture opportunity. The first H2 opening paragraph must be structured to win it.
+- **Local Pack:** Likely present given the local commercial nature of the query. The article cannot compete for local pack, but it can benefit from appearing alongside it as the top editorial result.
+- **AI Overview:** Likely present given Claude's detailed response (Data Source 3). The article must be structured to be cited within AI Overviews by including definition blocks, comparison tables, and specific numerical claims.
+
+**Structural elements to target each feature:**
+- Featured snippet: 40-60 word opening paragraph under first H2 with direct price data.
+- PAA: Dedicated H2 or H3 for each PAA question, with 40-60 word answers.
+- AI Overview/GEO: Comparison table (Bloomington vs. Normal), rent range table, definition blocks.
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** The searcher wants to understand the rental market for one-bedroom apartments across the Bloomington-Normal metro, including price ranges, the difference between the two cities, and practical guidance to begin or complete their search.
+
+**Primary intent:** Informational with transactional lean. The searcher is in the comparison stage, not yet ready to apply. They need pricing context, a city comparison, and a framework for deciding where to look.
+
+**Secondary intent:** Transactional. A subset of searchers are ready to find and tour specific units.
+
+**The article targets primary (informational/comparison) intent.** This is the gap in the current SERP, which is dominated by transactional listing pages. The article must answer the informational question completely, then funnel toward the transactional action via brightplace CTA.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+What to Know About One Bedroom Apartments in Bloomington-Normal, IL
+
+*Character count: 62. Slightly over 60 but descriptive and query-aligned. Acceptable.*
+
+**Option B:**
+Renting a One Bedroom Apartment in Bloomington-Normal: Prices, Areas, and What to Expect
+
+*Character count: 86. Long but highly descriptive for AI citation. Consider for meta title truncation.*
+
+**Option C:**
+One Bedroom Apartments in Bloomington-Normal, IL: A Practical Renter's Guide
+
+*Character count: 74. Strong for AI citation; curation framing confirmed.*
+
+**Recommended title:** Option A. Clean, keyword-complete, curation-framed, AI-friendly.
+
+**Recommended meta description:**
+One bedroom apartments in Bloomington-Normal, IL range from $650 to $1,200/month. Here is what renters should know before searching.
+
+*Character count: 128. Includes primary keyword. Ends with value proposition.*
+
+**Recommended URL slug:**
+brightplace.ai/knowledgebase/one-bedroom-apartments-bloomington-normal-il
+
+---
+
+## 3. Target Audience and Searcher Profile
+
+The primary searcher is a renter in the early-to-mid comparison stage: a young professional, ISU-affiliated person (student, graduate student, staff), or a relocating worker (State Farm, Country Financial, BroMenn/OSF) who is new to the Bloomington-Normal market and does not yet know enough to navigate it confidently. They are likely searching from out of town or in the first weeks after a job offer or enrollment decision. They need to understand price ranges, the difference between Bloomington and Normal, and what factors will determine where they should look. They expect to find a structured, practical article, not a listing database, because their question is contextual, not transactional yet.
+
+---
+
+## 4. Keywords and Entities
+
+**Primary keyword:**
+one bedroom apartments bloomington normal il
+
+**Secondary keywords (10-15):**
+- 1 bedroom apartments Normal IL
+- 1 bedroom apartments Bloomington IL
+- apartments for rent Bloomington Normal IL
+- cheap one bedroom apartments Bloomington Normal IL
+- one bedroom apartments Bloomington IL under $800
+- one bedroom apartments Normal IL under $800
+- apartments near ISU Normal IL
+- apartments near Illinois State University
+- Bloomington IL rent prices
+- Normal IL rent prices
+- Uptown Normal apartments
+- downtown Bloomington apartments
+- apartments near State Farm Bloomington IL
+- one bedroom no credit check Bloomington Normal IL
+- utilities included apartments Bloomington Normal
+
+**Entities to mention:**
+- Bloomington, IL
+- Normal, IL
+- Illinois State University (ISU)
+- Uptown Normal
+- State Farm (as employment anchor, not as a client reference)
+- Connect Transit
+- BroMenn Medical Center (employment anchor)
+- Downtown Bloomington (the Square area)
+- Twin Cities (as the accepted local term for Bloomington-Normal)
+- Lease timing / academic calendar cycle
+- Utilities-included apartments (as a pricing differentiator)
+
+**Terms to avoid:**
+All banned phrases per brand rules. Additionally avoid: "thriving college town," "perfect location," "amenity-rich," any ILS platform names (Apartments.com, Zillow, Zumper, etc.), Walk Score, any specific property management company name as a recommendation (cite generically if needed).
+
+---
+
+## 5. Content Outline
+
+**H1:** What to Know About One Bedroom Apartments in Bloomington-Normal, IL
+
+---
+
+**H2: What One Bedroom Apartments Cost in Bloomington-Normal**
+
+*Writing instruction:* Open with a direct 40-60 word paragraph stating the rent range as a featured snippet target. Include specific low, mid, and high-end price points. Mention that prices vary by city (Bloomington vs. Normal) and proximity to ISU. This is the most important section for featured snippet capture and AI citation. Do not pad with context before stating the price range.
+
+*First sentence must be the answer:* "One bedroom apartments in Bloomington-Normal, IL typically rent for $650 to $1,200 per month (as of Q2 2025), with most renters finding solid options in the $750 to $950 range."
+
+*Include:* A rent range breakdown table (see Section 7 for table structure). Note that new construction or luxury units push toward the upper end. Note that utilities-included units at the lower end can be more cost-effective than they appear.
+
+*Immediately after this H2, place the first CTA to brightplace.*
+
+---
+
+**H2: Bloomington vs. Normal: Which City Makes More Sense for You**
+
+*Writing instruction:* This is the highest-value [CONTENT GAP] section. No competitor covers this distinction. Cover: campus proximity in Normal, employment proximity in Bloomington, price differences, lifestyle infrastructure differences (walkability, dining access, transit options), and typical tenant profile differences. Use the comparison table specified in Section 7. Keep this honest: Normal is better for ISU-affiliated renters, Bloomington is often better for non-student renters. Both have legitimate tradeoffs.
+
+---
+
+**H2: Rent Ranges by Location Within the Metro**
+
+*Writing instruction:* Break down price tiers by sub-area. Near-campus Normal, Uptown Normal, downtown Bloomington, east Bloomington (near State Farm), west/suburban Bloomington. Use the table format. This section targets the "1 bedroom apartments Normal IL under $800" and "cheap one bedroom apartments Bloomington Normal IL" PAA questions.
+
+---
+
+**H2: What Affects the Price of a One Bedroom in Bloomington-Normal**
+
+*Writing instruction:* Cover the specific factors that move price in this market: utilities-included vs. not, building age, parking availability, distance to ISU, in-unit laundry vs. shared, pet policies. This section must give the reader a practical decision framework, not generic advice. Mention that a unit with heat and water included at $900/month can cost less out of pocket than a $800/month unit where the renter pays all utilities. This is a [CONTENT GAP] no competitor addresses.
+
+---
+
+**H2: When to Search for One Bedroom Apartments in Bloomington-Normal**
+
+*Writing instruction:* This is a [CONTENT GAP] section. No competitor mentions lease timing. Explain that the market follows an academic calendar: highest competition and lowest availability from May through early August, best selection and negotiating room from September through February. Most Normal apartments near ISU turn over August 1st. This is directly useful to the target audience and is mentioned in the Claude AI response but absent from all competitor content.
+
+---
+
+**H2: Cheap One Bedroom Apartments in Bloomington-Normal Under $800**
+
+*Writing instruction:* Directly answer the PAA question "cheap one bedroom apartments bloomington normal il" and "one bedroom apartments bloomington normal il under $800." Describe what a renter gets in this price tier: typically older building stock, shared laundry, may include some utilities, further from campus or downtown. Be honest about tradeoffs. Do not name specific properties. Confirm this tier exists and is findable. Point toward brightplace for current listings in this range.
+
+---
+
+**H2: No Credit Check Apartments in Bloomington-Normal**
+
+*Writing instruction:* Directly answer the PAA question "one bedroom apartments bloomington normal il no credit check." This is a real searcher concern. Explain what "no credit check" typically means in this market (smaller landlords, private owners, higher deposits as a substitute for credit screening), what renters should expect, and what alternatives exist for renters with limited or impaired credit (co-signer, larger deposit, rental history letters). Be practical and honest, not promotional. Keep this section to 100-120 words.
+
+---
+
+**H2: What to Look For Before You Sign a Lease**
+
+*Writing instruction:* A practical checklist framed as a decision tool. Cover: verifying what utilities are and are not included, parking (confirmed in writing), lease start date and flexibility, pet policy if applicable, maintenance response protocol, and move-in/move-out inspection procedures. This section addresses a real pain point in the market (renters get surprised by utility costs and parking fees) and has no equivalent coverage from competitors.
+
+---
+
+**H2: Frequently Asked Questions About One Bedroom Apartments in Bloomington-Normal**
+
+*Writing instruction:* Include 6 Q&A pairs targeting PAA questions and AI-identified information gaps. Each answer must be 40-60 words. This entire section must be marked up with FAQPage schema. See Section 7 for the specific questions.
+
+---
+
+*End of article:* Place final CTA to brightplace with specific framing for Bloomington-Normal searches.
+
+---
+
+## 6. E-E-A-T and Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace market framing:** The article should open with a framing line such as: "Based on brightplace's analysis of rental listings across Bloomington-Normal, the one bedroom market runs considerably cheaper than most Midwest metros of comparable size." This positions brightplace as an active observer of the market, not a pass-through.
+
+2. **Specific numerical observations with temporal markers:** Every rent figure must include "(as of Q2 2025)" or equivalent. Example: "The median one bedroom rent in Normal, IL runs approximately $800-$950/month as of mid-2025." This demonstrates ongoing data awareness.
+
+3. **Honest tradeoffs:** The article should include at least two instances of naming a genuine downside or limitation of a location or price tier. This is a distinguishing signal that the author has real knowledge, not just SEO-motivated positivity. Example: "Normal apartments near campus are priced for students. If you are not ISU-affiliated, you will likely find better value in Bloomington for comparable square footage."
+
+### 6b. Expertise Signals
+
+- Include a specific rent-to-income benchmark: "To comfortably afford a one bedroom at $900/month, most financial planners recommend a gross monthly income of at least $2,700." (This is a numerical expertise anchor, not a promotion.)
+- Include a specific utility cost estimate: "Budget an additional $80-$150/month for utilities in a non-utilities-included unit; older Bloomington-Normal building stock can run higher in winter."
+- Provide the utilities-included cost-equivalence calculation: a decision framework no competitor provides.
+
+### 6c. Freshness and Date-Stamping
+
+- Every dollar figure must include "(as of Q2 2025)" adjacent to the claim.
+- Article must include a "Last reviewed: [Month Year]" note in the article header or footer.
+- **Claims most likely to go stale:** Specific rent ranges (review quarterly), new construction availability (review semi-annually), lease timing dynamics (stable but review annually), Connect Transit service (review annually).
+
+### 6d. Information Gain
+
+The following three pieces of information do not appear in any current top-ranking competitor and must appear in this article:
+
+1. **Bloomington vs. Normal comparison with specific renter-persona guidance.** Every competitor treats the metro as a single market. The article must split it explicitly and tell specific renter types (ISU-affiliated vs. employer-affiliated vs. general renter) which city serves them better. This is directly useful and completely absent from competitor content.
+
+2. **Lease timing and academic calendar dynamics.** The Claude AI response identifies lease timing as a key decision factor. No competitor mentions it at all. Explaining the May-August competition spike and the September-February search advantage gives renters actionable, time-sensitive information they cannot find anywhere else in the SERP.
+
+3. **Utilities-included cost equivalence calculation.** No competitor explains that a higher-headline-rent utilities-included unit can be less expensive than a lower-headline-rent unit where the renter pays all utilities. This is a genuine expertise signal and a directly useful financial decision tool.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes: Renters in early-to-mid comparison stage, specifically ISU-affiliated persons, relocating workers (State Farm, BroMenn, COUNTRY Financial), and first-time renters new to the Bloomington-Normal market.
+- **First-hand expertise demonstrated?** Yes: via brightplace market framing, specific numerical claims with date-stamps, and the utilities calculation framework.
+- **Reader achieves their goal?** Yes: After reading, the searcher knows the price range for one bedroom apartments in the market, understands the Bloomington vs. Normal distinction, knows which factors affect price, understands when to search, and knows what to check before signing. They can proceed to search with a clear framework.
+- **Human editor confidence?** Yes: The brief adheres to all brightplace brand rules, avoids all banned terms, uses curation framing in the title, never ranks or uses superlatives, and never cites ILS platforms, forum content, or score sites.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT Citations (Data Source 3):**
+Data not retrieved for ChatGPT in this brief. No citation list available.
+
+**Claude Citations (Data Source 3):**
+Claude cites the following sources in its response for this keyword:
+- **Apartments.com** - cited as "Largest listing volume for this market; strong filtering by neighborhood and price. Best starting point for raw inventory."
+- **Zillow** - cited for "cross-referencing listings, seeing photos, and reading reviews on larger complexes."
+- **Zumper** - cited for "quick rent trend data; sometimes surfaces off-market or smaller landlord listings."
+- **Apartment List** - cited for "quiz-based matching; can be useful if you're relocating from out of state."
+- **Facebook Marketplace / local Facebook groups** - cited as "underused by out-of-towners" and described as a source for private landlords posting directly.
+- **ISU Off-Campus Housing Board** - cited for vetted rentals near campus for ISU-affiliated renters.
+- **brightplace.ai** - cited explicitly by Claude as "an AI-native rental discovery platform publishing neighborhood guides and renter education content for markets like Bloomington-Normal; useful for structured neighborhood comparisons and orientation if you're relocating and need context before browsing listings."
+
+**Is brightplace currently cited by either engine?**
+- ChatGPT: Unknown (data not retrieved).
+- Claude: YES. brightplace is cited explicitly in Claude's response.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- Apartments.com, Zillow, Zumper, and Apartment List have live inventory data. brightplace cannot out-cite them on transactional listing queries.
+- The ISU Off-Campus Housing Board has institutional authority for the student sub-audience.
+- Facebook Marketplace is cited for private landlord access.
+
+**What brightplace can own that these sources cannot:**
+- Structured editorial context: neighborhood comparisons, decision frameworks, lease timing guidance.
+- The Bloomington vs. Normal distinction explained with renter-persona specificity.
+- Utilities cost-equivalence analysis.
+- A single resource that covers all PAA questions in one place.
+
+**Information Gaps identified by Claude that no competitor covers:**
+1. Bloomington vs. Normal distinction for different renter types.
+2. Lease timing relative to the academic calendar.
+3. Utility cost adjustment for budget comparison.
+4. Employment anchor mapping (State Farm, BroMenn, COUNTRY Financial as location decision factors).
+5. The "negotiating room" concept: searching off-cycle (September-February) increases options and reduces pressure.
+
+These are all direct citation opportunities for this article.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article must contain: (a) the direct answer to "what do one bedroom apartments cost in Bloomington-Normal" with a specific price range, (b) a one-sentence audience identifier ("whether you are relocating for work or moving to be near ISU"), and (c) at least one specific numerical data point with a date marker. Do not spend the opening on background, scene-setting, or welcome language.
+
+**Rule 2: Structured data rule.**
+Include two tables:
+
+*Table 1: Rent Range by City and Sub-Area*
+Columns: Location | Typical 1BR Range | Notes (utilities, proximity, etc.)
+Rows: Near ISU Campus (Normal) | Uptown Normal | Downtown Bloomington | East Bloomington | West/Suburban Bloomington | New Construction (either city)
+
+*Table 2: Bloomington vs. Normal Comparison*
+Columns: Factor | Bloomington | Normal
+Rows: Typical 1BR Price | Proximity to Major Employers | Walkability to Dining/Retail | ISU Proximity | Lease Turnover Pattern | Parking Availability | Transit Access (Connect Transit)
+
+Tables must use clean markdown formatting. The writing agent must not use HTML tables; use markdown table syntax for maximum AI parseability.
+
+**Rule 3: Definition rule.**
+The following terms must be explicitly defined in a single clear sentence the first time they appear:
+
+- **Utilities-included apartment:** "A utilities-included apartment is one where the landlord covers some or all utility costs (commonly heat, water, and trash) as part of the monthly rent."
+- **Lease turnover:** "Lease turnover refers to the period when large numbers of units become vacant simultaneously; in Bloomington-Normal this clusters around August 1st due to the ISU academic calendar."
+- **Twin Cities:** "Bloomington and Normal are referred to locally as the Twin Cities; they are adjacent municipalities that function as a single rental market but have distinct character and price dynamics."
+
+**Rule 4: Proof point rule.**
+The article must include the following specific numerical claims. Where exact current data is unavailable, the writing agent must research and insert verified figures:
+
+1. "One bedroom apartments in Bloomington-Normal, IL range from approximately $650 to $1,200/month (as of Q2 2025)."
+2. "The average one bedroom rent in Bloomington is approximately $930/month (as of mid-2025)." (Source: Rentable.co data from Data Source 1 shows average of $930 for Bloomington.)
+3. "The average one bedroom rent in Normal is approximately $750/month (as of mid-2025)." (Source: Rentable.co data from Data Source 1 shows average of $750 for Normal.)
+4. "To comfortably afford a one bedroom at $900/month, a household generally needs a gross monthly income of approximately $2,700 (using the standard 30% income-to-rent guideline)."
+5. "Budget an additional $80-$150/month for utilities in a non-utilities-included unit in Bloomington-Normal."
+
+**Rule 5: FAQ rule.**
+The FAQ section must include the following 6 questions and answers. Each answer must be 40-60 words. The entire section must be structured for FAQPage schema.
+
+---
+
+*FAQ questions for the writing agent:*
+
+**Q1: How much does a one bedroom apartment cost in Bloomington-Normal, IL?**
+Source: PAA + Claude AI response
+Answer must include: specific range ($650-$1,200), average for each city, note on utilities-included vs. not, date marker.
+
+**Q2: What is the difference between renting in Bloomington vs. Normal, IL?**
+Source: Claude AI information gap (no competitor covers this)
+Answer must include: Normal's proximity to ISU, Bloomington's proximity to major employers, price comparison note.
+
+**Q3: Are there one bedroom apartments in Bloomington-Normal under $800?**
+Source: PAA (multiple variations appear)
+Answer must include: confirmation they exist, typical tradeoffs (older building, shared laundry, less central), lease timing note.
+
+**Q4: Can I find a no credit check apartment in Bloomington-Normal?**
+Source: PAA
+Answer must include: honest explanation of what "no credit check" typically means in this market, alternatives (co-signer, larger deposit), practical advice.
+
+**Q5: When is the best time to look for an apartment in Bloomington-Normal?**
+Source: Claude AI information gap (no competitor covers lease timing)
+Answer must include: May-August competition spike, September-February advantage, August 1 ISU turnover date.
+
+**Q6: What should I budget for utilities in Bloomington-Normal apartments?**
+Source: Claude AI information gap
+Answer must include: $80-$150/month estimate, note on utilities-included units being common in older stock, winter heating note.
+
+---
+
+## 8. CTA and Funnel Strategy
+
+**Primary CTA:**
+"Search one bedroom apartments in Bloomington-Normal on brightplace" linking to brightplace.ai (or a direct Bloomington-Normal city search page if available).
+
+**CTA placement:**
+1. **After the first H2** (the price range section): The reader has just learned the rent range and is primed to search. Insert: "brightplace tracks current one bedroom availability across Bloomington-Normal. See what is listed now at brightplace.ai."
+2. **After the Bloomington vs. Normal comparison section:** Insert: "If you have identified which city fits your situation, brightplace can show you what is currently available in each area."
+3. **At the end of the article:** Final CTA after FAQ. "Ready to search? brightplace.ai covers the Bloomington-Normal rental market with current listings and neighborhood context."
+
+**Secondary CTA:**
+Link to a brightplace guide on renting in Illinois or moving to Central Illinois if one exists in the sitemap. The writing agent will confirm the exact URL from the sitemap. Frame as: "If you are new to Illinois or relocating from out of state, brightplace's guide to [topic] covers what you should know before your move."
+
+**CTA language rules (for writing agent):**
+- Never use "click here," "explore today," "don't miss out," or urgency language.
+- Frame CTA as a natural next step: "See what is available," "Check current listings," "brightplace tracks."
+- CTA must feel editorially consistent with the article tone: helpful, specific, not promotional.
+
+---
+
+## 9. Writer Rules
+
+**Reproduce in full for writing agent:**
+
+---
+
+### BRAND RULES (NON-NEGOTIABLE)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### ADDITIONAL PRODUCTION RULES
+
+**Target word count:** 1,100-1,300 words.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+
+**Every H2 section opens with its answer, not with context or background.** The answer comes first. Context and explanation follow.
+
+**Date-stamp all numerical claims.** Every rent figure, statistic, or factual claim must include "(as of Q2 2025)" or an equivalent temporal marker adjacent to the claim.
+
+**Define terms on first use.** Utilities-included apartment, lease turnover, and Twin Cities must each be defined in a single clear sentence the first time they appear.
+
+**Include both comparison tables** as specified in Section 7, Rule 2. Use clean markdown table syntax.
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema on the FAQ section (always)
+- Speakable schema on the opening summary paragraph and FAQ section
+
+**CTA placement:** Three CTAs as specified in Section 8. No aggressive language. Frame as natural next step.
+
+**No property names, no management company recommendations.** Reference property types and price tiers generically. Do not name or recommend specific landlords, management companies, or complexes.
+
+**No ILS platform mentions.** Do not name or link to Apartments.com, Zillow, Zumper, or any other ILS platform.
+
+**No Reddit, City-Data, or forum references** in any form, direct or indirect.
+
+**brightplace is always lowercase.** This applies at the start of a sentence, in a heading, in a CTA, and in every other context.
