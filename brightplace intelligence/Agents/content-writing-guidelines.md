@@ -185,7 +185,11 @@ For a standard 1,200-1,500 word article: **4-6 external links**
   1. After the first H2 (once the reader has context)
   2. After the comparison/neighborhood section (mid-article)
   3. End of article (after FAQ or as final paragraph)
-- Use informational framing only: "See what is available on brightplace" / "brightplace tracks current availability"
+- **Two link targets:**
+  - `brightplace.ai` — use for brand mentions and general references ("learn more at brightplace.ai")
+  - `app.brightplace.ai` — use for action CTAs where the reader should search ("start searching at app.brightplace.ai")
+  - At least one CTA per article should link to `app.brightplace.ai` to drive search traffic directly to the app
+- Use informational framing only: "See what is available on brightplace" / "brightplace tracks current availability" / "Start searching at app.brightplace.ai"
 - Never use: "Sign up," "Get started," "Don't wait," "Find your dream home"
 - brightplace CTAs do NOT count toward the internal link target
 
