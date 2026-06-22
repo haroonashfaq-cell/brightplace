@@ -1,0 +1,373 @@
+# CONTENT BRIEF: Weston Oaks Apartments Florida
+## brightplace.ai/knowledgebase/ — Production Brief for AI Writing Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top SERP results for "weston oaks apartments florida" are dominated by **property-specific informational pages**: the official property website (floor plans, amenities, income limits), a lender/investor profile page (NLP Inc.), and an affordable housing directory listing (USHousingHelp.com). There is no editorial or review content ranking in the top results.
+
+The dominant format is a **structured property profile**: factual details about unit types, pricing, amenities, eligibility, and location. The article must match this format. It should function as a structured property profile with editorial depth, not a how-to guide or a listicle.
+
+### 1b. Content Depth Benchmark
+
+The competitor pages are thin by editorial standards. The official property site pages (amenities, floor plans, income limits) each run approximately 200–500 words of actual content. The NLP Inc. profile is under 150 words. The USHousingHelp.com listing is approximately 400 words including boilerplate FAQ copy.
+
+**Target word count: 900–1,100 words.** This is enough to materially exceed every current competitor in depth while staying focused. Do not pad to 1,500 words. Utility density beats length here.
+
+### 1c. SERP Features Present
+
+- **People Also Ask (PAA):** Active and populated with 8 questions. This is the highest-value SERP feature on this page. The article must include a dedicated FAQ section using the PAA questions as Q&A source material. Each FAQ answer should be 40–60 words to target individual PAA expansions.
+- **No featured snippet:** No featured snippet is currently captured. This is an open opportunity. The first H2 section should open with a 40–60 word summary paragraph structured as a direct answer to the query. This targets featured snippet capture.
+- **No local pack:** No local pack is appearing, which is consistent with the property-specific query (not a "near me" or category search).
+- **No video carousel, AI Overview, or knowledge panel** detected.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** Informational/navigational. The searcher wants to confirm what Weston Oaks Apartments in Florida is, whether it is affordable housing (LIHTC), what units and pricing look like, and whether they qualify.
+
+**Secondary intent:** Transactional. A portion of searchers are actively considering applying and want to understand income limits, floor plan options, and next steps.
+
+**The article should target the primary informational intent** with enough transactional detail (pricing, eligibility basics, how to apply) to serve the secondary intent without requiring the reader to leave for another source. This matches the property profile format confirmed in Section 1a.
+
+---
+
+## 2. Recommended Titles
+
+**Option 1 (Recommended):**
+Weston Oaks Apartments in Holiday, FL: What Renters Should Know
+
+**Option 2:**
+A Practical Look at Weston Oaks Apartments, Holiday, Florida
+
+**Option 3:**
+Renting at Weston Oaks in Holiday, FL: Units, Pricing, and Eligibility
+
+**Recommended meta description (under 155 characters):**
+Weston Oaks is an income-restricted apartment community in Holiday, FL. See floor plan sizes, rent ranges, income limits, and what to know before applying.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/weston-oaks-apartments-holiday-florida`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a cost-conscious renter, likely a household of one to four people, researching affordable housing options in Pasco County or the greater Tampa Bay area. They are in the **comparison or decision stage** of the renter journey: they have already identified Weston Oaks as a possible fit and are now trying to confirm whether they qualify financially and what the living experience looks like. They need a clear, factual answer to: "Is this property right for my household, and can I get in?" Based on the SERP format, they expect a structured property summary with specific numbers, not a narrative essay.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+weston oaks apartments florida
+
+**Secondary keywords (12):**
+- weston oaks apartments holiday fl
+- weston oaks drive holiday fl
+- affordable apartments holiday florida
+- income restricted apartments pasco county
+- LIHTC apartments holiday fl
+- low income apartments holiday florida
+- 1251 weston oaks drive
+- weston oaks income limits
+- weston oaks floor plans
+- weston oaks rent prices
+- apartments holiday fl 34691
+- pasco county affordable housing
+
+**Entities to mention (8):**
+- Holiday, FL (city; Pasco County)
+- Pasco County (county context for area median income)
+- Highmark Residential (property management company)
+- HUD Area Median Income (AMI) (eligibility framework)
+- LIHTC (Low Income Housing Tax Credit; program type)
+- 60% AMI (income threshold referenced in all floor plan pricing)
+- Neighborhood Lending Partners (NLP Inc.) (financing entity on record)
+- Pinellas County / Tampa Bay area (geographic orientation for relocating searchers)
+
+**Terms to AVOID:**
+- "best," "top," "guide," "ultimate"
+- "navigate," "leverage," "unlock," "vibrant," "bustling"
+- Any ILS platform names (Apartments.com, Zillow, RentCafe, etc.)
+- "deep dive," "dive into," "hidden gem," "it's worth noting"
+- Em dashes in any form
+- The word "signal" in any form
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** Weston Oaks Apartments in Holiday, FL: What Renters Should Know
+
+---
+
+**H2: What Is Weston Oaks Apartments?**
+
+*Writing instruction:* Open with a 40–60 word direct answer to the query. State the property type (LIHTC income-restricted community), location (1251 Weston Oaks Drive, Holiday, FL 34691), and the program structure (income-restricted at 60% AMI). This paragraph is the featured snippet target. Do not add context before answering. Include the property's phone number (727-334-0493) and management company (Highmark Residential) in this section.
+
+---
+
+**H2: Floor Plans and Unit Sizes**
+
+*Writing instruction:* Present all three floor plan tiers using a formatted table. Include bedroom/bathroom configuration, square footage, and starting rent as sourced from competitor data. Note that prices are subject to change and readers should contact the property to confirm current availability. Include the note that floor plans are an artist's rendering and dimensions are approximate (this reflects standard disclaimer language from the property site and builds credibility).
+
+**[TABLE — Floor Plan Comparison]**
+Column headers: Unit Type | Bedrooms/Bathrooms | Square Footage | Starting Rent (as of 2025–2026 listing data)
+
+Rows:
+- 1BR/1BA | 1 bed, 1 bath | 651 sq ft | Starting at $1,219/mo
+- 2BR/2BA | 2 bed, 2 bath | 926 sq ft | Starting at $1,200/mo
+- 3BR/2BA | 3 bed, 2 bath | 1,089 sq ft | Starting at $1,400/mo
+
+*Note to writer:* The 2BR starting rate is listed lower than the 1BR on the official floor plans page. Acknowledge this plainly in the section copy. This is a factual detail that builds trust and reflects honest reporting.
+
+---
+
+**H2: Income Eligibility and How the 60% AMI Program Works**
+
+*Writing instruction:* Explain what LIHTC (Low Income Housing Tax Credit) means in plain language: it is a federal program that finances reduced-rent housing for households below a percentage of the Area Median Income. At Weston Oaks, that threshold is 60% of the HUD AMI for Pasco County. Define AMI in one sentence. Then present the income limit table from the property's official income limits page. Eight household size rows are available in the source data. Present as a clean two-column table. Include the property's note about annual recertification. This section directly targets the PAA question "Weston oaks income guidelines."
+
+**[TABLE — Maximum Allowable Household Income by Household Size]**
+Column headers: Household Size | Maximum Annual Income
+
+Rows (from official property source data):
+1 person: $29,580 | 2 people: $33,780 | 3 people: $37,980 | 4 people: $42,180 | 5 people: $45,600 | 6 people: $48,960 | 7 people: $52,320 | 8 people: $55,680
+
+---
+
+**H2: Community Amenities**
+
+*Writing instruction:* List all confirmed community-level and apartment-level amenities from the competitor amenities page. Organize into two short groups: community amenities and in-unit features. Do not use a table here. Use a compact two-column list format or short bulleted groups. Mention the pet policy details (2 pets allowed, cats and dogs, $300 non-refundable fee for first pet, $200 for second, $20/month pet rent, $100 deposit, no breed restrictions except aggression/bite history). This section answers the PAA question "Services offered by weston oaks apartments."
+
+Community amenities include: swimming pool with sun decks, wading pool, poolside Wi-Fi, picnic and barbecue areas, playground, basketball court, fitness center, car care center, community center, business center, resident events, online payments, deposit alternative available.
+
+In-unit features include: fully equipped kitchen, double stainless sink, kitchen pantry, washer and dryer connections, large walk-in closets, energy-efficient HVAC, impact-resistant windows, ceiling fans, mini-blinds, marble window sills.
+
+---
+
+**H2: Location and What Holiday, FL Looks Like Day to Day** **[CONTENT GAP]**
+
+*Writing instruction:* This section does not appear in any competing content. All competitors (the property site, NLP Inc., USHousingHelp) list the address and nothing more about the surrounding area. Fill this gap with lifestyle infrastructure detail: Holiday is an unincorporated Pasco County community approximately 30 miles north of Tampa and 10 miles north of Clearwater. Describe by lifestyle infrastructure only (no demographic or safety language per Fair Housing rules): proximity to the Gulf Coast beaches (Anclote Key Preserve State Park is nearby), access to US-19 as the primary commercial corridor for grocery and retail, the commute context (car-dependent; US-19 connects to the broader Tampa Bay job market). Mention that the property's location on Weston Oaks Drive places it within a residential pocket with parks access. Keep this section to 100–120 words. Describe the area through what you can do from it, not who lives there.
+
+---
+
+**H2: The Application Process: What to Expect** **[CONTENT GAP]**
+
+*Writing instruction:* This section is missing from all competitor content except the income limits page, which only covers income verification. No competitor explains the application experience end to end. Write a short, practical walkthrough: applicants apply through the property's online portal (Highmark Residential / SecureCafe platform), must submit income documentation for all adult household members, must meet income limits at the time of initial lease, and undergo annual recertification. Mention that a deposit alternative is available (no traditional security deposit required for qualifying applicants). Note that wait times vary and applicants should call 727-334-0493 to confirm current availability and whether a waitlist is active. This section targets the PAA questions about the property address and is a practical gap in every current SERP result.
+
+---
+
+**H2: Frequently Asked Questions About Weston Oaks Apartments**
+
+*Writing instruction:* Present 6 Q&A pairs. Each answer must be 40–60 words. Use H3 tags for each question. These become FAQPage schema entries. Source questions from PAA data and content gaps identified in this brief.
+
+**H3: What are the income limits to rent at Weston Oaks?**
+*(Source: PAA — "Weston oaks income guidelines")*
+
+**H3: What floor plan sizes are available at Weston Oaks?**
+*(Source: Competitor content gap + PAA — "Services offered by weston oaks apartments")*
+
+**H3: Are pets allowed at Weston Oaks Apartments?**
+*(Source: Competitor amenities page; not addressed in any PAA result — high searcher relevance)*
+
+**H3: Is Weston Oaks a Section 8 or subsidized housing property?**
+*(Source: Content gap — AI response from Claude misidentified property location entirely; renter confusion between LIHTC and Section 8 is a common, unaddressed question)*
+
+**H3: How do I apply to Weston Oaks Apartments in Holiday, FL?**
+*(Source: Content gap — no competitor covers application process)*
+
+**H3: What is the difference between 60% AMI rent and market rate rent?**
+*(Source: AI engine gap — USHousingHelp FAQ touches this but does not define it clearly; this is a high-value definition question for LLM citation)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **Frame the floor plan and pricing data with a sourcing statement:** "Based on floor plan listings from the property's official leasing portal (as of mid-2025), here is what Weston Oaks currently offers." This positions brightplace as having reviewed primary sources, not scraped a secondary aggregator.
+
+2. **Include an observed nuance no competitor mentions:** The 2BR starting rate ($1,200) is listed lower than the 1BR starting rate ($1,219) on the official floor plans page. Acknowledging this directly, and noting that renters should confirm current pricing by unit, demonstrates that the article was written by someone who actually read the source material rather than summarizing it at a surface level.
+
+3. **Use a "Last reviewed" notation at the article footer:** "Last reviewed: [Month 2025]." This is a standard E-E-A-T freshness marker.
+
+### 6b. Expertise Markers
+
+- Include the full official income limit table with attribution to HUD AMI as the source framework.
+- Explain what LIHTC means in one sentence and how it differs from Section 8 (project-based vs. tenant-based voucher). This is an expertise marker because most competing content does not make this distinction.
+- State that income recertification is annual and explain what that means practically for residents (income increases above the limit do not result in immediate eviction but are governed by the property's compliance plan). Note this is general LIHTC policy and readers should confirm specifics with management.
+
+### 6c. Freshness & Date-Stamping
+
+- All rent figures must carry "(as of 2025–2026 leasing data)" adjacent to the claim.
+- Income limits must carry "(HUD 2025 AMI, as published on the property's official site)."
+- The article footer must include: "Last reviewed: [Month Year]."
+- **Claims most likely to go stale:** Rent starting prices (these can change monthly with availability), income limits (HUD publishes updated AMI annually, typically in spring), and unit availability counts (9 available 2BR and 7 available 3BR units as of the competitor page scrape date).
+
+### 6d. Information Gain
+
+**Gap 1: Holiday, FL lifestyle context.** No competitor provides any description of the surrounding area. The property site gives only an address and a Google Maps link. The NLP Inc. profile gives a single sentence of location context. brightplace can provide 100+ words of practical lifestyle infrastructure context (US-19 corridor, Gulf proximity, commute realism) that no current ranking page offers.
+
+**Gap 2: Application process walkthrough.** The official site has an application portal link but no prose explanation of what the process involves. The income limits page covers income verification in detail but not the broader application experience. brightplace can be the only indexed page explaining the full application flow in plain language.
+
+**Gap 3: LIHTC vs. Section 8 clarification.** The Claude AI response in Data Source 3 misidentified the property entirely (placing it in Weston, Broward County, and describing market-rate rents of $1,900–$3,800). This confusion reflects a real gap: many renters searching "weston oaks apartments florida" do not know whether this is a Section 8 property, a LIHTC property, or a conventional market-rate complex. A brief, accurate explanation of the difference is both a genuine information gap and a correction of AI misinformation, which Google's helpful content guidance specifically values.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Cost-conscious renters in the Tampa Bay/Pasco County area researching affordable housing eligibility at a specific named property.
+- **First-hand expertise demonstrated:** Yes. The article reviews and presents primary source data from the official property site, identifies a pricing anomaly (2BR priced below 1BR), and corrects AI misinformation about property location.
+- **Reader achieves their goal:** Yes. After reading, the searcher knows: what the property is, whether they likely qualify by income, what units are available, what amenities are included, what the area is like, and how to take next steps.
+- **Meets brightplace brand standards:** Yes. No em dashes, no banned phrases, no ILS citations, no Fair Housing violations, lowercase "brightplace" throughout, curation framing in the title.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No ChatGPT response data was retrieved for this keyword. Citation landscape for ChatGPT is unknown and cannot be confirmed from the provided data.
+
+**Claude:** Claude's response for this keyword was substantially inaccurate. It identified "Weston Oaks Apartments" as being located in Weston, Florida (Broward County) rather than Holiday, Florida (Pasco County). It cited market-rate rents of $1,900–$3,800/month and referenced Weston as a "master-planned city." It cited Apartments.com, Zillow, Zumper, Apartment List, and the Broward County Property Appraiser as recommended verification sources. None of these citations apply to the actual property. Claude did not cite the property's official site, NLP Inc., or any accurate source.
+
+**Is brightplace cited by either engine?** No for both.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+Claude's citations (even though inaccurate) reflect the kinds of sources LLMs default to: large ILS platforms with broad coverage, county government tools, and properties with prominent SEO footprints in their actual metro area. Weston Oaks in Holiday, FL has a thin indexed footprint. The official site is behind a security verification bot for some pages, which limits LLM crawlability. brightplace's article can be among the most accessible, well-structured, accurate pages indexed for this property.
+
+**Information Gaps identified by AI engines:**
+1. The correct location of the property (Holiday, Pasco County, not Weston, Broward County). Claude's error here is significant. An article that correctly and clearly states "Weston Oaks is located in Holiday, FL (Pasco County), not in the city of Weston" will be a direct correction of a documented AI error, which increases citability.
+2. The LIHTC program type and income eligibility framework. Claude's response discussed market-rate rents with no mention of income restriction. An article that explains the 60% AMI threshold clearly will fill a direct gap in AI knowledge.
+3. Application process specifics. Neither AI engine covered how to apply, what documents are needed, or what a LIHTC application involves.
+4. The correct rent ranges. Claude cited $1,900–$3,800. The actual starting rents are $1,200–$1,400. An article that clearly states accurate rent ranges with source attribution will be highly citable as a correction source.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words must contain: (a) a direct answer stating that Weston Oaks Apartments is an income-restricted rental community located in Holiday, FL (Pasco County), not in the city of Weston; (b) the target audience (renters qualifying under the 60% AMI income threshold); (c) at least one specific numerical data point (starting rents from $1,200/month or the 200-unit property size). Do not begin with a question, a transitional phrase, or scene-setting. Open with the fact.
+
+**Rule 2: Structured data rule.**
+Include two tables:
+
+Table 1 (Floor Plans): Columns: Unit Type | Bedrooms/Bathrooms | Square Footage | Starting Rent. Four rows (header + three unit tiers). Use clean markdown table formatting in the draft; the production team will convert to HTML.
+
+Table 2 (Income Limits): Columns: Household Size | Maximum Annual Household Income. Nine rows (header + eight household sizes). Present exactly as sourced from the official property income limits page, attributed to HUD 2025 AMI at 60%.
+
+No other tables are warranted.
+
+**Rule 3: Definition rule.**
+The following five terms must be defined in a single clear sentence at the first point of use:
+
+1. **LIHTC (Low Income Housing Tax Credit):** Define as a federal tax credit program that incentivizes private developers to build and maintain affordable rental housing for households below a set percentage of the Area Median Income.
+2. **Area Median Income (AMI):** Define as the midpoint household income for a given geographic area, as calculated annually by the U.S. Department of Housing and Urban Development (HUD), used to set eligibility thresholds for income-restricted housing.
+3. **60% AMI:** Define as the income ceiling at which Weston Oaks is restricted: households must earn no more than 60% of the local AMI to qualify.
+4. **Annual recertification:** Define as the annual process by which residents must resubmit income documentation to confirm continued eligibility to live in a LIHTC property.
+5. **Deposit alternative:** Define as a program offered at Weston Oaks that allows qualifying applicants to forego a traditional security deposit, replacing it with a lower-cost insurance product.
+
+**Rule 4: Proof point rule.**
+Include these specific numerical claims with the adjacent date/source notation:
+
+1. "Weston Oaks contains 200 total units (as of the NLP Inc. property profile, sourced from Pasco County development records)."
+2. "Unit mix: 40 one-bedroom units, 96 two-bedroom units, and 64 three-bedroom units."
+3. "Starting rent for a 2-bedroom, 2-bathroom unit begins at $1,200/month (as of 2025–2026 leasing data from the official property portal)."
+4. "Maximum allowable household income for a family of four is $42,180 annually (HUD 2025 AMI at 60%, Pasco County)."
+5. "The non-refundable pet fee is $300 for the first pet and $200 for the second (as of the current amenities listing)."
+
+**Rule 5: FAQ rule.**
+The six FAQ questions and their source designations:
+
+1. "What are the income limits to rent at Weston Oaks Apartments?" — Source: PAA ("Weston oaks income guidelines")
+2. "What floor plan sizes are available at Weston Oaks?" — Source: PAA ("Services offered by weston oaks apartments") + competitor content
+3. "Are pets allowed at Weston Oaks Apartments?" — Source: Competitor amenities page; high-intent renter question not addressed in PAA
+4. "Is Weston Oaks a Section 8 property or a tax credit property?" — Source: AI engine content gap (Claude incorrectly described property; LLM confusion reflects renter confusion)
+5. "How do I apply to live at Weston Oaks in Holiday, FL?" — Source: Content gap; no competitor covers this
+6. "What is the difference between 60% AMI rent and market-rate rent?" — Source: AI engine gap; USHousingHelp touches this but does not define it accurately
+
+Each answer: 40–60 words, complete sentence structure, specific to Weston Oaks where possible.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"See affordable apartment options in the Holiday and Pasco County area on brightplace."
+Link to: `brightplace.ai` or the brightplace city/area search for Holiday, FL or Pasco County, FL.
+
+**Placement:** Appear in three locations: (1) immediately after the floor plans table in the Floor Plans section; (2) at the end of the Application Process section; (3) as a final standalone line after the FAQ section. Each placement should use slightly different phrasing to avoid repetition.
+
+Suggested phrasing variants:
+- After floor plans: "brightplace tracks available units and rent trends across the Tampa Bay area. See what is currently listed in Holiday, FL."
+- After application process: "If Weston Oaks has a waitlist or you want to compare nearby options, brightplace can show you what is available in Pasco County."
+- After FAQ: "Searching for affordable apartments near Holiday, FL? brightplace's AI-native search experience can help you find income-restricted and market-rate options across the region."
+
+**Secondary CTA:**
+Link to a brightplace knowledgebase article covering affordable housing or LIHTC apartments in the Tampa Bay area or Pasco County, if one exists in the sitemap. If no such article exists, this is a recommended future content piece: "A Practical Guide to Income-Restricted Apartments in the Tampa Bay Area." The writing agent should add a placeholder internal link note with this topic described, for the production team to resolve against the sitemap.
+
+**CTA language rules compliance:** All CTAs above use curation framing. None use "best," "unlock," "leverage," or any banned phrase. All reference brightplace in lowercase. No em dashes used.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. The writing agent must follow every rule in this section exactly. No exceptions.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** Do not use any of the following in any form:
+"deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (as a verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Write like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe areas by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to any of the following in published content:
+ILS platforms: Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com.
+Review aggregators: ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes.
+Score sites: Walk Score, Bike Score, Transit Score.
+Forums: Reddit, City-Data, BiggerPockets.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+**Target word count:** 900–1,100 words. Do not pad. Every sentence must carry information.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style. Write as if explaining this property to a coworker who asked you about it.
+
+**Sentence structure:** Short declarative sentences. Prefer two short sentences over one compound sentence. Avoid subordinate clause stacking.
+
+**Paragraph length:** 2–4 sentences maximum. No exceptions. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query directly. Do not open with rhetorical questions, general statements about renting, or scene-setting.
+
+**Section openings:** Every H2 section opens with its answer or key fact, not with context or background. The answer comes first. The explanation follows.
+
+**Tables:** Format as clean markdown tables in the draft. Label each table with a caption. The production team will convert to HTML for schema compliance.
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema (always; applied to the FAQ H2 section)
+- Speakable schema (applied to the opening summary paragraph under the first H2 and to the FAQ section)
+- HowTo schema is not warranted for this article type.
+
+**Date notation:** Every dollar figure, rent range, statistic, or factual claim must include "(as of [Quarter or Month] [Year])" adjacent to the claim. Do not use vague terms like "currently" or "recently" without a date anchor.
+
+**Footer notation:** The article must end with: "Last reviewed: [Month Year]." Place this after the final FAQ entry, before any CTA.
+
+**Correction framing:** The article should include one brief, factual note that Weston Oaks Apartments is located in Holiday, FL (Pasco County), not in the city of Weston (Broward County). This distinction is worth stating plainly because the two locations are sometimes confused. Do not editorialize about AI errors. State the fact and move on.
+
+**Property contact information:** Include the property phone number (727-334-0493) and address (1251 Weston Oaks Drive, Holiday, FL 34691) at least once in the body of the article, in the opening section. This is factual reference material for the searcher.
