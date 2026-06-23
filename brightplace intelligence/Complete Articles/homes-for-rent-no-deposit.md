@@ -71,7 +71,7 @@ Income-qualified housing sets maximum household income thresholds for eligibilit
 
 A Housing Choice Voucher, commonly called Section 8, is a federal rental assistance program where the government pays a portion of the renter's monthly rent directly to the landlord. Many <a href="https://www.hud.gov/topics/housing_choice_voucher_program_section_8" target="_blank" rel="noopener">Section 8 properties through HUD</a> reduce or eliminate security deposits for voucher holders. The <a href="https://www.hud.gov/program_offices/public_indian_housing/pha/contacts" target="_blank" rel="noopener">HUD Public Housing Authority directory</a> is the primary starting point for applications.
 
-Waitlists in high-cost cities like New York, San Francisco, and Los Angeles can stretch years. Mid-size cities with shorter waitlists and near-term availability include Columbus OH, Indianapolis IN, Memphis TN, and El Paso TX (as of Q2 2026). Mobile homes for rent and affordable rentals with no upfront cost are also more common in these markets through local housing authorities.
+Waitlists in high-cost cities like New York, San Francisco, and Los Angeles can stretch years. Mid-size cities with shorter waitlists and near-term availability include Columbus OH, Indianapolis IN, Memphis TN, and El Paso TX (as of Q2 2026). Mobile homes for rent and affordable rentals with no upfront cost are also more common in these markets through local housing authorities. Renters exploring the Phoenix market specifically can find neighborhood-level pricing in brightplace's [Phoenix renters orientation](https://brightplace.ai/guides/phoenix-renters-orientation).
 
 For more context on how to approach the rental process from the start, see brightplace's guide on [how to rent an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment).
 
@@ -90,7 +90,7 @@ Before sending money to any private landlord, verify the following:
 - The property can be toured in person before any payment
 - No payment is requested via wire transfer, gift cards, or cryptocurrency
 
-Legitimate private landlords will meet you at the property and provide a written lease.
+Legitimate private landlords will meet you at the property and provide a written lease. If you are considering a roommate arrangement to further reduce costs, brightplace's guide to [renters insurance with roommates](https://brightplace.ai/resources/renters-insurance-with-roommates) explains how shared living affects coverage.
 
 ## How Much Rent You Can Afford Without a Deposit
 
@@ -209,7 +209,7 @@ Ready to start your search? brightplace tracks rental availability across major 
   "dateModified": "2026-05-21",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/homes-for-rent-no-deposit"
+    "@id": "https://brightplace.ai/resources/homes-for-rent-no-deposit"
   }
 }
 ```
@@ -222,7 +222,7 @@ Ready to start your search? brightplace tracks rental availability across major 
   "@type": "WebPage",
   "name": "Homes for Rent No Deposit: What Actually Exists and How to Find Them",
   "description": "Homes for rent with no deposit exist in three forms. Here is how each works, what it costs, and where to find legitimate listings.",
-  "url": "https://brightplace.ai/knowledgebase/homes-for-rent-no-deposit",
+  "url": "https://brightplace.ai/resources/homes-for-rent-no-deposit",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -241,14 +241,14 @@ Ready to start your search? brightplace tracks rental availability across major 
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Homes for Rent No Deposit: What Actually Exists and How to Find Them",
-        "item": "https://brightplace.ai/knowledgebase/homes-for-rent-no-deposit"
+        "item": "https://brightplace.ai/resources/homes-for-rent-no-deposit"
       }
     ]
   },

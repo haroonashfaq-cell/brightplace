@@ -81,7 +81,7 @@ A significant portion of Huntsville's room rental market is advertised as all-in
 
 ### What Is Typically Not Included
 
-- Renter's insurance
+- [Renter's insurance](https://brightplace.ai/resources/renters-insurance-with-roommates)
 - Cable TV or streaming subscriptions
 - Groceries or meal plans
 - Parking (unless specifically stated)
@@ -116,7 +116,7 @@ Here is where Huntsville room rental inventory actually lives:
 - **Local property management company websites:** Some Huntsville property managers list shared housing and room rentals directly on their own sites.
 - **University bulletin boards and UAH housing resources:** Useful for rooms near campus, especially during semester transitions when turnover is highest.
 
-Always verify any listing in person before transferring money. Confirm the landlord's identity and review any lease or rental agreement carefully.
+Always verify any listing in person before transferring money. Confirm the landlord's identity and review any lease or rental agreement carefully. If you need flexibility on move-in costs, brightplace's guide to [homes for rent with no deposit](https://brightplace.ai/resources/homes-for-rent-no-deposit) covers deposit alternatives and negotiation strategies.
 
 If you are searching for housing in Huntsville, brightplace's apartment search tool gives you a faster path to finding what fits. [Search on brightplace](https://brightplace.ai).
 
@@ -231,7 +231,7 @@ Yes. Furnished rooms are especially common near UAH and Cummings Research Park, 
   "dateModified": "2026-05-21",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/rooms-for-rent-huntsville-al"
+    "@id": "https://brightplace.ai/resources/rooms-for-rent-huntsville-al"
   }
 }
 ```
@@ -244,7 +244,7 @@ Yes. Furnished rooms are especially common near UAH and Cummings Research Park, 
   "@type": "WebPage",
   "name": "Rooms for Rent Huntsville AL: What to Expect on Price and Location",
   "description": "Rooms for rent in Huntsville, AL cost $500 to $950/month depending on area and inclusions. Here is what renters need to know before searching.",
-  "url": "https://brightplace.ai/knowledgebase/rooms-for-rent-huntsville-al",
+  "url": "https://brightplace.ai/resources/rooms-for-rent-huntsville-al",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -263,14 +263,14 @@ Yes. Furnished rooms are especially common near UAH and Cummings Research Park, 
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Rooms for Rent Huntsville AL: What to Expect on Price and Location",
-        "item": "https://brightplace.ai/knowledgebase/rooms-for-rent-huntsville-al"
+        "item": "https://brightplace.ai/resources/rooms-for-rent-huntsville-al"
       }
     ]
   },

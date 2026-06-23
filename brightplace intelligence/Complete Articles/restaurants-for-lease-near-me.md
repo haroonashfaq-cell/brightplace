@@ -15,7 +15,7 @@ author: brightplace
 
 ## What "Restaurants for Lease Near Me" Actually Returns
 
-Searching for restaurants for lease near me pulls commercial real estate listings, not residential apartments. This is a commercial search, and the tools are different. Restaurant spaces in secondary markets list for as little as $12 to $25 per square foot per year (as of Q2 2026), while prime urban corridors can run $80 to $200+ per square foot per year (as of Q2 2026). If you are a prospective restaurant operator evaluating your first location, expanding, or moving out of a commissary kitchen, this guide covers where to search, how pricing works, and what to negotiate before you sign.
+Searching for restaurants for lease near me pulls commercial real estate listings, not residential apartments. This is a commercial search, and the tools are different. Restaurant spaces in secondary markets list for as little as $12 to $25 per square foot per year (as of Q2 2026), while prime urban corridors can run $80 to $200+ per square foot per year (as of Q2 2026). If you are a prospective restaurant operator evaluating your first location, expanding, or moving out of a commissary kitchen in cities like [Houston](https://brightplace.ai/guides/houston-city-orientation) or [Dallas](https://brightplace.ai/guides/dallas-families), this guide covers where to search, how pricing works, and what to negotiate before you sign.
 
 Based on the search patterns brightplace tracks, "restaurants for lease near me" consistently pulls commercial real estate results, not property inventoryings. The platforms, lease structures, and terminology are entirely different from residential rentals. Understanding that distinction is the first step toward an efficient search.
 
@@ -134,7 +134,7 @@ Spaces under $1,000/month (as of Q2 2026) exist primarily in rural secondary mar
 
 ### Ghost Kitchens and Commissary Alternatives
 
-Ghost kitchen memberships and commissary kitchens offer an alternative for early-stage operators who are not ready for a full lease commitment. Monthly memberships run $2,000 to $10,000 (as of Q2 2026) depending on the market, but they eliminate buildout costs entirely. For operators building a proof of concept before signing a long-term lease, this path reduces risk considerably. The [apartment lease walkthrough process](https://brightplace.ai/guides/how-to-rent-an-apartment) shares some structural similarities with commercial leasing, though the terms and stakes differ significantly.
+Ghost kitchen memberships and commissary kitchens offer an alternative for early-stage operators who are not ready for a full lease commitment, similar to how [short-term lease agreements](https://brightplace.ai/resources/short-term-lease-agreement) reduce commitment on the residential side. Monthly memberships run $2,000 to $10,000 (as of Q2 2026) depending on the market, but they eliminate buildout costs entirely. For operators building a proof of concept before signing a long-term lease, this path reduces risk considerably. The [apartment lease walkthrough process](https://brightplace.ai/guides/how-to-rent-an-apartment) shares some structural similarities with commercial leasing, though the terms and stakes differ significantly.
 
 ## Frequently Asked Questions About Leasing Restaurant Space
 
@@ -275,7 +275,7 @@ If you are also deciding which city to open in, brightplace's [city orientation 
   "dateModified": "2026-05-15",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/restaurants-for-lease-near-me"
+    "@id": "https://brightplace.ai/resources/restaurants-for-lease-near-me"
   }
 }
 ```
@@ -288,7 +288,7 @@ If you are also deciding which city to open in, brightplace's [city orientation 
   "@type": "WebPage",
   "name": "How to Find Restaurant Space for Lease Near You",
   "description": "Looking for restaurants for lease near you? Here is how commercial restaurant leases work, where to search, and what to check before signing anything.",
-  "url": "https://brightplace.ai/knowledgebase/restaurants-for-lease-near-me",
+  "url": "https://brightplace.ai/resources/restaurants-for-lease-near-me",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -307,14 +307,14 @@ If you are also deciding which city to open in, brightplace's [city orientation 
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "How to Find Restaurant Space for Lease Near You",
-        "item": "https://brightplace.ai/knowledgebase/restaurants-for-lease-near-me"
+        "item": "https://brightplace.ai/resources/restaurants-for-lease-near-me"
       }
     ]
   },

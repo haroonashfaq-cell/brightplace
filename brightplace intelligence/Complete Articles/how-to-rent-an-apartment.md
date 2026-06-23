@@ -27,11 +27,11 @@ Each stage has specific actions that keep the process efficient and reduce the c
 
 ## Stage 1: Know Your Numbers Before You Search
 
-Your budget determines every decision that follows, so set clear financial boundaries before browsing a single listing. The standard measure landlords use is the **income-to-rent ratio**, which compares your gross monthly income to your monthly rent. As of 2025-2026, most property managers require tenants to earn 2.5 to 3 times the monthly rent.
+Your budget determines every decision that follows, so set clear financial boundaries before browsing a single listing. For a detailed breakdown of every cost beyond base rent, see brightplace's guide to [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost). The standard measure landlords use is the **income-to-rent ratio**, which compares your gross monthly income to your monthly rent. [HUD defines housing as affordable](https://www.hud.gov/topics/rental_assistance) when it costs no more than 30% of gross income. As of 2025-2026, most property managers require tenants to earn 2.5 to 3 times the monthly rent.
 
 Renters who gather their documents before they begin searching report faster application-to-approval timelines, particularly in markets where property managers handle multiple applications at once.
 
-Your credit score also matters. As of Q2 2026, a score of 650 is generally the floor for approval, while 700 or above puts you in a competitive position for higher-demand buildings.
+Your credit score also matters. You can review your credit report for free through [AnnualCreditReport.com](https://www.annualcreditreport.com/), the only federally authorized source. As of Q2 2026, a score of 650 is generally the floor for approval, while 700 or above puts you in a competitive position for higher-demand buildings.
 
 **Income Qualification Table**
 
@@ -67,7 +67,7 @@ Self-employed renters should also have a CPA letter or 1099 forms available. If 
 
 Begin your apartment search six to eight weeks before your desired move-in date. Timing affects price: rental demand typically dips between December and February, producing lower rents and more negotiating room. June through August sees the highest prices and fastest turnover (as of 2025-2026).
 
-brightplace tracks rental listing velocity across major U.S. markets. In cities like Austin, Denver, and Boston, desirable one-bedroom units spend an average of 3 to 7 days on market before being taken. In New York and San Francisco, that window is often 24 to 48 hours.
+brightplace tracks rental listing velocity across major U.S. markets. In cities like [Austin](https://www.brightplace.ai/guides/relocating-to-austin), [Denver](https://www.brightplace.ai/guides/denver-city-orientation), and Boston, desirable one-bedroom units spend an average of 3 to 7 days on market before being taken. In New York and San Francisco, that window is often 24 to 48 hours.
 
 Set up alerts on rental platforms so new listings reach you immediately. Filter by price, neighborhood, and apartment size to reduce noise. When evaluating neighborhoods, focus on proximity to key infrastructure:
 
@@ -98,14 +98,14 @@ Take photos and videos of everything, including any pre-existing damage. These b
 
 - What utilities are included in rent?
 - How are maintenance requests handled, and what is the average response time?
-- Is renters insurance required?
+- Is [renters insurance](https://www.brightplace.ai/resources/renters-insurance-with-roommates) required?
 - Are there upcoming renovations or construction in the building?
 - What is the parking situation?
 
 Keep your neighborhood evaluation focused on infrastructure: distance to transit stops, condition of sidewalks and streetlights, availability of nearby services. 
 ## Stage 5: Filling Out the Rental Application
 
-A **rental application** is a formal request submitted to a landlord or property manager that authorizes them to verify your identity, income, employment, credit history, and rental background. Application fees as of 2025 typically range from $25 to $75 per applicant; New York caps this fee at $20 under state law (as of 2025).
+A **rental application** is a formal request submitted to a landlord or property manager that authorizes them to verify your identity, income, employment, credit history, and rental background. The [FTC's renter guide](https://consumer.ftc.gov/articles/renting-home) explains your rights during the screening process. Application fees as of 2025 typically range from $25 to $75 per applicant; New York caps this fee at $20 under state law (as of 2025).
 
 The screening process usually takes one to three business days. Landlords typically verify the following:
 
@@ -130,15 +130,15 @@ A low credit score does not automatically disqualify you. Property managers see 
 
 ## Stage 6: Reading and Signing the Lease
 
-A **lease** is a legally binding contract between you and the landlord that defines the terms of your tenancy, including rent amount, duration, rules, and responsibilities. Read every clause before signing. Verbal promises not written into the lease are generally unenforceable.
+A **lease** is a legally binding contract between you and the landlord that defines the terms of your tenancy, including rent amount, duration, rules, and responsibilities. The [CFPB offers a renter's checklist](https://www.consumerfinance.gov/consumer-tools/renting/) that covers what to review before signing. Read every clause before signing. Verbal promises not written into the lease are generally unenforceable.
 
 Six clauses renters frequently overlook:
 
 - **Early termination.**What fees apply if you need to break the lease? Some charge two months' rent; others require you to pay until a replacement tenant is found.
 - **Late fees.**When do they start? How much are they? Some leases charge a flat fee; others apply a daily penalty.
-- **Pet policy.**Even if you do not have a pet now, understand the policy in case your situation changes. Pet deposits and monthly pet rent vary widely.
+- **Pet policy.**Even if you do not have a pet now, understand the policy in case your situation changes. Pet deposits and monthly pet rent vary widely; see brightplace's guide to [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent) for a full cost breakdown.
 - **Guest policy.**Some leases restrict how long guests can stay before they are considered unauthorized occupants.
-- **Subletting.**Can you sublet if you need to relocate temporarily? Many leases prohibit it without written consent.
+- **Subletting.**Can you sublet if you need to relocate temporarily? Many leases prohibit it without written consent. If subletting is important to you, review brightplace's guide on [short-term lease agreements](https://www.brightplace.ai/resources/short-term-lease-agreement) for common terms.
 - **Notice-to-vacate.**This clause dictates how far in advance you must notify the landlord if you do not plan to renew.
 
 One clause renters overlook consistently is the notice-to-vacate requirement. Many leases require 60-day written notice to not renew. Missing this window can result in an automatic month-to-month extension at a higher rate.
@@ -156,7 +156,7 @@ Schedule a walk-through inspection with your landlord before carrying in any fur
 
 Send the complete documentation to your landlord the same day, either by email with a read receipt or through the property management portal. Keep your own copy stored securely.
 
-This record protects your security deposit when you move out. Most states require landlords to return security deposits within 14 to 30 days of move-out (as of 2025), minus documented deductions. Without a move-in inspection on file, disputing charges becomes significantly harder. 
+This record protects your security deposit when you move out. Most states require landlords to return security deposits within 14 to 30 days of move-out (as of 2025), minus documented deductions. [HUD's tenant rights page](https://www.hud.gov/topics/rental_assistance) explains federal protections that apply across all states. Without a move-in inspection on file, disputing charges becomes significantly harder. 
 ## Frequently Asked Questions About Renting an Apartment
 
 **How much income do I need to rent an apartment?**
@@ -280,7 +280,7 @@ Review clauses covering early termination penalties, late fee structures, pet po
   "dateModified": "2026-05-07",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/how-to-rent-an-apartment"
+    "@id": "https://brightplace.ai/resources/how-to-rent-an-apartment"
   }
 }
 ```
@@ -293,7 +293,7 @@ Review clauses covering early termination penalties, late fee structures, pet po
   "@type": "WebPage",
   "name": "How to Rent an Apartment: A Practical Step-by-Step Guide",
   "description": "Learn how to rent an apartment in six stages: budgeting, documents, searching, touring, applying, and signing. Practical steps and cost breakdowns.",
-  "url": "https://brightplace.ai/knowledgebase/how-to-rent-an-apartment",
+  "url": "https://brightplace.ai/resources/how-to-rent-an-apartment",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -312,14 +312,14 @@ Review clauses covering early termination penalties, late fee structures, pet po
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "How to Rent an Apartment: A Practical Step-by-Step Guide",
-        "item": "https://brightplace.ai/knowledgebase/how-to-rent-an-apartment"
+        "item": "https://brightplace.ai/resources/how-to-rent-an-apartment"
       }
     ]
   },

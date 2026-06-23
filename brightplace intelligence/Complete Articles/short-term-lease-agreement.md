@@ -15,11 +15,11 @@ author: brightplace
 
 ## What Is a Short-Term Lease Agreement?
 
-A short-term lease agreement is a rental contract covering any tenancy shorter than a standard 12-month lease, typically ranging from 30 days to six months. It defines the rental term, payment obligations, house rules, and the rights of both the renter and the property owner for the duration of the stay. For renters relocating for work, starting a new job, or bridging a gap between leases, this is the document that governs your housing.
+A short-term lease agreement is a rental contract covering any tenancy shorter than a standard 12-month lease, typically ranging from 30 days to six months. It defines the rental term, payment obligations, house rules, and the rights of both the renter and the property owner for the duration of the stay. For renters relocating for work, starting a new job, or bridging a gap between leases -- such as those following brightplace's guide to [relocating to Austin](https://www.brightplace.ai/guides/relocating-to-austin) -- this is the document that governs your housing.
 
-One legal distinction matters more than most renters realize. Stays under 30 days are governed by hotel and transient occupancy law in most states, not by standard landlord-tenant law. Transient occupancy refers to stays under 30 days, which are typically governed by hospitality law rather than rental law, giving renters fewer legal protections. Security deposit return timelines, habitability standards, and formal eviction procedures may not apply to stays below that threshold.
+One legal distinction matters more than most renters realize. Stays under 30 days are governed by hotel and transient occupancy law in most states, not by standard [landlord-tenant law](https://www.hud.gov/topics/rental_assistance). Transient occupancy refers to stays under 30 days, which are typically governed by hospitality law rather than rental law, giving renters fewer legal protections. Security deposit return timelines, habitability standards, and formal eviction procedures may not apply to stays below that threshold.
 
-Stays between 30 days and six months generally fall under landlord-tenant law, but with fewer protections than a standard annual lease. If you know your exact dates, a short-term fixed lease typically offers clearer terms than a month-to-month arrangement. If your timeline is uncertain, a month-to-month lease provides more flexibility at a higher monthly cost.
+Stays between 30 days and six months generally fall under landlord-tenant law, but with fewer protections than a standard annual lease. If you know your exact dates, a short-term fixed lease typically offers clearer terms than a month-to-month arrangement. If your timeline is uncertain, a month-to-month lease provides more flexibility at a higher monthly cost. Renters sharing a unit should also understand how [renters insurance with roommates](https://www.brightplace.ai/resources/renters-insurance-with-roommates) works on shorter lease terms.
 
 **brightplace shows available short-term rental apartments by city and lease length. See what is available at [brightplace.ai](https://brightplace.ai).**
 
@@ -75,7 +75,7 @@ An early termination clause specifies what happens if either party ends the agre
 
 ### House Rules
 
-Smoking, pets, quiet hours, parking, and event prohibitions are standard. House rule violations can be grounds for immediate lease termination in most short-term agreements. Read these as contractual obligations, not suggestions.
+Smoking, pets, quiet hours, parking, and event prohibitions are standard. Renters with pets should also check whether the property qualifies as [pet-friendly housing](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent) with separate pet-related lease terms. House rule violations can be grounds for immediate lease termination in most short-term agreements. Read these as contractual obligations, not suggestions.
 
 ### Landlord Access
 
@@ -83,7 +83,7 @@ Most states require landlords to give notice before entering, even during short-
 
 ### Governing Law and Dispute Resolution
 
-The agreement should specify which state's laws apply. For renters crossing state lines, this matters because tenant protections vary significantly by state. Dispute resolution clauses (arbitration vs. court) affect your practical options if something goes wrong. brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before you commit to any lease.
+The agreement should specify which state's laws apply. For renters crossing state lines, this matters because [tenant protections vary significantly by state](https://www.consumerfinance.gov/housing/renting/). Dispute resolution clauses (arbitration vs. court) affect your practical options if something goes wrong. brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before you commit to any lease.
 
 ## Short-Term Lease vs. Month-to-Month: Which One Applies to You
 
@@ -97,7 +97,7 @@ A short-term fixed lease has a set end date and no automatic renewal. A month-to
 
 **Best for:** Short-term fixed leases work when you know your exact dates. Month-to-month leases work when your timeline is uncertain.
 
-Most states require 30-60 days written notice to terminate a month-to-month lease. Some states require 60 days if the tenancy has exceeded one year.
+Most states require 30-60 days written notice to terminate a month-to-month lease, as outlined in the [Uniform Residential Landlord and Tenant Act](https://www.uniformlaws.org/committees/community-home?CommunityKey=2a4517c4-fe4d-4c11-b84f-2256a3f38498). Some states require 60 days if the tenancy has exceeded one year.
 
 ## What to Check Before You Sign a Short-Term Lease
 
@@ -123,7 +123,7 @@ A short-term lease agreement typically covers stays from 30 days to six months. 
 
 ### Is a short-term lease agreement legally binding without a written document?
 
-Oral rental agreements can be legally binding in many states, but they are extremely difficult to enforce. Without a written short-term lease agreement, neither party has clear documentation of the rental term, rent amount, or cancellation terms. Always insist on a written agreement before paying any deposit or rent.
+Oral rental agreements can be legally binding in many states, but they are extremely difficult to enforce. Without a written short-term lease agreement, neither party has clear documentation of the rental term, rent amount, or cancellation terms. The [FTC advises consumers](https://www.ftc.gov/news-events/topics/consumer-protection) to get all rental terms in writing before paying any deposit or rent.
 
 ### Can a landlord raise the rent after a short-term lease ends?
 
@@ -222,7 +222,7 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
   "dateModified": "2026-06-11",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/short-term-lease-agreement"
+    "@id": "https://brightplace.ai/resources/short-term-lease-agreement"
   }
 }
 ```
@@ -235,7 +235,7 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
   "@type": "WebPage",
   "name": "What a Short-Term Lease Agreement Actually Covers",
   "description": "A short-term lease agreement sets the terms for any rental under 6 months. Here is what every clause means and what to check before you sign.",
-  "url": "https://brightplace.ai/knowledgebase/short-term-lease-agreement",
+  "url": "https://brightplace.ai/resources/short-term-lease-agreement",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -254,14 +254,14 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "What a Short-Term Lease Agreement Actually Covers",
-        "item": "https://brightplace.ai/knowledgebase/short-term-lease-agreement"
+        "item": "https://brightplace.ai/resources/short-term-lease-agreement"
       }
     ]
   },

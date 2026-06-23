@@ -202,6 +202,11 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 - Include practical guidance that reflects real-world knowledge (what to ask during a tour, what to check before signing)
 - Use "what renters ask" framing to reflect genuine engagement with searcher behavior
 - Include at least one honest tradeoff or limitation per article
+- **Named expert attribution:** Include "Reviewed by [Name], [Role] at brightplace" in the article footer or frontmatter. Google's May 2026 AI Overviews "Expert Advice" block pulls first-hand perspectives with attribution; a named reviewer strengthens the Experience signal for AI citation.
+
+### 5.1.1 Information Gain (March 2026 Core Update)
+- Every article must include at least one data point, comparison, or insight not available on competing pages. Google's Information Gain ranking factor (re-weighted in the March 2026 core update) rewards content that adds genuinely new knowledge.
+- Prioritize: proprietary brightplace data, original rent comparisons, first-hand market observations, worked cost examples, and specific local details competitors omit.
 
 ### 5.2 Expertise Indicators
 - Every dollar figure, rent range, or statistic must include a **date stamp**: `(as of Q2 2026)`
@@ -266,6 +271,7 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 ### 8.1 FAQPage Schema (JSON-LD)
 - Include every Q&A pair from the FAQ section
 - Answers must match the article's FAQ answers word-for-word
+- **Note (May 2026):** Google deprecated FAQ rich results on May 7, 2026. FAQPage schema still validates and does not cause problems, but no longer generates rich results in Google SERPs. Keep the schema: it still helps AI systems (ChatGPT, Perplexity, Google AI Overviews) extract and cite Q&A content, and remains valuable for AEO. Remove any expectation of SERP rich result lift.
 
 ### 8.2 Article Schema (JSON-LD)
 - `headline`: Article title

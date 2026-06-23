@@ -17,7 +17,7 @@ author: brightplace
 
 ## What "Apartments with Dog Parks" Actually Means
 
-Apartments with dog parks include an on-site fenced area designated for off-leash dog activity, distinct from sidewalk pet areas or general pet-friendly policies. There is no industry standard for what counts as a dog park in an apartment listing (as of Q2 2026). The term can mean anything from a small concrete dog run to a full-scale fenced turf space with agility equipment and shade structures.
+Apartments with dog parks include an on-site fenced area designated for off-leash dog activity, distinct from sidewalk pet areas or general pet-friendly policies. There is no industry standard for what counts as a dog park in an apartment listing (as of Q2 2026), and [HUD's fair housing guidelines](https://www.hud.gov/program_offices/fair_housing_equal_opp) do not regulate pet amenity marketing claims. The term can mean anything from a small concrete dog run to a full-scale fenced turf space with agility equipment and shade structures.
 
 In practice, four tiers exist:
 
@@ -74,7 +74,7 @@ Dog park quality and availability correlate with land availability, not just pet
 
 ### Markets with High Density of Dog Park Amenities
 
-Sun Belt metros lead in on-site dog park amenities. Austin, Phoenix, Nashville, Charlotte, and Atlanta all have high concentrations of Class A communities with full pet amenity packages (as of Q2 2026). Midwest markets like Columbus, Indianapolis, and Kansas City offer dog park amenities at lower rent tiers.
+Sun Belt metros lead in on-site dog park amenities. Austin, Phoenix, Nashville, Charlotte, and Atlanta all have high concentrations of Class A communities with full pet amenity packages (as of Q2 2026). Midwest markets like Columbus, Indianapolis, and Kansas City offer dog park amenities at lower rent tiers; see brightplace's guide to [Kansas City for young professionals](https://www.brightplace.ai/guides/kansas-city-young-professionals) for more on that market.
 
 ### Pet-Friendly Apartments in Austin, TX
 
@@ -86,13 +86,13 @@ Dog friendly apartments in Phoenix AZ benefit from the metro's low-density devel
 
 ## Breed Restrictions, Weight Limits, and Pet Policies
 
-A building can have a dog park and still restrict certain breeds or impose weight limits. A breed restriction is a lease policy prohibiting specific dog breeds, typically driven by the building's property insurance carrier rather than management preference. Weight limits commonly fall between 50-80 lbs at mid-tier communities (as of Q2 2026). Many Class A and newer communities have eliminated weight restrictions and moved toward temperament-based evaluation.
+A building can have a dog park and still restrict certain breeds or impose weight limits. A breed restriction is a lease policy prohibiting specific dog breeds, typically driven by the building's property insurance carrier rather than management preference, though the [CFPB notes](https://www.consumerfinance.gov/housing/renting/) that housing-related fees must be disclosed before signing. Weight limits commonly fall between 50-80 lbs at mid-tier communities (as of Q2 2026). Many Class A and newer communities have eliminated weight restrictions and moved toward temperament-based evaluation.
 
-Proof of vaccination is required at most communities with on-site dog parks. Expect to provide current rabies, distemper, and bordetella records before your dog can use the park. Some communities also require a pet screening through a third-party service. For more on navigating pet policies, see brightplace's guide to [pet-friendly apartments in Greenville, SC](https://brightplace.ai/knowledgebase/pet-friendly-apartments-greenville-sc).
+Proof of vaccination is required at most communities with on-site dog parks, consistent with guidelines from the [American Veterinary Medical Association](https://www.avma.org/resources-tools/pet-owners/petcare/vaccinations). Expect to provide current rabies, distemper, and bordetella records before your dog can use the park. Some communities also require a pet screening through a third-party service. For more on navigating pet policies, see brightplace's guide to [pet-friendly apartments in Greenville, SC](https://brightplace.ai/knowledgebase/pet-friendly-apartments-greenville-sc).
 
 ## Cheap Apartments with Dog Parks
 
-"Cheap" is relative to market, but budget-conscious renters can find dog park amenities at lower price points. Suburban and garden-style communities in Sun Belt metros offer apartments with dog parks starting at $1,100-$1,400/month for a one-bedroom (as of Q2 2026). Midwest metros like Indianapolis and Kansas City push that floor even lower. Older Class B communities occasionally add dog parks retroactively as a retention tool, which means the park exists but may be smaller or less maintained than what you see at a new-construction property.
+"Cheap" is relative to market, but budget-conscious renters can find dog park amenities at lower price points, and brightplace's guide to [dog-friendly neighborhoods in San Diego](https://www.brightplace.ai/guides/dog-friendly-neighborhoods-san-diego) shows what pet-oriented living looks like in a higher-cost metro. Suburban and garden-style communities in Sun Belt metros offer apartments with dog parks starting at $1,100-$1,400/month for a one-bedroom (as of Q2 2026). Midwest metros like Indianapolis and Kansas City push that floor even lower. Older Class B communities occasionally add dog parks retroactively as a retention tool, which means the park exists but may be smaller or less maintained than what you see at a new-construction property.
 
 *Last reviewed: June 2026*
 
@@ -219,7 +219,7 @@ Yes. Sun Belt metros like Austin, Phoenix, Nashville, and Charlotte have the hig
   "dateModified": "2026-06-12",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/apartments-with-dog-parks"
+    "@id": "https://brightplace.ai/resources/apartments-with-dog-parks"
   }
 }
 ```
@@ -232,7 +232,7 @@ Yes. Sun Belt metros like Austin, Phoenix, Nashville, and Charlotte have the hig
   "@type": "WebPage",
   "name": "What to Know About Apartments with Dog Parks",
   "description": "Apartments with dog parks vary widely in size, quality, and cost. Here is what the amenity actually includes, what it typically costs, and what to ask before you lease.",
-  "url": "https://brightplace.ai/knowledgebase/apartments-with-dog-parks",
+  "url": "https://brightplace.ai/resources/apartments-with-dog-parks",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -251,14 +251,14 @@ Yes. Sun Belt metros like Austin, Phoenix, Nashville, and Charlotte have the hig
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "What to Know About Apartments with Dog Parks",
-        "item": "https://brightplace.ai/knowledgebase/apartments-with-dog-parks"
+        "item": "https://brightplace.ai/resources/apartments-with-dog-parks"
       }
     ]
   },

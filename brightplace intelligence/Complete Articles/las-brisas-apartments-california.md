@@ -49,7 +49,7 @@ Three properties in the greater Los Angeles area use the Las Brisas name, and th
 
 ### South Los Angeles
 
-The South Los Angeles property at 8760 Main Street (ZIP 90003) is a courtyard-style community managed by Cirrus Asset Management. Amenities include a computer lab, playground, and subterranean parking. This is a market-rate property, so standard income and credit qualifications apply. When contacting the leasing office, confirm whether the property is income-restricted before applying. Qualification requirements for LIHTC properties differ substantially from market-rate leasing, and the confusion is common.
+The South Los Angeles property at 8760 Main Street (ZIP 90003) is a courtyard-style community managed by Cirrus Asset Management. Amenities include a computer lab, playground, and subterranean parking. This is a market-rate property, so standard income and credit qualifications apply. When contacting the leasing office, confirm whether the property is income-restricted before applying. Qualification requirements for LIHTC properties differ substantially from market-rate leasing, and the confusion is common. Renters who need flexible deposit options may also want to explore brightplace's guide to [homes for rent with no deposit](https://brightplace.ai/resources/homes-for-rent-no-deposit).
 
 ### Cudahy and South LA (Las Brisas I & II)
 
@@ -67,7 +67,7 @@ Four Las Brisas properties operate in Southern California outside the Los Angele
 
 ### Chula Vista (San Diego County)
 
-**Chula Vista (San Diego County).**Las Brisas Del Mar at 916 4th Avenue offers 3-bedroom units priced at $2,695 to $2,950 per month (as of Q2 2026). The property operates by appointment only, so schedule a visit before showing up. Chula Vista is roughly 7 miles from downtown San Diego, with access to the Bayfront and Third Avenue Village dining district.
+**Chula Vista (San Diego County).**Las Brisas Del Mar at 916 4th Avenue offers 3-bedroom units priced at $2,695 to $2,950 per month (as of Q2 2026). The property operates by appointment only, so schedule a visit before showing up. Chula Vista is roughly 7 miles from downtown San Diego, with access to the Bayfront and Third Avenue Village dining district. For more on San Diego's coastal rental landscape, see brightplace's guide to [dog-friendly neighborhoods in San Diego](https://brightplace.ai/guides/dog-friendly-neighborhoods-san-diego).
 
 ### Huntington Beach (Orange County)
 
@@ -134,7 +134,7 @@ California renters have specific legal protections regardless of which Las Brisa
 
 ### AB 12 (Security Deposit Reform)
 
-**AB 12 (Security Deposit Reform, effective July 1, 2024).**Security deposits for unfurnished units are now capped at one month's rent (as of Q2 2026). Previously, the cap was two months for unfurnished units. This is a direct financial benefit for renters signing new leases at any Las Brisas community.
+**[AB 12](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB12) (Security Deposit Reform, effective July 1, 2024).**Security deposits for unfurnished units are now capped at one month's rent (as of Q2 2026). Previously, the cap was two months for unfurnished units. This is a direct financial benefit for renters signing new leases at any Las Brisas community.
 
 ### Just Cause Eviction (AB 1482)
 
@@ -172,7 +172,7 @@ Rent varies entirely by location and property type. In Chula Vista, 3-bedroom un
 
 ### 7. Do Las Brisas apartments in California accept pets?
 
-Pet policies vary by property. The Chula Vista Las Brisas Del Mar accepts cats and dogs with a maximum weight of 40 pounds, a $500 pet deposit (as of Q2 2026), and $50 per month pet rent. The Colton property also lists as pet-friendly. The Santa Maria property includes a dog park and dog spa on site. Always confirm current breed restrictions and deposit amounts directly with the leasing office.
+Pet policies vary by property. The Chula Vista Las Brisas Del Mar accepts cats and dogs with a maximum weight of 40 pounds, a $500 pet deposit (as of Q2 2026), and $50 per month pet rent. The Colton property also lists as pet-friendly. The Santa Maria property includes a dog park and dog spa on site, similar to the amenities discussed in brightplace's guide to [apartments with dog parks](https://brightplace.ai/resources/apartments-with-dog-parks). Always confirm current breed restrictions and deposit amounts directly with the leasing office.
 
 ### 8. Are Las Brisas apartments in California Section 8 approved?
 
@@ -277,7 +277,7 @@ Some Las Brisas properties accept Section 8 Housing Choice Vouchers. Under feder
   "dateModified": "2026-05-15",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/guides/las-brisas-apartments-california"
+    "@id": "https://brightplace.ai/resources/las-brisas-apartments-california"
   }
 }
 ```
@@ -290,7 +290,7 @@ Some Las Brisas properties accept Section 8 Housing Choice Vouchers. Under feder
   "@type": "WebPage",
   "name": "Las Brisas Apartments in California: Which One Are You Looking For?",
   "description": "Multiple Las Brisas apartments exist across California. Compare locations, rent, unit types, and income-restricted options by city.",
-  "url": "https://brightplace.ai/guides/las-brisas-apartments-california",
+  "url": "https://brightplace.ai/resources/las-brisas-apartments-california",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -309,14 +309,14 @@ Some Las Brisas properties accept Section 8 Housing Choice Vouchers. Under feder
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Las Brisas Apartments in California: Which One Are You Looking For?",
-        "item": "https://brightplace.ai/guides/las-brisas-apartments-california"
+        "item": "https://brightplace.ai/resources/las-brisas-apartments-california"
       }
     ]
   },

@@ -101,7 +101,7 @@ If you have a dog that needs regular outdoor access, ask about:
 2. On-site pet amenities like bark parks or walking paths
 3. Waste station locations
 
-These details affect daily quality of life more than most renters expect.
+These details affect daily quality of life more than most renters expect. For broader guidance on finding [pet-friendly houses for rent](https://brightplace.ai/resources/pet-friendly-houses-for-rent), brightplace covers what to look for beyond apartment communities.
 
 ## Pet-Friendly Resources Near Greenville Apartments
 
@@ -126,7 +126,7 @@ For veterinary care, Greenville's options include:
 - Furwell Veterinary Hospital
 - Hudson Road Veterinary Clinic
 
-Confirm hours and new-patient availability before relying on any single provider, as wait times for new clients have increased across the Greenville area (as of Q2 2026). Renters moving from other pet-friendly cities may find brightplace's [San Diego dog-friendly neighborhoods guide](https://brightplace.ai/guides/dog-friendly-neighborhoods-san-diego) useful for comparison.
+Confirm hours and new-patient availability before relying on any single provider, as wait times for new clients have increased across the Greenville area (as of Q2 2026). Renters moving from other pet-friendly cities may find brightplace's [San Diego dog-friendly neighborhoods guide](https://brightplace.ai/guides/dog-friendly-neighborhoods-san-diego) useful for comparison, and brightplace's [Charlotte affordable neighborhoods guide](https://brightplace.ai/guides/charlotte-affordable-neighborhoods) covers another nearby Southeast market.
 
 ## Frequently Asked Questions About Pet-Friendly Apartments in Greenville, SC
 
@@ -241,7 +241,7 @@ brightplace searches Greenville's rental inventory with pet-friendly filters bui
   "dateModified": "2026-05-15",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/pet-friendly-apartments-greenville-sc"
+    "@id": "https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc"
   }
 }
 ```
@@ -254,7 +254,7 @@ brightplace searches Greenville's rental inventory with pet-friendly filters bui
   "@type": "WebPage",
   "name": "What to Know About Renting a Pet-Friendly Apartment in Greenville, SC",
   "description": "Pet-friendly apartments in Greenville, SC vary on fees, breed rules, and outdoor access. Here is what to expect before you search.",
-  "url": "https://brightplace.ai/knowledgebase/pet-friendly-apartments-greenville-sc",
+  "url": "https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -273,14 +273,14 @@ brightplace searches Greenville's rental inventory with pet-friendly filters bui
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "What to Know About Renting a Pet-Friendly Apartment in Greenville, SC",
-        "item": "https://brightplace.ai/knowledgebase/pet-friendly-apartments-greenville-sc"
+        "item": "https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc"
       }
     ]
   },

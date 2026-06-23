@@ -17,7 +17,7 @@ author: brightplace
 
 Jack Flats is a 212-unit apartment community at Stone Place and Washington Street in Melrose, Massachusetts, built in 2014 and managed by Windsor Property Management Co. It sits within the larger Windsor Radio Factory development, offering studios through three-bedroom units with loft-style interiors and commuter rail access to downtown Boston.
 
-Windsor Radio Factory is the parent campus that contains Jack Flats, located at 99 Washington Street, Melrose, MA 02176. The complex spans four buildings across addresses at 1000, 2000, 3000, and 4000 Stone Place. Melrose is approximately 7 miles north of Boston, placing the property within easy reach of North Station and the broader MBTA transit network.
+Windsor Radio Factory is the parent campus that contains Jack Flats, located at 99 Washington Street, Melrose, MA 02176. The complex spans four buildings across addresses at 1000, 2000, 3000, and 4000 Stone Place. Melrose is approximately 7 miles north of Boston, placing the property within easy reach of North Station and the broader MBTA transit network. The [City of Melrose official website](https://www.cityofmelrose.org/) provides information on local services, permits, and community resources for new residents.
 
 Renters researching Jack Flats most commonly ask about transit options, pricing, and the differences between the three unit collections on the campus. The sections below cover each of those topics with specific details.
 
@@ -39,7 +39,7 @@ Classic units offer a more conventional layout with 9-to-10-foot ceilings and cl
 
 ### Standard Finishes Across All Collections
 
-Jack Flats apartments include standard finishes across all three collections:
+Jack Flats apartments include standard finishes across all three collections. Renters comparing finishes across properties may also find it useful to review what [apartments with attached garages](https://www.brightplace.ai/resources/apartments-with-attached-garages) typically include:
 
 - Stone countertops
 - Stainless steel appliances
@@ -58,7 +58,7 @@ These prices reflect publicly listed rates from Windsor Communities (as of Q2 20
 
 ### Affordable Housing at Jack Flats
 
-One detail most competitors do not cover: Jack Flats includes an affordable housing component with below-market-rate units. Area Median Income, or AMI, is the federal benchmark used to set income eligibility thresholds for below-market-rate housing programs. In the greater Boston area, AMI for a one-person household is approximately $93,000 (as of Q2 2026). Households meeting AMI guidelines may qualify for reduced rents. Waitlist status for these units is currently unknown; contact the leasing office or Housing Navigator MA for current availability and income requirements.
+One detail most competitors do not cover: Jack Flats includes an affordable housing component with below-market-rate units. Area Median Income, or AMI, is the federal benchmark used to set income eligibility thresholds for below-market-rate housing programs. In the greater Boston area, AMI for a one-person household is approximately $93,000 (as of Q2 2026). Households meeting AMI guidelines may qualify for reduced rents. [HUD's rental assistance programs](https://www.hud.gov/topics/rental_assistance) provide additional resources for income-qualified renters. Waitlist status for these units is currently unknown; contact the leasing office or [Housing Navigator MA](https://www.housingnavigatorma.org/) for current availability and income requirements.
 
 ## Amenities and Community Features
 
@@ -84,7 +84,7 @@ Jack Flats participates in Bilt Rewards, which allows residents to earn points o
 
 ### Transit Access
 
-Wyoming Hill Station is the MBTA commuter rail stop nearest to Jack Flats, serving the Haverhill/Newburyport Line with service to North Station in Boston in under 20 minutes on most weekday departures (as of Q2 2026).
+Wyoming Hill Station is the [MBTA commuter rail](https://www.mbta.com/schedules/commuter-rail) stop nearest to Jack Flats, serving the Haverhill/Newburyport Line with service to North Station in Boston in under 20 minutes on most weekday departures (as of Q2 2026).
 
 Transit options from Jack Flats include:
 
@@ -101,7 +101,7 @@ For renters commuting toward Cambridge or Somerville employers, Assembly Row in 
 
 ### Walking Distance from the Property
 
-Downtown Melrose sits within walking distance of the property, with coffee shops, restaurants, and independent retail concentrated along Main Street. The Middlesex Fells Reservation encompasses over 1,700 acres of trails accessible from the property, making it a practical option for runners, hikers, and dog owners who want trail access without driving.
+Downtown Melrose sits within walking distance of the property, with coffee shops, restaurants, and independent retail concentrated along Main Street. The [Middlesex Fells Reservation](https://www.mass.gov/locations/middlesex-fells-reservation) encompasses over 1,700 acres of trails accessible from the property, making it a practical option for runners, hikers, and dog owners who want trail access without driving.
 
 ### Nearby Shopping and Entertainment
 
@@ -141,7 +141,7 @@ Jack Flats is one component of the Windsor Radio Factory apartment community, ma
 
 ### 7. Is Jack Flats pet friendly?
 
-Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in.
+Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. For a detailed look at pet costs and breed restrictions, see brightplace's guide to [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent). If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in.
 
 ### 8. Does Jack Flats have affordable housing units?
 
@@ -248,7 +248,7 @@ Yes. A portion of units at Jack Flats are designated below-market rate through a
   "dateModified": "2026-05-08",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/jack-flats-apartments-melrose"
+    "@id": "https://brightplace.ai/resources/jack-flats-apartments-melrose"
   }
 }
 ```
@@ -261,7 +261,7 @@ Yes. A portion of units at Jack Flats are designated below-market rate through a
   "@type": "WebPage",
   "name": "Jack Flats Apartments in Melrose, MA: What Renters Should Know",
   "description": "Jack Flats is a 212-unit apartment community in Melrose, MA with loft-style interiors and commuter rail access. Here is what renters should know before applying.",
-  "url": "https://brightplace.ai/knowledgebase/jack-flats-apartments-melrose",
+  "url": "https://brightplace.ai/resources/jack-flats-apartments-melrose",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -280,14 +280,14 @@ Yes. A portion of units at Jack Flats are designated below-market rate through a
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Jack Flats Apartments in Melrose, MA: What Renters Should Know",
-        "item": "https://brightplace.ai/knowledgebase/jack-flats-apartments-melrose"
+        "item": "https://brightplace.ai/resources/jack-flats-apartments-melrose"
       }
     ]
   },

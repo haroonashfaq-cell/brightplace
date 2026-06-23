@@ -15,7 +15,7 @@ author: brightplace
 
 ## What Parkside at Legacy Is
 
-Parkside at Legacy Plano is a Class A apartment community located at 5745 Bozeman Dr, TX 75024, positioned within walking distance of Legacy West's retail and restaurant strip. A Class A apartment community is a rental property built within the last 15-20 years with premium finishes, full amenity packages, and professional management, typically at the upper end of local pricing. This property is most relevant for working professionals relocating to the Legacy Business Park submarket or corporate employees at nearby campuses. 1BR units in the Legacy corridor ranged from approximately $1,500 to $1,900/month (as of Q2 2025).
+Parkside at Legacy Plano is a Class A apartment community located at 5745 Bozeman Dr, TX 75024, positioned within walking distance of Legacy West's retail and restaurant strip. A Class A apartment community is a rental property built within the last 15-20 years with premium finishes, full amenity packages, and professional management, typically at the upper end of local pricing. This property is most relevant for working professionals relocating to the Legacy Business Park submarket, including those following a [corporate relocation playbook](https://www.brightplace.ai/guides/nashville-corporate-relocation-neighborhoods) similar to other Sun Belt metros, or corporate employees at nearby campuses. 1BR units in the Legacy corridor ranged from approximately $1,500 to $1,900/month (as of Q2 2025).
 
 Built in 2012, the community offers 1BR, 2BR, and select 3BR floor plans. 2BR units in the same submarket ranged from approximately $2,000 to $2,800+/month (as of Q2 2025). The property is generally pet-friendly, though breed and weight restrictions apply. Confirm the current pet policy directly with the leasing office before applying.
 
@@ -67,11 +67,11 @@ For corporate relocators, this means a commute measured in minutes rather than h
 
 ### Transit Access and Schools
 
-The CityLine/Bush DART station on the Red and Orange Lines sits approximately 2-3 miles from the property. DART rail connects to Downtown Dallas without a car, with travel times of roughly 30-40 minutes depending on the line and time of day. Plano ISD, one of the highest-performing school districts in Texas, serves this area, which matters for renters with children.
+The CityLine/Bush [DART station](https://www.dart.org/) on the Red and Orange Lines sits approximately 2-3 miles from the property. DART rail connects to Downtown Dallas without a car, with travel times of roughly 30-40 minutes depending on the line and time of day. [Plano ISD](https://www.pisd.edu/), one of the highest-performing school districts in Texas, serves this area, which matters for renters with children.
 
 ### Honest Tradeoffs for This Location
 
-**Tollway congestion.**The Dallas North Tollway and SH-121 (Sam Rayburn Tollway) interchange creates significant congestion during peak commute hours. At current NTTA rates, a round-trip daily commute from the Legacy area to Downtown Dallas via the Dallas North Tollway runs approximately $8-$14/day (as of Q2 2025). Over a 20-day work month, that adds $160-$280 to your effective housing cost.
+**Tollway congestion.**The Dallas North Tollway and SH-121 (Sam Rayburn Tollway) interchange creates significant congestion during peak commute hours. At current [NTTA](https://www.ntta.org/) rates, a round-trip daily commute from the Legacy area to Downtown Dallas via the Dallas North Tollway runs approximately $8-$14/day (as of Q2 2025). Over a 20-day work month, that adds $160-$280 to your effective housing cost.
 
 **Car dependency outside the corridor.**For a full picture of what monthly costs look like beyond base rent, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost). Walkability within Legacy West is strong by DFW standards, but destinations outside the immediate corridor still require a car. Grocery runs beyond Whole Foods, medical appointments, and weekend activities in other parts of the metroplex all mean driving.
 
@@ -91,7 +91,7 @@ No single Legacy corridor community is the right fit for every renter. The diffe
 
 All four communities compete for the same renter profile, which means concession packages shift frequently. The Plano/Frisco Class A market saw elevated vacancy relative to 2022 peak absorption (as of Q2 2025), so a concession, which is a financial incentive such as one month free rent, a reduced deposit, or waived fees, may be available at any of these properties. Ask each leasing office what they are currently offering before committing.
 
-Renters open to a different lifestyle entirely should consider communities in Uptown Dallas or Turtle Creek, which trade corporate campus proximity for a more urban environment.
+Renters open to a different lifestyle entirely should consider communities in Uptown Dallas or Turtle Creek, which trade corporate campus proximity for a more urban environment. Families evaluating the broader DFW metro may also find brightplace's guide to [Dallas for families](https://www.brightplace.ai/guides/dallas-families) useful for comparing submarkets.
 
 **brightplace tracks availability across Legacy West, Frisco, and Richardson so you can compare options in one place at [brightplace.ai](https://brightplace.ai).**
 
@@ -101,7 +101,7 @@ Visit on a weekday morning. This lets you assess road noise from the Dallas Nort
 
 Ask the leasing team directly about current concessions. The Plano/Frisco Class A apartment market had elevated vacancy in 2023-2024, and concession packages such as one month free or reduced deposits may still apply (as of Q2 2025). Do not assume the listed price is the final price.
 
-Confirm pet restrictions and fees in writing before signing. Breed lists, weight limits, and monthly pet rent vary and are not always reflected accurately on listing pages. Get the specifics on paper.
+Confirm pet restrictions and fees in writing before signing, and review what to look for in [apartments with dog parks](https://www.brightplace.ai/resources/apartments-with-dog-parks) if pet amenities matter to you. Breed lists, weight limits, and monthly pet rent vary and are not always reflected accurately on listing pages. Get the specifics on paper.
 
 If Tollway noise is a concern, ask about specific floor and unit placement. brightplace's [guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before your first tour. Units facing away from the Tollway or on lower floors shielded by the parking structure will have a meaningfully different noise experience than upper-floor units facing the road. If you know how to [rent an apartment](https://brightplace.ai/knowledgebase/how-to-rent-an-apartment) methodically, you already understand why these details matter before signing.
 
@@ -115,7 +115,7 @@ Direct questions during a tour produce more reliable information than scores com
 
 ## Is Parkside at Legacy Available to Buy?
 
-Parkside at Legacy Plano is an apartment community, not a condominium complex. Individual units are not listed for sale as of the time of writing. Renters interested in purchasing property in the Legacy corridor should work with a licensed Texas real estate agent, as the transaction involves a different property type and process entirely. If you are comparing [1-bedroom apartments near you](https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me), Parkside at Legacy is a rental option only.
+Parkside at Legacy Plano is an apartment community, not a condominium complex. Individual units are not listed for sale as of the time of writing. Renters interested in purchasing property in the Legacy corridor should work with a licensed Texas real estate agent verified through the [Texas Real Estate Commission](https://www.trec.texas.gov/), as the transaction involves a different property type and process entirely. If you are comparing [1-bedroom apartments near you](https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me), Parkside at Legacy is a rental option only.
 
 ## Frequently Asked Questions About Parkside at Legacy Plano
 
@@ -228,7 +228,7 @@ The CityLine/Bush DART station on the Red and Orange Lines is approximately 2-3 
   "dateModified": "2025-05-08",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/parkside-at-legacy-plano"
+    "@id": "https://brightplace.ai/resources/parkside-at-legacy-plano"
   }
 }
 ```
@@ -241,7 +241,7 @@ The CityLine/Bush DART station on the Red and Orange Lines is approximately 2-3 
   "@type": "WebPage",
   "name": "What to Know About Parkside at Legacy in Plano",
   "description": "Parkside at Legacy is a Class A apartment community in Plano's Legacy corridor. Here's what the location, pricing, and amenities actually mean for renters.",
-  "url": "https://brightplace.ai/knowledgebase/parkside-at-legacy-plano",
+  "url": "https://brightplace.ai/resources/parkside-at-legacy-plano",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -260,14 +260,14 @@ The CityLine/Bush DART station on the Red and Orange Lines is approximately 2-3 
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "What to Know About Parkside at Legacy in Plano",
-        "item": "https://brightplace.ai/knowledgebase/parkside-at-legacy-plano"
+        "item": "https://brightplace.ai/resources/parkside-at-legacy-plano"
       }
     ]
   },

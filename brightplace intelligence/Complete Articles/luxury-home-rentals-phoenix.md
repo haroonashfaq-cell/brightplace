@@ -208,7 +208,7 @@ Last reviewed: June 2026
   "dateModified": "2026-05-21",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/luxury-home-rentals-phoenix"
+    "@id": "https://brightplace.ai/resources/luxury-home-rentals-phoenix"
   }
 }
 ```
@@ -221,7 +221,7 @@ Last reviewed: June 2026
   "@type": "WebPage",
   "name": "Luxury Home Rentals Phoenix: What to Know Before You Search",
   "description": "Luxury home rentals in Phoenix range from $3,500 to $25,000+/month across four submarkets. Here is how to find the right one.",
-  "url": "https://brightplace.ai/knowledgebase/luxury-home-rentals-phoenix",
+  "url": "https://brightplace.ai/resources/luxury-home-rentals-phoenix",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -240,14 +240,14 @@ Last reviewed: June 2026
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Luxury Home Rentals Phoenix: What to Know Before You Search",
-        "item": "https://brightplace.ai/knowledgebase/luxury-home-rentals-phoenix"
+        "item": "https://brightplace.ai/resources/luxury-home-rentals-phoenix"
       }
     ]
   },

@@ -15,7 +15,7 @@ author: brightplace
 
 ## What Is Discovery at Space Coast?
 
-Discovery at Space Coast is a luxury apartment community in Rockledge, Florida, offering four 2-bedroom floor plans that range from 1,183 to 1,365 square feet. Base rent starts at $2,130/month (as of Q2 2026), but the actual monthly cost is higher once mandatory fees are factored in. This article covers what the property includes, what it costs in total, and how it fits within the broader Space Coast rental market for prospective renters evaluating the community before applying.
+Discovery at Space Coast is a luxury apartment community in Rockledge, Florida, offering four 2-bedroom floor plans that range from 1,183 to 1,365 square feet. Base rent starts at $2,130/month (as of Q2 2026), but the actual monthly cost is higher once mandatory fees are factored in. This article covers what the property includes, what it costs in total, and how it fits within the broader Space Coast rental market for prospective renters evaluating the community before applying. If you are new to the rental process, start with brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment).
 
 **See what is currently available in Rockledge and across the Space Coast on [brightplace](https://brightplace.ai).**
 
@@ -86,7 +86,7 @@ Community amenities include:
 
 ## Pet Policy at Discovery at Space Coast
 
-Cats and dogs are permitted at Discovery at Space Coast, with a weight limit of 100 pounds and a maximum of two indoor pets per apartment. The non-refundable pet fee is $300 per pet, and monthly pet rent is $35 per pet (as of Q2 2026).
+Cats and dogs are permitted at Discovery at Space Coast, with a weight limit of 100 pounds and a maximum of two indoor pets per apartment. For a detailed look at how pet fees add up over a full lease term, see brightplace's guide to [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent). The non-refundable pet fee is $300 per pet, and monthly pet rent is $35 per pet (as of Q2 2026).
 
 Dogs require Poo Prints DNA registration at move-in. Poo Prints is a mandatory DNA registration program for dogs that allows the community to identify and charge for waste violations; registration costs $50 per dog (as of Q2 2026). Breed restrictions apply, so confirm the restricted breed list with the leasing office before applying.
 
@@ -96,15 +96,15 @@ Florida Affordable Veterinary Services is approximately 9 minutes away, and a Pe
 
 ### What Is Nearby
 
-Rockledge sits in Brevard County on Florida's Space Coast, roughly 45 to 55 miles east of downtown Orlando. Kennedy Space Center is approximately 20 to 25 minutes north. Nearby dining includes Baci, The Twisted Birch, and La Marimba.
+Rockledge sits in [Brevard County](https://www.brevardfl.gov/) on Florida's Space Coast, roughly 45 to 55 miles east of downtown Orlando. [Kennedy Space Center](https://www.kennedyspacecenter.com/) is approximately 20 to 25 minutes north. Nearby dining includes Baci, The Twisted Birch, and La Marimba.
 
 ### Aerospace and Defense Employment
 
-The area's economy is closely tied to aerospace and defense employers. SpaceX, NASA, and Blue Origin operations at and around Kennedy Space Center generate steady demand for rental housing in Rockledge and neighboring cities. Contractors working on project-based timelines should ask about lease term flexibility before committing, as standard lease lengths here run 12 to 13 months. Renters also considering the Tampa metro should see brightplace's [Tampa renter orientation](https://www.brightplace.ai/guides/tampa-renters-orientation).
+The area's economy is closely tied to aerospace and defense employers. SpaceX, [NASA](https://www.nasa.gov/kennedy-space-center/), and Blue Origin operations at and around Kennedy Space Center generate steady demand for rental housing in Rockledge and neighboring cities. Contractors working on project-based timelines should ask about lease term flexibility before committing, as standard lease lengths here run 12 to 13 months. Renters who may need to break a lease early should also review brightplace's guide to [short-term lease agreements](https://www.brightplace.ai/resources/short-term-lease-agreement). Renters also considering the Tampa metro should see brightplace's [Tampa renter orientation](https://www.brightplace.ai/guides/tampa-renters-orientation).
 
 ## What Area of Florida Is the Space Coast?
 
-Florida's Space Coast is the eastern coastal corridor of Brevard County, stretching from Titusville in the north through Cocoa, Rockledge, and Melbourne toward Palm Bay in the south. The name comes from its proximity to Kennedy Space Center and Cape Canaveral Space Force Station, which anchor a large aerospace and defense employment base in the region.
+Florida's Space Coast is the eastern coastal corridor of Brevard County, stretching from Titusville in the north through Cocoa, Rockledge, and Melbourne toward Palm Bay in the south. The name comes from its proximity to Kennedy Space Center and [Cape Canaveral Space Force Station](https://www.spaceforce.mil/About-Us/Fact-Sheets/Article/2866975/cape-canaveral-space-force-station), which anchor a large aerospace and defense employment base in the region.
 
 ## Parking at Discovery at Space Coast
 
@@ -237,7 +237,7 @@ Last reviewed: May 2026. Pricing and availability are subject to change. Contact
   "dateModified": "2026-05-08",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/discovery-at-space-coast"
+    "@id": "https://brightplace.ai/resources/discovery-at-space-coast"
   }
 }
 ```
@@ -250,7 +250,7 @@ Last reviewed: May 2026. Pricing and availability are subject to change. Contact
   "@type": "WebPage",
   "name": "Discovery at Space Coast: What Renters Should Know Before Applying",
   "description": "Discovery at Space Coast is a luxury apartment community in Rockledge, FL. Here is what the floor plans, fees, and location actually mean for renters.",
-  "url": "https://brightplace.ai/knowledgebase/discovery-at-space-coast",
+  "url": "https://brightplace.ai/resources/discovery-at-space-coast",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -269,14 +269,14 @@ Last reviewed: May 2026. Pricing and availability are subject to change. Contact
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Discovery at Space Coast: What Renters Should Know Before Applying",
-        "item": "https://brightplace.ai/knowledgebase/discovery-at-space-coast"
+        "item": "https://brightplace.ai/resources/discovery-at-space-coast"
       }
     ]
   },

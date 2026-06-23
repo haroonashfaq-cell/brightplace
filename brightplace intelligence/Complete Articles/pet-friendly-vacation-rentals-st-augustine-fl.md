@@ -27,7 +27,7 @@ The most important distinction is between owner-level permissions and community-
 
 ### Dogs vs. Cats in Listings
 
-"Dogs allowed" and "cats allowed" are also separate categories in many listings. Several St. Augustine properties accept dogs but require a special request for cats, or vice versa. Confirm your specific pet type before booking.
+"Dogs allowed" and "cats allowed" are also separate categories in many listings. Several St. Augustine properties accept dogs but require a special request for cats, or vice versa. Confirm your specific pet type before booking. For renters searching for long-term [pet-friendly houses for rent](https://brightplace.ai/resources/pet-friendly-houses-for-rent), the policy landscape differs from short-term vacation rentals.
 
 brightplace searches St. Augustine rentals by neighborhood, pet policy, and price range at [brightplace.ai](https://brightplace.ai).
 
@@ -94,7 +94,7 @@ Vilano Beach welcomes dogs on leash at all times, including in the water. Cleanu
 
 ### Off-Leash Dog Parks
 
-For off-leash exercise, <a href="https://www.sjcfl.us/Parks/TreatyPark" target="_blank" rel="noopener">Treaty Park</a> is the closest option for stays in the western or downtown areas. It has two fenced areas separating small and large dogs. Ron Parker Park near St. Augustine Beach is the closest off-leash option for beach-area rental stays.
+For off-leash exercise, <a href="https://www.sjcfl.us/Parks/TreatyPark" target="_blank" rel="noopener">Treaty Park</a> is the closest option for stays in the western or downtown areas. It has two fenced areas separating small and large dogs. Ron Parker Park near St. Augustine Beach is the closest off-leash option for beach-area rental stays. If you are also exploring [apartments with dog parks](https://brightplace.ai/resources/apartments-with-dog-parks) for a permanent move, brightplace covers on-site amenities across major markets.
 
 ## Comparing Rental Types: Houses vs. Condos for Pet Owners
 
@@ -131,7 +131,7 @@ Expect the pet to be restricted from the pool deck and pool area in nearly all c
 
 Oceanfront pet-friendly vacation rentals are available in St. Augustine, with the highest concentration along St. Augustine Beach, Vilano Beach, and Crescent Beach. Standalone oceanfront houses carry fewer pet policy complications than oceanfront condos.
 
-Oceanfront condo rentals come with elevated HOA restriction risk. Several beachfront condo communities in St. Augustine either prohibit pets entirely or impose strict weight limits. Confirm community-level rules before booking any oceanfront condo. If your St. Augustine visit turns into a longer stay, brightplace finds apartments and rental homes that fit your pet and your budget at [brightplace.ai](https://brightplace.ai).
+Oceanfront condo rentals come with elevated HOA restriction risk. Several beachfront condo communities in St. Augustine either prohibit pets entirely or impose strict weight limits. Confirm community-level rules before booking any oceanfront condo. If your St. Augustine visit turns into a longer stay, brightplace's [Tampa renters orientation](https://brightplace.ai/guides/tampa-renters-orientation) and [Miami city orientation](https://brightplace.ai/guides/miami-city-orientation) cover two nearby Florida markets worth exploring. brightplace finds apartments and rental homes that fit your pet and your budget at [brightplace.ai](https://brightplace.ai).
 
 ## Frequently Asked Questions
 
@@ -268,7 +268,7 @@ Find St. Augustine rentals that fit your budget and pet situation on [brightplac
   "dateModified": "2026-05-15",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/pet-friendly-vacation-rentals-st-augustine-fl"
+    "@id": "https://brightplace.ai/resources/pet-friendly-vacation-rentals-st-augustine-fl"
   }
 }
 ```
@@ -281,7 +281,7 @@ Find St. Augustine rentals that fit your budget and pet situation on [brightplac
   "@type": "WebPage",
   "name": "How to Find Pet-Friendly Vacation Rentals in St. Augustine, FL",
   "description": "Pet-friendly vacation rentals in St. Augustine, FL vary by area, pet fee, and policy. Here is what to check before you book.",
-  "url": "https://brightplace.ai/knowledgebase/pet-friendly-vacation-rentals-st-augustine-fl",
+  "url": "https://brightplace.ai/resources/pet-friendly-vacation-rentals-st-augustine-fl",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -300,14 +300,14 @@ Find St. Augustine rentals that fit your budget and pet situation on [brightplac
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "How to Find Pet-Friendly Vacation Rentals in St. Augustine, FL",
-        "item": "https://brightplace.ai/knowledgebase/pet-friendly-vacation-rentals-st-augustine-fl"
+        "item": "https://brightplace.ai/resources/pet-friendly-vacation-rentals-st-augustine-fl"
       }
     ]
   },

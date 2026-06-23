@@ -205,7 +205,7 @@ Request four items before paying any deposit or rent: the original lease (or the
   "dateModified": "2026-06-08",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/sublet-apartments-nyc"
+    "@id": "https://brightplace.ai/resources/sublet-apartments-nyc"
   }
 }
 ```
@@ -218,7 +218,7 @@ Request four items before paying any deposit or rent: the original lease (or the
   "@type": "WebPage",
   "name": "How Subletting Actually Works in NYC (and Where to Find One)",
   "description": "Sublet apartments in NYC offer flexible terms without a 12-month commitment. How they work, where to find them, and what the law requires.",
-  "url": "https://brightplace.ai/knowledgebase/sublet-apartments-nyc",
+  "url": "https://brightplace.ai/resources/sublet-apartments-nyc",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -237,14 +237,14 @@ Request four items before paying any deposit or rent: the original lease (or the
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "How Subletting Actually Works in NYC (and Where to Find One)",
-        "item": "https://brightplace.ai/knowledgebase/sublet-apartments-nyc"
+        "item": "https://brightplace.ai/resources/sublet-apartments-nyc"
       }
     ]
   },

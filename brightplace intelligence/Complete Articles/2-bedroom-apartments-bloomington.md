@@ -212,7 +212,7 @@ brightplace searches Bloomington's rental inventory by bedroom count, neighborho
   "dateModified": "2026-05-21",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/2-bedroom-apartments-bloomington-in"
+    "@id": "https://brightplace.ai/resources/2-bedroom-apartments-bloomington-in"
   }
 }
 ```
@@ -225,7 +225,7 @@ brightplace searches Bloomington's rental inventory by bedroom count, neighborho
   "@type": "WebPage",
   "name": "2 Bedroom Apartments in Bloomington: What They Cost and Where to Look",
   "description": "2 bedroom apartments in Bloomington, IN rent from $825 to $1,600/month. See how location, layout, and IU's lease cycle shape pricing.",
-  "url": "https://brightplace.ai/knowledgebase/2-bedroom-apartments-bloomington-in",
+  "url": "https://brightplace.ai/resources/2-bedroom-apartments-bloomington-in",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -244,14 +244,14 @@ brightplace searches Bloomington's rental inventory by bedroom count, neighborho
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "2 Bedroom Apartments in Bloomington: What They Cost and Where to Look",
-        "item": "https://brightplace.ai/knowledgebase/2-bedroom-apartments-bloomington-in"
+        "item": "https://brightplace.ai/resources/2-bedroom-apartments-bloomington-in"
       }
     ]
   },

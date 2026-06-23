@@ -196,6 +196,14 @@ Every dollar figure, rent range, statistic, percentage, or time-sensitive factua
 **FAQ section rule:**
 The FAQ section must be the last H2 before the schema blocks. Use the exact questions provided in the content brief. Each answer must be 40-60 words (featured snippet length). Write each answer as a complete, standalone response that makes sense without the rest of the article. LLMs and Google extract these individually.
 
+**Note (May 2026):** Google deprecated FAQ rich results on May 7, 2026. FAQPage schema still validates and does not cause problems, but no longer generates rich results in Google SERPs. Keep writing FAQ sections and schema: they still help AI systems (ChatGPT, Perplexity, Google AI Overviews) extract and cite Q&A content, and remain valuable for AEO.
+
+**Information Gain rule (March 2026 Core Update):**
+Every article must include at least one data point, comparison, or insight not available on competing pages. Google's Information Gain ranking factor (re-weighted in the March 2026 core update) rewards content that adds genuinely new knowledge. Prioritize: proprietary brightplace data, original rent comparisons, first-hand market observations, worked cost examples, and specific local details competitors omit.
+
+**Named expert attribution (May 2026 AI Overviews):**
+Google's May 2026 AI Overviews update introduced an "Expert Advice" block that pulls first-hand perspectives with attribution. Include "Reviewed by [Name], [Role] at brightplace" in the article footer or frontmatter to strengthen Experience signals for AI citation.
+
 ---
 
 ### ANTI-AI-DETECTION PATTERNS

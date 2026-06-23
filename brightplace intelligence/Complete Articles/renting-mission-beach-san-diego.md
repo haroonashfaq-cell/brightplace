@@ -15,7 +15,7 @@ author: brightplace
 
 ## What Renting in Mission Beach Actually Costs
 
-Renting in Mission Beach, San Diego starts at approximately $2,200/month for a studio and reaches $7,500 or more for a three-bedroom beach house (as of Q2 2026). One-bedroom apartments average $2,800 to $4,200/month, making this one of the most expensive rental submarkets in San Diego County. For renters evaluating Mission Beach as a primary residence, these numbers reflect a market shaped by limited geography, vacation rental competition, and year-round demand for coastal proximity.
+Renting in Mission Beach, San Diego starts at approximately $2,200/month for a studio and reaches $7,500 or more for a three-bedroom beach house (as of Q2 2026). One-bedroom apartments average $2,800 to $4,200/month, making this one of the most expensive rental submarkets in San Diego County. For renters evaluating Mission Beach as a primary residence, these numbers reflect a market shaped by limited geography, vacation rental competition, and year-round demand for coastal proximity. If you are new to the apartment search process, brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) covers the fundamentals before you start touring.
 
 **Studio:** $2,200-$3,200/mo (as of Q2 2026). Often small footprint in older conversions. Bay-side units sit at the lower end.
 
@@ -29,9 +29,9 @@ Renting in Mission Beach, San Diego starts at approximately $2,200/month for a s
 
 ## Why Mission Beach Rents Run High
 
-Mission Beach occupies a strip of land roughly 2 miles long and less than a quarter-mile wide, sandwiched between the Pacific Ocean and Mission Bay. That geography creates a hard ceiling on how many units can exist.
+Mission Beach occupies a strip of land roughly 2 miles long and less than a quarter-mile wide, sandwiched between the Pacific Ocean and [Mission Bay](https://www.sandiego.gov/park-and-recreation/parks/regional/mission-bay). That geography creates a hard ceiling on how many units can exist.
 
-On top of the land constraint, a significant share of Mission Beach's housing stock is dedicated to short-term vacation rentals. A short-term rental is a furnished unit rented for periods typically under 30 days, most commonly listed on vacation rental platforms. Every unit operating as a vacation rental is one fewer unit available for long-term renters. The result is compressed inventory and persistent low vacancy.
+On top of the land constraint, a significant share of Mission Beach's housing stock is dedicated to short-term vacation rentals regulated by the [City of San Diego's short-term rental ordinance](https://www.sandiego.gov/treasurer/short-term-residential-occupancy-tax). A short-term rental is a furnished unit rented for periods typically under 30 days, most commonly listed on vacation rental platforms. Every unit operating as a vacation rental is one fewer unit available for long-term renters. The result is compressed inventory and persistent low vacancy.
 
 Seasonal demand amplifies the pressure. Summer months (June through August) bring the tightest inventory and highest prices. Renters targeting a summer move-in should begin searching 60-90 days in advance; this is when inventory reaches its annual low point. Fall and winter offer slightly better selection and occasional price drops as seasonal demand fades.
 
@@ -57,15 +57,15 @@ For a broader look at San Diego's dog-friendly coastal options, see brightplace'
 
 Parking in Mission Beach is genuinely scarce. Many units have no dedicated parking spot. Street parking tightens severely from Memorial Day through Labor Day, and finding a spot on a summer weekend can take 30 minutes or more. If a unit includes a garage or reserved space, that carries real financial value on top of the listed rent.
 
-Units directly on Ocean Front Walk face consistent noise from cyclists, joggers, tourists, and weekend events. Renters who are light sleepers or work from home should tour at different times of day before signing. A unit that feels quiet on a Tuesday morning may feel very different on a Saturday afternoon in July.
+Units directly on Ocean Front Walk face consistent noise from cyclists, joggers, tourists, and weekend events. Renters considering roommates to split the high costs here should understand how [renters insurance works with roommates](https://brightplace.ai/resources/renters-insurance-with-roommates) before signing a shared lease. Renters who are light sleepers or work from home should tour at different times of day before signing. A unit that feels quiet on a Tuesday morning may feel very different on a Saturday afternoon in July.
 
 brightplace tracks rental activity across San Diego's coastal neighborhoods. Renters searching Mission Beach on brightplace consistently identify parking and lease length as the primary friction points in this market. **See what is currently listed in Mission Beach at [app.brightplace.ai](https://app.brightplace.ai).**
 
 ## Lease Types and What to Watch for in Mission Beach
 
-Many Mission Beach landlords prefer short-term or seasonal leases because the vacation rental market gives them flexibility to list units on short-term platforms during peak months. If you want a standard 12-month lease, ask for it explicitly and confirm in writing. Month-to-month arrangements are common but typically carry higher monthly rates.
+Many Mission Beach landlords prefer short-term or seasonal leases because the vacation rental market gives them flexibility to list units on short-term platforms during peak months. If you want a standard 12-month lease, ask for it explicitly and confirm in writing. Renters considering shorter commitments should review brightplace's overview of [short-term lease agreements](https://brightplace.ai/resources/short-term-lease-agreement). Month-to-month arrangements are common but typically carry higher monthly rates.
 
-California's AB 1482, the Tenant Protection Act, limits annual rent increases for most rentals statewide. However, many Mission Beach properties are exempt. Single-family homes, condos where the owner has notified tenants of the exemption, and buildings built after 2005 generally fall outside the cap. Renters should confirm AB 1482 applicability before signing any Mission Beach lease. For a broader breakdown of renter costs, see [your true monthly cost as a renter](https://brightplace.ai/guides/your-true-monthly-cost).
+[California's AB 1482](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB1482), the Tenant Protection Act, limits annual rent increases for most rentals statewide. However, many Mission Beach properties are exempt. Single-family homes, condos where the owner has notified tenants of the exemption, and buildings built after 2005 generally fall outside the cap. Renters should confirm AB 1482 applicability before signing any Mission Beach lease and review [California's tenant rights resources](https://www.courts.ca.gov/selfhelp-housing.htm) for additional protections. For a broader breakdown of renter costs, see [your true monthly cost as a renter](https://brightplace.ai/guides/your-true-monthly-cost).
 
 ## How Mission Beach Compares to Pacific Beach for Renters
 
@@ -198,7 +198,7 @@ California's AB 1482 limits annual rent increases for most rentals, but many Mis
   "dateModified": "2026-06-22",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/knowledgebase/renting-mission-beach-san-diego"
+    "@id": "https://brightplace.ai/resources/renting-mission-beach-san-diego"
   }
 }
 ```
@@ -211,7 +211,7 @@ California's AB 1482 limits annual rent increases for most rentals, but many Mis
   "@type": "WebPage",
   "name": "What to Expect When Renting in Mission Beach, San Diego",
   "description": "Renting in Mission Beach, San Diego means ocean proximity, tight inventory, and real tradeoffs. Here is what the market actually looks like before you search.",
-  "url": "https://brightplace.ai/knowledgebase/renting-mission-beach-san-diego",
+  "url": "https://brightplace.ai/resources/renting-mission-beach-san-diego",
   "inLanguage": "en-US",
   "isPartOf": {
     "@type": "WebSite",
@@ -230,14 +230,14 @@ California's AB 1482 limits annual rent increases for most rentals, but many Mis
       {
         "@type": "ListItem",
         "position": 2,
-        "name": "Knowledgebase",
-        "item": "https://brightplace.ai/knowledgebase"
+        "name": "Resources",
+        "item": "https://brightplace.ai/resources"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "What to Expect When Renting in Mission Beach, San Diego",
-        "item": "https://brightplace.ai/knowledgebase/renting-mission-beach-san-diego"
+        "item": "https://brightplace.ai/resources/renting-mission-beach-san-diego"
       }
     ]
   },
