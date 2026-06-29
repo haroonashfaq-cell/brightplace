@@ -1,0 +1,402 @@
+# Content Brief: Apartments with No Credit Check
+## brightplace.ai/knowledgebase/
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are overwhelmingly **how-to guides** (NerdWallet, Experian x2, SoFi, Self, FirstCard, HousingAnywhere, Freddie Mac). Two results are comparison/product-pitch pieces (PadSplit x2). One is a localized service page (Austin Apartment Locators, Second Chance Apartment). The article must be a **practical how-to guide** structured around the renter's problem: "I need an apartment but don't have (or want to use) my credit history. What do I do?" This format dominates 80%+ of the SERP.
+
+### 1b. Content Depth Benchmark
+
+Top 5 competitors by estimated word count:
+- NerdWallet: ~1,100 words
+- Experian (tips to rent with no credit): ~900 words
+- Experian (how to get apartment with bad credit): ~1,200 words
+- Self.inc: ~1,500 words
+- SoFi: ~1,000 words
+
+**Target word count: 1,100–1,300 words.** This matches the depth needed to cover the topic fully without exceeding what the SERP rewards for this intent. Long-form exhaustive content is not what ranks here. Focused, practical, well-structured pieces with clear answers do.
+
+### 1c. SERP Features Present
+
+- **People Also Ask (PAA):** Active and extensive. 13 PAA questions identified (Data Source 2). Each relevant PAA question needs a corresponding H2 or H3 that mirrors the question phrasing precisely. These target featured snippet and PAA box capture.
+- **No Featured Snippet:** No featured snippet was identified for the primary keyword. This is an opportunity. A tightly written 40-60 word direct answer under the first H2 is the best position to capture it.
+- **Local Pack signals:** PAA includes "Apartments with no credit check near me," "no credit check apartments Las Vegas," "no credit check apartments Riverside," and "no credit check apartments California." The article should reference that search strategies vary by market and that brightplace can be used to find local options.
+- **No video carousel or knowledge panel detected** for this specific keyword.
+
+**Structural targeting:**
+- First H2 direct answer paragraph (40-60 words): targets Featured Snippet capture
+- Dedicated H2 per relevant PAA question: targets PAA box appearance
+- FAQ section at article end: targets PAA box and FAQPage schema
+- Comparison table (private landlord vs. large complex): targets AI citation and structured data parsing
+
+### 1d. Intent Match Validation
+
+**Searcher's primary intent:** A renter who lacks an established credit history (or has poor credit) wants to know whether apartments exist that will rent to them without a credit check, and what practical steps they can take to find and secure one.
+
+**Secondary intent:** Renters who have heard the term "no credit check apartment" and want to understand what it actually means, what the tradeoffs are, and whether it is a legitimate or risky path.
+
+**Primary intent confirmed.** The article is briefed as a practical how-to guide targeting the renter who needs to act now. The secondary intent (definition and risk evaluation) is addressed within the guide's structure, not as a separate article.
+
+---
+
+## 2. Recommended Titles
+
+**Option A (recommended):**
+What to Know About Renting an Apartment Without a Credit Check
+
+**Option B:**
+How to Find an Apartment With No Credit Check
+
+**Option C:**
+Renting With No Credit: What Landlords Actually Look For
+
+---
+
+**Meta description (under 155 characters):**
+No credit? Apartments without credit checks exist, but finding them takes the right strategy. Here is what landlords actually accept instead of a credit score.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/apartments-with-no-credit-check`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+**Who is searching this keyword:** First-time renters (students, recent graduates, young professionals), immigrants or newcomers to the United States who have not yet established a U.S. credit file, and renters who have experienced financial hardship and are rebuilding. This audience skews toward the 18-32 age range and includes gig workers and freelancers whose income is documented but unconventional.
+
+**Stage of the renter journey:** Decision and transaction. These searchers are not browsing broadly. They have a specific housing need, often with a timeline, and are trying to determine whether they can qualify for an apartment and what they need to do to get one.
+
+**Problem they are trying to solve:** They have encountered a credit check requirement (or anticipate one) and are not confident their credit history will satisfy a landlord. They want to know whether apartments exist that skip the check entirely and, if not, what alternatives will actually get them approved.
+
+**Expected answer format:** Based on the SERP, they expect a structured, practical how-to guide that directly answers the question and gives them actionable steps. They do not want a definition essay or a general financial education piece.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+apartments with no credit check
+
+**Secondary keywords (13):**
+- no credit check apartments near me
+- rent apartment with no credit history
+- private landlord no credit check
+- no credit check rental
+- second chance apartments
+- renting with no credit score
+- how to rent an apartment with bad credit
+- low income apartments no credit check
+- apartments that don't require credit check
+- co-signer for apartment
+- security deposit instead of credit check
+- apartment approval without credit
+- no credit check housing
+
+**Entities to include:**
+- Private landlord (as a defined concept, distinct from property management company)
+- Property management company (institutional screening, automated credit pull)
+- Security deposit (as an alternative qualification tool, 1-3 months)
+- Co-signer / guarantor (defined and distinguished)
+- Income verification (pay stubs, bank statements, 3x rent rule)
+- Facebook Marketplace (as a legitimate search channel for private listings)
+- Craigslist housing section (as a channel, not a citation)
+- HUD Housing Choice Voucher Program / Section 8 (for low-income searchers)
+- Third-party guarantor services: Insurent, TheGuarantors, Rhino (named as entity types, not cited as reviews)
+- Rent-reporting services (as a credit-building concept, not cited as reviews)
+- Subletting / sublet (as a path that bypasses primary credit screening)
+
+**Terms to AVOID:**
+- "ultimate guide," "best," "top," year references in headings
+- ILS brand names: Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com
+- "signal" in any form
+- "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb)
+- "whether you're X or Y," "from X to Y"
+- "vibrant," "bustling," "thriving," "hidden gem," "best-kept secret"
+- "notably," "interestingly," "it's worth noting"
+- Crime statistics, safety language, neighborhood demographic descriptions
+
+---
+
+## 5. Content Outline
+
+**H1:** What to Know About Renting an Apartment Without a Credit Check
+
+---
+
+**H2: Do Apartments With No Credit Check Actually Exist?**
+
+*Writing instruction:* Open with a direct, 40-60 word answer confirming that yes, no-credit-check apartments exist, but they are primarily found through private landlords rather than large complexes. This is the featured snippet target. State the two main categories of landlord that skip credit checks. Do not use more than 55 words in the direct answer paragraph. Follow with a 2-3 sentence expansion on why large property management companies almost always require a check.
+
+*After this H2, insert the first CTA: "Search available apartments on brightplace to see what is listed in your area."*
+
+---
+
+**H2: Who Is Most Likely to Skip the Credit Check**
+
+*Writing instruction:* Define the three landlord types that most commonly rent without a formal credit pull: (1) small private landlords with 1-4 units, (2) sublease and roommate arrangements, (3) subsidized or income-based housing programs. For each, write 2-3 sentences explaining why they skip the check and what they look for instead. This section directly targets the PAA question "Are there any apartments that don't require a credit check?" and the related question "Do private landlords do credit checks?"
+
+Include a simple two-column comparison table here:
+
+| Landlord Type | Typically Requires Credit Check? |
+|---|---|
+| Large property management company | Yes, almost always |
+| Small private landlord (1-4 units) | Often no, or flexible |
+| Sublet / roommate arrangement | Rarely |
+| Income-based / Section 8 housing | Screening differs (income-focused) |
+
+---
+
+**H2: How to Find No-Credit-Check Apartments**
+
+*Writing instruction:* Give 4-5 specific, actionable search channels. Each channel gets 2-3 sentences: what it is, why it surfaces private landlords, and one practical tip for using it. Channels to include: Facebook Marketplace and city rental groups, Craigslist housing section, driving neighborhoods for "For Rent by Owner" signs, contacting local housing authorities for subsidized options, and asking directly in applications whether a check is required. Do not recommend any ILS platforms. Frame this as practical reconnaissance, not a list of apps.
+
+---
+
+**H2: What to Offer Instead of a Credit Score**
+
+*Writing instruction:* This is the highest-value practical section. Cover the five most effective substitutes: (1) larger security deposit (2-3 months' rent), (2) prepaid rent (3-6 months), (3) co-signer or guarantor with strong credit, (4) proof of income at 3x monthly rent (pay stubs, bank statements), (5) reference letters from prior landlords or employers. For each, state what it demonstrates to the landlord and approximately how much it typically improves approval odds. Include the distinction between a co-signer (lives on lease, shares rights) and a guarantor (does not live there, backstops payments). This distinction appeared in multiple AI responses and is a citation-worthy definition block.
+
+*After this H2, insert the mid-article CTA: "brightplace helps renters search by their actual situation. See what is available in your city."*
+
+---
+
+**H2: Third-Party Guarantor Services** [CONTENT GAP]
+
+*Writing instruction:* This section did not appear in most competitor content, but the Claude AI response specifically named it as a distinct alternative that renters in competitive markets should know about. Name the concept (not specific company reviews): services that act as a professional guarantor for a fee, typically 4-10% of annual rent, accepted by many mid-to-large market-rate buildings in cities like New York and Los Angeles. Explain when this is worth considering: when you have steady income but no credit history, and when the building you want requires a guarantor but you do not have a family member who qualifies. 3-4 sentences total. Keep it factual, not promotional toward any specific service.
+
+---
+
+**H2: What "No Credit Check" Can Actually Mean (And When to Be Cautious)**
+
+*Writing instruction:* Address the risk side honestly. A "no credit check" listing that advertises itself prominently is not always a good sign. Cover 4 red flags: (1) landlord requests deposit before you have seen the unit in person, (2) listing photos appear stock or do not match the unit, (3) landlord asks you to wire money, (4) rent is significantly below market without explanation. Then clarify: a legitimate private landlord who skips the credit check will still meet you in person, show the unit, and use a written lease. This section answers the PAA question "How to avoid credit check for apartment?" and also the implied question "Is renting with no credit check safe?"
+
+---
+
+**H2: Can You Still Build Credit While Renting Without a Check?**
+
+*Writing instruction:* This is a 3-4 sentence section that closes the loop for renters who find an apartment through the methods above. Mention that rent-reporting services exist that can report on-time rent payments to credit bureaus, which means the apartment that did not require a credit check can still help them build a credit file for next time. Do not cite specific services by name in a way that constitutes a review or endorsement. Frame it as: "once you are in, make those payments work for your credit file." This addresses the long-term problem under the short-term solution.
+
+---
+
+**H2: Frequently Asked Questions**
+
+*Writing instruction:* Include 6 Q&A pairs. Each answer must be 40-60 words. These become FAQPage schema. Use the exact question phrasings below. Every answer must begin with a direct yes/no/number response, then explain. Do not use em dashes in answers.
+
+Include the following questions (sourced and labeled below):
+
+1. **Are there any apartments that don't require a credit check?** (PAA)
+2. **Can you get a rental without a credit check?** (PAA)
+3. **What credit score do you typically need to rent an apartment?** (PAA + AI gap)
+4. **Is no credit worse than bad credit for renting?** (competitor coverage + AI gap)
+5. **Can I rent an apartment with a 500 credit score?** (AI engine gap, appeared in competitor FAQs)
+6. **What do private landlords look for instead of a credit score?** (AI content gap, not well-covered by competitors)
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+The writing agent must include these three experience-grounding elements:
+
+1. **brightplace context framing:** In the introduction or first H2 expansion, include a sentence such as: "Based on how renters search on brightplace, the most common barrier to approval is not income, it is the credit check itself." This positions brightplace as an informed observer of renter behavior, not a generic content publisher.
+
+2. **Specificity over abstraction:** When referencing income thresholds (3x rent), deposit amounts (2-3 months), or guarantor fee ranges (4-10% of annual rent), include the specific figure with a qualification like "typically" or "in most markets." Specificity is the E-E-A-T proxy for experience. Vague ranges ("some landlords want more money") fail this test.
+
+3. **Market-aware framing:** Reference that search strategies differ by market density. In high-demand urban markets (New York, Los Angeles, Chicago), private landlords are rarer and third-party guarantor services become more relevant. In smaller or mid-sized markets, private listings are more common. This shows the writer understands how the rental market actually works, not just what the keywords say.
+
+### 6b. Expertise Signals
+
+Include these specific expertise markers:
+
+- State the standard income ratio landlords apply (gross monthly income of 3x monthly rent is the most common threshold; some NYC landlords require 40x annual rent or a third-party guarantor at 27.5x)
+- Distinguish between a soft credit pull (does not affect score) and a hard pull (does affect score) when explaining why renters search for no-check options
+- State that credit score minimums for professionally managed apartments typically range from 620-670, with luxury buildings often requiring 700 or above (as of 2025-2026)
+- Clarify that "no credit" is a different situation than "bad credit": no credit means a blank slate with no payment history; bad credit means a documented history of missed payments. Landlords generally view no credit as lower risk than bad credit.
+
+### 6c. Freshness & Date-Stamping
+
+The following claims must carry a date qualifier:
+
+- Credit score minimums for managed properties: "(as of 2026)"
+- Typical security deposit standard: "(in most states, as of 2026, security deposits are capped at 1-2 months' rent by law, but private landlords in states without caps may accept more)"
+- Income requirements (3x and 40x rent rules): "(commonly applied threshold as of 2026)"
+- Third-party guarantor fee range: "(typically 4-10% of annual rent, as of 2026)"
+
+Include a "Last reviewed: [Month 2026]" note at the bottom of the article, before the FAQ or as a footer note.
+
+**Claims most likely to go stale:**
+- Specific credit score thresholds (these shift with market conditions)
+- Deposit caps by state (legislative changes)
+- Third-party guarantor fee ranges (market-competitive pricing)
+
+### 6d. Information Gain
+
+Three specific pieces of information this article can provide that no current top-ranking competitor adequately covers:
+
+**Gap 1: Third-party guarantor services as a formal alternative to no-credit-check apartments.** Competitors either do not mention this category (NerdWallet, SoFi) or mention it only in passing (StreetEasy, only for NYC). Claude's AI response specifically named Insurent, TheGuarantors, and Rhino as a distinct, structured alternative for renters with income but no credit. This article should explain the category (not specific products) as a legitimate option for urban renters who cannot find private landlord listings but do have steady income. This constitutes information gain because no current competitor covers it as a standalone strategy rather than a footnote.
+
+**Gap 2: The distinction between a soft pull and a hard pull in the rental credit check context.** Multiple competitors mention credit checks but none explain that most tenant screening services use soft pulls (which do not affect your credit score), while a minority of landlords use hard pulls. Renters who are avoiding credit checks partly out of concern for their score need to know this distinction. This article should state it clearly and early. No current competitor in the top results addresses this distinction.
+
+**Gap 3: Market-specific strategy differences (urban vs. mid-sized markets).** All competitors write as if the strategy for finding no-credit-check apartments is the same everywhere. Claude's response explicitly noted this varies significantly: in high-cost, high-density cities, institutional landlords dominate and private listings are rare, making third-party guarantors more practical; in mid-sized markets, private landlords are more accessible and direct outreach through Facebook Marketplace and Craigslist is the primary path. This market-aware framing constitutes genuine information gain and differentiates brightplace as a nationally-informed renter resource.
+
+### 6e. Helpful Content Checklist
+
+- **Clear specific audience?** Yes: first-time renters, immigrants, credit-thin renters, and renters rebuilding after financial hardship who need housing now.
+- **First-hand expertise demonstrated?** Yes: via brightplace renter search behavior framing, specific numerical benchmarks, the soft/hard pull distinction, and the third-party guarantor category explanation.
+- **Reader achieves their goal?** Yes: after reading, the renter knows whether no-credit-check apartments exist, where to find them, what to offer instead of a credit score, how to avoid scams in that space, and how to make their payments build credit going forward. This is a complete answer.
+- **Human editor at brightplace confident publishing this?** Yes, provided the writing agent follows the brand rules, avoids banned language, and implements the E-E-A-T elements above.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data retrieved for this specific query. Treat as unknown baseline.
+
+**Claude:** Claude's response cited or functionally recommended the following types of sources:
+
+- **Niche listing platforms** (Craigslist, Facebook Marketplace, Padmapper): cited as primary search channels for private landlord discovery
+- **HUD public housing locator**: cited as the authoritative source for income-based housing and voucher programs
+- **AffordableHousing.com and GoSection8**: cited for LIHTC and income-restricted units
+- **Institutional guarantor services** (Jetty, TheGuarantors, Insurent): cited as the primary alternative for urban renters who cannot find private listings
+- **Rent-reporting services** (Rental Kharma, Rock the Score): cited as tools for building credit while in a no-check apartment
+
+**Is brightplace cited by either AI engine?**
+- ChatGPT: Unknown (no data retrieved)
+- Claude: No. brightplace does not appear in the response.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- Structured, specific alternative qualification strategies presented as a table or framework (not just a bullet list)
+- City-specific and market-specific framing (Claude's response was market-aware; brightplace content on this topic is not yet indexed)
+- The third-party guarantor category as a defined, explained alternative (not mentioned in current brightplace content)
+- Clear distinction between no credit and bad credit with specific implications for renter strategy
+- The soft pull vs. hard pull explanation for renters who are worried about their score being damaged by applying
+
+**Information gaps both AI engines identified:**
+1. Market-specific strategy (urban vs. mid-sized markets)
+2. Third-party guarantor services as a category
+3. Soft vs. hard credit pull distinction in tenant screening
+4. Income-to-rent benchmarks with specific numbers (3x monthly, 40x annual)
+5. The difference between no credit (blank slate) and bad credit (documented negative history)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article must contain: (a) a direct answer confirming that no-credit-check apartments exist and where they are most commonly found, (b) the target audience ("if you are renting for the first time, have no U.S. credit history, or are rebuilding after financial difficulty"), and (c) at least one specific numerical claim (e.g., "most professionally managed complexes require a credit score of 620 or above"). This is what LLMs extract as the authoritative summary of the page.
+
+**Rule 2: Structured data rule.**
+Include two tables:
+
+*Table 1: Landlord Type vs. Credit Check Likelihood*
+Columns: Landlord Type | Typically Requires Credit Check | What They Look For Instead
+Rows: Large property management company; Small private landlord (1-4 units); Sublet or roommate arrangement; Income-based/Section 8 housing
+
+*Table 2: Alternative Qualification Methods*
+Columns: Method | What It Demonstrates to the Landlord | Typical Requirement
+Rows: Larger security deposit; Prepaid rent (3-6 months); Co-signer with strong credit; Proof of income (3x rent); Reference letters; Third-party guarantor service
+
+Tables must use clean markdown that can be parsed. No merged cells, no color coding instructions.
+
+**Rule 3: Definition rule.**
+The following terms must be explicitly defined in a single clear sentence the first time they appear:
+
+1. **No-credit-check apartment:** "A no-credit-check apartment is a rental where the landlord does not pull a formal credit report as part of the application process."
+2. **Co-signer:** "A co-signer is someone who signs the lease alongside the renter and shares legal responsibility for rent payments."
+3. **Guarantor:** "A guarantor agrees to cover rent payments if the primary renter defaults but does not have the right to occupy the unit."
+4. **Soft pull:** "A soft credit pull is an inquiry that does not affect your credit score and is used by most tenant screening services."
+5. **Hard pull:** "A hard credit pull appears on your credit report and may lower your score by a few points; most rental applications use soft pulls, not hard pulls."
+
+**Rule 4: Proof point rule.**
+Include these numerical claims, each with a date qualifier:
+
+1. "Most professionally managed apartment complexes require a credit score of 620-670 or above (as of 2026)."
+2. "Standard income verification for rental approval requires gross monthly income of at least 3x the monthly rent."
+3. "In New York City, some landlords require annual income of 40x the monthly rent, or a qualified guarantor at 27.5x."
+4. "Third-party guarantor services typically charge 4-10% of annual rent as a fee (as of 2026)."
+5. "Offering 2-3 months of rent as a security deposit is a common alternative qualifier when a renter has no credit history."
+
+**Rule 5: FAQ rule.**
+Include these 6 questions in the FAQ section. Each answer must be 40-60 words, starting with a direct response.
+
+| Question | Source |
+|---|---|
+| Are there any apartments that don't require a credit check? | PAA |
+| Can you get a rental without a credit check? | PAA |
+| What credit score do you typically need to rent an apartment? | PAA + AI gap |
+| Is no credit worse than bad credit for renting? | Competitor FAQ + AI gap |
+| Can I rent an apartment with a 500 credit score? | AI engine gap |
+| What do private landlords look for instead of a credit score? | AI content gap |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: "Search available apartments on brightplace" linking to brightplace.ai or a relevant city search page.
+
+Placement:
+- **First placement:** After the first H2 direct answer section (before the article digs into tactics). This captures readers who already know what they want and just need to start searching.
+- **Second placement:** After the "What to Offer Instead of a Credit Score" H2. This is the highest-engagement section and the natural point where a renter is ready to act.
+- **Third placement:** At the end of the article, before the FAQ.
+
+**CTA language (examples for writing agent to adapt):**
+- "See what is listed near you on brightplace, where you can search by your actual situation."
+- "brightplace tracks apartment availability across cities. Find options in your area."
+- "Ready to start your search? brightplace shows you what is available without requiring you to guess at credit minimums."
+
+No aggressive sales language. No "Sign up now," no "Don't miss out," no urgency framing.
+
+**Secondary CTA:**
+Link to a brightplace guide covering related topics such as how to apply for an apartment, what to bring to a rental showing, or how rents are priced in major cities. The writing agent should check the brightplace sitemap for the most relevant existing article. If no matching article exists, omit the secondary CTA rather than link to an unrelated page.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. The writing agent must follow every rule below without exception.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional production rules:**
+
+- **Target word count:** 1,100-1,300 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. No sentence should exceed 25 words.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a rhetorical question, a statistic about housing in general, or a statement like "Renting an apartment can be challenging."
+- **Every H2 section opens with its answer,** not with context or background. The reader must be able to skim H2 headings and first sentences and understand the full article.
+- **No summarizing the article at the end.** End with the FAQ section. No "In conclusion" or "Final thoughts" paragraph.
+- **Do not name Reddit, Yelp, Google Reviews, ApartmentRatings, or any banned platform** even as a search channel suggestion.
+- **Do not write in the second person plural ("we all know").** Use "you" (the renter) and "the landlord" as the two actors throughout.
+
+**Schema to implement:**
+- **Article schema:** Always.
+- **FAQPage schema:** Always. Apply to every Q&A pair in the FAQ section.
+- **HowTo schema:** Apply to the "What to Offer Instead of a Credit Score" section if structured as numbered steps.
+- **Speakable schema:** Apply to the opening summary paragraph under the first H2 and to the FAQ section answers.
