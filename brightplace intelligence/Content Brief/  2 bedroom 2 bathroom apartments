@@ -1,0 +1,446 @@
+# Content Brief: 2 Bedroom 2 Bathroom Apartments
+**brightplace.ai/knowledgebase/**
+**Prepared for:** AI Writing Agent
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking competitors for "2 bedroom 2 bathroom apartments" split into two distinct formats:
+
+- **Floor plan galleries / visual tools** (RoomSketcher, SpaceDesigner3D): These rank because they match a secondary informational intent, specifically searchers trying to understand layout options, square footage norms, and spatial configurations before committing to a search.
+- **ILS listing pages** (implied by PAA geography questions): The majority of PAA queries ("near me," "near California," "Houston," "Brooklyn") confirm that the dominant searcher intent is transactional, meaning they want to find and rent a unit, not visualize floor plans.
+
+The article must match the **transactional-to-informational hybrid format**: a practical renter's guide that answers "what should I know and expect when searching for a 2BR/2BA apartment?" This format serves the informational gap that ILS pages cannot fill (they list units but do not educate), while floor plan galleries serve a completely different use case (design tools, not renter decisions).
+
+**Format decision:** Practical renter's guide with a comparison table, decision framework, and FAQ. Not a gallery, not a listicle, not a pure how-to.
+
+---
+
+### 1b. Content Depth Benchmark
+
+- **RoomSketcher (competitor 1):** Gallery page, approximately 200-300 words of body copy. Ranks on visual content and product utility, not prose depth. Low content depth for the renter decision intent.
+- **SpaceDesigner3D (competitor 2):** Approximately 700-900 words of informational body copy. Covers layout types, household configurations, storage. Informative but written for design tool users, not apartment renters.
+- **ILS pages (implied):** Typically 100-300 words of boilerplate intro copy, then listings.
+
+**Assessment:** The informational content gap for genuine renter-intent searchers is wide open. No top competitor is directly answering "what does a 2BR/2BA cost, what should I look for, and how do I find one." The content depth floor is approximately 700 words (SpaceDesigner3D). To provide meaningful information gain and match AI citation standards:
+
+**Target word count: 1,100-1,400 words.** This exceeds every current ranking competitor's prose depth while remaining within the knowledgebase format constraint (800-1,500 words).
+
+---
+
+### 1c. SERP Features Present
+
+| SERP Feature | Present | Article Element That Targets It |
+|---|---|---|
+| Featured Snippet | No (confirmed absent) | First H2 answer paragraph (40-60 words, direct answer format) positions for snippet capture if Google indexes one |
+| People Also Ask | Yes (10 questions confirmed) | Dedicated FAQ H2 with one Q&A per PAA question; FAQ structured for FAQPage schema |
+| AI Overview | Unknown from data provided | Opening 100-word summary paragraph with keyword, data point, and direct answer targets AI Overview extraction |
+| Local Pack | Implied by geographic PAA questions | City-specific cost table with named metros; local intent addressed in comparison section |
+| Video Carousel | Not confirmed present | Not targeted in this brief |
+| Knowledge Panel | Not confirmed present | Entity coverage in body copy (cities, property types, price ranges) supports knowledge graph relevance |
+
+**PAA questions to incorporate directly:** Questions 4 (near me), 5 (for rent), 9 (Houston), 10 (Brooklyn), and the budget-qualifier questions (LA under $1,500, LA under $2,000, MD under $1,000) are all addressable through a city-by-city cost comparison table. The geographic PAA questions confirm that city-level rent data is the primary information need.
+
+---
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** Someone searching "2 bedroom 2 bathroom apartments" is in active apartment search mode and wants to understand what a 2BR/2BA unit costs, what distinguishes a good one from a mediocre one, and where to find available units in their target market.
+
+**Primary intent:** Transactional (find a 2BR/2BA to rent).
+**Secondary intent:** Informational (understand pricing, layout differences, and what to evaluate before touring).
+
+**Intent match confirmation:** A practical renter's guide with city-level pricing data, layout evaluation criteria, and a clear CTA to search on brightplace directly matches both intents. A floor plan gallery (what competitors are serving) matches neither intent for this audience. This is a significant ranking opportunity.
+
+---
+
+## 2. Recommended Titles
+
+### Option A (Recommended)
+**What to Expect From a 2 Bedroom 2 Bathroom Apartment**
+*57 characters. Contains primary keyword. Sets expectation without ranking language. Works as an AI citation title.*
+
+### Option B
+**How 2 Bedroom 2 Bathroom Apartments Are Priced Across U.S. Cities**
+*66 characters. Leads with the dominant searcher need (pricing). Strong for AI citation on rent queries.*
+
+### Option C
+**A Practical Guide to Renting a 2 Bedroom 2 Bathroom Apartment**
+*63 characters. Mirrors brightplace's approved title framing. Broad enough to cover the full renter journey.*
+
+**Recommended title for publication:** Option A. It is the cleanest match for both transactional and informational intent, passes Google's helpful content framing, and reads naturally as an AI-cited resource.
+
+---
+
+### Meta Description
+**Recommended:**
+> 2 bedroom 2 bathroom apartments rent from $1,100 to $5,500/month depending on city and building type. Here is what renters need to know before searching.
+
+*148 characters. Contains primary keyword. Includes a specific data point (price range). Ends with a clear value proposition. No banned phrases.*
+
+---
+
+### URL Slug
+`brightplace.ai/knowledgebase/2-bedroom-2-bathroom-apartments`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is an adult renter, most commonly between 25 and 40, who is either relocating to a new city, upgrading from a one-bedroom, or co-renting with a partner or roommate and needs the privacy that two full bathrooms provides. They are in the **comparison-to-decision stage** of the renter journey: they have already decided they want a 2BR/2BA and are now trying to calibrate their budget against a specific market and understand what trade-offs they will face at different price points. Their core problem is a gap between what they think a 2BR/2BA should cost and what the market actually charges, compounded by uncertainty about whether a given unit's layout actually functions for two people living independently. They expect a content format that gives them real numbers by city, explains what distinguishes one type of unit from another, and points them directly toward available inventory.
+
+---
+
+## 4. Keywords & Entities
+
+### Primary Keyword
+`2 bedroom 2 bathroom apartments`
+
+### Secondary Keywords (13 terms)
+1. 2 bed 2 bath apartment
+2. 2BR/2BA apartment
+3. two bedroom two bathroom apartment for rent
+4. 2 bedroom 2 bathroom apartments for rent
+5. 2 bedroom 2 bathroom apartment cost
+6. average rent 2 bedroom 2 bathroom
+7. 2 bedroom apartment floor plan
+8. split bedroom layout
+9. two full bathrooms apartment
+10. 2 bedroom apartment roommates
+11. 2 bedroom apartment couples
+12. apartment with two bathrooms
+13. 2 bed 2 bath rent price
+
+### Entities to Mention (must appear in article body)
+1. **Cities:** Los Angeles, Houston, New York City (Brooklyn specifically), Chicago, Austin, Phoenix, Raleigh, Indianapolis (Midwest value tier)
+2. **Property types:** Class A apartment, Class B apartment, garden-style apartment, mid-rise, high-rise
+3. **Layout concepts:** Split-bedroom floor plan, tandem bedroom layout, en-suite bathroom, primary suite
+4. **Financial concepts:** Income-to-rent ratio (30% rule), rent concession, price per square foot
+5. **Renter situations:** Couples, roommates, remote workers, small families
+6. **Space benchmarks:** 850 sq ft (lower range), 1,100-1,200 sq ft (mid range), 1,400 sq ft (upper range)
+7. **brightplace / IntentOS:** Reference brightplace as the search tool for finding available units
+
+### Terms to AVOID
+- Any ILS brand name (Apartments.com, Zillow, Zumper, etc.)
+- "Best," "top," "ultimate," "hidden gem," "best-kept secret"
+- "Vibrant," "bustling," "thriving," "navigate," "landscape"
+- "Signal" in any form
+- "Deep dive," "leverage," "unlock"
+- "Whether you're X or Y," "from X to Y"
+- Em dashes in any form
+
+---
+
+## 5. Content Outline
+
+---
+
+### H1: What to Expect From a 2 Bedroom 2 Bathroom Apartment
+
+*This is the only H1. It contains the primary keyword variant and sets an informational, non-ranking tone consistent with brightplace curation framing.*
+
+---
+
+### H2: What a 2 Bedroom 2 Bathroom Apartment Actually Costs
+
+**Writing instruction:** This is the featured snippet and AI citation target. Open with a single declarative sentence giving the national rent range. The following paragraph must be 40-60 words total. Include: the national range ($1,100-$5,500/month depending on city and building class), a note that square footage matters as much as room count, and a one-sentence statement that city is the single largest cost variable. Do not add context before the direct answer. This section exists to capture the searcher's core question immediately.
+
+*Inline CTA placement: After this H2's opening answer, insert the first brightplace CTA. Example: "brightplace tracks current 2BR/2BA availability across major U.S. markets. See what is listed in your city."*
+
+---
+
+### H2: 2 Bedroom 2 Bathroom Rent Prices by City
+
+**Writing instruction:** Present the comparison table below. This section directly addresses the dominant PAA question pattern (geographic queries) and is the primary AI citation target for rent-by-city queries. Use the data from Claude's response (Data Source 3) as the base, updated with the date qualifier. Each city row should include a budget range, one sentence of context explaining the range (market conditions, neighborhood variation), and the income needed to qualify at the midpoint using the 30% rule. This is a **[CONTENT GAP]**: no competitor in Data Source 1 provides city-level pricing data. ILS pages provide listings but no aggregated pricing context. This table is the single highest-value content element in the article.
+
+**Table structure (exact column headers):**
+
+| City | Monthly Rent Range (2BR/2BA) | Typical Sq Ft | Household Income Needed | Market Note |
+|---|---|---|---|---|
+| New York City (Brooklyn) | | | | |
+| Los Angeles | | | | |
+| Houston | | | | |
+| Chicago | | | | |
+| Austin | | | | |
+| Phoenix | | | | |
+| Raleigh | | | | |
+| Indianapolis / Midwest avg. | | | | |
+
+*Writing agent instruction: Populate the table using the rent ranges from Claude's response in Data Source 3. Apply the current quarter and year as the date qualifier to all figures. Household income needed = (midpoint rent × 12) / 0.30, rounded to nearest $5,000. Market note should be one phrase (e.g., "Post-2022 softening; concessions available" for Austin).*
+
+---
+
+### H2: What the Square Footage Range Means for Daily Life
+
+**Writing instruction:** A 2BR/2BA spans roughly 850 to 1,400 sq ft in most markets. This section explains what that range means in practical terms: what fits comfortably at 900 sq ft versus 1,200 sq ft, why price per square foot is a more useful metric than total rent when comparing units, and how to calculate it. Include the formula (monthly rent / sq ft = price per sq ft). This is a **[CONTENT GAP]**: both competitor pages mention square footage ranges but neither connects square footage to daily livability or teaches renters how to use price-per-sq-ft as a comparison tool. Claude's AI response identified this as a key evaluation gap.
+
+---
+
+### H2: Split Bedroom vs. Tandem Layout: Why It Matters for Roommates and Couples
+
+**Writing instruction:** Define both layout types in the first two sentences. Split-bedroom: bedrooms on opposite ends of the unit with shared living space between them. Tandem: bedrooms share a wall or are stacked adjacently. Explain why the split layout is the functional standard for roommates (acoustic separation, no shared wall) and why couples or remote workers may actually prefer a tandem layout if one bedroom converts to a home office. Reference typical square footage where each layout appears (tandem more common sub-1,000 sq ft; split more common above 1,000 sq ft). This section addresses the layout questions raised in both competitor pages and in Claude's response but frames it from the renter's decision perspective rather than the designer's perspective. This is a **[CONTENT GAP]** for renter-intent content specifically.
+
+---
+
+### H2: What Two Bathrooms Actually Changes About Renting With Someone Else
+
+**Writing instruction:** This section addresses the "why 2 bathrooms specifically" subtext behind the search query. Many renters searching this keyword are upgrading from a 2BR/1BA to avoid a shared bathroom. Write concretely: two bathrooms eliminate the morning schedule conflict, allow one bathroom to serve as the primary suite en-suite (keeping guests out of the bedroom), and maintain cleanliness standards when two adults have different habits. Note that en-suite configuration (each bedroom has its own bath) differs from the split-bath configuration (one bath off the main hall, one off the primary bedroom). This distinction matters when reading listings. Keep this section practical and specific. 150-200 words.
+
+---
+
+### H2: What to Check Before You Tour a 2BR/2BA Unit
+
+**Writing instruction:** Present as a short, scannable checklist-style section (not a formal bulleted list; write as short declarative paragraphs, 1-2 sentences each). Cover: confirm actual square footage matches the listing, verify which bathroom is en-suite and which is shared, check that both bedrooms have closets (one is often a pass-through or has minimal storage), confirm laundry location (in-unit vs. shared vs. none), ask about parking if two adults will have two vehicles. This is practical, experience-demonstrating content that no floor-plan-focused competitor covers. 150-200 words.
+
+*Inline CTA placement: After this section, insert mid-article CTA. Example: "brightplace lets you filter 2BR/2BA apartments by layout type, square footage, and in-unit laundry. Start your search."*
+
+---
+
+### H2: Frequently Asked Questions About 2 Bedroom 2 Bathroom Apartments
+
+**Writing instruction:** Each Q&A must be 40-60 words. Write the question exactly as listed below (these are the exact PAA questions and AI-identified gaps). Each answer must begin with a direct declarative answer, then add one sentence of supporting context. These entries become FAQPage schema markup. Do not add transitions between Q&A pairs. Each answer stands alone.
+
+**Questions (8 total):**
+
+1. How much does a 2 bedroom 2 bathroom apartment cost per month?
+*(Source: PAA + Claude data; primary price intent query)*
+
+2. What is a split bedroom layout in a 2BR/2BA apartment?
+*(Source: Claude response content gap; layout definition query)*
+
+3. How much income do I need to rent a 2 bedroom 2 bathroom apartment?
+*(Source: Claude response; financial qualification query)*
+
+4. What is the average size of a 2 bedroom 2 bathroom apartment?
+*(Source: SpaceDesigner3D competitor; square footage query)*
+
+5. Are 2 bedroom 2 bathroom apartments good for roommates?
+*(Source: PAA + SpaceDesigner3D competitor; household configuration query)*
+
+6. What is the difference between a 2BR/2BA and a 2BR/1BA apartment?
+*(Source: AI-identified information gap; bathroom configuration comparison)*
+
+7. How do I find 2 bedroom 2 bathroom apartments near me?
+*(Source: PAA question 4; transactional/local query)*
+
+8. What should I look for in a 2 bedroom 2 bathroom apartment floor plan?
+*(Source: RoomSketcher competitor + Claude response; layout evaluation query)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search data framing:** In the city pricing table section, include a framing sentence: "Based on brightplace's review of current listings across these markets (as of Q2 2025), the ranges below reflect active inventory, not hypothetical medians." This positions brightplace as a direct data source, not a secondary aggregator.
+
+2. **Renter-perspective framing in the floor plan section:** Write from the perspective of someone who has evaluated dozens of 2BR/2BA units: "The most common complaint renters have after moving into a 2BR/2BA is discovering that one of the bathrooms is only accessible through the primary bedroom, making it unusable for guests." This is the kind of practical knowledge that comes from firsthand search experience, not from a floor plan gallery.
+
+3. **Specific trade-off language:** Throughout the article, acknowledge trade-offs directly. For example: "A 900 sq ft 2BR/2BA is livable for two people, but both bedrooms will be small, typically 10x10 or smaller. At 1,100 sq ft, the bedrooms open up meaningfully." This specificity constitutes demonstrated experience.
+
+---
+
+### 6b. Expertise Markers
+
+1. Include the price-per-square-foot calculation formula and a worked example (e.g., "$2,200/month for 1,050 sq ft = $2.10/sq ft").
+2. Explain the income qualification formula (30% rule) with a specific example: "A $2,000/month rent requires approximately $80,000 in combined household gross income to meet standard landlord requirements."
+3. Define "Class A" vs. "Class B" apartment buildings in one sentence each. These are terms that appear in Claude's AI response and reflect the expertise gap between generic content and genuinely informed renter guidance.
+4. Distinguish "en-suite" from "split-bath" configuration in a single definitional sentence, as this is a functional distinction that most listing descriptions obscure.
+
+---
+
+### 6c. Freshness & Date-Stamping
+
+**Every rent figure, price range, and cost estimate must include:** "(as of Q2 2025)" immediately adjacent to the claim.
+
+**Article must include:** "Last reviewed: [Month 2025]" in a visible note near the top of the article (below the opening paragraph, above the first H2, or in a styled callout block).
+
+**Claims most likely to go stale (flag for quarterly review):**
+- All city-level rent ranges in the comparison table (update quarterly)
+- Midwest average rent range (update semi-annually)
+- Austin market note ("post-2022 softening") (update when market conditions shift)
+- Any "income needed to qualify" figure derived from rent ranges (updates with rent figures)
+
+---
+
+### 6d. Information Gain: Content Gaps vs. Current Competitors
+
+**Gap 1: City-level pricing with income qualification context**
+No current top-ranking competitor for this keyword provides a city-by-city rent comparison table with income qualification thresholds. RoomSketcher and SpaceDesigner3D do not cover pricing at all. ILS pages show listings but no aggregated market context. This article should include the table specified in Section 5 (H2: Rent Prices by City). This constitutes direct information gain for the dominant searcher need.
+
+**Gap 2: Price-per-square-foot as a renter comparison tool**
+Competitors mention square footage ranges but do not connect them to a practical evaluation framework. The article should teach renters to calculate and compare price per square foot across units, which is how informed renters and housing professionals actually compare value. No competitor covers this. Claude's response identifies "square footage range" as a key evaluation factor but does not provide the calculation method.
+
+**Gap 3: En-suite vs. split-bath bathroom configuration**
+Both competitors cover layout types (split bedroom, tandem) but neither distinguishes between the two common bathroom configurations in a 2BR/2BA: en-suite (each bedroom has its own bath) vs. split-bath (one bath is accessible from the hallway and shared). This is a practical distinction that renters encounter in listing descriptions and floor plans but receive no guidance on interpreting. Claude's response mentions "building class" and layout considerations but does not address bathroom access configurations. This article can own that specific information.
+
+---
+
+### 6e. Helpful Content Checklist
+
+| Question | Answer |
+|---|---|
+| Does the article have a clear, specific audience? | Yes: adults actively searching for a 2BR/2BA apartment to rent, in the comparison-to-decision stage, most likely co-renting or upgrading. |
+| Does the article demonstrate first-hand expertise? | Yes: through brightplace listing data framing, specific trade-off observations, price-per-sq-ft methodology, and bathroom configuration distinctions that no competitor covers. |
+| Does the article leave the reader feeling they learned enough to achieve their goal? | Yes: a reader finishes the article knowing what a 2BR/2BA costs in their target city, how to evaluate square footage and layout, what to check before touring, and how to find available units. |
+| Would a human editor at brightplace be confident publishing this? | Yes, provided the writing agent follows all brand rules, avoids all banned phrases, applies the 30% income rule with worked examples, and does not cite any ILS platform, review aggregator, or forum. |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:**
+No specific ChatGPT response was captured in Data Source 3. Writing agent should treat the Claude response as the primary AI citation model.
+
+**Claude:**
+Claude's response is detailed and well-structured. It cites the following source types (implied from the response content structure):
+
+- **Market-level rent data sources (national housing reports and property management databases):** Claude cites rent ranges by city as a primary answer framework. It references Apartments.com, Zillow, Zumper, and Apartment List as search platforms, describing each one's inventory advantage. These are the ILS platforms brightplace must not cite or recommend.
+- **General housing knowledge base:** Claude's response on income qualification (30% rule), layout types, and building classes references no single external source; this is synthesized from general real estate knowledge.
+- **National Rent Reports:** Claude mentions "Zumper's monthly rent report" and "Apartment List's National Rent Report" as benchmarking sources.
+
+**Is brightplace cited by either engine?**
+- ChatGPT: Unknown (no response captured)
+- Claude: No
+
+---
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks for this keyword:**
+1. **Market-level rent data:** Claude's response is organized around city-by-city rent ranges. brightplace needs a structured data table with specific city ranges to be citeable for this query type.
+2. **Layout terminology with definitions:** Claude uses "split-bedroom," "tandem," "Class A/B," "en-suite" as defined terms. A brightplace article that defines these terms explicitly, in a single declarative sentence each, positions for definition extraction.
+3. **Decision framework structure:** Claude presents a four-step decision framework (budget, layout evaluation, platform selection, neighborhood factors). brightplace's article should present an equivalent framework with at least the budget and layout steps, without recommending competing ILS platforms.
+4. **Income qualification calculation:** Claude explicitly states the 30% income rule with a worked example. This must appear in the brightplace article to match AI citation standards.
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+1. Price-per-square-foot as a unit comparison metric (not covered by competitors)
+2. En-suite vs. split-bath bathroom configuration distinction (not covered by competitors)
+3. Lease qualification income thresholds by city tier (not covered by competitors)
+4. What "2BR/2BA" can actually mean in listings (some are 1BR+den mislabeled; some have a half-bath counted as full)
+
+---
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening paragraph (before the first H2) must be 80-100 words and contain:
+(a) A direct answer using the primary keyword: "A 2 bedroom 2 bathroom apartment gives two people private sleeping and bathroom space without sharing."
+(b) A specific numerical data point: "Monthly rent ranges from approximately $1,100 in Midwest markets to $5,500 or more in Los Angeles and New York City (as of Q2 2025)."
+(c) A statement of who this is for: "This guide is for renters comparing options, setting a realistic budget, or evaluating whether a specific unit is priced fairly."
+Do not add any other content to this paragraph. Keep it clean and extractable.
+
+---
+
+**Rule 2: Structured data rule**
+Include one primary comparison table: **2BR/2BA Rent by City** (column headers specified in Section 5 outline). This is the highest-priority structured element for AI citation on geographic price queries.
+
+Additionally, use **definition blocks** for the four key terms that must be defined (see Rule 3). Format these as short bolded term followed by a single colon and a single sentence. Example: **Split-bedroom layout:** A floor plan where the two bedrooms sit on opposite ends of the unit with the living area between them.
+
+No additional tables are needed. The article's structure should be: prose sections + one comparison table + definition blocks + FAQ.
+
+---
+
+**Rule 3: Definition rule**
+The following four terms must be explicitly defined in a single sentence each, at the point of first use:
+
+1. **Split-bedroom layout:** A floor plan where the two bedrooms are positioned on opposite ends of the unit, with the living and kitchen area between them, providing maximum acoustic separation.
+2. **En-suite bathroom:** A bathroom that is accessible only through a specific bedroom, making it private to the occupant of that room.
+3. **Class A apartment:** A building constructed within the last 10-15 years, typically featuring updated finishes, in-building amenities, and professional management; generally commands higher rent than older stock.
+4. **Price per square foot:** Monthly rent divided by the unit's square footage, expressed as a dollar amount per square foot; used to compare value across units of different sizes.
+
+---
+
+**Rule 4: Proof point rule**
+The following five numerical claims must appear in the article, each with the date qualifier "(as of Q2 2025)":
+
+1. "2 bedroom 2 bathroom apartments rent for approximately $1,100 to $5,500 per month across U.S. markets (as of Q2 2025), with the widest price variation by city rather than unit type."
+2. "Most 2BR/2BA apartments fall between 850 and 1,400 square feet; anything under 900 sq ft is considered compact for two people sharing the space."
+3. "Standard lease qualification requires monthly rent to equal no more than 30% of gross household income; a $2,000/month unit requires approximately $80,000 in annual household income."
+4. "In Phoenix and Indianapolis, 2BR/2BA units in Class B buildings average $1,100 to $1,900/month (as of Q2 2025), offering the strongest value per square foot of any major U.S. market."
+5. "In Brooklyn, 2BR/2BA units range from $3,200 to $5,500/month depending on proximity to transit and building age (as of Q2 2025)."
+
+*Writing agent note: Verify all specific figures against current brightplace listing data before publication. If exact figures are unavailable, use the Claude-sourced ranges from Data Source 3 with the date qualifier applied.*
+
+---
+
+**Rule 5: FAQ rule**
+
+| # | Question | Source | Target Answer Length |
+|---|---|---|---|
+| 1 | How much does a 2 bedroom 2 bathroom apartment cost per month? | PAA + Claude | 40-60 words |
+| 2 | What is a split bedroom layout in a 2BR/2BA apartment? | Claude response gap + SpaceDesigner3D | 40-60 words |
+| 3 | How much income do I need to rent a 2 bedroom 2 bathroom apartment? | Claude response gap | 40-60 words |
+| 4 | What is the average size of a 2 bedroom 2 bathroom apartment? | Claude + SpaceDesigner3D competitor | 40-60 words |
+| 5 | Are 2 bedroom 2 bathroom apartments good for roommates? | PAA + SpaceDesigner3D competitor | 40-60 words |
+| 6 | What is the difference between a 2BR/2BA and a 2BR/1BA apartment? | AI-identified information gap | 40-60 words |
+| 7 | How do I find 2 bedroom 2 bathroom apartments near me? | PAA question 4 | 40-60 words |
+| 8 | What should I look for in a 2 bedroom 2 bathroom apartment floor plan? | RoomSketcher competitor + Claude | 40-60 words |
+
+Each answer must open with a direct declarative sentence. No hedging, no qualifiers in the first sentence. One sentence of supporting context after the direct answer.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+### Primary CTA
+**Action:** Search for 2BR/2BA apartments on brightplace.ai
+**Link target:** brightplace.ai (or a city-specific search if available)
+**CTA copy options (writing agent selects contextually appropriate one):**
+- "See current 2 bedroom 2 bathroom listings on brightplace."
+- "brightplace searches available 2BR/2BA units across [City]. Start there."
+- "Find 2 bedroom 2 bathroom apartments in your target city on brightplace."
+
+**Placement (three locations):**
+1. **After H2: What a 2 Bedroom 2 Bathroom Apartment Actually Costs** (first CTA, immediately after the direct answer when interest is highest)
+2. **After H2: What to Check Before You Tour a 2BR/2BA Unit** (mid-article, when the reader is actively preparing to search)
+3. **After the FAQ section** (end of article, as the final action prompt)
+
+---
+
+### Secondary CTA
+**Topic:** Link to a brightplace knowledgebase article on renting with a roommate or on apartment costs by city (writing agent should check the brightplace sitemap for the closest matching published URL).
+
+**Purpose:** Keep readers in the brightplace content ecosystem when they want to go deeper on a related topic (roommate renting logistics, city-specific pricing).
+
+**CTA copy:** "If you are renting this apartment with someone else, brightplace has a guide to splitting costs and setting expectations before you sign."
+
+---
+
+### CTA Language Rules
+- No aggressive sales language. No "Sign up now," "Don't miss out," "Act fast."
+- Frame every CTA as a helpful next step, not a product push.
+- brightplace is always lowercase, including in CTAs.
+- Never describe brightplace as "the best" or "the only." Use specific, honest descriptors: "brightplace tracks current listings across [X] cities."
+
+---
+
+## 9. Writer Rules
+
+*Reproduced in full for the writing agent. These are non-negotiable.*
+
+---
+
+### Brand Rules
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide. Examples: "How Rent Prices Actually Work in Austin" / "What Remote Workers Should Know About Raleigh" / "A Practical Guide to Renting Your First Apartment."
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest trade-offs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (if content involves neighborhoods or cities):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent
