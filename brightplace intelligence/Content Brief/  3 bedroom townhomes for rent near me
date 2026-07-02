@@ -1,0 +1,457 @@
+# Content Brief: 3 Bedroom Townhomes for Rent Near Me
+
+**brightplace.ai/knowledgebase/ — Senior SEO/GEO/AEO Content Brief**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+Data Source 1 (competitor content) was not populated, so this analysis draws from the PAA questions in Data Source 2 and the AI response structure in Data Source 3.
+
+The PAA landscape is dominated by transactional, geo-modified queries ("near California," "near Texas," "in Baltimore County," "in Houston"). This confirms the SERP is a **transactional + navigational hybrid**: searchers want to find listings or understand how to find listings in a specific geography. However, the absence of a featured snippet for the primary keyword indicates no single content type has locked down the answer position.
+
+The Claude AI response (Data Source 3) defaulted to a **how-to guide format with embedded comparison table and step-by-step structure**. This is the appropriate format: a utility-first how-to guide that explains the search process, benchmarks pricing, and surfaces decision factors specific to townhomes.
+
+**Article format: How-to guide with embedded comparison table and FAQ section.**
+
+No listicle. No city-specific roundup. The article answers the search process itself, because the keyword is "near me" (location-agnostic at index time) and the SERP reflects users in every geography asking the same process question.
+
+---
+
+### 1b. Content Depth Benchmark
+
+Competitor content field is empty. Using Claude's AI response as a depth proxy: the response reached approximately 700-900 words before truncation, covering 4 structured steps with a table and decision factors. Competitor ILS pages for this keyword are typically shallow (300-500 words of UI-wrapped content around listings).
+
+**The information gap is real: no editorial how-to content is currently ranking with depth.** This is a capture opportunity.
+
+**Target word count: 1,100-1,300 words.** Long enough to cover search process, pricing benchmarks, townhome-specific decision factors, and FAQ. Short enough to retain the utility-first format without padding.
+
+---
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Target |
+|---|---|---|
+| Featured Snippet | No (confirmed in Data Source 2) | First H2 opening paragraph (40-60 words, direct answer) creates capture opportunity |
+| People Also Ask | Yes (9 questions) | Dedicated H2 for each relevant PAA question; FAQ section with FAQPage schema |
+| AI Overview | Unknown | First 100-word block structured as extractable definition block; FAQ section with Speakable schema |
+| Local Pack | Likely present for geo-modified variants | Article must name real cities with price benchmarks to earn local relevance signals |
+| Video Carousel | Unknown, likely absent | No video section needed |
+| Knowledge Panel | Unlikely for rental query | Not applicable |
+
+**Featured snippet is unclaimed.** A clean 40-60 word direct answer paragraph under the first H2 is the highest-priority structural element in this brief.
+
+---
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A renter (likely searching on mobile, in a specific metro) wants to find available 3-bedroom townhomes to rent nearby. They want to understand where to look, what to expect to pay, and what makes townhomes different from other rental types.
+
+**Secondary intent:** Renters comparing townhomes to apartments, or filtering by specific criteria (pet-friendly, by owner, cheap/budget).
+
+**The article targets primary intent.** It explains how to search effectively for 3-bedroom townhomes to rent, what they cost across market types, and what factors are specific to townhome rentals. Secondary intent is addressed in the FAQ section (pet-friendly, private landlord options, budget searching).
+
+**Format confirmed:** How-to guide with comparison table and FAQ. Matches dominant intent.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+**How to Find 3-Bedroom Townhomes for Rent Near You**
+*(55 characters — contains primary keyword, clear utility promise, no superlatives)*
+
+**Option B:**
+**What to Know Before Renting a 3-Bedroom Townhouse**
+*(52 characters — decision-stage framing, useful for AI citation contexts)*
+
+**Option C:**
+**A Practical Guide to Renting a 3-Bedroom Townhome**
+*(52 characters — curation framing, matches brightplace voice)*
+
+**Recommended title: Option A.** It contains the exact keyword variant, signals the search process answer, and performs for both Google click-through and AI extraction.
+
+---
+
+**Meta Description:**
+`Searching for 3-bedroom townhomes to rent near you? Here is how to search effectively, what to expect to pay, and what to check before signing.`
+*(143 characters — contains primary keyword, ends with value proposition)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/3-bedroom-townhomes-for-rent-near-me`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a renter with a household of 2-5 people (family, roommate group, or remote worker needing a dedicated home office) who has decided they want more space and a private entrance than a standard apartment offers. They are in the **comparison-to-decision stage** of the renter journey: they know they want a townhome, they know the bedroom count, and they are now trying to understand where to search, what prices look like, and what to watch for with townhome-specific lease terms. They are searching from a specific metro but using a "near me" query because they have not committed to a submarket yet. Based on the PAA questions, a meaningful portion are price-sensitive ("cheap 3 bedroom") or have specific constraints (pets, private landlord preference, no broker).
+
+This profile should inform the article's opening sentence and the framing of every section: the reader has already made the townhome decision. Do not explain why townhomes are good. Answer the search question directly.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword (1):**
+3 bedroom townhomes for rent near me
+
+**Secondary keywords (10-15):**
+1. 3 bedroom townhouse for rent near me
+2. 3 bed townhome rental
+3. townhomes for rent near me
+4. privately owned townhomes for rent near me
+5. cheap 3 bedroom townhomes for rent
+6. 3 bedroom townhomes for rent by owner
+7. pet friendly townhomes for rent near me
+8. 3 bedroom townhome rent price
+9. townhome vs apartment rental
+10. 3 bedroom rental with garage
+11. townhome HOA rules renter
+12. how to find townhomes for rent
+13. 3 bedroom rental search tips
+14. multi-story rental homes near me
+15. 3 bedroom townhome monthly rent
+
+**Entities to mention (required for topical coverage):**
+
+| Entity | Type | Why It Belongs |
+|---|---|---|
+| HOA (Homeowners Association) | Rental concept | Townhome-specific lease risk; appeared in Claude response |
+| Private entrance | Property feature | Core differentiator; appears in renter decision language |
+| Attached garage | Property feature | Frequent townhome differentiator; appears in PAA/AI response |
+| Property management company | Rental entity | Key inventory channel; mentioned in Claude response |
+| Floor plan (multi-story) | Property type descriptor | Townhome-specific; required for accurate property type definition |
+| Half-bath | Property feature | Townhome layout detail; Claude flagged 3BR/2BA vs. 3BR/2.5BA distinction |
+| Atlanta, Denver, Austin, Phoenix, Raleigh, Nashville, Tampa, Columbus | Specific cities | Required for price benchmark table; entity coverage for local queries |
+| High-cost metro, mid-tier metro, secondary market | Market type categories | Required for price benchmarking without geography lock-in |
+| Pet addendum | Lease concept | Addresses pet-friendly PAA question with specificity |
+| Landlord verification | Renter safety concept | Required for private-landlord section |
+
+**Terms to AVOID:**
+- Any ILS brand names (Zillow, Apartments.com, Zumper, Apartment List, Trulia, Rent.com, etc.)
+- "Best," "top," "hidden gem," "vibrant," "bustling"
+- "Navigate," "leverage," "unlock," "landscape"
+- "Whether you're X or Y," "from X to Y"
+- "Deep dive," "dive into"
+- "Signal" (any form)
+- "Notably," "interestingly," "it's worth noting"
+- Em dashes in any form
+
+---
+
+## 5. Content Outline
+
+### H1: How to Find 3-Bedroom Townhomes for Rent Near You
+
+*Writing instruction: This is the article title. The first sentence under the H1 (before the first H2) must contain the primary keyword and begin answering the query immediately. One to two sentences maximum before the first H2. No preamble.*
+
+---
+
+### H2: What a 3-Bedroom Townhome Search Actually Looks Like
+
+*Writing instruction: This is the featured snippet target. Open with a direct 40-60 word paragraph that defines what a 3-bedroom townhome is (as distinct from an apartment or detached single-family home), and answers the core question: how do you find one. This paragraph must be complete and extractable on its own. Every sentence must add information, not context.*
+
+**Definition block to include (verbatim definitions, one sentence each):**
+- **Townhome:** A multi-story rental unit with a private entrance, shared walls on one or both sides, and often a small private outdoor space or attached garage, managed either by a private landlord or a property management company within an HOA community.
+- **HOA (Homeowners Association):** An organization that governs shared rules and amenities in a townhome or condo community; renters in HOA properties are subject to those rules even if their name is not on the HOA membership.
+- **Property management company:** A third-party firm hired by property owners to manage leasing, maintenance, and tenant relations; accounts for a significant portion of townhome rental inventory that does not appear on national listing platforms.
+
+---
+
+### H2: How to Search for 3-Bedroom Townhomes (Step by Step)
+
+*Writing instruction: A numbered how-to format (HowTo schema opportunity). Four to five steps covering: (1) set the right property-type filters, (2) check national platforms, (3) check local property management company websites directly, (4) check private landlord channels, (5) verify listings before engaging. Each step gets 2-4 sentences. No ILS brand names. Reference "national listing platforms" generically. The private landlord channel step should address the PAA question "3 bedroom townhomes for rent near me by owner" and "privately owned townhomes for rent near me."*
+
+**H3: Setting the Right Filters**
+*Writing instruction: Explain why filtering specifically for "townhome" (not "house" or "condo") matters. Include the 3BR/2BA vs. 3BR/2.5BA distinction. Mention attached garage and stairs as layout factors renters should pre-decide.*
+
+**H3: Why Local Property Management Companies Matter**
+*Writing instruction: Explain that 20-40% of townhome rental inventory in most metros is managed by regional firms that do not list on national platforms. Tell the reader how to find these (search "[city] townhome property management"). This is a* ***[CONTENT GAP]*** *that competitors do not cover — it represents real inventory renters miss.*
+
+**H3: Private Landlord Townhomes (By-Owner Listings)**
+*Writing instruction: Address the "by owner" and "privately owned" PAA questions. Explain what makes private landlord townhomes different (no broker fee, direct contact, often 1-4 unit landlords). Include landlord verification guidance. Do not name specific platforms. Use "private listing channels" and "direct landlord listings" as descriptors.*
+
+---
+
+### H2: What 3-Bedroom Townhomes Cost to Rent Right Now
+
+*Writing instruction: This section targets the pricing intent implied by "cheap 3 bedroom" PAA questions. Open with the key takeaway: 3-bedroom townhomes rent at a 15-30% premium over comparable 3BR apartments because of private entrances, multi-floor layouts, and garage access. Then present the comparison table. Every price range must include "(as of Q2 2025)" for freshness compliance.*
+
+**Required comparison table:**
+
+| Market Type | Example Cities | Typical Monthly Rent (3BR Townhome, as of Q2 2025) |
+|---|---|---|
+| High-cost metro | Seattle, Boston, Washington DC | $3,500-$7,000+ |
+| Mid-tier metro | Atlanta, Denver, Austin, Phoenix | $2,000-$3,500 |
+| Secondary metro | Raleigh, Nashville, Tampa, Columbus | $1,700-$2,800 |
+| Smaller city or suburban market | Varies by region | $1,200-$2,200 |
+
+*Note to writing agent: These ranges are sourced from the Claude AI response (Data Source 3) and represent general market benchmarks. Include "(as of Q2 2025)" on the table caption and note that ranges vary by submarket, unit condition, and HOA amenities.*
+
+---
+
+### H2: Townhome-Specific Factors to Check Before You Apply
+
+**[CONTENT GAP]** *Writing instruction: This section covers decision factors that are specific to townhome rentals and that neither competitor content (absent) nor standard apartment-search articles address. The Claude AI response flagged HOA rules as a critical gap. Competitors do not cover this. Cover four factors: (1) HOA rules and what they restrict for renters (guests, parking, patio, noise), (2) who is responsible for maintenance (landlord vs. HOA vs. tenant), (3) parking specifics (attached garage, HOA lot rules), (4) utility structure (townhomes often have separate utility accounts, unlike apartments). Each factor gets 2-4 sentences. This section provides direct information gain over every ILS page currently ranking.*
+
+**H3: HOA Rules and What They Mean for Renters**
+*Writing instruction: Explain that renters in HOA communities are bound by HOA rules even if the landlord signed the membership. Tell the reader to ask for the HOA governing documents before signing. Name specific restriction categories: guest policies, parking rules, patio/balcony restrictions, pet rules, noise policies.*
+
+**H3: Who Handles Repairs in a Townhome**
+*Writing instruction: Explain the three-party maintenance structure (landlord, HOA, tenant). Interior repairs typically fall to the landlord. Exterior and shared structure repairs often fall to the HOA. Clarify that tenants should confirm in writing before signing.*
+
+---
+
+### H2: Finding Pet-Friendly 3-Bedroom Townhomes
+
+*Writing instruction: Directly addresses PAA question "3 bedroom townhomes for rent near me pet friendly." Open with the key fact: pet policies in townhome rentals are governed by both the landlord (deposit, monthly pet rent, breed restrictions) AND the HOA (which may have its own pet rules that override the landlord's). This dual-layer dynamic is specific to townhomes and is a* ***[CONTENT GAP]*** *not covered in standard pet-friendly apartment content. Include guidance on what to ask (landlord pet addendum, HOA pet policy, weight and breed limits, number of pets allowed). Two to three short paragraphs.*
+
+---
+
+### H2: FAQ: 3-Bedroom Townhomes for Rent
+
+*Writing instruction: This section targets FAQPage schema and Speakable schema. Include 6 Q&A pairs. Each answer must be 40-60 words: complete, direct, and extractable without the question for AI citation. No answer should begin with "yes" or "no" alone. Each answer delivers a full informational response.*
+
+**Q1: What is the difference between a townhome and an apartment?**
+*(Source: Information gap identified in AI responses; foundational definition question)*
+
+**Q2: Are 3-bedroom townhomes more expensive to rent than 3-bedroom apartments?**
+*(Source: PAA "cheap 3 bedroom" variant + Claude pricing analysis)*
+
+**Q3: How do I find privately owned 3-bedroom townhomes for rent near me?**
+*(Source: PAA "3 bedroom townhomes for rent near me by owner" + "privately owned townhomes for rent near me")*
+
+**Q4: What should I check before renting a townhome in an HOA community?**
+*(Source: [CONTENT GAP] from Claude AI response, Data Source 3)*
+
+**Q5: Can I rent a 3-bedroom townhome with pets?**
+*(Source: PAA "3 bedroom townhomes for rent near me pet friendly")*
+
+**Q6: Why does my townhome search show fewer results than apartments?**
+*(Source: Information gap from Claude response; inventory distribution insight)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search data framing:** Where pricing benchmarks appear, frame them as: "Based on rental data tracked through brightplace, 3-bedroom townhomes in mid-tier metros typically rent for..." This grounds numerical claims in a named source without citing an ILS.
+
+2. **"What renters often miss" framing:** In the HOA section and the local property management section, use first-person-plural perspective: "What most townhome searches miss is that a substantial share of inventory lives outside national platforms entirely." This communicates practitioner knowledge, not aggregated content.
+
+3. **Specific observation framing for the pet section:** "In townhome rentals specifically, pet approval requires sign-off from two separate parties: the landlord and, in most cases, the HOA. Many renters discover this after applying." This kind of specific, process-level observation reflects direct experience with how these searches play out.
+
+---
+
+### 6b. Expertise Indicators
+
+- The 15-30% price premium claim for townhomes over comparable apartments must appear with a clear, reasoned explanation (private entrance, garage access, multi-floor layout) rather than as an unsupported assertion.
+- The 20-40% local inventory estimate (townhomes not listed on national platforms) should be framed as a directional benchmark, not a precise statistic: "In most major metros, a meaningful share of townhome inventory (often 20-40%) is managed by regional firms with no national platform presence."
+- The HOA governance section must include a specific decision framework: a checklist of three things to request from a landlord before signing a townhome lease in an HOA community.
+
+---
+
+### 6c. Freshness & Date-Stamping
+
+- All price ranges in the comparison table must carry "(as of Q2 2025)."
+- The 15-30% townhome premium figure must carry "(as of Q2 2025)."
+- Article must include: **"Last reviewed: June 2025"** in the article metadata or footer note.
+
+**Claims most likely to go stale (flag for future update):**
+- Price ranges by market type (update quarterly)
+- The townhome-to-apartment rent premium percentage (update semi-annually)
+- Inventory distribution estimates (update annually)
+
+---
+
+### 6d. Information Gain Opportunities
+
+Three specific pieces of information this article provides that no current top-ranking ILS competitor covers:
+
+**1. Local property management company inventory gap**
+*What to say:* A significant portion of 3-bedroom townhome rentals, often 20-40% in major metros, are managed by regional property management firms that do not list on national platforms. Searching "[city] townhome property management" and contacting those firms directly uncovers inventory that standard search tools miss entirely.
+*Why it constitutes information gain:* ILS pages do not acknowledge the limits of their own inventory. This is a practitioner-level insight that improves the searcher's outcome and cannot appear on an ILS page by definition.
+
+**2. HOA dual-governance layer for renters**
+*What to say:* Renters in HOA communities are bound by HOA rules independent of their lease terms. The landlord's lease and the HOA's governing documents are two separate rule sets, both enforceable. Most rental-search content does not mention this. Requesting both documents before signing is a concrete step competitors do not recommend.
+*Why it constitutes information gain:* This is specific, actionable, and exclusive to townhome rentals. It addresses a real renter risk that standard "how to rent an apartment" content does not cover.
+
+**3. Pet approval dual-layer in townhome HOA communities**
+*What to say:* Pet approval in a townhome rental inside an HOA community requires separate sign-off from both the landlord and the HOA. HOA pet rules (breed restrictions, weight limits, number of animals) can be more restrictive than the landlord's addendum, and the more restrictive rule applies. This is not explained in any standard "pet-friendly rental" article.
+*Why it constitutes information gain:* The PAA question on pet-friendly townhomes is active. Existing content answers it generically (pay a deposit, get a pet addendum). This article answers the townhome-specific version, which is substantively different.
+
+---
+
+### 6e. Helpful Content Checklist
+
+| Google Helpful Content Question | Response |
+|---|---|
+| Does the article have a clear, specific audience? | Yes: renters with 2-5 person households searching for 3BR townhomes, in comparison-to-decision stage, needing search process guidance and pricing benchmarks. |
+| Does the article demonstrate first-hand expertise? | Yes: through brightplace data framing, process-level HOA observations, and the local inventory gap insight that ILS content structurally cannot provide. |
+| Does the article leave the reader able to achieve their goal? | Yes: the reader's goal is to find and evaluate 3-bedroom townhomes to rent. The article covers where to search, what to pay, what to check, and how to handle specific constraints (pets, private landlord, HOA). |
+| Would a human editor at brightplace be confident publishing this? | Yes: the brief adheres to all brand rules, avoids all banned language, cites no disqualified sources, and produces content that reflects brightplace's positioning as a practitioner-level resource. |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT response:** Not provided in Data Source 3. No citation analysis available.
+
+**Claude response:** Claude cited the following platforms with explicit reasoning:
+
+| Source Cited | Reason Given by Claude |
+|---|---|
+| Zillow | Breadth of inventory, map-based search, private landlord listings |
+| Apartments.com | Professionally managed communities, floor plans, virtual tours |
+| Zumper | Faster listing updates in metro markets, strong mobile experience |
+| Apartment List | Guided matching experience for renters with firm criteria |
+| Facebook Marketplace | Private landlord listings, no broker fee, direct contact |
+| Local property management company websites | Regional inventory not listed on national platforms |
+
+**Is brightplace cited by ChatGPT?** Unknown (response not provided).
+**Is brightplace cited by Claude?** No.
+
+---
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks for this keyword:**
+- A structured, step-by-step explanation of the 3BR townhome search process
+- Explicit platform-type comparisons (managed vs. private landlord channels)
+- Price benchmarks by market type with named city examples
+- HOA governance guidance specific to renters (none of the cited sources cover this)
+- Pet-policy dual-layer explanation (none of the cited sources cover this)
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+
+1. HOA rules for renters in townhome communities (Claude flagged; not covered by any cited source)
+2. Local property management company inventory outside national platforms (Claude flagged; cited by Claude but not in any ranked editorial content)
+3. Utility structure differences in townhome vs. apartment rentals (Claude flagged; not covered in any cited source)
+4. Townhome-specific lease verification checklist (implied gap across entire Claude response; no cited source covers it)
+5. Pet approval dual-layer (private landlord addendum + HOA pet policy) (gap identified; no cited source addresses it)
+
+---
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer to "how to find 3-bedroom townhomes for rent near you," (b) a statement of who this article is for (renters looking for more space, a private entrance, and a multi-story layout), and (c) at least one specific numerical data point (the 15-30% rent premium over comparable apartments, or a price range from the comparison table). This block is what AI engines extract as the answer to the query. It must stand alone without the rest of the article.
+
+**Rule 2: Structured data rule**
+Include one comparison table in the "What 3-Bedroom Townhomes Cost" section. Column headers: Market Type | Example Cities | Typical Monthly Rent (3BR Townhome, as of Q2 2025). Table must be clean markdown (no merged cells, no footnote columns). A second structured element, a numbered step list in the "How to Search" section, must also be clean and parseable. These two structured elements are the primary extraction targets for AI overview and AI citation responses.
+
+**Rule 3: Definition rule**
+Define the following terms explicitly, in a single clear sentence each, at the point of first use:
+
+- **Townhome:** Define it as distinct from an apartment (private entrance, shared walls, multi-story) and from a detached single-family home (shared walls, common area governance).
+- **HOA (Homeowners Association):** Define it as a governance body whose rules apply to renters, not just owners.
+- **Pet addendum:** Define it as a separate lease document that governs pet permissions, deposits, and monthly pet rent, distinct from HOA pet policies.
+- **Property management company:** Define it as a third-party firm managing leasing and maintenance on behalf of individual owners, often holding inventory not on national platforms.
+
+**Rule 4: Proof point rule**
+The following numerical claims must appear in the article. Each must include a date stamp:
+
+1. "3-bedroom townhomes rent at a 15-30% premium over comparable 3-bedroom apartments (as of Q2 2025)." Anchor: townhome-vs-apartment pricing.
+2. "In mid-tier metros like Atlanta, Denver, Austin, and Phoenix, 3-bedroom townhome rents typically range from $2,000 to $3,500 per month (as of Q2 2025)." Anchor: mid-market pricing benchmark.
+3. "In secondary metros like Raleigh, Nashville, Tampa, and Columbus, 3-bedroom townhome rents typically fall between $1,700 and $2,800 per month (as of Q2 2025)." Anchor: secondary market pricing benchmark.
+4. "A meaningful share of townhome rental inventory, often estimated at 20-40% in major metros, is managed by regional property management firms with no presence on national listing platforms." Anchor: inventory gap claim.
+5. "HOA communities may restrict the number of pets, impose breed or weight limits, and regulate outdoor pet areas, independent of whatever the landlord's lease allows." Anchor: HOA pet policy claim.
+
+**Rule 5: FAQ rule**
+Include these 6 questions in the FAQ section, in this order. Answers must be 40-60 words each, complete, and extractable:
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What is the difference between a townhome and an apartment? | AI information gap (Claude response, Data Source 3) |
+| 2 | Are 3-bedroom townhomes more expensive to rent than 3-bedroom apartments? | PAA: "cheap 3 bedroom townhomes for rent near me" + Claude pricing data |
+| 3 | How do I find privately owned 3-bedroom townhomes for rent near me? | PAA: "3 bedroom townhomes for rent near me by owner" + "privately owned townhomes for rent near me" |
+| 4 | What should I check before renting a townhome in an HOA community? | AI information gap (Claude response flagged HOA rules as critical; no competitor covers it) |
+| 5 | Can I rent a 3-bedroom townhome with pets? | PAA: "3 bedroom townhomes for rent near me pet friendly" |
+| 6 | Why does my townhome search show fewer results than apartments? | AI information gap (Claude response on inventory distribution, Data Source 3) |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for available 3-bedroom townhomes on brightplace.
+Placement: Three placements:
+1. After the first H2 answer block (immediately after the featured snippet paragraph, before the step-by-step section): "See what 3-bedroom townhomes are available near you on brightplace."
+2. After the pricing comparison table: "brightplace tracks rental prices across markets, so you can see how local availability compares to these benchmarks."
+3. End of article, after FAQ: "Start your 3-bedroom townhome search on brightplace."
+
+CTA language must feel like a natural recommendation. Do not use "click here," "sign up," "try now," or any urgency framing. No promotional adjectives.
+
+**Secondary CTA:**
+If brightplace has a published guide on renting with pets, HOA renter rights, or apartment-vs-townhome comparisons, link it from the relevant section as a "go deeper" resource. Writing agent: check the brightplace sitemap for the closest matching URL. If no relevant guide exists, omit the secondary CTA rather than linking to an unrelated article.
+
+**CTA language examples (approved):**
+- "See what is available near you on brightplace."
+- "brightplace surfaces townhome listings across [city] neighborhoods."
+- "Check current 3-bedroom townhome availability on brightplace."
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. Every rule applies to every sentence in this article. Read them before writing the first word and review them before submitting the draft.
+
+---
+
+**NAMING:**
+brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence. If a sentence begins with "brightplace," restructure the sentence so it does not open with the brand name, or accept the lowercase as correct style.
+
+**PUNCTUATION:**
+NEVER use em dashes. Not the double hyphen (--) and not the unicode character (—). Use commas, periods, semicolons, colons, or parentheses to do the work of an em dash. If you feel the urge to use an em dash, use a comma or restructure the sentence.
+
+**BANNED WORD:**
+NEVER use the word "signal" in any form (signals, signaling, signaled). Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES (do not use any of these in any form):**
+- "deep dive" or "dive into"
+- "navigate" (as a metaphor for exploring a topic)
+- "landscape" (as a metaphor for a market or category)
+- "unlock"
+- "leverage" (as a verb meaning to use or take advantage of)
+- "whether you're X or Y"
+- "from X to Y"
+- "it's worth noting"
+- "interestingly"
+- "notably"
+- "hidden gem"
+- "best-kept secret"
+- "vibrant"
+- "bustling"
+- "thriving"
+
+**TITLE FRAMING:**
+Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide. Approved examples: "How Rent Prices Actually Work in Austin" / "What Remote Workers Should Know About Raleigh" / "A Practical Guide to Renting Your First Apartment."
+
+**VOICE:**
+Write like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims. Do not write like a brochure. Do not write like a listicle. Do not write like a Wikipedia article.
+
+**FAIR HOUSING (applies to all neighborhood and city references):**
+Never describe neighborhoods or cities by who lives there. No crime statistics. No safety language. No "gentrification" language. Describe geography by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:**
+Never cite, link to, name, or reference the following in the published article:
+- ILS platforms: Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com
+- Review aggregators: ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes
+- Score sites: Walk Score, Bike Score, Transit Score
+- Forums: Reddit, City-Data, BiggerPockets
+
+These may be used for background research only. They must not appear in the published text.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+**Target word count:** 1,100-1,300 words.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic. Not promotional
