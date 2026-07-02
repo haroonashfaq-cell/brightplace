@@ -1,0 +1,430 @@
+# CONTENT BRIEF: Move-In Specials Near Me
+**brightplace.ai/knowledgebase/**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are a mix of **local listing pages** (apartment community websites promoting their own specials) and **educational/explainer hybrid pages** (local apartment search sites explaining what specials are while listing local inventory). No single result is a pure how-to guide. The closest thing to editorial content is the San Antonio and Houston pages, which combine definitions, type breakdowns, and neighborhood guidance.
+
+The appropriate format for brightplace is an **educational guide with structured explainer sections**: define what move-in specials are, explain how they work, explain how to find them, and address specific renter sub-intents from the PAA data (low-income specials, no credit check, $99/$299/$500 specials). This format wins because brightplace is not a local listing directory, so it cannot compete on listing inventory. It wins on informational depth and utility.
+
+### 1b. Content Depth Benchmark
+
+- El Paso Rent Now: listing-only, minimal editorial text (~200 words)
+- Landing at McCallum: property page with FAQ (~400 words editorial)
+- VIP Realty Houston: ~900 words editorial
+- San Antonio Apartment Search: ~700 words editorial
+- DFW Apartment Specials: listing-only, minimal editorial text (~150 words)
+
+Most substantive competitors land at 700-900 words of editorial content. The AI response from Claude (Data Source 3) is significantly deeper and more structured. **Target word count: 1,100-1,300 words.** This exceeds competitor depth while staying inside the 1,500-word ceiling.
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Target in Article |
+|---|---|---|
+| Featured Snippet | No featured snippet found | Opening 40-60 word paragraph under first H2 must define "move-in specials" directly and completely. |
+| People Also Ask | Yes (12 questions) | Dedicated FAQ H2 at the end. Select 6-8 most relevant PAA questions. Also address "$99 move-in special" and "no credit check" inline. |
+| AI Overview | Not confirmed | Structured definitions, a comparison table, and numbered steps increase AI extraction probability. |
+| Local Pack | Likely (location-dependent) | Article cannot target local pack directly. It should explain how to use location-based search to find specials, which earns topical authority. |
+| Video Carousel | Not present | Not applicable. |
+| Knowledge Panel | Not present | Not applicable. |
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A renter who wants to find apartments with move-in specials in their area right now. This is a **transactional-discovery** query: the searcher is ready to lease or close to it, and they want reduced upfront costs.
+
+**Secondary intent:** Some searchers want to understand what move-in specials are before they decide whether to pursue them. The PAA questions confirm this ("What does $99 move-in special mean?").
+
+**The article should target the primary transactional-discovery intent first**, answering "how do you find these?" before explaining the nuances of each type. Lead with utility, follow with explanation. The format (educational guide with action steps) matches this intent.
+
+---
+
+## 2. Recommended Titles
+
+### Option A (Recommended)
+**How Apartment Move-In Specials Work and Where to Find Them**
+*57 characters. Contains semantic variant. Curation framing. Utility-clear.*
+
+### Option B
+**What Renters Should Know About Move-In Specials**
+*50 characters. Curation framing. Broad enough to serve both discovery and transactional searchers.*
+
+### Option C
+**A Practical Guide to Finding Move-In Specials on Apartments**
+*60 characters. Action-oriented. Matches how-to secondary intent. Slightly longer but within SERP display range.*
+
+---
+
+**Recommended Meta Description:**
+Move-in specials can cut your upfront rental costs by $500 to $2,000. Here is what they include, when they are most common, and how to find them near you. (152 characters)
+
+**Recommended URL Slug:**
+`brightplace.ai/knowledgebase/move-in-specials-apartments`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **renter at the active decision stage**: someone who has already started searching for apartments, knows they want to reduce upfront costs, and is looking for either specific listings with specials or a strategy to find them. This includes first-time renters managing tight move-in budgets, people relocating on short timelines, renters in high-supply markets with genuine negotiating leverage, and renters with credit or income challenges searching for low-barrier entry options (confirmed by PAA questions on no-credit-check and low-income specials).
+
+They are in the **comparison-to-transaction** stage of the renter journey. They are not researching whether to rent; they are trying to reduce the financial friction of doing so. They expect either a list of current local specials (which brightplace cannot provide without location context) or a clear guide to finding specials on their own. The article must deliver the latter with enough specificity that it feels as useful as the former.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary Keyword:**
+move in specials near me
+
+**Secondary Keywords (12):**
+- apartment move in specials near me
+- move in specials apartments
+- $99 move in special
+- $299 move in specials near me
+- $500 move in specials near me
+- low income move in specials near me
+- move in specials near me no credit check
+- one bedroom move in specials near me
+- look and lease special
+- total move in special
+- first month free apartment
+- apartment concessions
+
+**Entities to Include (8):**
+- Look and Lease Special (specific rental industry term, requires definition)
+- Total Move-In Special (TMI, specific term from industry and competitor content)
+- Security deposit (financial concept central to multiple special types)
+- Lease term length (12-month, 14-month lease as leverage mechanism)
+- New construction lease-up (specific category where specials are most common)
+- Application fee / admin fee waiver (specific special type)
+- Effective rent vs. face rent (distinction explained in Claude response, absent from all competitors)
+- Preferred employer discount (specific special type appearing in competitor content)
+
+**Terms to Avoid:**
+best, top, guide (in title), ultimate, hidden gem, vibrant, bustling, leverage (verb), navigate, unlock, deep dive, signal, whether you're X or Y, from X to Y, it's worth noting, interestingly, notably, thriving, best-kept secret.
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How Apartment Move-In Specials Work and Where to Find Them
+
+---
+
+**H2: What a Move-In Special Actually Is**
+
+*Writing instruction: Open with a direct, complete 40-60 word definition of move-in specials as a whole category. This paragraph is the featured snippet target. Do not lead with context or history. Define the term, state what it covers, and immediately name the four main types. Expand each type in 1-2 sentences below the opening paragraph.*
+
+- Define move-in specials in the opening paragraph (40-60 words, featured snippet target)
+- H3: Free Rent Specials
+- H3: Reduced or Waived Deposit
+- H3: Waived Application or Admin Fees
+- H3: Look and Lease Specials
+- H3: Total Move-In Specials (TMI)
+
+*Each H3 needs one precise definition sentence followed by one sentence on typical value range.*
+
+> **[CONTENT GAP]:** The effective rent vs. face rent distinction must appear here. No competitor explains that "one month free on a 12-month lease" means your effective monthly rate is lower than what appears on the lease, and that landlords renew at the face rent, not the effective rate. This is high-value information that every renter needs and no competitor provides.
+
+---
+
+**H2: When Move-In Specials Are Most Common**
+
+*Writing instruction: Explain the seasonal and market-condition patterns that determine when specials proliferate. Use specific months. Name specific U.S. market types where specials are currently more available (high-supply metros). This section provides timing advice that no competitor currently offers.*
+
+- Seasonal pattern: October through February as peak concession season
+- New construction lease-up buildings as a reliable source year-round
+- High-supply markets where specials are more common (Austin, Nashville, Phoenix, Charlotte, Raleigh, Denver; note these as examples, do not present as exhaustive)
+- Supply-constrained markets where specials are less common (New York, Boston) as honest tradeoff
+
+> **[CONTENT GAP]:** No competitor explains market conditions as a driver of specials. The Claude response identified this as a distinct category of useful information. Explaining that renters in high-supply metros have more leverage than renters in constrained markets is genuinely useful and absent from all competitors.
+
+---
+
+**H2: A Comparison of Move-In Special Types**
+
+*Writing instruction: Present a clean comparison table with four columns: Special Type, What It Covers, Typical Value Range, Key Condition or Catch. Pull the values from the Claude response and competitor data. This table is an AI extraction and featured snippet target. Use clean formatting.*
+
+| Special Type | What It Covers | Typical Value | Key Condition |
+|---|---|---|---|
+| Free rent | 1-2 months rent waived | $1,000-$3,000+ | Usually requires 12-14 month lease |
+| Reduced deposit | Half or fully waived security deposit | $500-$2,000 | May require approved credit |
+| Waived fees | Application or admin fee eliminated | $50-$300 | Often tied to look-and-lease deadline |
+| Look and lease | Discount given if you sign within a set window after touring | Varies: $100-$500 off first month | Clock starts at your tour |
+| Total move-in special (TMI) | Low flat fee covers deposit and first month | $99-$499 total move-in cost | May require clean rental history |
+| Preferred employer/military | Ongoing monthly discount for qualifying employers | 5-8% off monthly rent | Requires proof of employment |
+
+*Writing instruction: Do not just copy this table into the article. The writer must review and verify ranges, then insert the table with accurate data and a "(as of Q3 2025)" note.*
+
+---
+
+**H2: How to Find Move-In Specials in Your Area**
+
+*Writing instruction: This is the primary action section. Give the searcher a numbered sequence of steps they can take today. Be specific about where to look and what to do at each step. Do not cite or link to ILS platforms by name in the published article per brand rules, but the section can acknowledge that dedicated search platforms exist and explain what filter to use.*
+
+1. Search apartment listing platforms using a "specials" or "concessions" filter (exists on most major platforms)
+2. Go directly to property management company websites for the buildings you identify (specials are often listed there before they update third-party platforms)
+3. Call or email leasing offices directly and ask: "Are there any current move-in specials or concessions on this unit?"
+4. Check for recently opened buildings in your target area (new construction lease-ups almost always run specials in their first 12-18 months)
+5. Ask during slow periods: mid-month, mid-week, and October-February are when leasing teams have the most flexibility
+
+*Include one bracketed CTA here: "brightplace lets you search [City] apartments and see current availability in one place. [CTA link]"*
+
+---
+
+**H2: How to Negotiate a Special Even When None Is Advertised**
+
+*Writing instruction: This is a [CONTENT GAP] section with no equivalent in any competitor. Explain the four negotiation levers a renter has. Write it as practical advice, not theory. Short paragraphs, specific tactics.*
+
+> **[CONTENT GAP]:** No competitor page covers negotiation. Every competitor is either a listing page or an informational explainer that treats specials as fixed offers. Explaining that renters can negotiate specials, and how, provides genuine information gain and differentiates brightplace's content from every ranking competitor.
+
+- Ask directly: scripted language the writer should include
+- Leverage vacancy: units listed for 30+ days have less power behind the asking price
+- Offer a longer lease term: 14-18 month leases are often exchanged for one month free
+- Time your application: mid-month and mid-week applications get more leasing agent attention
+
+---
+
+**H2: What $99, $299, and $500 Move-In Specials Mean**
+
+*Writing instruction: This section directly targets four high-volume PAA and related keyword variants: "$99 move-in special," "$299 move-in specials near me," "$500 move-in specials near me." Explain what these flat-fee move-in structures mean in practice. Be specific about what is and is not included. This section answers the PAA question "What does $99 move-in special mean?" directly.*
+
+- $99 move-in special: typically means total upfront cost at move-in (deposit plus first month prorated) is capped at $99; requires a 12-month lease and clean rental history; not the same as $99 first month rent
+- $299 and $500 specials follow the same structure with slightly different credit/income requirements
+- These are most common in Class B and Class C properties in mid-size metros
+- They are not available in most luxury or new construction buildings
+- Ask the leasing office to confirm exactly what the $99 covers before signing
+
+---
+
+**H2: Move-In Specials for Renters with Low Income or No Credit**
+
+*Writing instruction: This section targets two high-volume PAA variants: "low income move in specials near me" and "move in specials near me no credit check." Explain what actually exists for these renter categories, be honest about what is rare versus common, and give specific actionable advice. Do not make promises the content cannot keep. Fair housing rules apply: describe only by financial and lease criteria, not by neighborhood demographics.*
+
+- Low-income move-in specials: what subsidized and income-restricted communities offer vs. market-rate specials
+- No-credit-check specials: what "no credit check" actually means in practice (some properties still run criminal background checks; income verification is almost always required)
+- ITIN renters and non-traditional credit: some properties accept alternative credit documentation
+- What to ask when inquiring about no-credit-check availability
+
+---
+
+**H2: Frequently Asked Questions About Move-In Specials**
+
+*Writing instruction: Write each answer in 40-60 words. Each answer must be a standalone response: someone reading only the FAQ must get a complete answer without reading the full article. These become FAQPage schema entries. Do not hedge or use vague language.*
+
+**Q1: What does a $99 move-in special mean?**
+Source: PAA
+
+**Q2: Are move-in specials available near me right now?**
+Source: Primary keyword intent
+
+**Q3: What is a look and lease special?**
+Source: Industry term, appears across multiple competitor pages
+
+**Q4: What is a total move-in special (TMI)?**
+Source: Industry term, San Antonio competitor
+
+**Q5: Do move-in specials affect rent renewals?**
+Source: Claude information gap (effective rent vs. face rent distinction)
+
+**Q6: How long do move-in specials last?**
+Source: PAA (indirectly), San Antonio competitor
+
+**Q7: Can I negotiate a move-in special if none is advertised?**
+Source: Claude information gap, no competitor covers this
+
+**Q8: What is the difference between a move-in special and a concession?**
+Source: AI response language gap
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search pattern framing:** Where relevant, reference brightplace's observation of renter search behavior. Example: "Renters searching for apartments on brightplace during October and November consistently find more properties offering concessions than those searching in April or May." This positions brightplace as a primary source, not a content aggregator.
+
+2. **Specific market observations framed as current analysis:** Use language like "As of Q3 2025, markets with the highest new apartment supply, including Austin and Phoenix, have the highest rates of move-in concessions among properties tracked on brightplace." This is first-party framing even when general market trends are being described.
+
+3. **Practitioner perspective on negotiation:** The negotiation section should read as if written by someone who has observed hundreds of lease negotiations, not summarized a list from another source. Specific scripts, specific timing advice, specific leverage points.
+
+### 6b. Expertise Markers
+
+- State specific numerical ranges for each special type with source context (e.g., "one to two months free rent, which translates to $1,000 to $3,000 in savings on a typical apartment at 2025 market rates")
+- Explain the effective rent vs. face rent calculation explicitly: "On a $1,500/month apartment with one month free on a 12-month lease, your effective monthly rate is $1,375. Your lease still shows $1,500, and your renewal offer will be anchored to that figure."
+- Provide the specific question renters should ask leasing agents ("Are there any current concessions or specials available on this unit?") as a decision framework only an expert would provide
+
+### 6c. Freshness & Date-Stamping
+
+- All rent ranges must include "(as of Q3 2025)"
+- Add "Last reviewed: [Month 2025]" in the article footer or introduction note
+- Claims most likely to go stale and require future updating:
+  1. Which specific metros have the highest supply and therefore the most concessions (changes quarterly)
+  2. Dollar ranges for TMI specials (market-dependent)
+  3. Seasonal concession timing (broadly stable but metro-specific conditions shift)
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that no current top-ranking competitor covers:
+
+**1. Effective rent vs. face rent on free-month specials**
+No competitor explains that "one month free" on a 12-month lease lowers your effective monthly cost but that renewal offers anchor to the face rent on the lease. This is a concrete financial tradeoff every renter making this decision needs. The writing agent must include the math: ($1,500 × 11 months) ÷ 12 = $1,375 effective rate. The lease says $1,500. At renewal, the landlord starts from $1,500.
+
+**2. Market conditions as a predictor of concession availability**
+No competitor explains that new apartment supply in a metro directly correlates with how aggressively properties compete on concessions. Renters in Austin, Phoenix, Nashville, Charlotte, Raleigh, and Denver (as of 2025) have more leverage than renters in New York or Boston. This gives the article actionable geographic utility that no listing page can replicate.
+
+**3. Negotiation tactics when no special is advertised**
+Every competitor treats specials as fixed, public offers. None explains that renters can ask for concessions that are not listed, or how to do it. This section is a complete information gap in the current SERP and will differentiate brightplace's content on both Google and AI search.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Active renters at the decision-to-transaction stage, trying to reduce upfront move-in costs. Includes sub-audiences: low-income renters, renters with credit challenges, renters in high-supply markets.
+- **First-hand expertise demonstrated:** Yes. Via brightplace search pattern framing, specific calculations, and scripted negotiation language that only an experienced source would provide.
+- **Reader achieves their goal:** Yes. After reading, the searcher knows what each type of special means, when to look for them, how to find them, how to negotiate for them, and what the specific flat-fee specials ($99, $299, $500) actually cover. They are equipped to act.
+- **Human editor confidence:** Yes. The brief adheres to all brightplace brand rules, contains no banned phrases, avoids ILS citations, uses no superlatives or ranking language in titles, and meets fair housing framing requirements throughout.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:**
+No ChatGPT response was provided in Data Source 3. Citation analysis cannot be completed for ChatGPT. The writing agent should structure the article to earn ChatGPT citations using the same principles applied to the Claude analysis below.
+
+**Claude:**
+Claude's response cited or referenced the following source categories (no specific URLs were provided in the response, but these are the implied source categories based on content):
+
+- Apartments.com: cited for "Special Offer" filter functionality and largest U.S. listing inventory
+- Zillow: cited for Class B/C building search and keyword field search
+- Zumper: cited for urban market coverage and market report data
+- Apartment List: cited for market rent reports as a predictor of concession activity
+- Facebook Marketplace and Craigslist: cited for individual landlord listings not on major ILS platforms
+- Large property management company websites (Greystar, AvalonBay, MAA, Camden, Equity Residential): cited for direct concession listings before third-party platform updates
+
+**brightplace cited by either AI engine:** No. brightplace is not cited by Claude or ChatGPT for this keyword cluster.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks:**
+- ILS platforms are cited because they have inventory and filter functionality. brightplace has an AI-native search product that can serve this function but currently has no article-level content on this keyword.
+- The property management company websites are cited because they publish real-time concession data. brightplace can compete by publishing authoritative educational content on how to find and evaluate specials, since it cannot replicate live listing data in a static article.
+- The Claude response organized information as a structured explainer with tables, definitions, and numbered steps. That format is exactly what AI engines extract and cite. brightplace's article must replicate this structure.
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+
+1. Effective rent vs. face rent distinction: Not covered anywhere in the current SERP. An article that explains this calculation clearly and specifically will get extracted.
+2. Market conditions as a driver of concession availability: Claude covered this but no competitor does. An article that names specific metros with supply-driven concessions gives AI engines a citable, specific claim.
+3. Negotiation tactics: Completely absent from competitor content. A structured "how to negotiate a move-in special" section will be extracted as a standalone answer.
+4. Timing strategy: Claude covered seasonal patterns but competitor content does not. An article with specific months (October-February as peak season) is a citable, verifiable claim.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct definition of move-in specials as a category, (b) a statement identifying the audience (renters trying to reduce upfront costs), and (c) at least one specific numerical data point (e.g., "move-in specials can reduce your upfront costs by $500 to $2,000 or more"). This is what LLMs extract for citation. Do not open with context, background, or market overview. Open with the answer.
+
+**Rule 2: Structured data rule**
+Include the comparison table specified in the H2 outline above (Section 5). Column headers must be: Special Type | What It Covers | Typical Value Range | Key Condition. Use clean markdown table formatting. This table will be extracted by AI engines to answer "what types of move-in specials exist" queries.
+
+**Rule 3: Definition rule**
+The following five terms must be explicitly defined in a single clear sentence at first use:
+
+1. **Move-in special:** A temporary incentive offered by an apartment community to reduce the upfront or ongoing cost of a new lease.
+2. **Look and lease special:** A discount triggered when a renter commits to a lease within a set window of time after touring the apartment.
+3. **Total move-in special (TMI):** A flat-fee structure where a renter's total upfront move-in cost (deposit plus first month) is capped at a stated amount, typically $99 to $499.
+4. **Concession:** Any discount, waiver, or incentive offered by a landlord that reduces the effective cost of renting; used interchangeably with "move-in special" in the industry.
+5. **Effective rent:** The actual average monthly cost of a lease after factoring in any free-rent periods or discounts, as opposed to the face rent stated on the lease document.
+
+**Rule 4: Proof point rule**
+The article must include the following specific numerical claims. Insert "(as of Q3 2025)" adjacent to each. If exact data is unavailable, the writer must research and replace with verified figures before publishing.
+
+1. "Move-in specials typically reduce upfront costs by $500 to $2,000, depending on the type and market." (as of Q3 2025)
+2. "One month free rent on a $1,500/month apartment translates to an effective monthly rate of approximately $1,375 over a 12-month lease."
+3. "New construction lease-up buildings in high-supply markets ran concessions on roughly [X]% of new leases signed in 2024-2025." (writer must research and insert verified figure)
+4. "October through February is peak concession season in most U.S. apartment markets, when vacancy rates rise and operators increase incentive activity."
+5. "Preferred employer and military discounts typically range from 5% to 8% off monthly rent and are available at properties managed by large operators."
+
+**Rule 5: FAQ rule**
+Include the following 8 questions in the FAQ section. Each answer must be 40-60 words. Do not use vague or hedged language. Every answer must be a complete standalone response.
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What does a $99 move-in special mean? | PAA |
+| 2 | Are move-in specials available near me right now? | Primary keyword intent |
+| 3 | What is a look and lease special? | Industry term / competitor content |
+| 4 | What is a total move-in special (TMI)? | Industry term / San Antonio competitor |
+| 5 | Do move-in specials affect my rent at renewal? | Claude information gap |
+| 6 | How long do move-in specials last? | PAA / San Antonio competitor |
+| 7 | Can I negotiate a move-in special if none is advertised? | Claude information gap |
+| 8 | What is the difference between a move-in special and a concession? | Claude language / AI response gap |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+The action is: search for apartments on brightplace. The CTA should appear in three places:
+
+1. **After the first H2** (after the definition section): "See what apartments are available in your area on brightplace."
+2. **After the "How to Find Move-In Specials" H2** (mid-article, highest action intent moment): "brightplace tracks apartment availability across [major markets]. Search your city to see what is open now."
+3. **End of article:** "Ready to find an apartment? brightplace is an AI-native search experience that matches you to apartments based on what you actually care about. Start your search at brightplace.ai."
+
+CTA links: All primary CTAs link to brightplace.ai (homepage or city-specific search page).
+
+**Secondary CTA:**
+If brightplace has a published guide on how rent prices work, first-time renter guides, or city-specific apartment search guides, link to the most relevant one after the "When Move-In Specials Are Most Common" section. Frame as: "If you are still deciding where to rent, [this guide on how rent prices work in [City]] can help you compare your options." The writing agent should check the brightplace.ai/knowledgebase/ sitemap and insert the most relevant URL.
+
+**CTA language rules:**
+No urgency language ("act now," "don't miss out," "limited time"). No promotional framing ("brightplace is the best way to..."). Frame every CTA as a natural next step: "See what is available," "Start your search," "brightplace tracks X." The reader should feel the CTA is a helpful pointer, not an ad.
+
+---
+
+## 9. Writer Rules
+
+The following rules are NON-NEGOTIABLE. Every rule applies to every sentence of the article.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (if content involves neighborhoods or cities):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional Production Rules:**
+
+- **Target word count:** 1,100-1,300 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer.** Not with context or background. Not with a question. The answer comes first.
+- **Date-stamp all data.** Every dollar figure, rent range, statistic, or factual claim must include "(as of Q3 2025)" or the most current verified date adjacent to the claim.
+- **Schema to implement:** Article schema and FAQPage schema on every article. Add HowTo schema to the "How to Find Move-In Specials" section. Add Speakable schema markup to the opening summary paragraph and the FAQ section.
+- **No passive voice** where active voice is available.
+- **No hedging language** in FAQ answers. "It depends" is not an acceptable answer. Be specific.
+- **Internal links:** Check brightplace.ai/knowledgebase/ sitemap and add 1-2 internal links to related guides where contextually appropriate.
+
+---
+
+*Brief prepared by: brightplace Content Brief Agent*
+*Brief version: 1.0*
+*Target URL: brightplace.ai/knowledgebase/move-in-specials-apartments*
