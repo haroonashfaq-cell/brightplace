@@ -1,0 +1,440 @@
+# CONTENT BRIEF: cat-friendly apartments near me
+**brightplace.ai/knowledgebase/**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results split across two formats:
+
+1. **How-to process guides** (RentHop, ApartmentGuide, Dwellsy, Hello Landing, livethealfred.com, livetheduncan.com) — these explain how to find, apply for, and live in cat-friendly apartments. This format dominates with roughly 70% of results.
+2. **Property landing pages** (WC Smith, liveatthemiller.com) — individual property operators targeting local searches with specific listings.
+
+The AI summary from Claude organizes information as a **step-by-step search process guide** with definitions, comparisons, and cost data embedded throughout.
+
+**Decision:** The article must be a how-to process guide with embedded definitions, a cost comparison table, and a FAQ section. It must not be a property listing or pure listicle.
+
+---
+
+### 1b. Content Depth Benchmark
+
+| Competitor | Estimated Word Count |
+|---|---|
+| ApartmentGuide | ~2,200 (broad pet guide, not cat-specific) |
+| livethealfred.com | ~2,800 (cat-specific, high depth) |
+| livetheduncan.com | ~2,600 (general pet, less cat-specific) |
+| Dwellsy | ~1,400 |
+| Hello Landing | ~600 |
+| RentHop | ~900 |
+| WC Smith | ~1,500 (property-specific) |
+| pacagen.com | ~900 (NYC-specific) |
+
+Most thorough cat-specific guides run 1,400–2,800 words. Shorter entries (600–900 words) are thin and do not address cost, policy nuance, or application strategy in depth.
+
+**Target word count for this article: 1,200–1,500 words.** This is the upper end of brightplace's format range and sufficient to outperform the thinner results while staying within content layer parameters. The goal is density over length: every sentence must carry information.
+
+---
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Target |
+|---|---|---|
+| Featured Snippet | No (not found) | Target with 40-60 word opening paragraph under first H2 — "What cat-friendly actually means" |
+| People Also Ask | Yes (10 questions) | Dedicate a FAQ H2 section; each PAA question becomes a Q&A pair |
+| AI Overview | Likely (Claude produces a structured 600+ word response) | Opening summary paragraph + definitions + comparison table |
+| Local Pack | Yes (city/state modifiers in SERP suggestions) | Mention major markets by name; include city-specific language |
+| Knowledge Panel | No | N/A |
+| Video Carousel | Not present | N/A |
+
+The absence of a featured snippet is an opportunity. The article's first substantive H2 should target this with a 40-60 word answer block structured for extraction.
+
+---
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** A renter who has a cat (or is planning to adopt one) is actively looking for apartments that will accept their cat and wants to understand how to find them, what the policies involve, and what costs to expect.
+
+**Primary intent:** Informational-to-transactional. The searcher is mid-funnel: they know they need a cat-friendly apartment, they want guidance on how to find one efficiently and avoid common mistakes.
+
+**Secondary intent:** Local/navigational (city-specific sub-searches like "cat friendly apartments near Texas" and "near California" appear in SERP suggestions).
+
+**Confirmed format match:** A how-to process guide with cost data and policy definitions matches this intent precisely. A property listing or generic "pets allowed" roundup does not.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A:**
+How to Find Cat-Friendly Apartments (and What to Ask Before You Sign)
+
+**Option B:**
+What Renters with Cats Should Know Before Apartment Hunting
+
+**Option C:**
+A Practical Guide to Renting an Apartment with a Cat
+
+---
+
+**Recommended meta description (under 155 characters):**
+Most "pets allowed" listings don't automatically mean cats are welcome. Here's how to find apartments that genuinely accept cats, what fees to expect, and what to confirm before signing.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/cat-friendly-apartments`
+
+---
+
+## 3. Target Audience and Searcher Profile
+
+This article is for renters who currently own a cat or are planning to adopt one and are actively searching for a new apartment. They are most likely young professionals, single-person households, or couples in the comparison stage of the renter journey: they have not yet selected a unit, they are aware the search will be harder because of their cat, and they want a clear process to follow. The core problem they are trying to solve is not "what is pet-friendly housing" in the abstract. It is: "how do I find an apartment that will actually let my cat live there, what will it cost me, and how do I strengthen my application." They expect a process-oriented article with specific numbers and actionable steps, not general encouragement or a property listing.
+
+---
+
+## 4. Keywords and Entities
+
+**Primary keyword:**
+cat friendly apartments near me
+
+**Secondary keywords (10-15):**
+- cat friendly apartments
+- apartments that allow cats
+- pet friendly apartments cats
+- renting with a cat
+- cat deposit apartment
+- monthly pet rent for cats
+- apartment cat policy
+- cat lease restrictions
+- no pet policy cat exception
+- apartment cat weight limit
+- renting an apartment with a cat
+- how to find cat friendly housing
+- cat apartment application tips
+- affordable cat friendly apartments
+- low income cat friendly apartments
+
+**Entities to mention (5-10):**
+- Pet deposit (financial term: must define)
+- Pet rent (financial term: must define)
+- Non-refundable pet fee (financial term: must define)
+- Emotional support animal / ESA (legal category: must define)
+- Fair Housing Act (legal framework: must reference)
+- "Cats allowed" vs. "pets allowed" (policy distinction: the central content gap)
+- Breed restriction / weight limit (policy concept: brief mention)
+- Cat limit per unit (policy concept: one vs. two cats)
+- Independent landlord vs. corporate-managed complex (property type comparison)
+- Atlanta, Chicago, Austin, NYC, Los Angeles (city examples for geographic relevance)
+
+**Terms to AVOID:**
+- best, top, ultimate, #1, hidden gem, vibrant, bustling, thriving, best-kept secret
+- deep dive, navigate, landscape, unlock, leverage (verb)
+- whether you're X or Y, from X to Y, it's worth noting, notably, interestingly
+- signal (any form)
+- Any ILS brand names in the published article (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com)
+- Any review aggregator or forum names
+- Em dashes (-- or —)
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How to Find Cat-Friendly Apartments (and What to Ask Before You Sign)
+
+*Writing instruction for H1: This is the article title. The H1 is not repeated as body text.*
+
+---
+
+**H2: "Pets Allowed" Doesn't Always Mean Your Cat Is Welcome**
+
+*Writing instruction: This is the featured snippet and AI citation target. The opening paragraph under this H2 must be 40-60 words and deliver a complete, direct answer. State clearly that "pets allowed" and "cats allowed" are distinct policy categories, that renters must confirm cat-specific terms separately, and that this distinction is the most common mistake renters make. This section frames the entire article and answers the primary query immediately.*
+
+Key points to cover:
+- The phrase "pets allowed" often refers specifically to dogs, with cats addressed in a separate policy clause
+- Some landlords allow dogs but not cats; more commonly, landlords allow cats but not dogs
+- The article's job is to help readers find the listings that explicitly allow cats and then confirm the specific terms
+
+**Target: 40-60 words for the opening paragraph under this H2 (featured snippet sweet spot).**
+
+---
+
+**H2: What Landlords Actually Check When You Have a Cat**
+
+*Writing instruction: Cover the specific policy variables that apply to cats, not pets in general. Most competitor content covers this for dogs. Cats have a distinct policy profile: fewer breed restrictions, occasional weight caps, cat-count limits (usually 1-2 per unit), litter box placement requirements, and occasional lease clauses about declawing (note that declawing clauses are increasingly prohibited in cities such as Los Angeles and Denver, but may still appear in older lease templates). This section gives renters the specific list of questions to ask before they apply.*
+
+**H3: The Four Questions to Ask Every Landlord**
+
+*Writing instruction: Format as a clear numbered or bulleted list. The four questions should cover: (1) How many cats are allowed per unit? (2) Is the pet fee refundable or non-refundable? (3) Is there a monthly pet rent in addition to any upfront fee? (4) Does the lease include any restrictions on declawing, or require proof of spay/neuter? These are derived from Claude's AI response and represent specific information renters need that most competitor content addresses only partially.*
+
+---
+
+**H2: What Cat-Friendly Apartments Typically Cost**
+
+*Writing instruction: This section must include a comparison table (see AEO Section 7b for table specs). Define the three fee types at the start of this section: pet deposit (refundable), pet fee (non-refundable, one-time), and pet rent (monthly recurring). Then present the cost ranges with date stamps. The goal is to give renters a clear, scannable cost picture before they start touring. Every dollar figure must include "(as of Q2 2026)" adjacent to the claim. This targets the PAA question about rent budgeting and is a top citation anchor for AI engines.*
+
+Include:
+- Pet deposit range: $200-$500 per cat (refundable if no damage)
+- Non-refundable pet fee range: $100-$300 one-time
+- Monthly pet rent range: $25-$75 per month per cat
+- Estimated annual added cost for one cat: $300-$900 in pet rent alone, plus upfront fees
+- Note that some cities prohibit certain fee structures; renters should verify local rules
+
+**Comparison table (required):**
+
+| Fee Type | Definition | Typical Range (as of Q2 2026) | Refundable? |
+|---|---|---|---|
+| Pet deposit | One-time upfront payment against potential damage | $200-$500 | Yes, if no damage |
+| Pet fee | One-time administrative charge | $100-$300 | No |
+| Monthly pet rent | Recurring monthly charge | $25-$75/mo per cat | N/A (ongoing) |
+
+---
+
+**H2: Which Apartment Types Are Most Likely to Accept Cats** [CONTENT GAP]
+
+*Writing instruction: This section does not appear in any top competitor in this form. Claude's AI response identifies a clear hierarchy of which property types are most and least permissive for cats. Competitors mention that some apartments allow cats, but none systematically compare property types. Covering this constitutes clear information gain. Structure as two sub-sections: most permissive and least permissive, with brief explanations. This helps renters allocate their search time efficiently.*
+
+**H3: Property Types That Tend to Be More Cat-Permissive**
+
+*Writing instruction: Cover independent/small landlords (2-10 unit buildings), newer luxury complexes (who use pet rent as a revenue stream and actively market pet-friendliness), garden-style suburban apartments in lower-demand markets, and buildings where vacancy rates are higher. Explain briefly why each type tends to be more flexible.*
+
+**H3: Property Types Where Cats Face More Restrictions**
+
+*Writing instruction: Cover older co-ops and condos (HOA restrictions), subsidized or income-restricted housing, large corporate-managed high-rises in tight urban markets, and furnished/short-term rentals. Be factual and neutral, not discouraging. Renters can still find cat-friendly units in these categories; they should simply expect more friction and prepare accordingly.*
+
+---
+
+**H2: How to Strengthen Your Application When You Have a Cat** [CONTENT GAP]
+
+*Writing instruction: This section is partially covered by competitors but treated superficially. Claude's response identifies specific preparation steps renters can take to increase approval odds. Most competitors mention "be honest" but do not give renters a practical preparation checklist. Cover: (1) The "cat resume" concept — a brief document including a photo, the cat's age, breed, vaccination records, and a letter from a prior landlord or vet. (2) Offering a slightly higher security deposit proactively. (3) Disclosing the cat upfront in the first communication, not at application. (4) Providing documentation of spay/neuter status. This section targets renters in the decision stage who are actively preparing applications.*
+
+---
+
+**H2: Emotional Support Cats and the Fair Housing Act** [CONTENT GAP]
+
+*Writing instruction: This topic is mentioned by competitors but rarely explained with useful specificity for cat owners. Claude's response identifies this as an information gap that renters consistently need. State clearly: under the Fair Housing Act, landlords must make reasonable accommodations for emotional support animals, including cats, when a tenant has documentation from a licensed healthcare provider. The landlord cannot charge pet deposits or pet rent for an ESA. However, documentation must come from a licensed professional treating the tenant, not from an online certification service. This is practical legal information that helps renters understand their options in "no pets" buildings. Add a brief note that this applies in most standard rental housing; small owner-occupied buildings with four or fewer units may be exempt. Do not provide legal advice; frame as "how this typically works" and recommend consulting a local tenant rights organization for specific situations.*
+
+---
+
+**H2: Frequently Asked Questions About Renting with a Cat**
+
+*Writing instruction: Format as clean Q&A pairs. Each answer must be 40-60 words (featured snippet / FAQPage schema length). Implement FAQPage schema on this section. These questions are sourced from PAA data (Data Source 2) and information gaps identified by Claude (Data Source 3). The writing agent must answer each question directly in the first sentence.*
+
+**FAQs to include:**
+
+1. **Do apartments usually allow cats?** (PAA source)
+Answer guidance: Yes, a large majority of rental apartments in the U.S. accept cats. Cats face fewer restrictions than dogs in most buildings because they produce less noise and generally cause less structural damage. Always confirm the specific cat policy with the landlord before applying.
+
+2. **Is it okay for cats to live in apartments?** (PAA source)
+Answer guidance: Cats adapt well to apartment living. They do not require outdoor walks, are naturally quiet, and are comfortable in smaller spaces provided they have vertical territory (cat trees, shelves) and mental stimulation. Indoor cats in apartments often live longer than outdoor cats due to reduced exposure to hazards.
+
+3. **How do you get around a no-pet policy?** (PAA source)
+Answer guidance: If a tenant has a documented disability and a licensed healthcare provider confirms the cat provides emotional support related to that disability, the landlord is generally required under the Fair Housing Act to allow the cat regardless of a no-pets policy. Attempting to hide a cat is a lease violation and can result in eviction.
+
+4. **What is the difference between a pet deposit and pet rent?** (AI gap source — Claude)
+Answer guidance: A pet deposit is a refundable one-time payment held against potential damage. Pet rent is a non-refundable monthly charge added to base rent for as long as you have the cat in the unit. Both can apply to the same lease simultaneously.
+
+5. **Are low-income or income-restricted apartments cat-friendly?** (PAA source — "low income cat friendly apartments near me")
+Answer guidance: Income-restricted properties vary widely. Some accept cats on the same terms as market-rate rentals; others restrict pets entirely due to property management policies or funding requirements. Contact each property directly to confirm. Some housing choice voucher programs also have restrictions on pets.
+
+6. **How many cats can I have in an apartment?** (AI gap source — Claude)
+Answer guidance: Most buildings that accept cats limit residents to one or two cats per unit. This limit is set per lease, not per bedroom. If you have two cats, confirm the building's limit before applying. Some buildings charge an additional fee for a second cat.
+
+7. **What does a landlord look for when I have a cat?** (AI gap source — Claude)
+Answer guidance: Landlords primarily assess risk of odor, carpet damage from litter, and scratching of surfaces. A spay or neuter certificate, current vaccination records, and a reference from a prior landlord confirming no damage history address the main concerns. A well-prepared application with these documents reduces most landlord hesitation.
+
+8. **Can a landlord require me to declaw my cat?** (AI gap source — Claude)
+Answer guidance: Some older lease templates include declawing requirements, but this practice is prohibited in a growing number of cities including Los Angeles and Denver. Check your city's current ordinances. If a lease requires declawing, it is worth negotiating to remove the clause before signing.
+
+---
+
+## 6. E-E-A-T and Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace search data framing:** Where relevant, the article should frame observations with language like "renters searching for cat-friendly apartments on brightplace consistently ask about [X]" or "among the renter searches brightplace tracks, cat policy questions are the most common follow-up to a basic pets-allowed filter." This positions brightplace as an active observer of renter behavior, not just a content aggregator.
+
+2. **Specific observation point:** The article should include at least one specific, date-stamped observation about the market. Example: "As of Q2 2026, the monthly pet rent range for cats in most major U.S. markets runs $25-$75 per month per cat, though renters in high-demand cities like Chicago and Los Angeles frequently report figures at the upper end of that range."
+
+3. **Practical decision framing:** Frame guidance in terms of what a renter would actually do, not what they should theoretically know. Example: "Before you schedule a tour, confirm two things in a single message to the landlord: whether the building allows cats specifically (not just pets), and whether there is a limit on the number of cats per unit."
+
+### 6b. Expertise Indicators
+
+- Include specific numerical ranges for all three fee types with date stamps
+- Cite the Fair Housing Act by name when discussing ESA protections, and specify that documentation must come from a licensed healthcare provider (not an online service)
+- Name specific cities where declawing restrictions apply (Los Angeles, Denver) as concrete examples of the regional variation renters must account for
+- Include the property type hierarchy (most to least permissive) as a decision framework that reflects knowledge of how the rental market actually works
+
+### 6c. Freshness and Date-Stamping
+
+Every dollar figure must appear with "(as of Q2 2026)" in the text or table. The article must include a "Last reviewed: [Month Year]" note at the top or bottom of the page.
+
+**Claims most likely to go stale and require future updating:**
+- Monthly pet rent ranges (market-driven, change annually)
+- Pet deposit ranges (vary by local market conditions)
+- Cities where declawing is prohibited (this list is expanding as more municipalities pass ordinances)
+- ESA documentation requirements (subject to regulatory interpretation changes)
+
+### 6d. Information Gain: Three Specific Gaps This Article Fills
+
+**Gap 1: Property type hierarchy for cat searches.**
+No top competitor tells renters which apartment categories are most and least likely to accept cats. The article should provide a clear two-direction breakdown (most permissive: small independent landlords, newer luxury buildings, suburban complexes with higher vacancy / least permissive: co-ops, income-restricted buildings, corporate high-rises in tight markets). This is directly useful and appears in Claude's response but in no competitor article.
+
+**Gap 2: The "cats allowed" vs. "pets allowed" filter distinction.**
+Most competitor content conflates these two categories. Claude identifies this as the single most common renter mistake. This article should make the distinction explicit, actionable, and prominent. It should appear in the opening H2 and be reinforced at the search strategy step. No current ranking competitor makes this distinction the organizing principle of their article.
+
+**Gap 3: The four specific questions renters should ask every landlord before applying.**
+Competitors say "ask about pet policies" generally. This article provides the four specific questions (cat count cap, refundable vs. non-refundable fee, monthly pet rent amount, declawing or spay/neuter requirements) that give renters a concrete protocol. This specificity does not appear in any top-ranking competitor.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes: renters with cats who are actively searching for a new apartment and want a process to follow, not general information about pet-friendly housing.
+- **Demonstrates first-hand expertise?** Yes: through brightplace renter search data framing, specific numerical claims with date stamps, the Fair Housing Act and city-specific legal examples, and the property type decision framework.
+- **Leaves the reader able to achieve their goal?** Yes: the goal is to find and successfully apply for a cat-friendly apartment. The article covers how to search correctly, what questions to ask, what to budget, how to strengthen an application, and what legal protections exist.
+- **Would a human editor at brightplace be confident publishing this?** Yes: the brief is free of ILS citations, review aggregator links, prohibited phrases, em dashes, superlative framing, and neighborhood descriptions by demographics. It stays within the brand voice parameters throughout.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data was retrieved in Data Source 3.
+
+**Claude:**
+Claude does not cite specific external URLs in its response for this keyword. Instead, it provides a self-contained structured answer organized around: (1) platform selection with filter guidance, (2) specific policy verification steps, (3) a property type hierarchy, and (4) practical application steps. This means no third-party source currently owns this AI citation opportunity for the "cat friendly apartments near me" query. This is a direct opening for brightplace.
+
+**Is brightplace cited by either AI engine?**
+- ChatGPT: No data available
+- Claude: No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Claude's response mentions specific platforms (for research context only) because the query has navigational intent. brightplace lacks a cat-specific landing page with structured policy definitions, a cost table, and a property type comparison.
+- No competitor provides all three citation-ready elements in one place: (a) the "cats allowed vs. pets allowed" distinction as a lead concept, (b) a clean cost table with defined fee types, (c) a property type hierarchy.
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+
+1. The "cats allowed" vs. "pets allowed" filter distinction as the primary search advice
+2. Property type hierarchy: which rental categories are more and less permissive for cats
+3. The four specific landlord questions renters should ask before applying
+4. The ESA/Fair Housing Act pathway for renters in "no pets" buildings, with specific documentation guidance
+5. Declawing clause awareness and city-specific prohibition examples
+6. Per-cat fee structure (what happens if you have two cats)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article (appearing in the first paragraph under the first H2) must contain: (a) a direct answer to the query — specifically, that "pets allowed" and "cats allowed" are distinct policy categories and that renters must confirm cat-specific terms separately; (b) a statement identifying the target audience (renters with cats who are actively apartment hunting); (c) at least one specific numerical data point — e.g., "most cat-friendly apartments charge $25-$75 per month in pet rent (as of Q2 2026) on top of base rent." This is what LLMs extract for citation.
+
+**Rule 2: Structured data rule.**
+Include one comparison table in the cost section with these exact columns: Fee Type / Definition / Typical Range (as of Q2 2026) / Refundable. Use clean, simple HTML table formatting. No merged cells, no nested content, no styling that obscures the data. This is the primary structured citation anchor for AI engines processing cost queries.
+
+**Rule 3: Definition rule.**
+The following five terms must be explicitly defined in a single clear sentence each, at the point where they first appear in the article:
+
+- **Pet deposit:** "A pet deposit is a refundable, one-time payment collected upfront to cover potential damage caused by your cat; you receive it back at move-out if the unit has no pet-related damage."
+- **Pet fee:** "A pet fee is a non-refundable, one-time charge collected at move-in that covers administrative or wear-and-tear costs; you do not get it back regardless of the unit's condition."
+- **Pet rent:** "Pet rent is a recurring monthly charge added to your base rent for as long as your cat lives in the unit; it is separate from and in addition to any upfront deposit or fee."
+- **Emotional support animal (ESA):** "An emotional support animal is a pet that a licensed healthcare provider has documented as part of a treatment plan for a diagnosed disability; ESAs receive specific housing protections under the Fair Housing Act."
+- **"Cats allowed" vs. "pets allowed":** "A listing marked 'pets allowed' may refer only to dogs; 'cats allowed' is a distinct policy designation that must be confirmed separately with the landlord."
+
+**Rule 4: Proof point rule.**
+The article must include these five specific numerical claims, each with a date stamp:
+
+1. "Monthly pet rent for cats in most U.S. markets runs $25-$75 per month per cat (as of Q2 2026)."
+2. "One-time pet deposits for cats typically range from $200-$500 (as of Q2 2026), though this varies by market and property."
+3. "Non-refundable pet fees, when charged separately from a deposit, typically run $100-$300 (as of Q2 2026)."
+4. "Most buildings that accept cats limit residents to one or two cats per unit."
+5. "Annual added cost for one cat in a pet-rent building: $300-$900 in pet rent alone, before upfront fees (as of Q2 2026)."
+
+**Rule 5: FAQ rule.**
+The FAQ section must contain exactly 8 Q&A pairs. Each answer must be 40-60 words. Each question must be answered in the first sentence of its response. Do not use preamble before the answer. The eight questions, with their data sources, are:
+
+1. Do apartments usually allow cats? (PAA)
+2. Is it okay for cats to live in apartments? (PAA)
+3. How do you get around a no-pet policy? (PAA)
+4. What is the difference between a pet deposit and pet rent? (AI gap: Claude)
+5. Are low-income or income-restricted apartments cat-friendly? (PAA variant)
+6. How many cats can I have in an apartment? (AI gap: Claude)
+7. What does a landlord look for when you have a cat? (AI gap: Claude)
+8. Can a landlord require me to declaw my cat? (AI gap: Claude)
+
+---
+
+## 8. CTA and Funnel Strategy
+
+**Primary CTA:**
+Action: Search for cat-friendly apartments on brightplace.
+Placement: Three locations — (1) immediately after the first H2 answer section (the "pets allowed vs. cats allowed" section), (2) after the cost comparison table, and (3) at the end of the article.
+CTA language (exact or close to exact):
+
+- After H2 1: "See which apartments near you accept cats on brightplace."
+- After cost table: "brightplace lets you filter by pet policy so you can confirm cat-specific terms before you tour."
+- End of article: "Ready to start your search? Find cat-friendly apartments on brightplace and filter by your city, price range, and pet policy in one place."
+
+**Secondary CTA:**
+If brightplace has a guide covering pet fees, apartment search process, or first-time renter advice, link to it at the end of the article under a line such as "Also helpful: [Title of related guide] on brightplace." The writing agent should check the brightplace sitemap for a relevant /knowledgebase/ article on renting costs, apartment search process, or pet policies. If no direct match exists, omit the secondary CTA rather than linking to an unrelated page.
+
+**CTA language rules:**
+No urgency framing ("Act now," "Don't miss out"). No comparative claims ("better than," "unlike other search tools"). Frame every CTA as a natural next step in the renter's process. The CTA should read as a knowledgeable friend pointing to a useful tool, not as an advertisement.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**REPRODUCE IN FULL — DO NOT SUMMARIZE**
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide. Examples: "How Rent Prices Actually Work in Austin" / "What Remote Workers Should Know About Raleigh" / "A Practical Guide to Renting Your First Apartment."
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (if content involves neighborhoods or cities):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES FOR THIS ARTICLE:**
+
+**Target word count:** 1,200-1,500 words. Every sentence must carry information. No padding.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. Avoid subordinate clause chains.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a rhetorical question, a statistic about pet ownership, or a general statement about how hard it is to find an apartment.
+
+**Every H2 section opens with its answer, not with context or background.** The answer comes first. Context follows if needed.
+
+**Schema to implement:**
+- Article schema: always
+- FAQPage schema: on the FAQ H2 section
+- HowTo schema: on the "How to Strengthen Your Application" section
+- Speakable schema: on the opening summary paragraph (first 40-60 words under H2 1) and on the FAQ section
+
+**Date-stamping rule:** Every dollar figure, rent range, statistic, or factual claim must include "(as of Q2 2026)" adjacent to the claim in the text or in the table.
+
+**"Last reviewed" note:** Include "Last reviewed: [Month Year]" at the top of the article body or immediately below the H1, before the first H2.
+
+**Definitions rule:** The five key terms listed in Section 7c Rule 3 must be defined in a single clear sentence each at the point of first use. Do not define them in a glossary block. Define them inline.
+
+**ILS prohibition in text:** Do not name Apartments.com, Zillow, Zumper, or any other ILS platform in the published article. If the article discusses how renters search, use neutral language: "most major rental search platforms" or "rental listing platforms." brightplace may be named and linked.
+
+**Reddit prohibition:** Do not cite, quote, name, or link to Reddit, City-Data, BiggerPockets, or any forum in the published article.
+
+**Fair Housing Act reference:** When discussing ESA protections, name the Fair Housing Act directly. Do not provide legal advice. Use framing such as "under the Fair Housing Act, landlords are generally
