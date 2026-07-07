@@ -1,0 +1,371 @@
+# CONTENT BRIEF: First Apartment Checklist for First Apartment
+
+**Prepared for:** brightplace AI Writing Agent
+**Content Layer:** brightplace.ai/knowledgebase/
+**Target Keyword:** apartment checklist for first apartment
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+Room-by-room listicle/checklist hybrid dominates the SERP at roughly 85% of top results. Every major competitor (Real Simple, Extra Space Storage, SpareFoot, Updater, ApartmentGuide, Moving.com) uses the same structure: brief intro, room-by-room breakdown, optional budget tips section, closing CTA. The article MUST follow this room-by-room checklist format.
+
+One notable structural variant appears in higher-authority results (Claude's AI response, HometeamMoving): a sequenced format organized by move-in phase (before you move, day of, after). This phase-based structure performs well in AI citations. The article should layer phase logic WITHIN the room-by-room structure rather than replacing it.
+
+### 1b. Content Depth Benchmark
+
+Competitor word counts range from approximately 800 words (PDF/printable versions) to 3,500+ words (dormtherapy, bysophialee, annasaxton). The practical mid-tier range for ranking content is 1,200-1,500 words. Most high-ranking competitors cluster around 1,200-1,400 words of readable content plus checklist items. Target word count: **1,300-1,500 words** (excluding checklist bullets).
+
+### 1c. SERP Features Present
+
+- **People Also Ask (PAA):** Confirmed present. Questions: printable checklist, template, PDF, Reddit, budget version, Excel, free printable. The article cannot offer a downloadable PDF (production limitation), but it can target the informational variants. Structural target: FAQ section at article end.
+- **No Featured Snippet:** No featured snippet currently exists for this keyword per Data Source 2. This is a direct capture opportunity. The opening H2 paragraph (40-60 words, direct answer format) specifically targets this gap.
+- **Image Pack:** Likely present given competitor image usage. Not actionable for this article.
+- **Related Searches:** Budget variations and template variations appear. The article should naturally incorporate budget-framing language throughout.
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** A first-time renter who is actively preparing to move into their first apartment and needs a comprehensive, organized list of what to buy, bring, and set up, so they do not miss critical items on or before move-in day.
+
+**Primary intent:** Informational/navigational (get a complete, trusted checklist to save and use).
+**Secondary intent:** Transactional (buy missing items, find an apartment).
+
+The room-by-room checklist format directly matches the primary intent. The article should be structured for saving, scanning, and returning to, not for linear reading. The format brief: confirmed match.
+
+---
+
+## 2. Recommended Titles
+
+**Option A (recommended):**
+A Practical Checklist for Your First Apartment
+
+**Option B:**
+What You Actually Need for Your First Apartment
+
+**Option C:**
+A Room-by-Room Guide to Your First Apartment Checklist
+
+**Recommended Meta Description:**
+A practical apartment checklist for first apartment renters: bedroom, kitchen, bathroom, living room, and the 12 items everyone forgets. Save before moving day.
+*(154 characters)*
+
+**Recommended URL Slug:**
+`brightplace.ai/knowledgebase/apartment-checklist-first-apartment`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article targets first-time renters, typically 22-30 years old, who are moving out of a family home, college dorm, or a shared roommate situation into their first solo or semi-solo apartment. They are in the active preparation stage of the renter journey: they have signed or are close to signing a lease, and they are now building a purchase and logistics plan. Their specific problem is feeling overwhelmed by not knowing what they need, in what order, and which items are true essentials versus nice-to-haves. Based on the SERP analysis, they expect a scannable, organized checklist they can save, screenshot, or refer back to during shopping, not a long-form essay.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary Keyword:**
+apartment checklist for first apartment
+
+**Secondary Keywords:**
+- first apartment essentials
+- what do you need for a first apartment
+- first apartment checklist on a budget
+- apartment move-in checklist
+- first apartment must-haves
+- first apartment essentials list
+- things to buy for first apartment
+- first apartment furniture checklist
+- kitchen essentials for first apartment
+- bathroom essentials first apartment
+- bedroom essentials first apartment
+- what to buy for first apartment
+- first apartment checklist printable
+- first apartment items list
+- first time renter checklist
+
+**Entities to Mention:**
+- Security deposit (financial concept critical to renter decisions)
+- Renters insurance (frequently cited by AI engines as overlooked)
+- Lease agreement (pre-move-in stage)
+- Move-in inspection (tenant protection concept)
+- Facebook Marketplace, thrift stores (budget sourcing, named in competitor content and AI responses)
+- Command strips/adhesive hooks (renter-specific wall solution)
+- First-night box (phrasing used by high-citation competitors and Claude's response)
+- Mattress (the single highest-priority bedroom purchase per multiple competitors and AI)
+
+**Terms to AVOID:**
+best, top, ultimate, guide, navigate, landscape, unlock, leverage (as verb), deep dive, dive into, whether you're X or Y, from X to Y, hidden gem, vibrant, bustling, thriving, best-kept secret, interestingly, notably, it's worth noting.
+
+---
+
+## 5. Content Outline
+
+**H1:** A Practical Checklist for Your First Apartment
+
+---
+
+**H2: What You Need Before Move-In Day**
+*Writing instruction: This section targets the featured snippet gap. Open with a 40-60 word direct answer listing the five categories every first apartment checklist must cover: bedroom, kitchen, bathroom, living room, and move-in logistics. Then expand briefly on why having a list by category prevents the most common gaps. This is the AI citation anchor paragraph.*
+
+**CTA Insert (after this H2):** brightplace search prompt, framed naturally: "Still searching for your first apartment? brightplace searches by what actually matters to you."
+
+---
+
+**H2: Before You Move In**
+*Writing instruction: Cover the non-item logistics that set renters up for success: setting up utilities at least one week before move-in, purchasing renters insurance (required by many landlords, around $15-30/month as of Q2 2026), completing a move-in inspection with photos, and reading the lease for early termination clauses. This section addresses a confirmed information gap: competitors list items but skip pre-move logistics. Aim for 150-180 words.*
+
+**H3: The Move-In Inspection**
+*Writing instruction: In 60-80 words, explain specifically what to document during a move-in walkthrough: photograph existing damage on walls, floors, appliances, and fixtures before unpacking a single box. Note the date on photos. Send documented damage to the landlord in writing. This protects the security deposit at move-out. This is a [CONTENT GAP] topic: no competitor covers it in their first apartment checklist articles, but Claude's AI response treated it as essential stage 2 of the checklist process.*
+
+---
+
+**H2: Bedroom Essentials**
+*Writing instruction: Lead with the one non-negotiable: mattress. State clearly that the mattress is the single item worth spending more on. Then list bedroom essentials in two tiers: Day 1 (items needed the first night) and Add Later (items that can wait 2-4 weeks). Use a two-column list format. Day 1 items: mattress, bed frame, two sets of sheets, pillows, comforter or blanket, window covering for privacy. Add Later: dresser, nightstand, lamp, full-length mirror, hangers, laundry hamper. Keep to 120-150 words.*
+
+---
+
+**H2: Kitchen Essentials**
+*Writing instruction: Open with the budget anchor: equipping a functional kitchen from scratch costs roughly $150-400 depending on whether items are bought new or secondhand (as of Q2 2026). Organize kitchen items the same way as bedroom: Day 1 (required to make one meal and clean up) and Add Later (specialty appliances and extras). Day 1: one pot, one pan, one baking sheet, chef's knife, cutting board, plates and bowls for two, glasses, utensils, can opener, dish soap, sponge, trash can and bags. Add Later: blender, toaster, coffee maker, food storage containers, measuring cups. 150-180 words.*
+
+---
+
+**H2: Bathroom Essentials**
+*Writing instruction: Open with the specific item most renters forget: shower curtain and hooks (apartments often provide the rod but not the curtain). List all bathroom items in one scannable block, no tier separation needed here since the list is shorter. Items: shower curtain, liner, hooks, bath mat, two bath towels, two hand towels, toilet paper (multiple rolls), plunger, toilet brush, hand soap, toiletries. Add: small trash can, over-toilet shelf if storage is limited. 100-120 words.*
+
+---
+
+**H2: Living Room Essentials**
+*Writing instruction: Open by flagging the financial reality: living room furniture is the most expensive category and the easiest to phase in over time. Distinguish between seating (required early) and everything else (can wait). Seating: couch, loveseat, or futon, whatever fits through the door and the budget. Note: measure doorways before buying. Then list: coffee table, floor lamp (most apartments have inadequate overhead lighting), extension cord and surge protector, curtains or blinds for privacy. Add Later: TV stand, bookshelf, side tables, area rug. 130-150 words.*
+
+---
+
+**H2: Cleaning Supplies and Home Tools**
+*Writing instruction: This section exists because every renter wants to clean before unpacking and cannot do it without supplies. List Day 1 cleaning items: all-purpose spray cleaner, paper towels, trash bags, dish soap, broom and dustpan or small vacuum. Then list the basic tool kit every renter needs for assembling furniture and hanging items without damaging walls: Phillips and flathead screwdrivers, hammer, measuring tape, Command strips or adhesive hooks (for renters who cannot drill). Note that Command strips are the renter-specific alternative to nails; many landlords prohibit wall damage. 120-150 words.*
+
+---
+
+**H2: The First-Night Box**
+*Writing instruction: [CONTENT GAP] This section provides specific, actionable information that only one competitor (HometeamMoving, a lower-authority source) covers and that Claude's AI response identified as essential. Pack a single labeled box or bag that stays with you (not on the truck or in the last load) containing everything needed for the first 18-24 hours: phone charger, toiletries, one towel, a change of clothes, toilet paper, paper towels, hand soap, basic snacks, any medications, and your lease and ID documents. This box prevents the single most common move-in day frustration: needing something and not knowing which box it is in. 120-140 words.*
+
+---
+
+**H2: How to Furnish Your First Apartment on a Budget**
+*Writing instruction: Targets the "first apartment checklist on a budget" PAA variant. Three specific budget strategies: (1) Facebook Marketplace and local thrift stores for furniture, especially sofas and dressers, where secondhand prices run 40-80% below retail. (2) Dollar stores for bathroom and cleaning basics. (3) IKEA for kitchen items and shelving where the price-to-function ratio is high. Name these specifically; vague "buy secondhand" advice is not helpful. Also note: do not buy everything at once. Live in the apartment for two weeks before major purchases to understand how you actually use the space. 130-150 words.*
+
+**Mid-article CTA:** "brightplace can show you apartments that already include [in-unit laundry / modern appliances / specific amenity] so you spend less on your checklist from day one."
+
+---
+
+**H2: Frequently Asked Questions**
+
+*Writing instruction: Target FAQPage schema. Each answer must be 40-60 words, direct, and standalone. List all questions and answers in full.*
+
+**Q1: What should go in a first apartment checklist printable version?**
+*(From PAA data)*
+
+**Q2: How much does it cost to furnish a first apartment?**
+*(From Claude AI response and multiple competitor mentions)*
+
+**Q3: What are the most commonly forgotten items for a first apartment?**
+*(From Claude AI response as information gap)*
+
+**Q4: Do I need renters insurance for my first apartment?**
+*(From Claude AI response as essential stage; PAA adjacency)*
+
+**Q5: What should I buy first for my first apartment?**
+*(From PAA variant and searcher priority question)*
+
+**Q6: What is a move-in inspection and why does it matter?**
+*(From Claude AI response as information gap; [CONTENT GAP])*
+
+**Q7: What is a first-night box?**
+*(From Claude AI response; [CONTENT GAP] not covered by top competitors)*
+
+**Q8: Can I get a first apartment checklist as a PDF or template?**
+*(From PAA data; manage expectation clearly)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+The writing agent must include these experience framings:
+
+1. **Renter-perspective framing on the first-night box section:** "The most common call from first-time renters the morning after move-in is about something they cannot find. The first-night box solves this." Frame as observed pattern, not speculation.
+
+2. **Specific item recommendation with reason:** When recommending the mattress as the one item to spend more on, the agent should state why: "You spend roughly a third of your life sleeping on it, and a poor mattress compounds over months in ways that a cheap lamp does not." This is the kind of specific, reasoned recommendation that distinguishes experiential content from list aggregation.
+
+3. **The measure-doorways-before-buying instruction on living room furniture:** This is a specific, practical insight that only someone with actual moving experience would know to include. Present it as a concrete checklist item, not a vague suggestion: "Measure your front door opening and any interior doorways before purchasing a sofa. Standard sofa depths run 36-40 inches; standard interior doorways are 32-36 inches. Check both before buying."
+
+### 6b. Expertise Signals
+
+- Include specific cost benchmarks with time-stamps for: renters insurance monthly cost, estimated kitchen setup cost, estimated bathroom setup cost.
+- Include the 30% rent rule AND the caveat that it is insufficient in high-cost-of-living markets, which positions brightplace as a more sophisticated source than competitors who cite the rule without qualification.
+- The move-in inspection section should reference the specific purpose: security deposit protection. This demonstrates understanding of the renter-landlord financial relationship, not just a procedural tip.
+
+### 6c. Freshness & Date-Stamping
+
+Claims requiring date stamps:
+- Renters insurance cost: "$15-30/month (as of Q2 2026)"
+- Kitchen setup cost: "$150-400 new, $50-150 secondhand (as of Q2 2026)"
+- Furniture discount range on Facebook Marketplace: "40-80% below retail (as of 2025-2026 market observations)"
+
+The article must include: **"Last reviewed: [Month] 2026"** in the byline or footer note.
+
+Most likely to go stale: Cost benchmarks for renters insurance and furniture. These should be flagged for review if not updated within 12 months.
+
+### 6d. Information Gain
+
+Three specific pieces of information this article can provide that no current top-ranking competitor covers:
+
+**Information Gain 1: The Move-In Inspection as a Checklist Stage**
+Competitors list items to buy. None position the pre-move-in inspection as a required checklist stage with specific documentation instructions. Claude's response treated this as essential. The article should present it as Stage 1 of the checklist process, before any item purchase. This reframes what a "first apartment checklist" means and provides genuine utility that competitors miss entirely.
+
+**Information Gain 2: The First-Night Box**
+Only one low-authority competitor (HometeamMoving) mentions this concept. The article should give it a dedicated H2, present it as the single most actionable packing tip for move-in day, and provide a specific 10-12 item list. This is the kind of practical, concrete recommendation that drives AI citations because it is specific and novel relative to the existing SERP.
+
+**Information Gain 3: Why "Buy Everything at Once" Is the Wrong Approach**
+Several competitors include cautionary notes, but none develop the specific argument: living in the apartment for two weeks before major purchases lets you understand traffic patterns, where you actually need storage, how the light falls, and what layout actually works. This is practical wisdom that constitutes real information gain over competitor content that simply lists everything as equally necessary.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes. First-time renters actively preparing for move-in, in the preparation stage of the renter journey.
+- **First-hand expertise demonstrated?** Yes. Move-in inspection documentation, first-night box specifics, doorway measurement instruction, and cost benchmarks with time-stamps.
+- **Reader achieves their goal?** Yes. After reading, a first-time renter can build a complete, prioritized shopping and logistics plan for their first apartment.
+- **Would a human brightplace editor be confident publishing?** Yes, provided brand rules (naming, punctuation, banned words) are followed exactly as specified in Section 9.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** Data Source 3 did not return a ChatGPT response for this keyword. No citation data available for ChatGPT on this query.
+
+**Claude:** Claude's response organized the topic into five stages (pre-search, apartment viewing inspection, lease review, move-in documentation, essential purchases) and provided detailed sub-checklists for each stage. Claude's framing emphasizes the pre-purchase stages (inspection, lease review, move-in documentation) as equally important as the item purchase list. Claude cited no specific source URLs in the retrieved response.
+
+**Is brightplace currently cited?** No, for either engine.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Stage-based organization (not just room-based) that AI engines can parse as a structured process
+- Specific numerical benchmarks (cost estimates, deposit calculations, security deposit math)
+- Explicit coverage of the move-in inspection and lease review as checklist stages
+- The "first-night box" concept with a specific item list
+
+**Information Gaps identified by AI engines (Claude):**
+1. Move-in inspection with specific documentation steps (photograph damage, date-stamp, notify in writing)
+2. Upfront cash calculation: total due at signing is often 2-4x monthly rent
+3. The first-night box as a packing strategy
+4. Internet provider research before signing (is fiber available, or locked into one provider?)
+5. Measuring doorways before furniture purchase
+6. The argument for waiting to furnish rather than buying everything at once
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-Paragraph Rule**
+The opening 100 words must contain: (a) a direct answer stating that a first apartment checklist covers five areas: bedroom, bathroom, kitchen, living room, and move-in logistics; (b) the audience statement: "This list is for first-time renters preparing to move in"; (c) at least one specific numerical data point such as the renters insurance cost or the upfront cash calculation. Do not open with a question, anecdote, or broad context. Open with the answer.
+
+**Rule 2: Structured Data Rule**
+Include one comparison table in the bedroom or kitchen section using the two-tier format: Day 1 Essentials vs. Add Later. Column headers: "Item" | "Day 1 or Add Later" | "Notes." This table must be clean and parseable. Do not merge cells. Do not use footnotes in the table. Example row: Mattress | Day 1 | The one item worth spending more on. This structure is what AI engines extract and reproduce in responses.
+
+**Rule 3: Definition Rule**
+These terms must be explicitly defined in a single clear sentence at first use:
+- **Security deposit:** Money paid upfront to the landlord, typically equal to one month's rent, held against damage or unpaid rent and returned at move-out if the unit is left in good condition.
+- **Renters insurance:** A policy that covers your personal belongings inside the apartment against theft, fire, and certain water damage; it does not cover the building itself.
+- **Move-in inspection:** A documented walkthrough of the apartment, completed with photos before you bring any belongings in, that records existing damage so you are not held responsible for it at move-out.
+- **First-night box:** A single labeled bag or box kept accessible during the move containing everything needed for the first 24 hours, so it does not get buried in the moving process.
+
+**Rule 4: Proof Point Rule**
+The article must include these specific numerical claims, each with a date stamp:
+1. "Renters insurance costs $15-30 per month (as of Q2 2026) and many landlords require it as a lease condition."
+2. "Equipping a functional kitchen from scratch costs roughly $150-400 new, or $50-150 if sourcing secondhand (as of Q2 2026)."
+3. "On a $1,800/month apartment, your upfront move-in costs (first month, last month, and security deposit) often total $3,600-$7,200 at signing (as of Q2 2026 market norms)."
+4. "Facebook Marketplace and thrift stores regularly offer furniture at 40-80% below retail."
+5. "Standard interior doorways measure 32-36 inches wide; standard sofas run 36-40 inches deep. Measure before buying."
+
+**Rule 5: FAQ Rule**
+The FAQ section must include these 8 questions in this order, with each answer at 40-60 words:
+
+1. What should go in a first apartment checklist printable version? *(From PAA)*
+2. How much does it cost to furnish a first apartment? *(From Claude AI response and competitor data)*
+3. What are the most commonly forgotten items for a first apartment? *(From Claude AI information gap)*
+4. Do I need renters insurance for my first apartment? *(From Claude AI as essential; PAA adjacent)*
+5. What should I buy first for my first apartment? *(From PAA and searcher priority question)*
+6. What is a move-in inspection and why does it matter? *(From Claude AI information gap; [CONTENT GAP])*
+7. What is a first-night box? *(From Claude AI; [CONTENT GAP] absent from top competitors)*
+8. Can I get a first apartment checklist as a PDF or template? *(From PAA; manage expectation directly)*
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search available apartments on brightplace.
+Placement: Three times. After the H2 "What You Need Before Move-In Day" (pre-shopping stage, high intent). Mid-article after the living room section (budget decision stage). End of article after the FAQ section.
+
+CTA language options (writer should use these verbatim or closely):
+- "Still searching for your first apartment? brightplace searches by what actually matters to renters."
+- "See what's currently available in [City] on brightplace."
+- "brightplace can filter apartments by in-unit laundry, pet policy, and lease flexibility before you tour."
+
+**Secondary CTA:**
+If brightplace has a published guide on renter budgeting, lease reading, or neighborhood search, link to it after the "How to Furnish Your First Apartment on a Budget" section as a "go deeper" resource. Writing agent: check the brightplace.ai/knowledgebase/ sitemap for a relevant article on budgeting for your first apartment, understanding your lease, or apartment search tips. If one exists, link to it with anchor text like "a practical guide to apartment budgeting" or "how to read your lease before signing." If none exists, omit the secondary CTA rather than linking to an unrelated article.
+
+**CTA language rules:** No urgency language ("act now," "don't miss out"). No promotional framing ("brightplace has the best selection"). Frame every CTA as a natural next step in the renter's process: searching, comparing, deciding.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+### Brand Rules (Non-Negotiable)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide. Examples: "How Rent Prices Actually Work in Austin" / "What Remote Workers Should Know About Raleigh" / "A Practical Guide to Renting Your First Apartment."
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (if content involves neighborhoods or cities):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### Additional Production Rules
+
+**Target word count:** 1,300-1,500 words of prose (excluding checklist bullets). Total page length including bullets will be approximately 1,800-2,200 words.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style filler.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. Avoid subordinate clauses that delay the main point.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with "Moving into your first apartment is exciting." Do not open with a question. Do not open with a story. Open with the answer.
+
+**Every H2 section opens with its answer, not with context or background.** The answer comes first. Context, if needed, follows.
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema (always, for the FAQ H2 section)
+- HowTo schema for the "Before You Move In" section, which contains a sequenced process
+- Speakable schema on the opening summary paragraph (first 40-60 words) and the FAQ section answers
+
+**Do not include the following structural elements:** numbered countdown lists, bullet points with decorative symbols (stars, checkmarks in text), sub-sub-bullets deeper than one level, bold text used for decoration rather than function.
+
+**Use bold text only for:** Item names in checklist tiers, the two-column comparison table headers, and the FAQ question text. Not for emphasis within paragraphs.
+
+**Internal linking:** Link to at least one other brightplace /knowledgebase/ article if relevant. The writing agent should check the sitemap and insert one contextually natural internal link, preferably in the budgeting or pre-move-in section.
+
+**The article must end with the FAQ section.** No "conclusion" paragraph after the FAQs. The FAQ section is the close. The final CTA appears after the last FAQ answer, before any schema closes.
