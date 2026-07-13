@@ -59,7 +59,7 @@ Listings Project is a curated weekly newsletter of NYC apartment listings, inclu
 
 ## NYC Neighborhoods Where Sublets Are Most Available
 
-Renters searching for sublet apartments in NYC concentrate in Brooklyn and Queens, where furnished [1-bedroom apartments](https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me) represent the most searched sublet configurations (as of Q2 2026). Pricing varies significantly by neighborhood.
+Renters searching for sublet apartments in NYC concentrate in Brooklyn and Queens, where furnished [1-bedroom apartments](https://brightplace.ai/resources/one-bedroom-apartments-bloomington-normal-il) represent the most searched sublet configurations (as of Q2 2026). Pricing varies significantly by neighborhood.
 
 **Washington Heights (Manhattan):** $1,700-$2,300/mo (as of Q2 2026). A/C express to Midtown in roughly 25 minutes. Strong grocery density along Broadway.
 
@@ -110,7 +110,7 @@ Furnished sublets in NYC generally run 10% to 40% above equivalent unfurnished u
 
 ### What is a studio sublet in NYC?
 
-A studio sublet is a sublet arrangement for a [studio apartment](https://brightplace.ai/knowledgebase/studio-apartments), typically 300-550 square feet with a combined living and sleeping area. Studio sublets are common in Manhattan neighborhoods like the East Village and the Upper West Side. Pricing ranges from $1,800 to $3,000/mo depending on location and furnishings (as of Q2 2026).
+A studio sublet is a sublet arrangement for a [short-term lease](https://brightplace.ai/resources/short-term-lease-agreement), typically 300-550 square feet with a combined living and sleeping area. Studio sublets are common in Manhattan neighborhoods like the East Village and the Upper West Side. Pricing ranges from $1,800 to $3,000/mo depending on location and furnishings (as of Q2 2026).
 
 ### How long can a sublet last in a rent-stabilized apartment in NYC?
 

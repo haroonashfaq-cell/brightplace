@@ -27,7 +27,7 @@ The most important distinction is between owner-level permissions and community-
 
 ### Dogs vs. Cats in Listings
 
-"Dogs allowed" and "cats allowed" are also separate categories in many listings. Several St. Augustine properties accept dogs but require a special request for cats, or vice versa. Confirm your specific pet type before booking. For renters searching for long-term [pet-friendly houses for rent](https://brightplace.ai/resources/pet-friendly-houses-for-rent), the policy landscape differs from short-term vacation rentals.
+"Dogs allowed" and "cats allowed" are also separate categories in many listings. Several St. Augustine properties accept dogs but require a special request for cats, or vice versa. Confirm your specific pet type before booking. For renters searching for long-term [pet-friendly apartments](https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc), the policy landscape differs from short-term vacation rentals.
 
 brightplace searches St. Augustine rentals by neighborhood, pet policy, and price range at [brightplace.ai](https://brightplace.ai).
 

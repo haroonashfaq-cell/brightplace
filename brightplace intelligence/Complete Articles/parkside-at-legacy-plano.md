@@ -103,7 +103,7 @@ Ask the leasing team directly about current concessions. The Plano/Frisco Class 
 
 Confirm pet restrictions and fees in writing before signing, and review what to look for in [apartments with dog parks](https://www.brightplace.ai/resources/apartments-with-dog-parks) if pet amenities matter to you. Breed lists, weight limits, and monthly pet rent vary and are not always reflected accurately on listing pages. Get the specifics on paper.
 
-If Tollway noise is a concern, ask about specific floor and unit placement. brightplace's [guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before your first tour. Units facing away from the Tollway or on lower floors shielded by the parking structure will have a meaningfully different noise experience than upper-floor units facing the road. If you know how to [rent an apartment](https://brightplace.ai/knowledgebase/how-to-rent-an-apartment) methodically, you already understand why these details matter before signing.
+If Tollway noise is a concern, ask about specific floor and unit placement. brightplace's [guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before your first tour. Units facing away from the Tollway or on lower floors shielded by the parking structure will have a meaningfully different noise experience than upper-floor units facing the road. If you know how to [rent an apartment](https://brightplace.ai/resources/how-to-rent-an-apartment) methodically, you already understand why these details matter before signing.
 
 ## Parkside at Legacy Plano Reviews
 
@@ -115,7 +115,7 @@ Direct questions during a tour produce more reliable information than scores com
 
 ## Is Parkside at Legacy Available to Buy?
 
-Parkside at Legacy Plano is an apartment community, not a condominium complex. Individual units are not listed for sale as of the time of writing. Renters interested in purchasing property in the Legacy corridor should work with a licensed Texas real estate agent verified through the [Texas Real Estate Commission](https://www.trec.texas.gov/), as the transaction involves a different property type and process entirely. If you are comparing [1-bedroom apartments near you](https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me), Parkside at Legacy is a rental option only.
+Parkside at Legacy Plano is an apartment community, not a condominium complex. Individual units are not listed for sale as of the time of writing. Renters interested in purchasing property in the Legacy corridor should work with a licensed Texas real estate agent verified through the [Texas Real Estate Commission](https://www.trec.texas.gov/), as the transaction involves a different property type and process entirely. If you are comparing [1-bedroom apartments near you](https://brightplace.ai/resources/one-bedroom-apartments-bloomington-normal-il), Parkside at Legacy is a rental option only.
 
 ## Frequently Asked Questions About Parkside at Legacy Plano
 

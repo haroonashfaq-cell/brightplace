@@ -64,7 +64,7 @@ The standard affordability benchmark comes from [HUD cost-burden thresholds](htt
 - **$3,000/month rent:** $120,000 annual income needed, or $10,000/month gross.
 - **$4,000/month rent:** $160,000 annual income needed, or $13,333/month gross.
 
-Most U.S. landlords require gross monthly income to be at least 2.5 to 3 times the monthly rent (as of Q2 2025). The **income multiple** is the ratio landlords use to verify a renter can afford rent; most markets require gross monthly income to be 2.5-3 times the monthly rent. The [CFPB provides tools for renters](https://www.consumerfinance.gov/consumer-tools/renting/) to understand their financial obligations before signing a lease. NYC landlords commonly require 40 times monthly rent as annual income, making a $3,500/month apartment accessible only to renters earning $140,000 or more per year.
+Most U.S. landlords require gross monthly income to be at least 2.5 to 3 times the monthly rent (as of Q2 2025). The **income multiple** is the ratio landlords use to verify a renter can afford rent; most markets require gross monthly income to be 2.5-3 times the monthly rent. The [CFPB provides tools for renters](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) to understand their financial obligations before signing a lease. NYC landlords commonly require 40 times monthly rent as annual income, making a $3,500/month apartment accessible only to renters earning $140,000 or more per year.
 
 The 30% rule provides a useful starting point, but does not account for several factors that affect real affordability:
 
@@ -98,7 +98,7 @@ Five factors consistently separate a good 2 bedroom apartment from a frustrating
 
 **2. Lease term flexibility.**Month-to-month or [short-term leases](https://www.brightplace.ai/resources/short-term-lease-agreement) typically cost 10-25% more than standard 12-month leases (as of Q2 2025). If you know you will stay at least a year, locking in a 12-month term saves real money. Shorter terms make sense only when job relocation or life changes are genuinely likely.
 
-**3. Pet policy.**Policies range from fully [pet-friendly](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent) to breed-restricted or pet-free. Distinguish between these common pet-related charges:
+**3. Pet policy.**Policies range from fully [pet-friendly](https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc) to breed-restricted or pet-free. Distinguish between these common pet-related charges:
 
 - Non-refundable pet fees (one-time)
 - Refundable pet deposits

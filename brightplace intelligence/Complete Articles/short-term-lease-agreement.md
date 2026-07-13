@@ -75,7 +75,7 @@ An early termination clause specifies what happens if either party ends the agre
 
 ### House Rules
 
-Smoking, pets, quiet hours, parking, and event prohibitions are standard. Renters with pets should also check whether the property qualifies as [pet-friendly housing](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent) with separate pet-related lease terms. House rule violations can be grounds for immediate lease termination in most short-term agreements. Read these as contractual obligations, not suggestions.
+Smoking, pets, quiet hours, parking, and event prohibitions are standard. Renters with pets should also check whether the property qualifies as [pet-friendly housing](https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc) with separate pet-related lease terms. House rule violations can be grounds for immediate lease termination in most short-term agreements. Read these as contractual obligations, not suggestions.
 
 ### Landlord Access
 
@@ -83,7 +83,7 @@ Most states require landlords to give notice before entering, even during short-
 
 ### Governing Law and Dispute Resolution
 
-The agreement should specify which state's laws apply. For renters crossing state lines, this matters because [tenant protections vary significantly by state](https://www.consumerfinance.gov/housing/renting/). Dispute resolution clauses (arbitration vs. court) affect your practical options if something goes wrong. brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before you commit to any lease.
+The agreement should specify which state's laws apply. For renters crossing state lines, this matters because [tenant protections vary significantly by state](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/). Dispute resolution clauses (arbitration vs. court) affect your practical options if something goes wrong. brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before you commit to any lease.
 
 ## Short-Term Lease vs. Month-to-Month: Which One Applies to You
 
@@ -123,7 +123,7 @@ A short-term lease agreement typically covers stays from 30 days to six months. 
 
 ### Is a short-term lease agreement legally binding without a written document?
 
-Oral rental agreements can be legally binding in many states, but they are extremely difficult to enforce. Without a written short-term lease agreement, neither party has clear documentation of the rental term, rent amount, or cancellation terms. The [FTC advises consumers](https://www.ftc.gov/news-events/topics/consumer-protection) to get all rental terms in writing before paying any deposit or rent.
+Oral rental agreements can be legally binding in many states, but they are extremely difficult to enforce. Without a written short-term lease agreement, neither party has clear documentation of the rental term, rent amount, or cancellation terms. The [FTC advises consumers](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) to get all rental terms in writing before paying any deposit or rent.
 
 ### Can a landlord raise the rent after a short-term lease ends?
 

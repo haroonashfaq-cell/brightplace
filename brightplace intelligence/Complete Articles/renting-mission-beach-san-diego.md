@@ -29,9 +29,9 @@ Renting in Mission Beach, San Diego starts at approximately $2,200/month for a s
 
 ## Why Mission Beach Rents Run High
 
-Mission Beach occupies a strip of land roughly 2 miles long and less than a quarter-mile wide, sandwiched between the Pacific Ocean and [Mission Bay](https://www.sandiego.gov/park-and-recreation/parks/regional/mission-bay). That geography creates a hard ceiling on how many units can exist.
+Mission Beach occupies a strip of land roughly 2 miles long and less than a quarter-mile wide, sandwiched between the Pacific Ocean and [Mission Bay](https://www.sandiego.gov/parks-and-recreation). That geography creates a hard ceiling on how many units can exist.
 
-On top of the land constraint, a significant share of Mission Beach's housing stock is dedicated to short-term vacation rentals regulated by the [City of San Diego's short-term rental ordinance](https://www.sandiego.gov/treasurer/short-term-residential-occupancy-tax). A short-term rental is a furnished unit rented for periods typically under 30 days, most commonly listed on vacation rental platforms. Every unit operating as a vacation rental is one fewer unit available for long-term renters. The result is compressed inventory and persistent low vacancy.
+On top of the land constraint, a significant share of Mission Beach's housing stock is dedicated to short-term vacation rentals regulated by the [City of San Diego's short-term rental ordinance](https://www.sandiego.gov/treasurer/short-term-residential-occupancy). A short-term rental is a furnished unit rented for periods typically under 30 days, most commonly listed on vacation rental platforms. Every unit operating as a vacation rental is one fewer unit available for long-term renters. The result is compressed inventory and persistent low vacancy.
 
 Seasonal demand amplifies the pressure. Summer months (June through August) bring the tightest inventory and highest prices. Renters targeting a summer move-in should begin searching 60-90 days in advance; this is when inventory reaches its annual low point. Fall and winter offer slightly better selection and occasional price drops as seasonal demand fades.
 

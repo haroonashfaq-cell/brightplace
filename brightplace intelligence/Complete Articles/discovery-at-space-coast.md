@@ -86,7 +86,7 @@ Community amenities include:
 
 ## Pet Policy at Discovery at Space Coast
 
-Cats and dogs are permitted at Discovery at Space Coast, with a weight limit of 100 pounds and a maximum of two indoor pets per apartment. For a detailed look at how pet fees add up over a full lease term, see brightplace's guide to [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent). The non-refundable pet fee is $300 per pet, and monthly pet rent is $35 per pet (as of Q2 2026).
+Cats and dogs are permitted at Discovery at Space Coast, with a weight limit of 100 pounds and a maximum of two indoor pets per apartment. For a detailed look at how pet fees add up over a full lease term, see brightplace's guide to [pet-friendly apartments](https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc). The non-refundable pet fee is $300 per pet, and monthly pet rent is $35 per pet (as of Q2 2026).
 
 Dogs require Poo Prints DNA registration at move-in. Poo Prints is a mandatory DNA registration program for dogs that allows the community to identify and charge for waste violations; registration costs $50 per dog (as of Q2 2026). Breed restrictions apply, so confirm the restricted breed list with the leasing office before applying.
 

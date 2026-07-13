@@ -64,7 +64,7 @@ Weston Oaks includes a swimming pool, fitness center, playground, basketball cou
 
 **In-unit features:** fully equipped kitchen, double stainless steel sink, kitchen pantry, washer/dryer connections, large walk-in closets, energy-efficient HVAC system, impact-resistant windows, ceiling fans, mini-blinds, and marble window sills.
 
-**Pet policy:** Weston Oaks allows up to two pets (cats and dogs), making it one of the more flexible options among [pet-friendly houses for rent](https://brightplace.ai/resources/pet-friendly-houses-for-rent) in the Tampa Bay area. The first pet requires a $300 non-refundable fee, and the second requires a $200 non-refundable fee (as of 2025-2026 leasing data). Monthly pet rent is $20 per pet, with a $100 refundable deposit (as of 2025-2026 leasing data). There are no breed restrictions, though the property reserves the right to decline animals with a documented history of aggression or biting.
+**Pet policy:** Weston Oaks allows up to two pets (cats and dogs), making it one of the more flexible options among [pet-friendly apartments](https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc) in the Tampa Bay area. The first pet requires a $300 non-refundable fee, and the second requires a $200 non-refundable fee (as of 2025-2026 leasing data). Monthly pet rent is $20 per pet, with a $100 refundable deposit (as of 2025-2026 leasing data). There are no breed restrictions, though the property reserves the right to decline animals with a documented history of aggression or biting.
 
 ## Location and What Holiday, FL Looks Like Day to Day
 

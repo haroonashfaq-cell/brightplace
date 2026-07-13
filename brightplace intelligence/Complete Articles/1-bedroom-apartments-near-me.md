@@ -47,7 +47,7 @@ Beyond monthly rent, budget for upfront **move-in costs**, which represent the t
 
 Combined, move-in costs total 2-3x your monthly rent (as of Q2 2026).
 
-For a $1,500/month apartment, that means having $3,000-$4,500 in cash ready before move-in day. Factor in application fees and potential broker fees in markets like New York or Boston, and the number climbs higher. The [FTC's guide to renting and leasing](https://consumer.ftc.gov/articles/renting-home) outlines what landlords can and cannot charge during this process.
+For a $1,500/month apartment, that means having $3,000-$4,500 in cash ready before move-in day. Factor in application fees and potential broker fees in markets like New York or Boston, and the number climbs higher. The [FTC's guide to renting and leasing](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) outlines what landlords can and cannot charge during this process.
 
 ## What Credit Score Do You Need to Rent a 1 Bedroom Apartment?
 
@@ -104,7 +104,7 @@ A standard one-bedroom apartment ranges from 450 to 900 square feet as of Q2 202
 
 ### What is the difference between a studio and a 1 bedroom apartment?
 
-A [studio apartment](https://www.brightplace.ai/resources/studio-apartments) combines the living area and sleeping area into a single open room with no interior walls separating them. A one-bedroom apartment has a separate bedroom enclosed by walls and a door. One-bedrooms typically offer more privacy, better furniture arrangement options, and higher resale appeal to future roommates or subletting situations.
+A [2-bedroom apartment](https://www.brightplace.ai/resources/2-bedroom-apartments-bloomington-in) combines the living area and sleeping area into a single open room with no interior walls separating them. A one-bedroom apartment has a separate bedroom enclosed by walls and a door. One-bedrooms typically offer more privacy, better furniture arrangement options, and higher resale appeal to future roommates or subletting situations.
 
 ### How do I find a 1 bedroom apartment rented directly by the owner?
 

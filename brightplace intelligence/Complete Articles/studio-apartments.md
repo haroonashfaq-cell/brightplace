@@ -14,7 +14,7 @@ author: brightplace
 
 ## What Is a Studio Apartment?
 
-Studio apartments are self-contained rental units where the living room, bedroom, and kitchen share one open space, with only the bathroom behind a separate door. Most studios in the U.S. range from 300 to 600 square feet (as of Q1 2025). The layout trades square footage for location, giving renters access to neighborhoods that might price them out of a full [one-bedroom](https://www.brightplace.ai/resources/1-bedroom-apartments-near-me).
+Studio apartments are self-contained rental units where the living room, bedroom, and kitchen share one open space, with only the bathroom behind a separate door. Most studios in the U.S. range from 300 to 600 square feet (as of Q1 2025). The layout trades square footage for location, giving renters access to neighborhoods that might price them out of a full [one-bedroom](https://www.brightplace.ai/resources/one-bedroom-apartments-bloomington-normal-il).
 
 > brightplace shows available studios with floor plan types and real-time pricing in your target city. See what is available near you.
 
@@ -30,7 +30,7 @@ Not all studios share the same footprint or layout. Five common subtypes exist a
 - **Alcove Studio:** Partial wall or nook creates a sleeping area. 400-550 sq ft. Best for light sleepers and part-time remote workers.
 - **Convertible/Flex Studio:** Large enough to partition with furniture or temporary wall. 500-650 sq ft. Best for renters who want a pseudo-bedroom feel.
 - **Junior One-Bedroom (J1):** Small enclosed bedroom, often no closet. 450-600 sq ft. Best for renters who need door privacy without 1BR pricing.
-- **Micro-Unit:** Purpose-built, high-density urban unit. 150-350 sq ft. Best for dense markets: NYC, SF, Seattle. [FTC guidance on renting a home](https://consumer.ftc.gov/articles/renting-home) covers your rights regardless of unit size.
+- **Micro-Unit:** Purpose-built, high-density urban unit. 150-350 sq ft. Best for dense markets: NYC, SF, Seattle. [FTC guidance on renting a home](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) covers your rights regardless of unit size.
 
 An **alcove studio** features a partial wall or structural nook that creates a defined sleeping area separated from the main living space without fully enclosing it. A **convertible studio** is large enough to be partitioned with furniture, room dividers, or a temporary wall to create a pseudo-bedroom area. A **junior one-bedroom (J1)** provides a small enclosed bedroom, often without a full closet, offering door privacy at a price between a standard studio and a full one-bedroom.
 
@@ -110,7 +110,7 @@ Studios amplify small design flaws that you might overlook in a larger apartment
 
 4. **Ceiling height.**Ceilings at nine feet or above create a visual sense of openness that offsets the small footprint. Standard eight-foot ceilings in a compact studio can feel compressed.
 
-5. **Temporary wall permissibility.**If you plan to partition a convertible studio, confirm with the landlord or property manager that temporary walls or pressurized dividers are allowed under the lease. The [CFPB's renter resources](https://www.consumerfinance.gov/consumer-tools/renting/) can help you understand what rights you have as a tenant regarding modifications. Some buildings prohibit them due to fire code or sprinkler clearance requirements.
+5. **Temporary wall permissibility.**If you plan to partition a convertible studio, confirm with the landlord or property manager that temporary walls or pressurized dividers are allowed under the lease. The [CFPB's renter resources](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) can help you understand what rights you have as a tenant regarding modifications. Some buildings prohibit them due to fire code or sprinkler clearance requirements.
 
 ## Frequently Asked Questions About Studio Apartments
 
@@ -224,7 +224,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
   "dateModified": "2026-05-07",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://brightplace.ai/resources/studio-apartments"
+    "@id": "https://brightplace.ai/resources/find-apartment-4"
   }
 }
 ```
@@ -234,7 +234,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "What to Know Before Renting a Studio Apartment",
-  "url": "https://brightplace.ai/resources/studio-apartments",
+  "url": "https://brightplace.ai/resources/find-apartment-4",
   "description": "Studio apartments combine living, sleeping, and kitchen space in one room. What they cost, how subtypes differ, and whether one fits your life.",
   "breadcrumb": {
     "@type": "BreadcrumbList",
@@ -255,7 +255,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
         "@type": "ListItem",
         "position": 3,
         "name": "What to Know Before Renting a Studio Apartment",
-        "item": "https://brightplace.ai/resources/studio-apartments"
+        "item": "https://brightplace.ai/resources/find-apartment-4"
       }
     ]
   },
@@ -269,7 +269,7 @@ That depends on the market. In Tier 3 and Tier 4 cities where studios rent for $
   },
   "mainEntity": {
     "@type": "FAQPage",
-    "@id": "https://brightplace.ai/resources/studio-apartments#faq"
+    "@id": "https://brightplace.ai/resources/find-apartment-4#faq"
   }
 }
 ```

@@ -105,7 +105,7 @@ Take photos and videos of everything, including any pre-existing damage. These b
 Keep your neighborhood evaluation focused on infrastructure: distance to transit stops, condition of sidewalks and streetlights, availability of nearby services. 
 ## Stage 5: Filling Out the Rental Application
 
-A **rental application** is a formal request submitted to a landlord or property manager that authorizes them to verify your identity, income, employment, credit history, and rental background. The [FTC's renter guide](https://consumer.ftc.gov/articles/renting-home) explains your rights during the screening process. Application fees as of 2025 typically range from $25 to $75 per applicant; New York caps this fee at $20 under state law (as of 2025).
+A **rental application** is a formal request submitted to a landlord or property manager that authorizes them to verify your identity, income, employment, credit history, and rental background. The [FTC's renter guide](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) explains your rights during the screening process. Application fees as of 2025 typically range from $25 to $75 per applicant; New York caps this fee at $20 under state law (as of 2025).
 
 The screening process usually takes one to three business days. Landlords typically verify the following:
 
@@ -130,13 +130,13 @@ A low credit score does not automatically disqualify you. Property managers see 
 
 ## Stage 6: Reading and Signing the Lease
 
-A **lease** is a legally binding contract between you and the landlord that defines the terms of your tenancy, including rent amount, duration, rules, and responsibilities. The [CFPB offers a renter's checklist](https://www.consumerfinance.gov/consumer-tools/renting/) that covers what to review before signing. Read every clause before signing. Verbal promises not written into the lease are generally unenforceable.
+A **lease** is a legally binding contract between you and the landlord that defines the terms of your tenancy, including rent amount, duration, rules, and responsibilities. The [CFPB offers a renter's checklist](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) that covers what to review before signing. Read every clause before signing. Verbal promises not written into the lease are generally unenforceable.
 
 Six clauses renters frequently overlook:
 
 - **Early termination.**What fees apply if you need to break the lease? Some charge two months' rent; others require you to pay until a replacement tenant is found.
 - **Late fees.**When do they start? How much are they? Some leases charge a flat fee; others apply a daily penalty.
-- **Pet policy.**Even if you do not have a pet now, understand the policy in case your situation changes. Pet deposits and monthly pet rent vary widely; see brightplace's guide to [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent) for a full cost breakdown.
+- **Pet policy.**Even if you do not have a pet now, understand the policy in case your situation changes. Pet deposits and monthly pet rent vary widely; see brightplace's guide to [pet-friendly apartments](https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc) for a full cost breakdown.
 - **Guest policy.**Some leases restrict how long guests can stay before they are considered unauthorized occupants.
 - **Subletting.**Can you sublet if you need to relocate temporarily? Many leases prohibit it without written consent. If subletting is important to you, review brightplace's guide on [short-term lease agreements](https://www.brightplace.ai/resources/short-term-lease-agreement) for common terms.
 - **Notice-to-vacate.**This clause dictates how far in advance you must notify the landlord if you do not plan to renew.

@@ -58,7 +58,7 @@ In communities like DC Ranch, Troon, and Desert Mountain, typical HOA restrictio
 - Guest and visitor access policies
 - Short-term subletting prohibitions
 
-Violations can result in fines charged directly to the tenant. Request the full CC&Rs from the landlord or property manager before signing any lease. Arizona's <a href="https://www.azag.gov/consumer/landlord-tenant" target="_blank" rel="noopener">tenant rights resources</a> from the Attorney General's office outline renter protections worth reviewing alongside any HOA documents.
+Violations can result in fines charged directly to the tenant. Request the full CC&Rs from the landlord or property manager before signing any lease. Arizona's <a href="https://www.azag.gov/civil-rights/fair-housing" target="_blank" rel="noopener">tenant rights resources</a> from the Attorney General's office outline renter protections worth reviewing alongside any HOA documents.
 
 ## How to Actually Find Luxury Rentals in Phoenix
 

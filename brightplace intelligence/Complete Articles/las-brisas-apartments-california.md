@@ -112,7 +112,7 @@ A leasing promotion offering up to 6 weeks free on base rent was active at the t
 
 ## Income-Restricted Las Brisas Communities in California
 
-Not all Las Brisas properties charge market-rate rent. Several participate in the **LIHTC** program, the Low Income Housing Tax Credit, a federal initiative that provides subsidies to developers in exchange for capping rents at levels affordable to households below a percentage of **Area Median Income (AMI)**, the midpoint income for a given geographic area published annually by <a href="https://www.hud.gov/program_offices/comm_planning/affordablehousing/" target="_blank" rel="noopener">HUD</a>.
+Not all Las Brisas properties charge market-rate rent. Several participate in the **LIHTC** program, the Low Income Housing Tax Credit, a federal initiative that provides subsidies to developers in exchange for capping rents at levels affordable to households below a percentage of **Area Median Income (AMI)**, the midpoint income for a given geographic area published annually by <a href="https://www.hud.gov/topics/rental_assistance" target="_blank" rel="noopener">HUD</a>.
 
 ### El Centro (Imperial County)
 
@@ -139,8 +139,6 @@ California renters have specific legal protections regardless of which Las Brisa
 ### Just Cause Eviction (AB 1482)
 
 **Just Cause Eviction (AB 1482).**Most multi-unit buildings in California require a documented reason for eviction after 12 months of tenancy. Renters in any Las Brisas community with 12 or more months of occupancy have additional lease security under this provision.
-
-If you are comparing apartment options across multiple cities, brightplace's [guide to studio apartments](https://brightplace.ai/guides/studio-apartments) covers what to expect at the smaller end of the unit spectrum.
 
 **Looking for available apartments in California? brightplace searches current listings so you can compare options without the guesswork. See what is available now at [brightplace.ai](https://brightplace.ai).**
 

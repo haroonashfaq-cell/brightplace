@@ -104,7 +104,15 @@ Skip this section entirely if content_type is "renters-corner".
 - Must be under 155 characters.
 - Must contain the primary keyword.
 - No questions, no clickbait.
+- Must be unique — must NOT duplicate the meta description of the Resources or News index pages.
 - **Report:** PASS or FAIL. State character count.
+
+### 2.4a SEO Title Tag
+- The `seo-title` (or title tag) must be under 60 characters.
+- Must contain the primary keyword or a close variant.
+- Must end with ` | brightplace` (pipe separator, not dash).
+- Must NOT be identical to the H1. The H1 is the article headline; the SEO title is shorter and optimized for SERP display. Duplicate H1 and title triggers a site audit warning.
+- **Report:** PASS or FAIL. State character count and whether it matches H1.
 
 ### 2.5 Heading Hierarchy
 - Only one H1 in the document.
@@ -135,7 +143,10 @@ Skip this section entirely if content_type is "renters-corner".
 - Must include FAQPage, Article, and WebPage JSON-LD schema blocks.
 - WebPage must include breadcrumb and speakable specification.
 - FAQ schema answers must match article FAQ answers word-for-word.
-- **Report:** PASS or FAIL. Note which schemas are present/missing.
+- All schema URLs must use `https://brightplace.ai/resources/[slug]` — NEVER `/knowledgebase/`.
+- The `mainEntityOfPage` URL in Article schema must match the actual live page URL.
+- Breadcrumb must use `Resources` as position 2, not `Knowledgebase`.
+- **Report:** PASS or FAIL. Note which schemas are present/missing. Flag any URL mismatches.
 
 ### 2.11 Internal Links
 - Target: 8-12 internal links for a 1,200-1,500 word article.
@@ -282,21 +293,75 @@ Skip this section entirely if content_type is "knowledgebase".
 
 ### 5.1 Internal Links
 - List every internal link (brightplace.ai URLs) in the article body.
-- Check that each points to a real page on the brightplace sitemap.
+- Check that each points to a real page on the brightplace sitemap (https://www.brightplace.ai/sitemap.xml).
 - Check that no link points to the article's own URL.
 - Check for `[INTERNAL LINK: topic]` placeholders and count them.
+- **REJECT** any link using the legacy `/knowledgebase/` path. All articles live at `/resources/[slug]`.
+- **REJECT** any link to these known non-existent URLs:
+  - `/resources/studio-apartments` (does not exist)
+  - `/resources/pet-friendly-houses-for-rent` (does not exist)
+  - `/resources/1-bedroom-apartments-near-me` (does not exist)
+  - `/guides/studio-apartments` (does not exist)
 - **Report:** List all internal links with VALID/INVALID/PLACEHOLDER status.
 
 ### 5.2 External Links
 - List every external link (non-brightplace URLs) in the article body.
 - Check that no link points to a banned source (Section 1.5).
 - Check that external links point to authoritative sources (.gov, .edu, official sites).
-- **Report:** List all external links with VALID/BANNED status.
+- **REJECT** any link using `http://` instead of `https://`. All external links must use HTTPS.
+- **REJECT** any link matching these known-broken URL patterns:
+  - `consumerfinance.gov/consumer-tools/renting/` (404 — use `consumerfinance.gov/housing/housing-insecurity/help-for-renters/`)
+  - `consumerfinance.gov/housing/renting/` (404 — use `consumerfinance.gov/housing/housing-insecurity/help-for-renters/`)
+  - `consumer.ftc.gov/articles/renting-home` (403 bot-blocked — use `consumerfinance.gov/housing/housing-insecurity/help-for-renters/`)
+  - `ftc.gov/news-events/topics/consumer-protection` (403 — use `consumerfinance.gov/housing/housing-insecurity/help-for-renters/`)
+  - `consumer.ftc.gov/articles/what-know-about-homeowners-renters-insurance` (403 — use `consumerfinance.gov/housing/housing-insecurity/help-for-renters/`)
+  - `azag.gov/consumer/landlord-tenant` (404 — use `azag.gov/civil-rights/fair-housing`)
+  - `dhcd.virginia.gov/landlord-tenant` (404 — use `dhcd.virginia.gov/landlord-tenant-resources`)
+  - `ridetransit.org` (301 redirect — use `charlottenc.gov/cats/home/`)
+  - `hud.gov/program_offices/comm_planning/affordablehousing/` (404 — use `hud.gov/topics/rental_assistance`)
+  - `sandiego.gov/park-and-recreation/parks/regional/mission-bay` (404 — use `sandiego.gov/parks-and-recreation`)
+  - `sandiego.gov/treasurer/short-term-residential-occupancy-tax` (404 — use `sandiego.gov/treasurer/short-term-residential-occupancy`)
+  - `mecknc.gov/CodeEnforcement/Pages/default.aspx` (404 — use `mecknc.gov/luesa/codeenforcement/`)
+- **Report:** List all external links with VALID/BANNED/BROKEN status.
 
 ### 5.3 CTA Links
 - List all brightplace CTA links separately from internal content links.
 - CTAs do NOT count toward the internal link target.
 - **Report:** List CTA links with their positions in the article.
+
+---
+
+## SECTION 6: INFRASTRUCTURE CHECKS (applies to ALL content types)
+
+These checks prevent the recurring infrastructure bugs that have cost ranking and required batch fixes across 25+ articles.
+
+### 6.1 No HTTP Links
+- Every link in the article body (internal and external) must use `https://`, never `http://`.
+- This includes brightplace URLs (`https://brightplace.ai`, `https://app.brightplace.ai`, `https://mcp.brightplace.ai`, `https://docs.brightplace.ai`).
+- **Report:** PASS or FAIL. List any http:// links found.
+
+### 6.2 No Legacy Path References
+- No link or URL in the article (body, schema, frontmatter) may reference `/knowledgebase/`. The live path is `/resources/`.
+- No canonical URL or schema URL may reference a slug that does not exist in the CMS.
+- **Report:** PASS or FAIL. List any legacy path references.
+
+### 6.3 Frontmatter Consistency
+- The `slug` in frontmatter must match the intended CMS slug.
+- The `date_published` and `date_modified` must be valid dates.
+- The `schema_types` must include at minimum `["Article", "FAQPage"]`.
+- If a `canonical_url` is present, it must point to `https://brightplace.ai/resources/[slug]` using the same slug from frontmatter.
+- **Report:** PASS or FAIL. Note any inconsistencies.
+
+### 6.4 External Link Freshness
+- Flag any external link to a government or institutional URL that is not on the approved list below. These are confirmed working as of July 2026:
+  - `hud.gov/topics/rental_assistance` (HUD rental assistance)
+  - `hud.gov/program_offices/fair_housing_equal_opp` (HUD fair housing)
+  - `consumerfinance.gov/housing/housing-insecurity/help-for-renters/` (CFPB renter help)
+  - `consumerfinance.gov/consumer-tools/credit-reports-and-scores/` (CFPB credit reports)
+  - `floodsmart.gov` (FEMA flood insurance)
+  - `annualcreditreport.com` (free credit reports)
+- Any .gov or .edu link NOT on this list should be flagged as a WARNING for manual verification before publishing.
+- **Report:** PASS, FAIL, or WARNING. List any unverified external links.
 
 ---
 

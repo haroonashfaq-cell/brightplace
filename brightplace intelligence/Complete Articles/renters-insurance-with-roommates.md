@@ -17,7 +17,7 @@ author: brightplace
 
 Renters insurance does not automatically cover your roommate. A standard policy covers only the named insured, which is the person or persons listed by name on the policy declarations page whose belongings and liability are protected. If your roommate is not listed on the policy, their belongings and liability are not covered. The average renters insurance policy costs approximately $15 per month (as of Q1 2026, per [NAIC](https://content.naic.org/cipr-topics/homeowners-insurance) data), making separate policies affordable for most roommates.
 
-Your landlord's insurance covers the building structure only. It does not cover any tenant's belongings or liability. Every renter in the unit needs their own coverage, either through a shared policy or individual policies. Renters exploring [pet-friendly houses for rent](https://brightplace.ai/resources/pet-friendly-houses-for-rent) should pay particular attention to liability coverage, since pet-related incidents are a common source of claims.
+Your landlord's insurance covers the building structure only. It does not cover any tenant's belongings or liability. Every renter in the unit needs their own coverage, either through a shared policy or individual policies. Renters exploring [pet-friendly apartments](https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc) should pay particular attention to liability coverage, since pet-related incidents are a common source of claims.
 
 **If you are still searching for the right apartment, brightplace shows available units that fit your setup at [brightplace.ai](https://brightplace.ai).**
 
@@ -47,7 +47,7 @@ Here is how the two options compare:
 
 ## The Risks of Sharing One Policy With a Roommate
 
-Any claim filed by a roommate on a shared policy is recorded against all named insureds in the CLUE database. The CLUE report (Comprehensive Loss Underwriting Exchange) is a database administered by LexisNexis that records insurance claims and is checked by insurers when pricing renters, auto, and homeowners policies. The [FTC provides guidance](https://consumer.ftc.gov/articles/what-know-about-homeowners-renters-insurance) on how to evaluate insurance policies and avoid common pitfalls. Claims history records typically follow a policyholder for five to seven years. A claim on your insurance record can raise future premiums by 20% or more, according to insurance industry analysis.
+Any claim filed by a roommate on a shared policy is recorded against all named insureds in the CLUE database. The CLUE report (Comprehensive Loss Underwriting Exchange) is a database administered by LexisNexis that records insurance claims and is checked by insurers when pricing renters, auto, and homeowners policies. The [FTC provides guidance](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) on how to evaluate insurance policies and avoid common pitfalls. Claims history records typically follow a policyholder for five to seven years. A claim on your insurance record can raise future premiums by 20% or more, according to insurance industry analysis.
 
 Shared coverage limits are frequently misunderstood. A $30,000 personal property limit covers both people's belongings combined, not $30,000 per person. Most renters insurance policies also have per-category limits, often capping electronics at $1,500-$2,500 per claim, which is shared across all named insureds on a joint policy (as of Q1 2026).
 

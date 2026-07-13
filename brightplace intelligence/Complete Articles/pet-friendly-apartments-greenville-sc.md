@@ -101,7 +101,7 @@ If you have a dog that needs regular outdoor access, ask about:
 2. On-site pet amenities like bark parks or walking paths
 3. Waste station locations
 
-These details affect daily quality of life more than most renters expect. For broader guidance on finding [pet-friendly houses for rent](https://brightplace.ai/resources/pet-friendly-houses-for-rent), brightplace covers what to look for beyond apartment communities.
+These details affect daily quality of life more than most renters expect. For broader guidance on finding [pet-friendly apartments](https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc), brightplace covers what to look for beyond apartment communities.
 
 ## Pet-Friendly Resources Near Greenville Apartments
 

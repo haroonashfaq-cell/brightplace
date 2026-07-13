@@ -74,7 +74,7 @@ Community amenities include:
 - Reserved parking
 - Onsite convenience store with retail shops
 
-An indoor pool is referenced in resident reviews; confirm availability directly with the leasing office. The building does not allow pets of any kind, so renters with animals should factor this into their search early and may want to explore [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent) as an alternative. 
+An indoor pool is referenced in resident reviews; confirm availability directly with the leasing office. The building does not allow pets of any kind, so renters with animals should factor this into their search early and may want to explore [pet-friendly apartments](https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc) as an alternative. 
 ## Location and Transit Access
 
 ### Metro and Commute Times
@@ -137,7 +137,7 @@ Newer buildings like The Amelia (816 N Oakland St) offer contemporary finishes a
 
 ### Application and Move-In Fees
 
-Before contacting the leasing office, here are the specifics that most listing pages leave out. The application fee is $50 per applicant (as of Q2 2026), consistent with [Virginia's landlord-tenant regulations](https://www.dhcd.virginia.gov/landlord-tenant). An administrative fee of $400 (as of Q2 2026) is due at move-in. These are standard for the Arlington corridor but worth budgeting for in advance as part of [your true monthly cost](https://www.brightplace.ai/guides/your-true-monthly-cost).
+Before contacting the leasing office, here are the specifics that most listing pages leave out. The application fee is $50 per applicant (as of Q2 2026), consistent with [Virginia's landlord-tenant regulations](https://www.dhcd.virginia.gov/landlord-tenant-resources). An administrative fee of $400 (as of Q2 2026) is due at move-in. These are standard for the Arlington corridor but worth budgeting for in advance as part of [your true monthly cost](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
 ### Lease Terms and Office Hours
 

@@ -51,7 +51,7 @@ The tradeoff for car dependence is proximity to a well-developed retail corridor
 
 Commute time from the Northlake corridor to Uptown Charlotte is approximately 20 to 35 minutes by car via I-485 or Brookshire Freeway, depending on time of day. Rush hour pushes travel closer to the 35-minute mark.
 
-[Charlotte Area Transit System (CATS)](https://www.ridetransit.org/) bus routes serve parts of this area, but schedules and coverage require route-specific research. The Blue Line light rail does not extend to this corridor, so rail commuters would need to drive to a park-and-ride station first.
+[Charlotte Area Transit System (CATS)](https://www.charlottenc.gov/cats/home/) bus routes serve parts of this area, but schedules and coverage require route-specific research. The Blue Line light rail does not extend to this corridor, so rail commuters would need to drive to a park-and-ride station first.
 
 ### What Is Close By
 
@@ -67,7 +67,7 @@ Nearby points of interest include:
 
 At mid-market Charlotte apartment communities in this price tier, the most common review themes involve maintenance responsiveness, parking availability, noise between units, and communication with management. Resident reviews for Cascades at Northlake follow similar patterns across multiple platforms.
 
-Rather than relying solely on online reviews, check the [Mecklenburg County Code Enforcement](https://www.mecknc.gov/CodeEnforcement/Pages/default.aspx) database. **Mecklenburg County Code Enforcement** is the county agency that inspects residential properties and records violations; its database is publicly searchable and provides an objective view of a property's maintenance compliance history. This source is more reliable than anonymous reviews for understanding a property's physical condition.
+Rather than relying solely on online reviews, check the [Mecklenburg County Code Enforcement](https://www.mecknc.gov/luesa/codeenforcement/) database. **Mecklenburg County Code Enforcement** is the county agency that inspects residential properties and records violations; its database is publicly searchable and provides an objective view of a property's maintenance compliance history. This source is more reliable than anonymous reviews for understanding a property's physical condition.
 
 Ask the leasing office directly about average maintenance response times and any recent capital improvements to the property.
 
@@ -94,7 +94,7 @@ Before committing to a lease at Cascades at Northlake or any comparable property
 
 ### Utility Billing
 
-**How are utilities billed?**Ask whether the property uses **RUBS (Ratio Utility Billing System)**, a method where total utility costs for a building are divided among residents based on unit size or occupancy rather than individual metered use. RUBS utility billing can add $50 to $150 per month (as of Q2 2025) to the total housing cost beyond base rent, depending on unit size and building occupancy. The [CFPB's renter resources](https://www.consumerfinance.gov/housing/renting/) explain how to evaluate total housing costs before signing.
+**How are utilities billed?**Ask whether the property uses **RUBS (Ratio Utility Billing System)**, a method where total utility costs for a building are divided among residents based on unit size or occupancy rather than individual metered use. RUBS utility billing can add $50 to $150 per month (as of Q2 2025) to the total housing cost beyond base rent, depending on unit size and building occupancy. The [CFPB's renter resources](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) explain how to evaluate total housing costs before signing.
 
 ### Early Termination Fee
 
@@ -108,7 +108,7 @@ Before committing to a lease at Cascades at Northlake or any comparable property
 
 **What is the pet deposit and monthly pet rent?**Pet-friendly does not mean pet-free. Monthly pet rent of $25 to $75 per pet (as of Q2 2025) is common at properties in this tier, on top of a one-time deposit.
 
-If you are still comparing options in Charlotte, [brightplace](https://brightplace.ai) shows you available apartments in north Charlotte without the sponsored listing clutter of traditional search sites. For context on how north Charlotte rents compare to the broader market, see brightplace's [look at 1-bedroom apartment pricing](https://brightplace.ai/knowledgebase/1-bedroom-apartments-near-me) or the [practical guide to renting a 2-bedroom apartment](https://brightplace.ai/knowledgebase/renting-a-2-bedroom-apartment).
+If you are still comparing options in Charlotte, [brightplace](https://brightplace.ai) shows you available apartments in north Charlotte without the sponsored listing clutter of traditional search sites. For context on how north Charlotte rents compare to the broader market, see brightplace's [look at 1-bedroom apartment pricing](https://brightplace.ai/resources/one-bedroom-apartments-bloomington-normal-il) or the [practical guide to renting a 2-bedroom apartment](https://brightplace.ai/resources/2-bedroom-apartments-bloomington-in).
 
 ## Frequently Asked Questions About Cascades at Northlake
 

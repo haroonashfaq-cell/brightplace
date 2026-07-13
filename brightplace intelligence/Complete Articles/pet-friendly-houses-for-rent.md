@@ -10,7 +10,7 @@
 title: "How a Family with Three Pets Found a Pet-Friendly House for Rent"
 meta_description: "Pet-friendly houses for rent are harder to find with multiple pets. Here is what worked for one family and what to ask before signing."
 slug: pet-friendly-houses-for-rent
-canonical_url: "https://brightplace.ai/resources/pet-friendly-houses-for-rent"
+canonical_url: "https://brightplace.ai/resources/find-apartment-5"
 primary_keyword: "pet friendly houses for rent"
 schema_types: ["Article", "FAQPage"]
 author: "Katie, Renter Education Lead at brightplace"
@@ -80,7 +80,7 @@ Renters with large dogs, restricted breeds, or three or more pets should priorit
 
 ## How do you strengthen your application when you have pets?
 
-Application fees run $50 to $85 per adult applicant (as of Q2 2026). The [FTC's guide to renting a home](https://consumer.ftc.gov/articles/renting-home) explains what landlords can legally charge during screening. For two adults, that is $100 to $170 per property. Reducing your rejection rate is worth real money.
+Application fees run $50 to $85 per adult applicant (as of Q2 2026). The [FTC's guide to renting a home](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) explains what landlords can legally charge during screening. For two adults, that is $100 to $170 per property. Reducing your rejection rate is worth real money.
 
 **Build a pet resume.** A pet resume is a one-page document summarizing your pet's breed, age, weight, vaccination history, and references from a prior landlord or vet. Most renters skip this, so those who do it stand out. I have seen pet resumes change a landlord's mind on a two-pet cap more than once.
 

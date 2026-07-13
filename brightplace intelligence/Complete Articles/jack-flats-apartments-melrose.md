@@ -141,7 +141,7 @@ Jack Flats is one component of the Windsor Radio Factory apartment community, ma
 
 ### 7. Is Jack Flats pet friendly?
 
-Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. For a detailed look at pet costs and breed restrictions, see brightplace's guide to [pet-friendly houses for rent](https://www.brightplace.ai/resources/pet-friendly-houses-for-rent). If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in.
+Yes. Jack Flats is a pet-friendly community with two fenced dog parks and a dog wash station on the campus. Specific breed restrictions and weight limits may apply. Confirm current pet policies, deposits, and monthly pet rent with the Windsor Radio Factory leasing office before submitting an application. For a detailed look at pet costs and breed restrictions, see brightplace's guide to [pet-friendly apartments](https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc). If you are new to the apartment renting process, brightplace's [step-by-step guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to expect from application through move-in.
 
 ### 8. Does Jack Flats have affordable housing units?
 

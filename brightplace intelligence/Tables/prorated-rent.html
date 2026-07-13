@@ -1,0 +1,40 @@
+<!-- Prorated Rent — Calculation Methods Comparison Table -->
+<!-- Paste into Webflow HTML Embed element in the "Three methods landlords use" section -->
+
+<style>
+.bp-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-family: inherit; font-size: 15px; }
+.bp-table th { background: #1a1a2e; color: #fff; text-align: left; padding: 12px 16px; font-weight: 600; }
+.bp-table td { padding: 10px 16px; border-bottom: 1px solid #e8e8e8; }
+.bp-table tr:hover { background: #f7f7fa; }
+.bp-table .method { font-weight: 600; }
+.bp-table .result { font-weight: 600; color: #1a1a2e; }
+.bp-table .note { font-size: 13px; color: #666; margin-top: 8px; }
+</style>
+
+<table class="bp-table">
+  <thead>
+    <tr>
+      <th>Method</th>
+      <th>Formula</th>
+      <th>Example Result</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="method">Calendar Days (Actual Month)</td>
+      <td>$1,800 / 30 days x 15 days</td>
+      <td class="result">$900.00</td>
+    </tr>
+    <tr>
+      <td class="method">Banker's Month (30-Day Standard)</td>
+      <td>$1,800 / 30 x 15 days</td>
+      <td class="result">$900.00</td>
+    </tr>
+    <tr>
+      <td class="method">Annual Daily Rate (365-Day)</td>
+      <td>$1,800 x 12 / 365 x 15 days</td>
+      <td class="result">$887.67</td>
+    </tr>
+  </tbody>
+</table>
+<p class="note">Example: $1,800/month rent, June 16 move-in, 15 days of occupancy. Calendar days is the most common method for residential leases.</p>
