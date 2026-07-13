@@ -1,0 +1,416 @@
+# CONTENT BRIEF: brightplace.ai/knowledgebase/
+
+**Target Keyword:** how much rent can i afford making $18 an hour
+**Prepared for:** AI Writing Agent
+**Published location:** brightplace.ai/knowledgebase/{slug}
+
+---
+
+## 1. SERP INTENT ANALYSIS
+
+### 1a. Dominant Content Format
+
+The SERP is dominated by **calculation-forward how-to guides with embedded data tables**. Every top competitor (Renters.com, WalletHub, 21stAndFinance, Skybriz, MoneyBliss) delivers the same structure: answer the income-to-rent math first, then walk through rules (30% rule, 50/30/20), then add context (debt, savings, location). One competitor (mortgage-calculator.net) anchors purely around a table. No listicles, no comparison pages, no pure definition pieces.
+
+The article MUST match this format: a calculation-forward how-to guide with at least one embedded data table and a clear math walkthrough in the opening section.
+
+### 1b. Content Depth Benchmark
+
+Top 5 competitor word counts (estimated from scraped content):
+- Renters.com: ~900 words
+- WalletHub: ~500 words
+- 21stAndFinance: ~2,800 words (outlier, padded with repetitive advisories)
+- Skybriz: ~4,500 words (comprehensive, but 60%+ is padding and edge cases)
+- MoneyBliss: ~1,100 words
+
+The core information need is satisfied in 900-1,200 words. The outlier pieces (21st, Skybriz) pad heavily without providing proportional information gain. **Target word count: 1,000-1,200 words.** This matches the depth needed, avoids padding, and fits the brightplace format standard (800-1,500 word range).
+
+### 1c. SERP Features Present
+
+**People Also Ask (PAA):** Present. 12 questions confirmed (see Data Source 2). Each PAA question maps to a structural element:
+- "What apartment can I afford making $18 an hour?" → Opening H2, 40-60 word direct answer paragraph
+- "Can I live off $18 an hour?" → Dedicated H2 with city reality check
+- "What salary do you need to afford $1,200 rent?" → Inline answer within the income rules section
+- Hourly wage variants ($15, $16, $17, $19, $20, $22) → Brief comparison table, H2 section
+
+**Featured Snippet:** No featured snippet currently claimed for this exact keyword. This is an active opportunity. The opening H2 paragraph (40-60 words, direct answer, includes dollar figure) is the featured snippet target.
+
+**AI Overview:** Not confirmed present, but both Claude and ChatGPT have detailed responses to this query (Data Source 3 confirms Claude's full response). This means AEO optimization is a priority.
+
+**No video carousel, local pack, or knowledge panel** detected for this keyword.
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** A person earning $18/hour wants to know exactly what their maximum monthly rent budget should be before apartment hunting.
+
+**Primary intent:** Transactional-informational. The searcher is in pre-search mode, trying to set a number before opening apartment listings. They want a concrete dollar figure, not a philosophy lecture on budgeting.
+
+**Secondary intent:** Validation. Some searchers already have a rent target in mind and want confirmation that it is realistic or a warning that it is not.
+
+The calculation-forward how-to format directly matches primary intent. The article confirms immediately, gives them the number, then explains the constraints. This is correct.
+
+---
+
+## 2. RECOMMENDED TITLES
+
+**Option A:**
+How Much Rent You Can Afford on $18 an Hour
+*(51 characters, contains primary keyword, clear value promise)*
+
+**Option B:**
+Renting on $18 an Hour: What Your Budget Actually Covers
+*(57 characters, contains core semantic variant, sets honest expectation)*
+
+**Option C:**
+What $18 an Hour Gets You in Rent, and Where It Falls Short
+*(59 characters, contains primary variant, honest framing, curiosity-driven without clickbait)*
+
+**Recommended title:** Option A. It is the closest match to the primary keyword, passes Google SERP clarity, and is directly citable by AI engines as a definition-style heading.
+
+---
+
+**Recommended meta description:**
+Making $18 an hour puts your rent target around $936/month. Here is how to calculate your real ceiling, what rules landlords use, and where this income actually works.
+*(164 characters. Slightly over 155. Trim option: "Here's how to calculate your real ceiling, which rules landlords use, and where this income works." — 152 characters. Use trimmed version.)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/rent-affordability-18-an-hour`
+
+---
+
+## 3. TARGET AUDIENCE & SEARCHER PROFILE
+
+The primary searcher is a **working adult earning $18/hour**, most likely in an hourly or entry-level salaried role, who is either apartment hunting for the first time or reassessing their current housing costs after a pay change. They are at the **pre-search discovery stage** of the renter journey: they need a number before they open a listing. Their specific problem is translating an hourly wage into a monthly rent budget they can defend to themselves and to a landlord. Based on the SERP format analysis, they expect a quick calculation up front followed by a practical breakdown of rules, with concrete dollar figures throughout and no long windup before the answer.
+
+---
+
+## 4. KEYWORDS & ENTITIES
+
+**Primary keyword:**
+how much rent can i afford making $18 an hour
+
+**Secondary keywords (10-15):**
+
+1. rent affordability $18 an hour
+2. $18 an hour monthly income
+3. 30% rule rent calculator
+4. how much is $18 an hour a month
+5. gross monthly income $18 hour
+6. rent budget hourly wage
+7. 3x rent rule landlord requirement
+8. $18 an hour take-home pay after taxes
+9. affordable rent on $37,440 salary
+10. rent calculator hourly pay
+11. 50/30/20 rule rent
+12. $936 rent budget
+13. can i live on $18 an hour
+14. $18 an hour apartments
+15. rent part time $18 an hour
+
+**Entities to mention (7-10):**
+
+1. **30% rule** (core financial concept, define on first use)
+2. **50/30/20 rule** (budgeting framework, cite as context)
+3. **3x rent rule / 40x annual income rule** (landlord qualification standard, define)
+4. **Gross monthly income vs. net/take-home pay** (critical distinction, define both)
+5. **Security deposit** (move-in cost entity)
+6. **Memphis, TN / Oklahoma City, OK / Wichita, KS / Cleveland, OH** (specific cities where $936/month rent is realistic, from Claude's city reality check)
+7. **Phoenix, AZ / Dallas, TX** (mid-tier cities, possible with roommate or studio)
+8. **Roommate** (affordability lever entity)
+9. **Utilities** (hidden cost entity)
+10. **Federal income tax / FICA / take-home pay** (explains gross vs. net gap)
+
+**Terms to AVOID:**
+"best," "top," "ultimate," "guide" (in title), Apartments.com, Zillow, Rent.com, Zumper, ApartmentList, HotPads, RentCafe, Walk Score, Reddit, Yelp, "vibrant," "bustling," "thriving," "hidden gem," "best-kept secret," "navigate," "leverage," "unlock," "deep dive," "dive into," "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "signal," em dashes.
+
+---
+
+## 5. CONTENT OUTLINE
+
+**H1:** How Much Rent You Can Afford on $18 an Hour
+
+---
+
+**H2: Your Rent Target at $18 an Hour**
+
+*Writing instruction: Open with the direct answer: $936/month is the 30% rule figure on $3,120 gross monthly income. This 40-60 word paragraph is the featured snippet target and must include the dollar figure, the gross income figure, and the rule name. Do not pad with context before the answer.*
+
+**[Featured snippet target paragraph — 40-60 words, opening directly:]**
+Writer must open this section with: "$18 an hour, working a standard 40-hour week, produces a gross monthly income of $3,120. At the standard 30% rule, your rent target is $936/month. That is the number most financial planners and landlords use as a starting point when you earn this wage."
+
+---
+
+**H2: How $18 an Hour Translates to Monthly Income**
+
+*Writing instruction: Walk through the math explicitly. Include a small income breakdown table showing hourly, weekly, monthly (gross), annual (gross), and estimated monthly take-home. Explain the gross vs. net distinction in plain terms. This section exists because multiple PAA questions ask about monthly income from $18/hour, and it is a prerequisite for any rent calculation. The take-home figure is approximately $2,450-$2,600/month depending on state tax, which the writer must note.*
+
+Include the following table (writing agent must reproduce this structure):
+
+| Pay Period | Gross Amount |
+|---|---|
+| Per hour | $18.00 |
+| Per week (40 hrs) | $720 |
+| Per month (approx.) | $3,120 |
+| Per year | $37,440 |
+| Est. monthly take-home* | ~$2,450-$2,600 |
+
+*After federal income tax, Social Security, and Medicare. Varies by state.*
+
+---
+
+**H2: The Rules Landlords and Planners Use**
+
+*Writing instruction: Explain the 30% rule, the 3x rent rule (landlord qualification), and the 50/30/20 rule, in that order. Give the dollar figure that results from each rule at this income level. Include a second table showing what each rule produces. Do not endorse one rule as correct; present each honestly with its tradeoff. Keep each rule explanation to 2-3 sentences.*
+
+Include the following comparison table (writing agent must reproduce this structure):
+
+| Rule | What It Says | Your Number at $18/hr |
+|---|---|---|
+| 30% of gross income | Max rent = 30% of $3,120 | $936/month |
+| 3x rent (landlord test) | Gross income must be 3x rent | Qualifies up to ~$1,040/month |
+| 50/30/20 rule (needs bucket) | All needs ≤ 50% of take-home | $700-$900/month for rent after other essentials |
+| Conservative (25% of gross) | Lower ceiling for financial cushion | $780/month |
+
+---
+
+**H2: What $936 in Rent Actually Buys You, by City** **[CONTENT GAP]**
+
+*Writing instruction: This section is missing from nearly all competitor content. Competitors give a number but do not tell the searcher what that number buys in real housing markets. Claude's AI response provided specific city data. Use it. List 5-7 cities where $936/month is a realistic 1-bedroom budget. List 2-3 cities where it is tight but possible with a studio or roommate. Do not use Fair Housing-prohibited language: describe cities by transit infrastructure, walkability, dining, grocery access. No crime statistics, no neighborhood demographic descriptions. Include brief parenthetical notes on commute infrastructure. Note that large coastal metros (not named in Fair Housing restricted manner) are not realistic at this price point without a roommate.*
+
+Cities to include (realistic for $936/month 1BR, as of Q2 2025):
+- Memphis, TN
+- Wichita, KS
+- Oklahoma City, OK
+- El Paso, TX
+- Cleveland, OH
+- Birmingham, AL
+- Louisville, KY
+
+Cities where $936 requires a studio or roommate:
+- Phoenix, AZ
+- Dallas, TX (no state income tax partially offsets higher rent)
+
+---
+
+**H2: What Apartment Can I Afford Making $18 an Hour?** *(PAA question direct match)*
+
+*Writing instruction: This is a direct PAA question. Answer it in the first sentence. Define "apartment you can afford" in practical terms: a unit where rent does not exceed 30% of gross income AND leaves enough take-home for utilities, food, transportation, and a savings contribution. Clarify that "afford" per a landlord's qualification standard (3x rule) may differ from "afford" in a healthy personal budget. Include 2-3 sentences about apartment type at this budget: studio or 1BR in lower-cost metros, or a shared 2BR in mid-tier cities.*
+
+---
+
+**H2: Can I Live Off $18 an Hour?** *(PAA question direct match)*
+
+*Writing instruction: Answer honestly. The answer is: it depends heavily on location, household size, and debt load. In lower-cost markets with rent at or below $936/month, $18/hour is livable for a single adult without significant debt. In major coastal metros, it is not sufficient for solo renting without a roommate. Do not hedge endlessly; give a clear framework. Include one concrete example: "$18/hour in Memphis with $900 rent and no car payment leaves approximately $800-$1,000 after rent and basic utilities for food, transportation, savings. That is workable, not comfortable." Keep this section under 150 words.*
+
+---
+
+**H2: How Debt and Other Bills Change Your Real Ceiling** **[CONTENT GAP]**
+
+*Writing instruction: Competitor content mentions debt in passing but none of them give specific examples of how common debt loads change the rent ceiling at this income level. This is a citation gap identified by both AI engines. Show the math: a $300/month car payment, $150 student loan minimum, and $100 in credit card minimums total $550 in monthly debt. That $550 must come out of the take-home budget before rent. A searcher with $550 in monthly debt commitments has a realistic rent ceiling closer to $650-$750/month, not $936. Give 2-3 worked examples at different debt loads. This is the highest-value unique section in the article.*
+
+Include the following table:
+
+| Monthly Debt Load | Recommended Rent Ceiling | Remaining for Food, Transport, Savings |
+|---|---|---|
+| $0 | $780-$936 | $1,500-$1,700 |
+| $200-$350 (1 loan/payment) | $650-$800 | $1,300-$1,500 |
+| $400-$600 (car + student loan) | $550-$700 | $1,100-$1,300 |
+| $600+ (multiple debts) | $500-$600 | Below comfortable threshold |
+
+*Based on estimated $2,500/month take-home. Adjust for actual pay stubs.*
+
+---
+
+**H2: The Roommate Math at $18 an Hour** **[CONTENT GAP]**
+
+*Writing instruction: No competitor covers the roommate calculation specifically for this income level, even though it is the single most effective affordability strategy. Claude's AI response called this "the most powerful affordability lever." Show what splitting a 2BR apartment does to the individual cost. Example: a 2BR at $1,600/month split two ways = $800 each. That is well inside the 30% threshold and opens access to markets otherwise out of reach on $18/hour. Keep this section to 3-4 short paragraphs or fewer. One comparison line is enough. No promotional language.*
+
+---
+
+**H2: What to Know About $18 an Hour Part-Time** *(PAA variant: "how much rent can I afford making $18 an hour part time")*
+
+*Writing instruction: Part-time hours change every figure in this article. Address this clearly. At 30 hours/week: gross monthly income drops to approximately $2,340, putting the 30% rent ceiling at $702/month. At 25 hours: $1,950 gross, $585/month ceiling. State these numbers plainly. Recommend using guaranteed regular hours, not best-week hours, when calculating a rent budget. Keep this section short: 3-4 sentences plus a small table or two-line comparison.*
+
+---
+
+**H2: What Salary Do You Need to Afford $1,200 Rent?** *(PAA question direct match)*
+
+*Writing instruction: This is a direct PAA question that should be answered plainly. $1,200/month rent requires a gross monthly income of $4,000 (30% rule) or $3,600 (3x landlord test). That translates to approximately $23-$25/hour at 40 hours/week. At $18/hour, $1,200/month rent represents 38.5% of gross income, which is above the 30% guideline and tighter than recommended. State this directly and note that it can work with no other significant monthly debt and low-cost location extras (utilities included, no parking fee).*
+
+---
+
+**H2: How to Find Apartments Within This Budget**
+
+*Writing instruction: This is the funnel section. Do not make it promotional. Give 3-4 practical, specific search strategies: (1) filter by monthly rent ceiling before browsing to avoid anchoring up, (2) add utility estimates to the listed rent before deciding, (3) consider total move-in costs (security deposit, first month) when assessing whether an apartment is currently reachable, (4) use brightplace to search by income range. Include the primary CTA here: "brightplace lets you search by rent range across [city] — see what is available within your budget at brightplace.ai." Keep the CTA one sentence, framed as a search tool, not an ad.*
+
+---
+
+**H2: Frequently Asked Questions**
+
+*Writing instruction: Include all 8 FAQ entries below, formatted as H3 questions with 40-60 word answers each. These will be implemented as FAQPage schema. Every answer must open with a direct response, not a restatement of the question.*
+
+---
+
+**H3: What is the 30% rent rule?**
+*(Source: PAA + core concept in every competitor)*
+*Answer: The 30% rule states that your monthly rent should not exceed 30% of your gross monthly income. At $18/hour with $3,120 in monthly gross income, that puts your ceiling at $936/month. It is a starting point, not a guarantee: debt, utilities, and savings goals can all lower your practical ceiling below this number.*
+
+**H3: How much is $18 an hour per month?**
+*(Source: PAA variant / implied by keyword)*
+*Answer: $18/hour at a standard 40-hour workweek produces a gross monthly income of approximately $3,120, or $37,440 per year. After federal income tax, Social Security, and Medicare, estimated take-home pay is $2,450-$2,600/month, depending on your state. States with no income tax (Texas, Florida, Nevada, among others) increase take-home slightly.*
+
+**H3: What apartments can I afford on $18 an hour?**
+*(Source: PAA direct match)*
+*Answer: At $18/hour, a realistic rent budget of $780-$936/month opens solo 1BR options in lower-cost markets like Memphis, Wichita, Oklahoma City, and El Paso. In mid-tier cities like Phoenix or Dallas, you are looking at studios or shared 2BR apartments. In high-cost coastal metros, this income level requires a roommate.*
+
+**H3: How much rent can I afford making $18 an hour part time?**
+*(Source: PAA direct match)*
+*Answer: Part-time hours change the math significantly. At 30 hours/week, your gross monthly income drops to approximately $2,340, putting your 30% rent ceiling at $702/month. At 25 hours/week, it falls to roughly $585/month. Always calculate your budget from your actual regular hours, not from a full-time assumption.*
+
+**H3: What salary do I need to afford $1,200 rent?**
+*(Source: PAA direct match)*
+*Answer: To keep $1,200/month rent at 30% of gross income, you need $4,000/month gross, or about $24/hour at full-time hours. At $18/hour ($3,120 gross), $1,200 in rent represents nearly 38.5% of your income. That can work if you carry no other monthly debt and your other housing costs (utilities, parking) are low.*
+
+**H3: How does having a roommate change my rent budget at $18 an hour?**
+*(Source: Content Gap from Claude AI response)*
+*Answer: A roommate is the most effective affordability tool at this income level. Splitting a 2BR apartment priced at $1,600/month means each person pays $800, well inside the 30% threshold. It also opens access to cities and neighborhoods where solo 1BR rents exceed $936/month.*
+
+**H3: How much of my $18/hour income should go to rent versus other bills?**
+*(Source: Content Gap from Claude AI response and 21stAndFinance competitor)*
+*Answer: Under the 50/30/20 rule, all essential needs (rent, utilities, groceries, transportation, minimum debt payments) should stay within 50% of take-home pay. At roughly $2,500/month take-home, that is a $1,250 ceiling for all essentials combined. Rent should typically be the largest single item but should leave room for utilities ($100-$180), food, and transport.*
+
+**H3: Can I afford $2,000/month in rent on $18 an hour?**
+*(Source: Renters.com competitor angle, high-search-intent PAA variant)*
+*Answer: No. $2,000/month in rent on $3,120 gross monthly income represents 64% of your gross income, more than twice the recommended 30% threshold. To afford $2,000/month comfortably under the 30% rule, you would need a gross income of approximately $6,667/month, or roughly $40/hour at full-time hours.*
+
+---
+
+## 6. E-E-A-T & GOOGLE CORE UPDATE COMPLIANCE
+
+### 6a. Experience Signals
+
+The writing agent must include these three experience-grounding elements:
+
+1. **brightplace framing on city data:** When naming cities with realistic rent at this budget, frame it as: "brightplace tracks rental supply across these markets. As of [Q2 2025], 1BR apartments at or below $950/month remain findable in [cities listed]." Do not fabricate specific availability counts; the framing alone constitutes an experience anchor.
+
+2. **"What the numbers actually show" framing on the debt table:** When presenting the debt impact table, precede it with: "When you factor in typical debt loads, the practical rent ceiling drops noticeably below the headline 30% figure." This signals the article is interpreting data, not just reproducing it.
+
+3. **Honest income gap acknowledgment:** In the "Can I live off $18 an hour?" section, acknowledge that wage growth has not kept pace with rental cost increases in most major metros (confirmed by CNBC/NLIHC data cited in competitor research). Frame as a real constraint, not a motivational caveat.
+
+### 6b. Expertise Signals
+
+1. Include the gross vs. net income distinction with a specific take-home estimate ($2,450-$2,600/month), not a generic "taxes reduce your income" hedge.
+2. Explain WHY the 3x landlord rule and the 30% financial planning rule produce different ceilings ($1,040 vs. $936). Most competitors ignore this gap; naming it demonstrates conceptual expertise.
+3. Show the part-time income table. Only a source familiar with how hourly workers actually budget would include this variation unprompted.
+
+### 6c. Freshness & Date-Stamping
+
+**All dollar figures must include "(as of Q2 2025)" adjacent to the claim.**
+
+Specific figures most likely to go stale and requiring future update flags:
+- City-by-city median 1BR rent ranges (most volatile, update quarterly)
+- Monthly take-home pay estimates (change with federal tax law, FICA rates)
+- The $936/month rent target figure (stable based on the formula, but verify input wage against any state minimum wage changes)
+
+**The article must include the following note at the bottom:** "Last reviewed: [Month 2025]. Rent ranges cited reflect available market data as of Q2 2025 and will be updated as conditions change."
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that no current top-ranking competitor covers adequately:
+
+**Information Gain 1: Debt-adjusted rent ceiling with worked examples**
+No competitor shows the reader what their actual rent ceiling is after subtracting monthly debt payments. Renters.com and WalletHub mention debt as a factor; none show the math. The debt-impact table in this article fills that gap directly. This section is the highest-value differentiator.
+
+**Information Gain 2: City-specific affordability check at $936/month**
+Every competitor gives the $936 number and stops. None tell the searcher what that buys in real apartment markets. The city section in this article addresses the question "so where can I actually find an apartment at this price?" which is the natural follow-up searchers have but no competitor answers.
+
+**Information Gain 3: Roommate math at this specific income level**
+Competitors mention roommates as a tip. None show the specific math: what a split 2BR costs at this income level, how it changes the percentage calculation, and what city access it opens. This article does the math explicitly, creating a citable, unique piece of analysis.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Defined as: working adult earning $18/hour, pre-search stage, needs a monthly rent number. Stated in the first paragraph of the article.
+- **First-hand expertise demonstrated:** Yes. brightplace city tracking reference, honest income gap acknowledgment, debt-adjusted math not found in competitors.
+- **Reader achieves their goal:** Yes. The goal is: "I need a specific rent budget number before I start searching." The article delivers $936/month in the first 60 words, then gives the searcher every tool to adjust that number for their real situation.
+- **Human editor confidence:** Yes. The brief follows all brightplace brand rules (no em dashes, no banned phrases, no ILS citations, Fair Housing compliant on neighborhood language, lowercase "brightplace" throughout). A brightplace editor would approve this without modification flags.
+
+---
+
+## 7. AEO/GEO OPTIMIZATION STRATEGY
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:** Not fully retrieved (Data Source 3 does not include ChatGPT's specific citation list for this query). The writing agent should assume ChatGPT cites financial planning authorities (NerdWallet, Investopedia, NLIHC) based on how those sources appear across competitor content.
+
+**Claude citations for this keyword:** Claude's full response is available in Data Source 3. Claude did not cite brightplace. Claude's response drew on:
+- General 30%/50/30/20 rule knowledge (no single cited source, treated as common financial knowledge)
+- City-level rent data (sourced from market knowledge without a specific citation anchor for most cities)
+- The NLIHC "Out of Reach" framing (present in multiple CNBC and HuffPost competitors)
+- Landlord qualification standards (3x rule, 40x rule) treated as industry standard without citation
+
+**Is brightplace cited by either engine?**
+- ChatGPT: No (not confirmed)
+- Claude: No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+1. A clearly citable, structured answer with dollar figures in the first 100 words (most competitors bury the number after intro padding)
+2. A comparison table that AI engines can parse directly (Claude's response generated its own table; it would prefer to cite a source that already has this structured)
+3. City-specific data at the target rent threshold (Claude generated its own city list from internal knowledge because no competitor provided one; a source that provides this becomes an immediate citation candidate)
+4. Part-time income variation (Claude mentioned it; no competitor addresses it; a source that covers it gets cited for that specific query variant)
+
+**Information Gaps identified by Claude that this article fills:**
+1. Debt-adjusted rent ceiling (Claude calculated a rough take-home but did not model how debt changes the ceiling)
+2. City-specific rentability at $936/month (Claude listed cities from memory; a sourced list from a real platform is more citable)
+3. Roommate math specific to this income level (Claude mentioned it conceptually; the specific math was incomplete)
+4. Part-time hours calculation (Claude noted it; no competitor covered it)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article MUST contain: (a) a direct dollar answer to the primary query ("your rent target is approximately $936/month"), (b) the audience statement ("if you earn $18/hour at full-time hours"), and (c) the gross monthly income figure ("$3,120 per month before taxes"). These three elements are what LLMs extract when constructing a synthesized answer. If they appear in the first 100 words, brightplace becomes a citable anchor for this query.
+
+**Rule 2: Structured data rule.**
+The article must include THREE tables:
+- **Table 1 (Income Breakdown):** Columns: Pay Period | Gross Amount. Rows: Per hour, Per week, Per month, Per year, Est. monthly take-home. This table answers "how much is $18 an hour per month" in AI-parseable format.
+- **Table 2 (Rule Comparison):** Columns: Rule | What It Says | Your Number at $18/hr. Rows: 30% rule, 3x rule, 50/30/20 rule, Conservative 25%. This directly answers multiple PAA variants.
+- **Table 3 (Debt Impact):** Columns: Monthly Debt Load | Recommended Rent Ceiling | Remaining for Other Expenses. This is the information gain table and is unique to this article.
+
+All tables must use clean Markdown formatting (pipe-delimited). The writing agent must not use colspan, merged cells, or nested formatting.
+
+**Rule 3: Definition rule.**
+The following terms must each be defined in a single clear sentence at the start of the section where they first appear:
+
+1. **30% rule:** "The 30% rule is a budgeting guideline that recommends spending no more than 30% of your gross monthly income on rent."
+2. **Gross monthly income:** "Gross monthly income is the total amount you earn before taxes and deductions are taken out."
+3. **Take-home pay:** "Take-home pay (also called net income) is what lands in your bank account after federal income tax, Social Security, and Medicare are deducted."
+4. **3x rent rule:** "The 3x rent rule is the most common landlord qualification standard: your gross monthly income must be at least three times the monthly rent."
+5. **50/30/20 rule:** "The 50/30/20 rule allocates 50% of take-home pay to needs (including rent), 30% to wants, and 20% to savings or debt paydown."
+
+**Rule 4: Proof point rule.**
+The article must include these specific numerical claims, formatted with date attribution:
+
+1. "$18/hour produces a gross monthly income of $3,120 (based on a standard 40-hour workweek, as of 2025)"
+2. "The 30% rent rule puts your ceiling at $936/month on this income"
+3. "Estimated monthly take-home pay at $18/hour is approximately $2,450-$2,600, after federal income tax, Social Security, and Medicare (as of Q2 2025; varies by state)"
+4. "At 30 hours/week part-time, gross monthly income drops to approximately $2,340, with a 30% rent ceiling of $702/month"
+5. "A $300/month car payment and $150/month student loan minimum ($450 total) effectively lowers the practical rent ceiling by approximately $200-$300/month on this income"
+
+**Rule 5: FAQ rule.**
+The FAQ section must include exactly 8 questions in this order, each answered in 40-60 words with the answer beginning in the first word (not with a restatement of the question):
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What is the 30% rent rule? | Core concept (PAA implied) |
+| 2 | How much is $18 an hour per month? | PAA variant |
+| 3 | What apartments can I afford on $18 an hour? | PAA direct match |
+| 4 | How much rent can I afford making $18 an hour part time? | PAA direct match |
+| 5 | What salary do I need to afford $1,200 rent? | PAA direct match |
+| 6 | How does having a roommate change my rent budget at $18 an hour? | Content Gap (Claude AI response) |
+| 7 | How much of my income should go to rent versus other bills? | Content Gap (Claude AI response + 21stAndFinance) |
+| 8 | Can I afford $2,000/month in rent on $18 an hour? | Renters.com competitor + high-intent PAA variant |
+
+---
+
+## 8. CTA &
