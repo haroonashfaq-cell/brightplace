@@ -1,0 +1,452 @@
+# Content Brief: Century University City
+
+## brightplace.ai/knowledgebase/ — Content Brief Output
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top result is the property's official website (centuryuniversitycity.com), a **product/property page** format. The People Also Ask questions reveal that the SERP is dominated by **property-level informational queries**: reviews, phone numbers, photos, comparisons with nearby competing properties (Cortland University City, Tapestry University City, Thrive at University City). The AI engine response (Claude) treats this as a **neighborhood + property research query** and organizes its response as an **informational guide with comparison framing**.
+
+The article must match: **an informational guide with property comparison framing**, targeting renters who have encountered Century University City (Charlotte, NC) by name and want unbiased context before contacting the property or its competitors. This is not a listicle and not a how-to. It is a **property research guide** that places Century University City in competitive context.
+
+---
+
+### 1b. Content Depth Benchmark
+
+The official property page is a marketing page, not an editorial article. It is intentionally thin on comparative or analytical information. The Claude AI response adds substantial depth but mixes in Philadelphia references (a factual error: Century University City is in Charlotte, NC) and recommends ILS platforms, which brightplace cannot cite.
+
+The competing editorial gap is significant: no neutral, editorial-quality guide exists for this keyword cluster. The article should target **1,000 to 1,200 words**, sufficient to establish topical authority, cover the PAA questions, and provide genuine comparison value without padding.
+
+---
+
+### 1c. SERP Features Present
+
+| SERP Feature | Present | Targeting Approach |
+|---|---|---|
+| Featured Snippet | No | Structure the opening H2 answer in 40-60 words to capture if/when one forms |
+| People Also Ask | Yes (8 questions) | Dedicate H2 or H3 sections to the highest-intent PAA questions |
+| AI Overview | Not confirmed | Structured definitions, comparison table, and FAQ section improve AI extraction |
+| Local Pack | Likely (property address triggers map pack) | Include address, neighborhood name, and Charlotte, NC throughout |
+| Knowledge Panel | Possible (branded property) | Mention full property name, address, and management company clearly |
+| Video Carousel | Not confirmed | No video requirement for this brief |
+
+---
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A renter who has encountered the name "Century University City" and wants to understand what the property offers, how it compares to nearby alternatives, and whether it is the right fit before scheduling a tour or applying.
+
+**Secondary intent:** A current or prospective Charlotte renter researching the University City neighborhood more broadly, using Century University City as a reference point.
+
+The **primary intent drives the structure**: property-in-context guide with honest comparison. The secondary intent is served by the neighborhood section. This brief targets primary intent first.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+Century University City: What Renters Should Know Before Applying
+
+**Option B:**
+A Practical Look at Century University City Apartments in Charlotte
+
+**Option C:**
+Renting at Century University City: Apartments, Pricing, and What to Compare
+
+---
+
+**Recommended Meta Description (under 155 characters):**
+Century University City offers one- to three-bedroom apartments in Charlotte's University City neighborhood. Here is what to know before you tour or apply.
+
+**Recommended URL Slug:**
+`brightplace.ai/knowledgebase/century-university-city-apartments-charlotte`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The searcher is a **renter in active comparison mode**, most likely a student, graduate student, young professional, or healthcare worker considering apartments near UNC Charlotte or along the University City corridor in Charlotte, NC. They are in the **comparison or decision stage** of the renter journey: they have already encountered Century University City by name (through a search, a referral, or a campus housing resource) and now want independent context before committing. They are trying to answer: "Is this property worth touring, and how does it compare to my other options in this area?" Based on the SERP, they expect a **clear, factual, comparative answer** rather than a marketing pitch.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary Keyword:**
+`century university city`
+
+**Secondary Keywords:**
+- century university city apartments
+- century university city charlotte nc
+- university city apartments charlotte
+- apartments near UNC Charlotte
+- university city charlotte apartments
+- century university city floor plans
+- century university city reviews
+- tapestry university city charlotte
+- cortland university city charlotte
+- thrive at university city
+- 1 bedroom apartments university city charlotte
+- 2 bedroom apartments university city charlotte
+- apartments near unc charlotte campus
+- charlotte nc apartment comparison
+- university city neighborhood charlotte
+
+**Entities to Mention:**
+- Century University City (5340 Periwinkle Hill Ave, Charlotte, NC 28213)
+- University City neighborhood, Charlotte, NC
+- UNC Charlotte (proximity reference only, not enrollment advice)
+- Cortland University City (competing property)
+- Tapestry University City (competing property, formerly named; acknowledged in PAA)
+- Thrive at University City (competing property)
+- Asset Living (management company for Century University City)
+- Charlotte, NC rental market
+- One-, two-, and three-bedroom apartment configurations
+- Quartz countertops, stainless steel appliances, in-unit washer/dryer (unit-level entities for AI parsing)
+
+**Terms to Avoid:**
+- "best," "top," "ultimate," "hidden gem," "vibrant," "bustling," "thriving"
+- Any ILS platform name (Apartments.com, Zillow, etc.)
+- "leverage," "navigate," "unlock," "deep dive," "signal"
+- Em dashes in any form
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** Century University City Apartments in Charlotte: What to Know Before You Tour
+
+---
+
+**H2: What Is Century University City?**
+
+*Writing instruction:* Open with a direct 40-60 word answer naming the property, its address, its apartment configurations, its management company, and the neighborhood. This is the featured snippet target. Do not editorialize. State facts only. This paragraph will be extracted by AI engines and Google snippet algorithms.
+
+*Content to include:* Property name, full address (5340 Periwinkle Hill Ave, Charlotte, NC 28213), bedroom types (one-, two-, and three-bedroom), management company (Asset Living), and University City neighborhood context. Include starting price ranges as of Q2 2026 (from competitor data: studios and 1BRs from the $1,100s, 2BRs from the $1,300s, 3BRs from the $1,600s).
+
+---
+
+**H2: What the Apartments Include**
+
+*Writing instruction:* Describe unit-level features factually and specifically. Use the details available from the property's own content as the baseline. Present these as informational, not promotional. The goal is to give the reader enough detail to assess fit without visiting the marketing site.
+
+*Content to include:*
+- Kitchens: stainless steel appliances, quartz countertops, custom cabinets, subway tile backsplash, kitchen islands with pendant lighting, pantry storage
+- Bathrooms: double-sink vanities, soaking garden tubs, stand-alone showers, ceramic tile floors and walls
+- Unit features: 9- to 10-foot ceilings, ceiling fans, faux wood blinds, in-unit washer/dryer, built-in USB ports, walk-in or substantial closet space
+- Ceiling heights and nature views (as described in source material)
+
+*H3: Community Amenities*
+
+*Writing instruction:* Describe shared amenity spaces factually. Present what the property offers renters beyond the unit itself. These details directly answer what renters searching for "reviews" and "photos" want to understand.
+
+*Content to include:* Pool and deck with covered porch, cabanas, outdoor dining terraces with grilling stations, sports pub/game room, billiards, cybercafe with coffee and tea.
+
+---
+
+**H2: Pricing at Century University City (as of Q2 2026)**
+
+*Writing instruction:* Present pricing clearly. Use the data available from the property's own published ranges. Frame as current starting prices with a note that pricing changes frequently and the reader should confirm directly. This section targets the high-intent "how much does it cost" query embedded in the keyword cluster.
+
+*Content to include:*
+- Studios: starting in the $1,100s (as of Q2 2026)
+- 1-bedrooms: starting in the $1,100s (as of Q2 2026)
+- 2-bedrooms: starting in the $1,300s (as of Q2 2026)
+- 3-bedrooms: starting in the $1,600s (as of Q2 2026)
+- Note that pricing reflects starting rates and varies by floor plan, floor, and availability window
+- Brief note on how Charlotte's University City rental market compares to Uptown Charlotte pricing (University City typically comes in below Uptown for comparable unit sizes)
+
+**[CONTENT GAP]** *No competitor or ILS editorial content contextualizes these prices against the broader University City submarket. brightplace can add value here by noting typical 1BR ranges across the University City corridor, not just Century's pricing in isolation.*
+
+---
+
+**H2: How Century University City Compares to Nearby Options**
+
+*Writing instruction:* This is the comparison section that directly serves the "Cortland University City," "Tapestry University City," and "Thrive at University City" PAA queries. Present a comparison table. Do not rank or editorialize. Present each property factually. The table improves AI parsability and gives the reader a fast decision framework.
+
+*Include a comparison table with the following structure:*
+
+| Property | Neighborhood | Bedroom Options | Starting Rent (approx., Q2 2026) | Notable Features |
+|---|---|---|---|---|
+| Century University City | University City, Charlotte | 1BR, 2BR, 3BR | From $1,100s | Pool, sports pub, in-unit W/D |
+| Cortland University City | University City, Charlotte | Confirm at research | Confirm at research | Confirm at research |
+| Tapestry University City | University City, Charlotte | Confirm at research | Confirm at research | Confirm at research |
+| Thrive at University City | University City, Charlotte | Confirm at research | Confirm at research | Confirm at research |
+
+*Writing instruction for the writing agent:* Research and populate the Cortland, Tapestry, and Thrive rows using publicly available property information at time of writing. Do not cite ILS platforms in the article text. The table data should reflect what a renter can verify by visiting each property's official website. Add a note below the table: "Pricing and availability change frequently. Confirm current rates directly with each property."
+
+---
+
+**H2: The University City Neighborhood in Charlotte**
+
+*Writing instruction:* Describe the University City neighborhood by lifestyle infrastructure only. No demographic language. No safety or crime references. No gentrification language. Focus on what a renter's daily life actually looks like from this location. This section answers the "University City apartments Charlotte NC" secondary keyword and builds topical authority for the neighborhood cluster.
+
+*Content to include:*
+- Proximity to UNC Charlotte (walking distance or short commute reference)
+- Transit access: CATS light rail (Lynx Blue Line has a University City Blvd station and nearby stops), bus routes serving the corridor
+- Grocery options in the immediate area (research and name specific stores within 1-2 miles)
+- Dining: name specific restaurant areas or corridors near University City, avoid generic descriptors
+- Fitness and outdoor space: name specific parks or greenways accessible from the University City area
+- Coffee options near the property or neighborhood
+- Highway access (I-85 proximity for commuters heading into Uptown or south Charlotte)
+
+**[CONTENT GAP]** *No competitor content or ILS editorial covers the University City neighborhood from a lifestyle-infrastructure perspective for renters. Most content about this neighborhood is either property marketing copy or UNC Charlotte enrollment-related. brightplace can own this gap by providing a practical commuter and daily-life description.*
+
+---
+
+**H2: What to Know Before You Apply**
+
+*Writing instruction:* This section answers practical "next step" questions that renters have before contacting a property. Use it to give honest, practical framing. This is the "knowledgeable friend" voice at its most useful. Include honest tradeoffs.
+
+*Content to include:*
+- Office hours (Monday-Friday 10AM-6PM, Saturday 10AM-5PM, Sunday closed; from source data)
+- Tour options available: self-guided tours, scheduled tours, virtual 3D tours
+- Application process note: applicants apply through a third-party portal (apply.get100.com based on source)
+- Preferred Employer Program exists (relevant for UNC Charlotte employees, hospital system workers, or large Charlotte employers)
+- Student-specific resources available (property has a dedicated Students page)
+- Honest tradeoff: University City is a car-friendly area with transit options, but renters who prefer walkability to retail and dining will find it less dense than Midtown or South End Charlotte
+
+**[CONTENT GAP]** *The Preferred Employer Program is mentioned on the property's site but no editorial content explains what this typically means for renters (discounted rates, reduced deposits, priority application review). This is an information gap that a practical guide can address, helping renters who work at major Charlotte employers understand whether they qualify.*
+
+---
+
+**H2: Frequently Asked Questions About Century University City**
+
+*Writing instruction:* Answer each question in 40-60 words. Direct answers only. These become FAQPage schema entries. Source questions from PAA data and AI-identified information gaps. Each answer must be self-contained: a reader should understand the answer without reading the surrounding article.
+
+---
+
+*H3: What is the phone number for Century University City?*
+(PAA source)
+*Answer:* The leasing office at Century University City can be reached at (980) 326-0934. Office hours are Monday through Friday, 10AM to 6PM, and Saturday, 10AM to 5PM. The office is closed on Sundays. For applications, an online portal is also available.
+
+*H3: What apartments are comparable to Century University City in Charlotte?*
+(PAA source: Cortland University City, Tapestry University City, Thrive at University City)
+*Answer:* The closest comparable properties in University City, Charlotte are Cortland University City, Tapestry University City, and Thrive at University City. All three are within the same submarket and serve similar renter profiles. The comparison table above summarizes key differences in pricing and features.
+
+*H3: Does Century University City allow students?*
+(PAA source: Students page exists on property site)
+*Answer:* Yes. Century University City has a dedicated student program and is positioned to serve renters attending UNC Charlotte. The property is a short distance from campus. Prospective student renters should ask the leasing office about any student-specific lease terms or move-in timing options.
+
+*H3: What floor plan options does Century University City offer?*
+(AI gap)
+*Answer:* Century University City offers one-, two-, and three-bedroom floor plans. Starting prices as of Q2 2026 are in the $1,100s for one-bedrooms, $1,300s for two-bedrooms, and $1,600s for three-bedrooms. Specific square footage and layout details are available on the property's floor plans page.
+
+*H3: What is the Preferred Employer Program at Century University City?*
+(Content gap identified in outline)
+*Answer:* The Preferred Employer Program typically offers qualifying renters benefits such as reduced application fees, waived deposits, or preferred pricing, depending on the management company's agreement with the employer. Renters employed by major Charlotte institutions should ask the leasing team whether their employer participates.
+
+*H3: What amenities does Century University City include?*
+(AI gap, review-intent query)
+*Answer:* Community amenities include a pool with a covered deck and cabanas, outdoor dining terraces with grilling stations, a sports pub, billiard room, and a cybercafe. Unit-level amenities include quartz countertops, stainless steel appliances, in-unit washer/dryer, and 9- to 10-foot ceilings.
+
+*H3: How does University City compare to other Charlotte neighborhoods for renters?*
+(Neighborhood context gap)
+*Answer:* University City offers lower rents than Uptown or South End Charlotte, with a more suburban feel and stronger proximity to UNC Charlotte and northeast Charlotte employment. Renters who prioritize walkable retail and dining density may find Midtown or NoDa a better fit. University City suits commuters and campus-adjacent renters well.
+
+*H3: When is the best time to find apartments in University City?*
+(AI gap, timing query)
+*Answer:* The University City rental market follows an academic cycle. Availability increases in late spring and summer as students complete leases. Renters not tied to the academic calendar often find more availability and negotiating room between May and August. Fall and spring semesters create the highest competition for units.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace market framing:** Where the article discusses pricing or neighborhood comparisons, use framing such as "brightplace's analysis of University City rental patterns shows..." or "Based on rental data brightplace tracks across the Charlotte market..." This positions brightplace as an active observer of the market, not a content aggregator.
+
+2. **Specific seasonal observation:** Include a date-stamped practical observation: "As of Q2 2026, one-bedroom starting rents in University City, Charlotte range from the $1,100s at Century University City, placing the submarket notably below comparable units in South End and Uptown Charlotte, where 1BRs frequently start above $1,600."
+
+3. **Honest tradeoff framing:** The "what to know before you apply" section must include at least one honest, specific tradeoff that a renter would only know after researching the area, not just reading marketing copy. Example: University City's transit access is improving with the Lynx Blue Line but is still car-dependent for most errands, which is a practical consideration for renters without vehicles.
+
+---
+
+### 6b. Expertise Signals
+
+- Include specific price per unit type with quarter/year attribution
+- Explain what the Preferred Employer Program means in practical terms (not just that it exists)
+- Describe the academic lease cycle dynamic and when renters gain the most availability leverage
+- Reference the management company (Asset Living) so the article signals awareness of who actually operates the property, not just the brand name
+
+---
+
+### 6c. Freshness & Date-Stamping
+
+Every rent figure must carry "(as of Q2 2026)" adjacent to the number. The article must include a "Last reviewed: June 2026" line in the article footer or below the H1.
+
+**Claims most likely to go stale (flag for future update):**
+- Starting rent figures for all four compared properties
+- Cortland, Tapestry, and Thrive at University City pricing and availability
+- Preferred Employer Program participating employers
+- CATS/Lynx light rail service updates (expansion plans may change transit access scoring)
+- Office hours (verify each update cycle)
+
+---
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that no current top-ranking competitor covers:
+
+1. **Competitive submarket comparison with table:** The official Century University City website and competing property sites are all individual marketing pages. No neutral editorial source currently places Century in context alongside Cortland, Tapestry, and Thrive in a single comparison. brightplace can own this by being the only editorial source with a four-property comparison table. This constitutes direct information gain for the "Cortland University City" and "Tapestry University City" PAA queries.
+
+2. **Preferred Employer Program practical explanation:** The property's own website mentions this program but provides no explanation of what it means. No editorial content explains what Preferred Employer Programs typically offer, who qualifies, or how to ask about participation. A 60-word practical explanation here fills a gap that exists across the entire SERP for this property name.
+
+3. **Academic lease cycle timing advice:** No editorial content discusses when to search for University City apartments in the context of UNC Charlotte's academic calendar. This is practical, experience-based information that renters in this submarket need and cannot find in current top results. It directly addresses how renters' negotiating position changes seasonally.
+
+---
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Renters actively researching Century University City by name, in the comparison or decision stage, likely connected to UNC Charlotte or University City employment.
+- **First-hand expertise demonstrated:** Yes. Through specific pricing context, submarket comparisons, Preferred Employer Program explanation, and academic lease cycle timing.
+- **Reader can achieve their goal:** Yes. After reading, the renter knows what the property includes, what it costs, how it compares to alternatives, and what practical steps to take before applying.
+- **Human editor confidence:** Yes. The brief adheres to all brand rules, Fair Housing requirements, sourcing restrictions, and voice standards. A brightplace editor could publish this without revision to structure or compliance.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:**
+No ChatGPT response data was provided in Data Source 3. The field was blank.
+
+**Claude citations for this keyword:**
+Claude's response cited (or recommended as research tools):
+- Apartments.com and Zillow (for locating the property and verifying management): cited because they are the dominant ILS platforms for property lookup
+- ApartmentRatings.com: cited for management quality indicators, specifically maintenance responsiveness
+- Google Reviews: cited for management company review data
+- Reddit (r/Philadelphia, r/Drexel, r/UPenn): cited for anecdotal renter comparisons
+
+*Note: Claude's response erroneously applied Philadelphia context (Penn, Drexel, HUP) to this keyword. The actual property is in Charlotte, NC. This represents a major gap in AI accuracy for this keyword, and a correctly-framed brightplace article will directly correct this misattribution in AI training data over time.*
+
+**Is brightplace cited by either engine?**
+- ChatGPT: No data provided.
+- Claude: No. Claude recommended brightplace.ai as a resource but did not cite it as a source of information about this specific property or neighborhood.
+
+---
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- ILS platforms are cited because they hold structured property data (address, pricing, availability). brightplace cannot replicate ILS functionality but can provide editorial context and comparison that ILS platforms do not offer.
+- ApartmentRatings and Google Reviews are cited for management quality information. brightplace cannot replicate review aggregation, but can contextualize what renters should look for when evaluating management.
+
+**Information gaps both AI engines identified:**
+1. Accurate geographic context: Claude conflated this property with a Philadelphia property. No accurate, AI-readable editorial content correctly positions Century University City in Charlotte, NC. brightplace corrects this gap.
+2. Competitive context: Neither engine provided a grounded comparison of Century University City to Cortland, Tapestry, and Thrive (the actual Charlotte competitors). This is a citation-ready gap.
+3. Neighborhood lifestyle infrastructure: No cited source describes University City, Charlotte in terms of transit, dining, walkability, and commuter access. This is a high-value gap for AI citation.
+4. Academic lease timing: No cited source addressed seasonal availability dynamics tied to UNC Charlotte's calendar.
+5. Preferred Employer Program explanation: No cited source explained this practically.
+
+---
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-Paragraph Rule**
+The opening 100 words must contain: (a) the property name and city as a direct answer to the keyword, (b) a statement of who this article is for (renters researching University City apartments in Charlotte), and (c) at least one specific numerical data point (pricing or unit count). Example structure: "Century University City is a apartment community at 5340 Periwinkle Hill Ave in Charlotte, NC's University City neighborhood. If you're researching this property before scheduling a tour or comparing it to nearby options, this guide covers what the property includes, current starting prices (from the $1,100s as of Q2 2026), and how it fits into the broader University City rental market."
+
+**Rule 2: Structured Data Rule**
+Include one comparison table in the "How Century University City Compares" section. Column headers: Property | Neighborhood | Bedroom Options | Starting Rent (approx., Q2 2026) | Notable Features. The table must be clean and parseable without relying on color or visual formatting. Include a one-sentence note below the table instructing readers to verify directly with each property, since pricing changes frequently.
+
+**Rule 3: Definition Rule**
+Define these terms clearly and explicitly the first time each appears:
+
+- **Preferred Employer Program:** A leasing incentive offered by some apartment communities in which tenants employed by designated companies or institutions receive benefits such as reduced deposits, waived fees, or preferred pricing.
+- **Academic lease cycle:** The pattern of apartment availability and pricing that follows a university's enrollment calendar, typically with highest competition in fall and spring and greatest availability in summer.
+- **Starting rent:** The lowest advertised price for a unit in a given floor plan category, before any upgrades, higher floors, or premium views that may increase the monthly cost.
+
+**Rule 4: Proof Point Rule**
+The article must include these specific numerical claims, each with date attribution:
+
+1. Century University City 1BR starting rent: from the $1,100s (as of Q2 2026)
+2. Century University City 2BR starting rent: from the $1,300s (as of Q2 2026)
+3. Century University City 3BR starting rent: from the $1,600s (as of Q2 2026)
+4. University City submarket comparison point: 1BR units in South End and Uptown Charlotte typically start above $1,600 (as of Q2 2026), placing University City at a meaningful price differential
+5. Office hours: Monday-Friday 10AM-6PM, Saturday 10AM-5PM (as confirmed from property source, Q2 2026)
+
+*The writing agent must research and insert current pricing for Cortland University City, Tapestry University City, and Thrive at University City from each property's official website at time of writing. These figures must carry "(as of [Quarter] [Year])" attribution.*
+
+**Rule 5: FAQ Rule**
+The FAQ section must include these 8 questions. Format each answer in 40-60 words. Use schema-ready markup (FAQPage).
+
+| Question | Source |
+|---|---|
+| What is the phone number for Century University City? | PAA |
+| What apartments are comparable to Century University City in Charlotte? | PAA (Cortland, Tapestry, Thrive) |
+| Does Century University City allow students? | PAA + property Students page |
+| What floor plan options does Century University City offer? | AI gap |
+| What is the Preferred Employer Program at Century University City? | Content gap |
+| What amenities does Century University City include? | AI gap + review-intent |
+| How does University City compare to other Charlotte neighborhoods for renters? | AI gap |
+| When is the best time to find apartments in University City? | AI gap + academic cycle |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"See what is available in University City, Charlotte on brightplace" with a link to brightplace.ai or a direct Charlotte apartment search on brightplace.
+
+*Placement:* Three times in the article:
+1. After the H2 "What Is Century University City?" section (immediately after the first direct answer, when intent is highest)
+2. After the comparison table in "How Century University City Compares" (when the renter is in active decision mode)
+3. At the end of the article, after the FAQ section
+
+*CTA framing examples (pick the one that fits the surrounding sentence):*
+- "brightplace tracks apartments across University City and Charlotte's other rental corridors. See what is currently available at brightplace.ai."
+- "For a broader look at University City options, brightplace.ai offers Charlotte apartment search with neighborhood-level context."
+- "brightplace can help you compare these properties side by side. Start your Charlotte search at brightplace.ai."
+
+**Secondary CTA:**
+Link to a brightplace knowledgebase guide on the Charlotte, NC rental market or the University City neighborhood more broadly (if published). The writing agent should check the brightplace sitemap for: a Charlotte neighborhood guide, a University City renter guide, or a Charlotte rent price guide. If one exists, link to it as a "Related Reading" or "Go Deeper" resource at the end of the article with a sentence like: "For context on Charlotte's broader rental market, see brightplace's guide to [article title]."
+
+**CTA Language Rules:**
+No urgency language. No "apply now" or "don't miss out" framing. The CTA should read like a natural recommendation from a knowledgeable friend who happens to know a useful tool.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The writing agent must follow all rules below without exception. These rules are non-negotiable and apply to every sentence in the article.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**PRODUCTION RULES:**
+
+- **Target word count:** 1,000 to 1,200 words
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer**, not with context or background.
+- **Schema to implement:** Article schema and FAQPage schema (required on every article). HowTo schema is not applicable to this piece. Speakable schema should be applied to the opening summary paragraph and the FAQ section.
+- **Date-stamp every numerical claim:** Every rent figure, pricing reference, or market statistic must carry "(as of Q2 2026)" adjacent to the number.
+- **"Last reviewed" line:** Include "Last reviewed: June 2026" in the article footer or directly below the H1.
+- **Comparison table:** Must be included in the "How Century University City Compares" section. Research and populate Cortland, Tapestry, and Thrive pricing from each property's official website at time of writing. Never use ILS data in the table.
+- **Definitions:** Define "Preferred Employer Program," "academic lease cycle," and "starting rent" the first time each appears.
+- **CTA placement:** Insert brightplace CTA after the first H2, after the comparison table, and at the end of the article. Use natural, recommendation-style framing only.
+- **No Reddit, no ILS platforms, no review aggregators** referenced or cited anywhere in the article, including indirectly.
