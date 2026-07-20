@@ -1,0 +1,397 @@
+# Content Brief: Questions to Ask When Touring an Apartment
+### brightplace.ai/knowledgebase/ — Internal Production Document
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are uniformly **numbered listicles structured as practical how-to guides**. Every competitor (Greystar, Moving Help, Azibo, Draper & Kramer, Bear Property Management, Apartment Guide) presents a numbered or bulleted list of questions organized under categorical H2 headers. The format is: brief intro, question-category H2s, individual questions with 1-3 sentence explanations per question, closing summary.
+
+**The article must match this format:** A categorically organized question list with short explanatory copy under each question. Pure listicle with zero narrative filler. This is not the place for essay-style prose.
+
+### 1b. Content Depth Benchmark
+
+| Competitor | Approx. Word Count |
+|---|---|
+| Greystar (21 questions) | ~3,200 |
+| Moving Help (25 questions) | ~2,800 |
+| Azibo (33 questions) | ~3,100 |
+| Draper & Kramer (16 questions) | ~1,400 |
+| Bear Property Management | ~1,600 |
+| Apartment Guide (21 questions) | ~2,400 |
+
+Competitors skew long (2,400-3,200 words). However, the brightplace format is 800-1,500 words. The opportunity here is not depth by volume but **depth by specificity**. Competitors inflate word counts with generic explanations. This article should hit **1,200-1,400 words** by being more specific per question than any competitor, not by adding more questions.
+
+**Target word count: 1,200-1,400 words.**
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Target |
+|---|---|---|
+| Featured Snippet | No (confirmed absent in Data Source 2) | Opening paragraph (40-60 words under first H2) positions for capture when a snippet eventually appears |
+| People Also Ask | Yes (13 questions) | Dedicated H2 sections for highest-traffic PAA questions; FAQ schema block at article end |
+| AI Overview | Likely (Claude data confirms AI engines are actively answering this query) | First-paragraph direct answer; structured tables; defined terms per AEO rules |
+| Video Carousel | Not confirmed | No action required |
+| Local Pack | No | No action required |
+| Knowledge Panel | No | No action required |
+
+The **absence of a featured snippet** is the primary ranking opportunity. First mover who structures a clean 40-60 word answer under a question-framed H2 captures this position. The brief targets that capture explicitly.
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** Someone who has already scheduled or is about to take an apartment tour and wants a practical, ready-to-use list of questions to bring with them so they do not miss anything important.
+
+**Intent type:** Informational with transactional proximity. The searcher is in the **comparison stage** of the renter journey, actively evaluating specific apartments.
+
+**Format match:** The categorized question-list format matches this intent perfectly. The searcher does not want an essay about why tours matter. They want the questions, organized by category, fast.
+
+**Secondary intent:** A smaller segment is searching to understand what to look for during the tour itself (observational checklist), not just what to ask verbally. The article should address both within the listicle structure.
+
+---
+
+## 2. Recommended Titles
+
+**Option A (primary recommendation):**
+What to Ask When You Tour an Apartment
+
+*62 characters. Keyword-adjacent. Action-oriented. No superlatives.*
+
+**Option B:**
+A Practical Question List for Apartment Tours
+
+*47 characters. Utility framing. Matches "checklist" search behavior.*
+
+**Option C:**
+Apartment Tour Questions That Reveal What Listings Hide
+
+*55 characters. Specificity-forward. Targets the pain point (hidden costs, undisclosed issues). Strong for AI citation.*
+
+---
+
+**Recommended meta description:**
+
+Questions to ask when touring an apartment, organized by category. Covers rent, lease terms, maintenance, policies, and what to look for on your own. Under 5 minutes to read.
+
+*156 characters. Includes primary keyword. Value proposition is speed and completeness. Adjust to 155 if needed by trimming "Under 5 minutes to read" to "Quick reference."*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/questions-to-ask-when-touring-an-apartment`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **renter in active apartment-hunting mode**: a young professional, recent grad, or someone relocating to a new city who has one or more tours already scheduled. They are in the **comparison stage** of the renter journey, meaning they have identified candidates and are now trying to evaluate them properly before committing. Their specific problem is fear of missing something important during the tour, signing a lease, and then discovering a cost or policy they did not anticipate. Based on the SERP, they expect a **scannable, categorized question list** they can screenshot or print before walking in the door, not a long explanatory article.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+questions to ask when touring an apartment
+
+**Secondary keywords (13):**
+- apartment tour questions
+- what to ask at an apartment showing
+- apartment tour checklist
+- questions to ask leasing agent
+- what to look for when touring an apartment
+- apartment tour tips
+- questions to ask when renting an apartment
+- lease questions to ask before signing
+- what to ask on apartment tour
+- apartment viewing questions
+- renting for the first time questions
+- questions to ask property manager
+- apartment hunting checklist
+
+**Entities to mention (8):**
+- Security deposit (financial term: must be defined at first use)
+- Renters insurance (financial term: must be defined at first use)
+- Lease term / lease break penalty (legal concept)
+- Maintenance request process (operational concept)
+- Pet deposit vs. pet rent (financial distinction, a content gap competitors blur)
+- Master-metered vs. individually metered utilities (technical distinction, content gap)
+- Package locker / package management (modern renter concern)
+- brightplace / IntentOS (funnel reference, CTA anchor)
+
+**Terms to AVOID:**
+- Best, top, ultimate, guide (#1 in title)
+- "signal" in any form
+- "navigate," "landscape," "unlock," "leverage"
+- "whether you're X or Y," "from X to Y"
+- "vibrant," "bustling," "thriving," "hidden gem"
+- "it's worth noting," "interestingly," "notably"
+- "deep dive," "dive into"
+- Any ILS brand name
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** What to Ask When You Tour an Apartment
+
+---
+
+**H2: The Questions Worth Asking, Organized by Category**
+
+*Writing instruction:* Open with a 40-60 word direct answer to the keyword query. State that the questions fall into five categories. This paragraph is the featured snippet target and the AI citation anchor. Do not write more than 60 words in this opening block before moving to the first category. Every sentence in this block must be independently useful.
+
+*Example opening structure (do not copy verbatim, use as reference):* "When touring an apartment, the most useful questions fall into five categories: cost and fees, lease terms and policies, maintenance, building and unit condition, and the surrounding area. Covering all five before you leave the tour prevents the most common post-move surprises and gives you a complete picture of what you are actually committing to."
+
+---
+
+**H2: Cost and Total Monthly Fees**
+
+*Writing instruction:* Cover the full cost picture beyond listed rent. Include: base rent confirmation, utilities (which are included, which are not, average monthly estimates), parking costs, pet fees (distinguish between pet deposit and pet rent, as this is a content gap competitors blur), amenity fees, and security deposit terms. Include the specific question to ask the leasing agent for each item. Do not editorialize. Give the question, give one sentence on why it matters.
+
+**H3: Ask About Utilities Separately from Rent**
+
+*Writing instruction:* Introduce and define the distinction between master-metered buildings (all units share one meter, costs are split or estimated) and individually metered units (you pay exactly what you use). This is a content gap no competitor in Data Source 1 explains clearly. State: "In master-metered buildings, your utility estimate reflects an average, not your actual usage. Ask whether the unit is individually metered." One short paragraph, 3-4 sentences.
+
+---
+
+**H2: Lease Terms and Policies**
+
+*Writing instruction:* Cover lease length options (month-to-month vs. fixed term), early termination penalty (ask for the exact dollar amount or formula, not just whether a penalty exists), lease renewal process and notice requirements, subletting policy, and roommate addition process. Frame each as the exact question to ask. Mention that early termination fees are often equal to 1-2 months of rent, which is a specific benchmark competitors rarely provide.
+
+---
+
+**H2: Maintenance and Building Operations**
+
+*Writing instruction:* Cover how maintenance requests are submitted (portal, phone, email), whether staff is on-site or contracted out, average response time for non-emergency requests, emergency maintenance availability (24/7 or not), and whether planned renovations are scheduled for the unit or building. Include the question: "Has this unit had any water damage, mold, or pest issues in the past two years?" Explain that in some states landlords are required to disclose this. One sentence on disclosure requirements.
+
+---
+
+**H2: Building Condition: What to Look for Without Asking**
+
+*[CONTENT GAP — see Section 6d]*
+
+*Writing instruction:* This section addresses what to observe during the tour without relying on the leasing agent's answers. This is a content gap: most competitors list questions to ask but do not give renters a physical inspection checklist. Include: check under sinks for moisture or staining, test water pressure in the shower and kitchen, flush every toilet, check window operation (stuck windows reflect deferred maintenance), look at outlets and light switches (outdated or discolored covers reflect older electrical), check cell signal on your carrier inside the unit. Frame each as a one-sentence observational instruction. No questions to ask the agent here. This is what you observe yourself.
+
+---
+
+**H2: Policies That Affect Daily Life**
+
+*Writing instruction:* Cover guest policy (maximum consecutive nights; many properties limit to 7-14 days), quiet hours, smoking policy (unit, balcony, and common areas), package delivery handling (locker system, front desk, or unmanaged), and permission to make modifications (paint, drill, mount hardware). For each, give the specific question to ask. Keep each item to 2-3 sentences.
+
+---
+
+**H2: The Area Around the Apartment**
+
+*Writing instruction:* Per Fair Housing rules, describe the surrounding area strictly by lifestyle infrastructure. Do not reference crime statistics, safety language, or neighborhood demographics. Ask about: proximity to grocery stores, transit stops (and which lines), coffee shops and restaurants within walking distance, fitness options, and parking for guests. Include the question: "Are there any planned construction projects on this block or adjacent blocks in the next 12 months?" Explain that nearby construction is one of the least-disclosed issues in apartment tours and can mean 18-36 months of noise.
+
+---
+
+**H2: How to Prepare Before the Tour**
+
+*Writing instruction:* Short, practical section (150-200 words). Cover: bring a notes app or printed checklist rather than relying on memory, ask to see the actual unit you would rent rather than a model unit (this is a standard tactic leasing offices use), schedule the tour during the time of day you would most often be home (morning, evening) so you hear actual ambient noise levels, and bring your phone to test cell signal inside the unit. This section answers the PAA question "How do I prepare for an apartment tour?"
+
+---
+
+**H2: Frequently Asked Questions**
+
+*Writing instruction:* Include 6 Q&A pairs. Each answer must be 40-60 words (featured snippet length). Use FAQPage schema on these. Questions sourced from PAA data (Data Source 2) and AI engine gaps (Data Source 3). See Section 7c, FAQ Rule for the specific questions.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace renter search data framing:** Where the article references what renters commonly miss or overlook (e.g., utility metering, planned construction), attribute it to what brightplace has observed from renter search behavior: "From renter searches on brightplace, questions about utility costs and maintenance response times are among the most frequently flagged concerns after move-in." This positions brightplace as a source with real observational data, not a content aggregator.
+
+2. **Specificity over generality:** Every claim about costs, timelines, or frequencies must include a specific number or range. "Lease break penalties typically equal 1-2 months of rent" is an experience marker. "There may be a penalty" is not.
+
+3. **Tour-day framing:** Write as if advising someone who is walking into a tour tomorrow. The language should feel like a phone call with someone who has done this many times. Not academic. Not legal. Practical.
+
+### 6b. Expertise Signals
+
+- State that early termination fees "typically equal one to two months of rent" and note this varies by state and lease structure (as of 2025, this is the standard range across professionally managed properties).
+- State that renters insurance costs "between $15 and $30 per month for most standard coverage levels" (as of 2025).
+- State that master-metered utility buildings can add $50-$150 per month in unpredictable costs compared to individually metered units.
+- Explain the distinction between a pet deposit (refundable, covers potential damage) and pet rent (non-refundable monthly surcharge). Many renters do not know these are separate charges that can coexist.
+
+### 6c. Freshness & Date-Stamping
+
+Include "Last reviewed: [Month 2025]" in the article header or footer metadata.
+
+Claims most likely to go stale and require future updating:
+- Renters insurance cost range ($15-$30/month) — update annually
+- Early termination fee benchmarks (1-2 months rent) — update if market shifts
+- Utility cost estimates — these vary by market and season; avoid citing specific dollar amounts for utilities without market qualification
+
+Every dollar figure in the article must carry "(as of [Q/Year])" inline.
+
+### 6d. Information Gain
+
+Three specific pieces of information this article can provide that no current top-ranking competitor covers:
+
+**Gap 1: Master-metered vs. individually metered utilities**
+No competitor in Data Source 1 explains this distinction. The article should define both, explain why it matters (master-metered buildings obscure actual usage costs), and give the exact question to ask. This is a genuine expertise marker that renters searching this keyword rarely encounter in competitor content.
+
+**Gap 2: Physical inspection checklist separate from verbal questions**
+Competitors give lists of questions to ask the leasing agent. None provides a parallel list of things to observe independently during the tour. The "Building Condition" H2 fills this gap. This creates information gain because it answers a need the searcher has (how to evaluate what they see) that the keyword implies but competitors ignore.
+
+**Gap 3: Planned nearby construction as a disclosure question**
+No competitor raises this. The Claude AI response in Data Source 3 mentions it specifically: "Are there plans for nearby construction? A block under development = 18-36 months of noise and vibration." This is a highly practical concern that experienced renters know but first-timers rarely think to ask. Including it with the specific timeline estimate (18-36 months) creates unique, citable content.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes. Renters in the comparison stage who have tours scheduled and need a practical question list before they walk in.
+- **First-hand expertise?** Yes. Via brightplace renter search data framing, specific cost benchmarks, utility metering explanation, and the physical inspection checklist.
+- **Does the reader achieve their goal?** Yes. The goal is to walk into an apartment tour prepared. The article delivers a complete, categorized question list plus a physical inspection checklist. A reader who follows it will leave any tour with full information.
+- **Would a brightplace editor publish this?** Yes, provided the writer follows all brand rules, Fair Housing standards, and the AEO structural requirements in Section 7.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:**
+No specific citation data was returned in Data Source 3 for ChatGPT. The field shows a blank response. The writing agent should note this as an open citation opportunity, not a competitive lock-out.
+
+**Claude citations for this keyword:**
+Claude's response in Data Source 3 is substantive and self-generated rather than attributed to specific external sources. The response organizes content into five categories (Lease Terms & Total Cost, Building Condition & Maintenance, Policies & Rules, Safety & Security, Neighborhood & Practical Infrastructure) and includes an "Observational Checklist" section. Claude did not cite any specific website for this keyword in the data provided.
+
+**Is brightplace currently cited by either engine?**
+- ChatGPT: No (no response data)
+- Claude: No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+Neither AI engine cited external sources in the retrieved data, which means no competitor currently owns AI citation for this keyword. brightplace has a first-mover opportunity to become the cited source if the article is structured to match how LLMs extract and repeat information.
+
+**Information gaps both AI engines identified (citation opportunities):**
+
+1. Master-metered vs. individually metered utilities (Claude mentioned this explicitly; no competitor covers it)
+2. Physical observational checklist separate from verbal questions (Claude's "Don't Just Ask — Look" section; no competitor structures this separately)
+3. Planned nearby construction as a question to ask (Claude mentioned it with a specific 18-36 month timeline; no competitor mentions it)
+4. Pet deposit vs. pet rent distinction (Claude implies this; competitors blur the two terms)
+5. Specific cost benchmarks (lease break = 1-2 months rent; renters insurance = $15-$30/month; master-metered utility premium = $50-$150/month)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening paragraph (under the first H2) must contain, in 40-60 words:
+(a) A direct answer naming the five categories of questions to ask
+(b) A statement identifying who this is for (renters preparing for a tour)
+(c) At least one specific data point (e.g., "early termination fees typically equal one to two months of rent, as of 2025, and most renters do not ask about this until it is too late")
+
+**Rule 2: Structured data rule**
+Include one comparison table in the "Cost and Total Monthly Fees" section. The table must compare common cost items by whether they are included in rent at most properties or paid separately, with a typical range where applicable.
+
+Table format:
+
+| Cost Item | Typically Included in Rent | Typically Paid Separately | Typical Range (as of 2025) |
+|---|---|---|---|
+| Water/sewer/trash | Often | Sometimes | $30-$80/month if separate |
+| Electricity | Rarely | Almost always | $60-$150/month |
+| Gas | Sometimes | Often | $30-$80/month |
+| Internet/WiFi | Rarely | Almost always | $40-$80/month |
+| Parking | Sometimes | Often | $50-$200/month |
+| Pet deposit | N/A | Paid at move-in | $200-$500 refundable |
+| Pet rent | N/A | Monthly add-on | $25-$75/month |
+| Renters insurance | Never | Required at many properties | $15-$30/month |
+
+All figures marked "(as of Q2 2025)."
+
+**Rule 3: Definition rule**
+Define the following terms explicitly at first use, in a single clear sentence each:
+
+1. **Security deposit:** A refundable payment, typically equal to one month's rent, held by the property until move-out to cover any damage beyond normal wear and tear.
+2. **Pet deposit vs. pet rent:** A pet deposit is a refundable one-time fee covering potential damage; pet rent is a non-refundable monthly surcharge for having a pet, and both can appear in the same lease.
+3. **Master-metered building:** A building where all units share a single utility meter, meaning your monthly utility cost is estimated or split rather than based on your actual usage.
+4. **Lease break penalty:** A fee charged when a tenant ends a lease before its expiration date, typically equal to one to two months of rent (as of 2025).
+5. **Renters insurance:** A personal policy covering a tenant's belongings against theft, fire, or certain types of damage; many properties require proof of coverage before move-in.
+
+**Rule 4: Proof point rule**
+The following specific claims must appear in the article, formatted exactly as shown:
+
+1. "Early termination fees typically equal one to two months of rent (as of Q2 2025), though exact amounts vary by property and state."
+2. "Renters insurance costs between $15 and $30 per month for standard coverage (as of Q2 2025)."
+3. "In master-metered buildings, utility costs can run $50 to $150 per month higher than individual estimates suggest, because shared costs are averaged across all units (as of Q2 2025)."
+4. "Planned nearby construction can mean 18 to 36 months of noise and vibration, depending on project scope."
+5. "Most properties limit consecutive guest stays to 7 to 14 days before requiring the guest to be added to the lease."
+
+**Rule 5: FAQ rule**
+The FAQ section must include exactly these 6 questions, each answered in 40-60 words:
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What is the 30% rule for apartments? | PAA (Data Source 2) |
+| 2 | What should I not say when touring an apartment? | PAA (Data Source 2) |
+| 3 | How do I prepare for an apartment tour? | PAA (Data Source 2) |
+| 4 | What is the difference between a pet deposit and pet rent? | AI gap (Claude, Data Source 3) |
+| 5 | What should I physically check during an apartment tour, beyond asking questions? | AI gap (Claude, Data Source 3) |
+| 6 | What does it mean if utilities are master-metered? | AI gap (Claude, Data Source 3) |
+
+Each answer must be 40-60 words. Each answer must directly answer the question in its first sentence. No filler phrases. No hedging. Use FAQPage schema markup on all six.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+The action is: search for available apartments on brightplace.
+
+Place the CTA in three locations:
+1. After the opening answer paragraph (first H2), before the first category section. Framing: "If you are still deciding which apartments to tour, brightplace shows available units with pricing and floor plan details side by side, so you can build a tour list before you spend time in showings."
+2. After the "Cost and Total Monthly Fees" H2 (mid-article). Framing: "brightplace tracks listed rent and fee structures across available apartments, making it easier to compare true monthly costs before you schedule a showing."
+3. End of article, before FAQ. Framing: "Once you have your questions ready, find apartments worth touring at brightplace.ai."
+
+CTA language must not use: "unlock," "leverage," "navigate," "explore" (in a promotional context). Use: "find," "see," "check," "compare."
+
+**Secondary CTA:**
+If brightplace has a published guide on apartment budgeting or first-time renter topics, link to it in the "How to Prepare Before the Tour" H2 with the framing: "For a breakdown of how to budget total monthly costs before signing, see [linked article title] on brightplace."
+
+The writing agent should check the brightplace sitemap for the closest match to: apartment budgeting, first apartment checklist, or rent price guides by city. Use whichever is most directly relevant.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The writing agent must follow every rule in this section without exception.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional production rules for this article:**
+
+- **Target word count:** 1,200-1,400 words. Do not pad. Do not trim to the point of losing the content gap sections.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style padding. Each question entry should feel like a tip from someone who has rented many apartments and learned from experience.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. If a sentence runs longer than 20 words, split it.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a question directed at the reader. Do not open with a general observation about apartment hunting.
+- **Every H2 section opens with its answer.** Not with context. Not with "When it comes to..." or "One of the most important things..." State the answer or key takeaway first, then expand.
+- **All cost figures must include "(as of Q2 2025)" adjacent to the claim.**
+- **Include "Last reviewed: [Month 2025]" in the article footer or header metadata.**
+- **Schema to implement:** Article schema (always) + FAQPage schema on the FAQ H2 section (always). Consider HowTo schema on the "How to Prepare Before the Tour" section if the content is formatted as sequential steps. Apply Speakable schema to the opening summary paragraph and the FAQ section.
+- **Tables:** Use clean HTML table markup. No merged cells. Column headers must be specific, not generic. The utility cost table in Section 7c is mandatory.
+- **Definitions:** Pet deposit, pet rent, security deposit, master-metered building, and lease break penalty must each be defined in a single sentence at first use.
+- **Do not reference Reddit, City-Data, Apartment Ratings, or any forum.** Community research was used to inform the brief only. It does not appear in the article.
+- **The physical inspection checklist (Building Condition H2) must be written as a list of observational instructions, not questions to ask the agent.** The distinction is the content gap. Do not blur it.
+- **CTA placement:** Three CTAs as specified in Section 8. Framing must match the language guidelines in Section 8. No hard sell.
