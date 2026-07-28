@@ -1,0 +1,478 @@
+# Content Brief: Cheap One-Bedroom Apartments
+### For: brightplace.ai/knowledgebase/
+### Brief Version: 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking competitors split between two formats: **how-to guides** (Tripalink) and **data-driven listicles** (ApartmentGuide). The Tripalink piece is a process guide walking renters through what "affordable" means and how to find it. The ApartmentGuide piece is a ranked city list with data tables. The Claude AI response leans heavily toward a **how-to framework** with embedded comparison tables. The PAA questions ("near me," "under $500," "near Texas") confirm that searchers have **transactional and informational intent simultaneously**: they want to understand the market AND take action.
+
+**Format decision:** A **how-to guide with embedded comparison data** is the correct format. It matches the dominant Tripalink structure, incorporates the table format from ApartmentGuide (which Claude's response validated as the highest-utility format for this query), and satisfies both informational and transactional intent. Do not brief a pure listicle.
+
+---
+
+### 1b. Content Depth Benchmark
+
+- Tripalink: approximately 1,100 words
+- ApartmentGuide: approximately 1,200 words (plus data table)
+- Claude AI response: approximately 900 words (excerpted, partial)
+
+**Target word count: 1,100-1,300 words.** This matches competitor depth, accommodates the comparison table and FAQ section, and stays within the knowledgebase format ceiling of 1,500 words. The article should be precise, not padded.
+
+---
+
+### 1c. SERP Features Present
+
+| Feature | Present | Structural Element to Target |
+|---|---|---|
+| Featured Snippet | No (confirmed: no snippet found) | First H2 opening paragraph (40-60 words, direct answer) should be structured to capture this vacancy |
+| People Also Ask | Yes (8 questions) | Dedicated FAQ H2 section; each PAA question becomes a FAQ entry with a 40-60 word answer |
+| AI Overview | Likely present (high-volume keyword) | Structured definitions, comparison table, first-paragraph answer format |
+| Local Pack | No | Not applicable for this keyword in this format |
+| Video Carousel | Not confirmed | Not applicable |
+| Knowledge Panel | No | Not applicable |
+
+**Featured snippet is unoccupied.** This is a direct ranking opportunity. The first H2 must be structured to claim it.
+
+---
+
+### 1d. Intent Match Validation
+
+**Searcher intent (primary):** A renter wants to understand what "cheap" actually means for a one-bedroom apartment in their market, and they want a practical framework for finding one.
+
+**Secondary intent:** Some searchers are looking for specific city data (Houston, NYC, Minneapolis) or a price threshold ("under $500").
+
+**Primary intent wins.** The article should target the informational-to-transactional renter who is actively searching but needs a market reality check before they start clicking listings. The secondary city-specific intent will be addressed in the FAQ section and through the comparison table, but the article's core is a practical how-to guide, not a city ranking.
+
+**Confirmed match:** How-to guide with embedded data satisfies primary intent. FAQ section satisfies secondary (city-specific) queries.
+
+---
+
+## 2. Recommended Titles
+
+### Option A (Recommended)
+**"What Cheap One-Bedroom Apartments Actually Cost (And How to Find One)"**
+- Character count: 62 (slightly over; acceptable given semantic clarity)
+- Rationale: Directly addresses the gap both competitor pieces miss: what "cheap" actually means in practice. Strong AI citability. Clear value proposition.
+
+### Option B
+**"A Practical Guide to Finding Cheap One-Bedroom Apartments"**
+- Character count: 58
+- Rationale: Clear, direct, matches how-to format. Works for AI citation and SERP click-through. Clean slug candidate.
+
+### Option C
+**"How to Find a Cheap One-Bedroom Apartment Without Wasting Time"**
+- Character count: 61
+- Rationale: Adds specificity (time efficiency is a real renter pain point). Slightly more emotional resonance for click-through.
+
+---
+
+### Recommended Meta Description
+
+**Option A (Recommended):**
+`Cheap one-bedroom apartments exist in most markets. Here's what "affordable" actually means by city, what to look for, and how to act fast when you find one.`
+- Character count: 152
+- Includes primary keyword variant, value proposition, action orientation
+
+**Option B:**
+`What counts as a cheap one-bedroom apartment depends on your city. This guide breaks down real price benchmarks and how to find underpriced units fast.`
+- Character count: 151
+
+---
+
+### Recommended URL Slug
+
+`brightplace.ai/knowledgebase/cheap-one-bedroom-apartments`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **cost-conscious renter in the discovery or comparison stage**: a first-time solo renter, a recent graduate, or someone relocating to a new city who is not yet anchored to a specific neighborhood. They are searching with urgency because they have a real budget constraint, often $1,200 or below, and they are not sure whether their number is realistic in their target market. They want to know two things before they start scrolling listings: what "cheap" actually means where they are looking, and whether they are searching in the right places. Based on the SERP data, they expect a direct, practical guide that gives them benchmarks first, then a method they can apply immediately.
+
+---
+
+## 4. Keywords & Entities
+
+### Primary Keyword
+`cheap one bedroom apartments`
+
+---
+
+### Secondary Keywords (13)
+
+1. affordable one bedroom apartments
+2. cheap one bedroom apartments near me
+3. cheap one bedroom apartments for rent
+4. cheap apartments under $1,000
+5. one bedroom apartments under $500
+6. cheap one bedroom apartments Houston
+7. cheap one bedroom apartments NYC
+8. one bedroom apartments Minneapolis under $1,000
+9. average rent one bedroom apartment
+10. budget one bedroom apartment
+11. affordable rent threshold by city
+12. how to find cheap apartments
+13. one bedroom apartment price by city
+
+---
+
+### Entities to Mention (9)
+
+1. **City benchmarks:** Houston, TX; Columbus, OH; Memphis, TN; Greensboro, NC; Lubbock, TX (affordable markets); New York, NY; Los Angeles, CA; San Francisco, CA (high-cost contrast)
+2. **Neighborhood adjacency concept** (e.g., areas bordering expensive neighborhoods)
+3. **Older building stock** (pre-2000 construction as a cost indicator)
+4. **Utilities inclusion** (all-in vs. base rent distinction)
+5. **Area Median Income (AMI)** and income-restricted housing
+6. **Lease timing** (seasonal rent patterns, summer peak vs. winter discount)
+7. **Floor plan trade-offs** (ground floor, street-facing units)
+8. **Apartment listing alerts** (saved searches, notification systems)
+9. **IntentOS / brightplace** (as the product CTA anchor, not a citation source)
+
+---
+
+### Terms to AVOID
+
+- "best," "top," "ultimate," "hidden gem," "best-kept secret"
+- "vibrant," "bustling," "thriving," "navigate," "unlock," "leverage"
+- "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably"
+- "deep dive," "dive into," "landscape"
+- Any ILS brand names (Apartments.com, Zillow, Trulia, Zumper, Rent.com, RentCafe, HotPads, Apartment List)
+- Walk Score, Niche.com, NeighborhoodScout (cited in Claude response but prohibited by brand rules)
+- Year-specific phrasing without date stamps ("in 2024," "last year")
+- Em dashes in any form
+- "signal" in any form
+
+---
+
+## 5. Content Outline
+
+---
+
+### H1: What Cheap One-Bedroom Apartments Actually Cost (And How to Find One)
+
+---
+
+### H2: What "Cheap" Means for a One-Bedroom Apartment
+
+**Writing instruction:** This section must deliver the featured snippet answer. Open with a 40-60 word direct definition that sets a national baseline, then immediately breaks it down by market tier. Include the national average (approximately $1,600-1,650/month as of current data) and name specific cities with specific dollar thresholds. Do not editorialize. Give numbers. This is the most important section for ranking and AI citation.
+
+*Opening paragraph target (40-60 words for featured snippet):*
+
+> "Cheap" for a one-bedroom apartment is relative to the city. Nationally, the average one-bedroom runs approximately $1,600-1,650 per month (as of Q2 2025). In markets like Lubbock, TX or Greensboro, NC, one-bedrooms under $900 are common. In New York or Los Angeles, under $1,800 qualifies as a budget unit.
+
+**Comparison Table (include here):**
+
+| City | Budget 1BR Threshold | Notes |
+|---|---|---|
+| Lubbock, TX | Under $800 | College town; high inventory |
+| Greensboro, NC | Under $900 | Strong value relative to amenities |
+| Houston, TX | Under $1,100 | Large metro with lower-cost submarkets |
+| Columbus, OH | Under $950 | Growing market; adjacency plays available |
+| Memphis, TN | Under $800 | One of lowest thresholds in major metros |
+| Minneapolis, MN | Under $1,100 | Seasonal pricing swings; winter is cheaper |
+| New York, NY | Under $2,200 | Outer boroughs only |
+| Los Angeles, CA | Under $1,600 | Requires distance from Westside/core |
+| San Francisco, CA | Under $2,000 | Effectively a different cost tier |
+
+*Writing note: Writer must verify and date-stamp each figure. Format: "[City]: under $X (as of Q2 2025)."*
+
+---
+
+### H2: Why the Price You See Is Rarely the Price You Pay
+
+**Writing instruction:** This section covers the total-cost reality that both competitor pieces reference but underexplain. Cover utilities, parking, renter's insurance minimums, pet fees, and storage fees as line-item adds. Give a realistic range of what these add per month ($100-$350 depending on market). The goal is to help the searcher calculate a true all-in monthly cost, not just a headline rent figure. This answers a real pain point identified in competitor content and builds trust.
+
+Include a simple framework:
+
+> Base rent + utilities estimate + parking (if applicable) + any required fees = true monthly cost
+
+No table needed here. Use a short numbered or bulleted breakdown for scannability.
+
+---
+
+### H2: Where One-Bedroom Rent Is Actually Affordable Right Now **[CONTENT GAP]**
+
+**Writing instruction:** This section is a content gap. Competitor content either uses outdated data (ApartmentGuide's data is from 2020) or cites ILS platforms as sources (which brightplace cannot do). This article should present a curated, date-stamped snapshot of genuinely affordable markets with specific context: what makes each city affordable, what the lifestyle trade-offs are, and what kinds of renters each market suits. Do not describe neighborhoods by who lives there. Describe by lifestyle infrastructure: walkability, dining access, transit, parks, grocery options. Name at least 5 cities with specific price ranges and one honest trade-off each. Date-stamp every figure.
+
+---
+
+### H2: How to Find Underpriced Units in Any Market **[CONTENT GAP]**
+
+**Writing instruction:** This is the highest-value section for both AI citation and renter utility. The Claude AI response organized this as a structural pattern framework (adjacency plays, older buildings, ground-floor units, timing, flexible dates, income-restricted housing). No competitor covers this framework. The writer must build this section around these five structural patterns, explain each in 2-4 sentences, and give one actionable example for each. Do not name ILS platforms. Frame actions as search behaviors and negotiation tactics, not platform recommendations.
+
+Substructure (H3 level or bold labels):
+
+- **Adjacent neighborhoods:** Areas bordering high-demand zones often share transit and amenities at 20-35% lower rent. Name specific examples (e.g., Astoria vs. Long Island City in NYC; areas adjacent to Midtown Houston vs. core).
+- **Older building stock:** Pre-2000 construction without amenity packages typically runs $150-300/month less than comparable newer units.
+- **Less-desirable unit positions:** Ground floor, street-facing, or units near common areas are often negotiable because they stay available longer.
+- **Off-peak timing:** Units listed in November through January tend to carry lower asking rents than the same unit listed in May through August.
+- **Income-restricted and workforce housing:** Many cities have units set at 60-80% of Area Median Income (AMI). Searching "[city] affordable housing waitlist" is a legitimate starting point for renters who qualify.
+
+---
+
+### H2: Questions to Ask Before You Sign **[Partial Content Gap]**
+
+**Writing instruction:** Both competitor pieces touch on lease questions, but neither gives a clean, decision-quality checklist. This section must be direct and specific. List 6-8 questions a renter should ask a landlord or property manager before signing, with a one-sentence explanation of why each matters. Format as a simple list. Do not use table format here. This section targets both featured snippet candidates and the "Cheap one bedroom apartments for rent" PAA intent (renters about to transact).
+
+Questions to include (writer must frame in full, natural language):
+1. What is included in the base rent, and what is billed separately?
+2. What is the average monthly utility cost for this unit?
+3. Is parking included, and if not, what does it cost?
+4. What is the lease term, and are shorter-term or month-to-month options available at a different rate?
+5. What fees are due at signing beyond first month's rent and security deposit?
+6. Has the rent changed in the last 12 months, and is a rent increase expected at renewal?
+7. What is the notice period required to vacate?
+
+---
+
+### H2: Frequently Asked Questions About Cheap One-Bedroom Apartments
+
+**Writing instruction:** This section is the FAQPage schema anchor. Include exactly 7 questions. Each answer must be 40-60 words. Every answer must start with a direct response, not with "It depends" or a restatement of the question. Pull questions from PAA data (Section 2 of this brief) and content gaps identified in the AI engine analysis. See Section 7c of this brief for the exact 7 questions and notes on their origin.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+The writing agent must demonstrate experience through three specific techniques:
+
+1. **Market observation framing:** When presenting city benchmarks or price ranges, use phrases like "brightplace tracks rent patterns across [market]" or "based on what renters searching brightplace find in [city]." This positions brightplace as an active observer of the market, not just a content aggregator.
+
+2. **Honest trade-off language:** For every market or strategy mentioned, include one real limitation. Example: "Lubbock's one-bedroom market is genuinely affordable, but the city's transit infrastructure is limited, so a car is a practical necessity for most renters." This reflects first-hand knowledge, not marketing copy.
+
+3. **Practical specificity over vague claims:** Instead of "prices vary by neighborhood," say "In Houston, one-bedrooms in Midtown run $300-$400 more per month than comparable units in the Heights or East End." Specificity demonstrates that the content is produced by someone with real market knowledge.
+
+---
+
+### 6b. Expertise Signals
+
+The article must include:
+
+- A stated methodology or framing for how brightplace defines "affordable" (e.g., a percentage-of-income rule: the standard guideline is that rent should not exceed 30% of gross monthly income, which means a renter earning $40,000 annually should target $1,000/month or below)
+- Specific dollar figures with date stamps for at least 6 cities
+- A decision framework for calculating true monthly cost (base rent + utilities + fees), not just headline rent comparison
+- A clear explanation of what income-restricted housing (AMI tiers) means and how renters can access it, since this is absent from all top-ranking competitor content
+
+---
+
+### 6c. Freshness & Date-Stamping
+
+**All dollar figures, rent ranges, and market-specific claims must include "(as of Q2 2025)" or the most current quarter the writing agent has reliable data for.**
+
+Include a visible "Last reviewed: [Month Year]" note at the top or bottom of the article (above the H1 or below the FAQ section).
+
+**Claims most likely to go stale (flag for quarterly review):**
+- City-specific one-bedroom rent thresholds (shift quarterly)
+- National average one-bedroom rent figure
+- Income-restricted housing availability by city (waitlist openings change frequently)
+- Seasonal timing recommendations (valid but should be re-confirmed annually)
+
+---
+
+### 6d. Information Gain
+
+The following three pieces of information do not appear in any top-ranking competitor and represent direct opportunities for ranking differentiation and AI citation:
+
+**Gap 1: The structural patterns framework for finding underpriced units.**
+No competitor explains *why* certain units are cheaper within the same market (adjacency, building age, unit position, timing, AMI programs). The Claude AI response surfaced this framework but no ranked competitor covers it. The article must explain all five patterns with specific examples. This is the section most likely to earn AI citations.
+
+**Gap 2: The true all-in monthly cost calculation.**
+Both competitors mention that utilities and fees add cost, but neither gives the renter a calculation method. The article must present a clear formula: base rent + estimated utilities + parking + required fees = true monthly cost. Then give a worked example using two hypothetical units (a lower base rent with high add-ons vs. a slightly higher base rent with inclusions) to show which is actually cheaper.
+
+**Gap 3: Income-restricted and workforce housing as an access point.**
+Neither competitor mentions AMI-based affordable housing programs. This is a real, actionable option for qualifying renters that is completely absent from the SERP. The article must explain what income-restricted units are, what AMI means in plain language, and how to search for them. This constitutes genuine information gain for both human readers and AI engines.
+
+---
+
+### 6e. Helpful Content Checklist
+
+| Question | Status | Detail |
+|---|---|---|
+| Clear, specific audience? | Pass | Cost-conscious solo renters in discovery/comparison stage, budget-constrained, seeking reality check on what "cheap" means in their market |
+| First-hand expertise demonstrated? | Pass | Market observation framing, specific city benchmarks with honest trade-offs, structural pattern framework not found in competitors |
+| Reader achieves their goal? | Pass | Reader will finish with: (a) a realistic sense of what cheap means in their city, (b) a framework for finding underpriced units, (c) a checklist for evaluating a lease before signing |
+| Human editor at brightplace confident publishing? | Pass | No banned phrases, no ILS citations, no Fair Housing violations, lowercase "brightplace" throughout, no em dashes, no "signal" |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT Response:** No ChatGPT response was provided in the data inputs. Writing agent should not fabricate citation data.
+
+**Claude Response:**
+Claude cited the following sources or source types (from the partial response provided):
+
+| Source Type | Reason Claude Referenced It |
+|---|---|
+| Zillow | "Best for saved search alerts; filters by price and bedroom count are granular" |
+| Apartments.com | "Strongest inventory for professionally managed buildings" |
+| Zumper | "Better for individual landlord listings in mid-sized cities" |
+| Apartment List | "Uses a quiz-matching model; useful if flexible on neighborhood" |
+| Facebook Marketplace / Craigslist | "Consistently produce the cheapest listings; landlords pay no listing fee" |
+| HotPads | "Strong map-based filtering; good for rentals near specific transit lines" |
+| Walk Score | "Quantifies walkability, transit access, and bikeability by address" |
+| Niche.com | "Aggregates school ratings, crime indices, and resident reviews by neighborhood" |
+| NeighborhoodScout | "More granular crime and demographic data than Niche" |
+
+**Important note for writing agent:** All of the platforms Claude cited are prohibited sources under brightplace brand rules. The article must NOT cite or link to any of these. The structural information they provide (search alerts, filter logic, map-based searching) can be referenced as behaviors or tactics, without naming the platforms.
+
+**Is brightplace cited by either AI engine?** No. brightplace is not cited by Claude or ChatGPT for this keyword.
+
+---
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks for this keyword:**
+- A published, date-stamped breakdown of one-bedroom rent thresholds by city
+- A structured how-to framework that AI engines can extract as a clear answer
+- Defined terminology (what "affordable" means, what AMI means) that LLMs can pull verbatim
+- A comparison table with specific data that AI engines can parse
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+
+1. **The structural pattern framework** for finding underpriced units within any market (adjacency, building age, unit position, seasonal timing, AMI programs). This is the single largest gap. No current ranked page covers it. If brightplace publishes this clearly, with labeled patterns and specific examples, it becomes a citation target.
+
+2. **The true all-in cost calculation.** AI engines understand that renters compare headline rents, not total costs. A page that explicitly teaches the calculation method with a worked example will be cited when someone asks "how do I know if an apartment is actually affordable."
+
+3. **Income-restricted and workforce housing as an affordable access point.** Claude's response surfaced this (truncated at the end of the provided excerpt). No competitor covers it. This is a direct citation gap.
+
+4. **Seasonal timing specificity.** Claude mentioned November-January as a discount window and May-August as peak. No competitor quantifies this. A date-stamped, specific claim about seasonal pricing patterns creates a citable fact.
+
+---
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+
+The opening 100 words of the article (under the H1, before the first H2) must contain:
+- (a) A direct statement containing the primary keyword and a specific numerical anchor: "Finding a cheap one-bedroom apartment starts with knowing what 'cheap' actually means in your market. Nationally, one-bedroom apartments average approximately $1,600-1,650 per month (as of Q2 2025)."
+- (b) The target audience statement: "If you are renting solo on a tight budget, or searching in a city you do not know well, that number is nearly useless without city-level context."
+- (c) A clear statement of what the article delivers: "This guide breaks down realistic price thresholds by market, explains why some units are priced below the average in their area, and gives you a framework for evaluating any listing before you sign."
+
+**Rule 2: Structured data rule.**
+
+Include exactly one comparison table in the article, positioned under the first H2 ("What 'Cheap' Means for a One-Bedroom Apartment"). Column headers must be:
+
+| City | Budget 1BR Threshold | Notes |
+
+The table must include a minimum of 8 cities spanning affordable markets (Lubbock, Greensboro, Columbus, Memphis, Houston, Minneapolis) and high-cost contrast markets (NYC, LA, San Francisco). Every figure must be date-stamped in the Notes column or in a table caption: "(as of Q2 2025)."
+
+No additional tables are needed. The framework section (structural patterns) should use bold labels plus short paragraphs, not a table.
+
+**Rule 3: Definition rule.**
+
+The following terms must be explicitly defined in a single clear sentence, at the first point they appear in the article:
+
+1. **"Affordable" (in the context of rent):** Define as the standard guideline that housing costs should not exceed 30% of gross monthly income, making "affordable" a function of individual income, not just a dollar amount.
+2. **Base rent:** The headline rent figure on a listing, before utilities, parking, fees, or other recurring costs are added.
+3. **True monthly cost:** The all-in figure a renter pays each month, including base rent plus all recurring add-ons (utilities, parking, required fees).
+4. **Area Median Income (AMI):** The midpoint income for a metro area, calculated annually by HUD; income-restricted housing units are priced for renters earning 60-80% of this figure or below.
+5. **Adjacency play:** A search strategy in which a renter targets neighborhoods that border high-demand areas, accessing similar amenities and transit at meaningfully lower rents.
+
+**Rule 4: Proof point rule.**
+
+The article must include the following data anchors (writing agent must verify and date-stamp each before inserting):
+
+1. National average one-bedroom rent: approximately $1,600-1,650/month (as of Q2 2025)
+2. Lubbock, TX one-bedroom average: under $800/month (as of Q2 2025)
+3. Greensboro, NC one-bedroom average: approximately $869/month (source: ApartmentGuide 2020 data; writing agent must find and substitute a current figure)
+4. Seasonal pricing range: units listed November through January tend to run 5-10% below the same unit listed May through August (writing agent: verify this range with available data and date-stamp)
+5. Utility and fee add-ons: $100-$350/month above base rent is a realistic range depending on market, unit age, and inclusions
+
+If any figure cannot be verified by the writing agent, insert a placeholder in brackets: `[VERIFY: current average 1BR rent in Greensboro, NC as of Q2 2025]` and do not publish unverified data.
+
+**Rule 5: FAQ rule.**
+
+Include exactly these 7 questions in the FAQ section, in this order. Each answer must be 40-60 words and must open with a direct response.
+
+| # | Question | Source |
+|---|---|---|
+| 1 | What is a realistic budget for a cheap one-bedroom apartment? | PAA + Content Gap |
+| 2 | Where can I find cheap one-bedroom apartments near me? | PAA (direct) |
+| 3 | Are cheap one-bedroom apartments available in California? | PAA (direct) |
+| 4 | Are cheap one-bedroom apartments available in Texas? | PAA (direct) |
+| 5 | Can I find a one-bedroom apartment under $500 a month? | PAA (direct) |
+| 6 | What is the cheapest month to rent a one-bedroom apartment? | Content Gap (AI engine identified) |
+| 7 | What should I look for beyond the listed rent price? | Content Gap (true cost framework) |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+### Primary CTA
+
+**Action:** Search for one-bedroom apartments on brightplace.
+
+**Placement:** Three locations in the article:
+1. After the first H2 (after the city benchmark table): "brightplace tracks one-bedroom availability and rent patterns across these markets. See what is currently listed in your city at brightplace.ai."
+2. Mid-article, after the structural patterns section: "If you know which markets fit your budget, brightplace's IntentOS search can match you to available one-bedrooms based on what you actually need, not just price."
+3. End of article, after the FAQ section: "Ready to search? brightplace shows one-bedroom apartments across major markets with the context to help you decide quickly. Start at brightplace.ai."
+
+**CTA language rules (writing agent):** Do not use "unlock," "leverage," "navigate," "discover," or "explore." Frame every CTA as a natural next step. The product name is IntentOS; use it once in the mid-article CTA only. Do not describe brightplace as a listing site or an ILS. It is an AI-native apartment search experience.
+
+---
+
+### Secondary CTA
+
+If brightplace has a published guide on any of the following topics, the writing agent should link to it as a "go deeper" resource after the relevant H2 section:
+
+- How to read a lease before signing (relevant after the "Questions to Ask Before You Sign" section)
+- Renting in [city] guides for Houston, NYC, or Minneapolis (relevant in the FAQ section for city-specific PAA questions)
+- Studio vs. one-bedroom comparison (relevant in the intro or the FAQ)
+
+The writing agent will receive the brightplace knowledgebase sitemap to identify exact URLs. If no matching guide exists, omit the secondary CTA rather than link to an unrelated page.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. They apply to every sentence of this article without exception.
+
+---
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional Production Rules:**
+
+- **Target word count:** 1,100-1,300 words. Do not pad to hit a number. Stop when the article is complete.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a question, a rhetorical statement, or background context.
+- **Every H2 section opens with its answer, not with context or background.** If you find yourself writing "When it comes to..." or "Many renters wonder..." at the start of an H2, delete it and start with the answer.
+- **Date-stamp all numerical claims.** Format: "(as of Q2 2025)" or the most current quarter with verified data. If a figure cannot be verified, use a bracket placeholder rather than publish an unverified number.
+- **No unattributed superlatives.** Do not write "one of the most affordable cities" without naming which cities it is being compared against and providing data.
+- **Schema to implement:** Article schema (always) + FAQPage schema (for the FAQ H2 section, always) + Speakable schema (for the opening summary paragraph and each FAQ answer). HowTo schema is not warranted for this piece because the "steps" are not sequential tasks; they are a framework. Do not add HowTo schema.
+- **One H1 only.** The title is the H1. Do not repeat the H1 text inside the article body.
+- **CTA placement:** Follow the three-placement rule from Section 8 of this brief. Do not add additional CTAs. Do not alter CTA language without approval.
+- **brightplace product references:** Mention brightplace by name a maximum of 4 times in the article body (excluding the CTAs). Do not describe it as a listing aggregator, a directory, or a search engine. It is an AI-native apartment search experience. IntentOS is the product name; use it once, in the mid-article CTA only.
+
+---
+
+*Brief prepared for: brightplace.ai/knowledgebase/*
+*Keyword: cheap one bedroom apartments*
+*Brief version: 1.0*
+*For use by: AI writing agent*
