@@ -1,0 +1,374 @@
+# CONTENT BRIEF
+## brightplace.ai/knowledgebase/
+### Target Keyword: income based homes in charlotte nc
+
+---
+
+## 1. SERP Intent Analysis
+
+**1a. Dominant Content Format:**
+The top-ranking results are a mix of government resource pages (charlottenc.gov, dcr.mecknc.gov), nonprofit program pages (inlivian.com, habitatcltregion.org), and explanatory how-to/resource guide articles (cintexwireless.com, newamericanfunding.com, senioridy.com). The dominant format is the **resource guide with program explanations and eligibility criteria**. There is no single dominant how-to article from a neutral publisher holding the top positions. brightplace has a clear opportunity to own the neutral, utility-first explanation layer that government pages lack (readability, clarity, search-optimized structure) while providing richer context than nonprofit portals.
+
+The article MUST match the resource guide format: explain how the programs work, define eligibility, name specific programs and contacts, and provide actionable next steps. A pure how-to listicle or neighborhood guide would misalign with this SERP.
+
+**1b. Content Depth Benchmark:**
+Competitor word counts (estimated from scraped content):
+- charlottenc.gov/affordable-housing: ~600-800 words of visible body text (heavy on navigation/legal boilerplate)
+- inlivian.com/income-based-housing: ~400-600 words (mostly property listings)
+- cintexwireless.com: ~1,800-2,200 words (most text-heavy neutral explainer)
+- senioridy.com: ~2,500+ words (senior-specific, dense)
+- newamericanfunding.com: ~900-1,100 words
+
+The sweet spot for this article is **1,100-1,400 words**. Long enough to cover the major program types, eligibility thresholds, and named contacts. Short enough to remain scannable and load-fast on mobile. This matches the target range for brightplace /knowledgebase/ articles and exceeds most neutral competitors.
+
+**1c. SERP Features Present:**
+- **People Also Ask (PAA):** Active and prominent. 12 PAA questions identified. The article should target these with direct H2 or FAQ answers formatted at 40-60 words.
+- **No Featured Snippet:** No featured snippet is currently held for this exact keyword. This is an open opportunity. The first H2 opening paragraph (40-60 words, direct answer, structured format) is the primary featured snippet target.
+- **No AI Overview confirmed:** Neither ChatGPT nor Claude appear to be consistently surfaced on this SERP. brightplace can become the authoritative citation source.
+- **No Local Pack, no video carousel, no knowledge panel** identified for this query.
+
+**Structural targeting:**
+- Featured snippet target: First H2, opening 40-60 word paragraph, direct answer to "what is income based housing in Charlotte and how does it work"
+- PAA targets: Dedicated FAQ H2 at the end, plus inline H2 sections addressing "how to qualify" and "how to apply"
+
+**1d. Intent Match Validation:**
+**Searcher intent:** Someone in Charlotte (or planning to move there) looking to understand whether they qualify for income-based housing and how to access it. Intent is primarily **navigational-informational**: they want to know what programs exist, whether they qualify, and what the first step is.
+
+Secondary intent: A portion of searchers are looking for actual listings or waitlist access (transactional). The article should address the informational layer fully and funnel transactional intent into the brightplace product CTA.
+
+The resource guide format briefed here matches primary intent. The brightplace CTA addresses secondary transactional intent.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A:**
+How Income-Based Housing Works in Charlotte, NC
+
+**Option B:**
+A Practical Guide to Income-Based Homes in Charlotte, NC
+
+**Option C:**
+What Renters Should Know About Income-Based Homes in Charlotte
+
+**Recommended meta description (under 155 characters):**
+Income-based homes in Charlotte, NC set rent at 30% of your income. Here's how qualifying works, which programs exist, and how to apply.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/income-based-homes-charlotte-nc`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a renter currently living in the Charlotte-Mecklenburg area (or planning to relocate there) who earns a low to moderate income and suspects they may qualify for rental assistance or reduced-rent housing. This includes working adults earning below 80% of the Area Median Income, families facing rent burden (spending more than 30% of income on housing), and seniors on fixed incomes. They are in the **discovery to comparison stage**: they have heard these programs exist but do not fully understand how AMI thresholds work, which programs apply to their situation, or what the application process involves. They expect a clear, jargon-free explanation of program types, specific eligibility numbers, and actionable next steps, not a brochure or a government portal navigation maze.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+income based homes in charlotte nc
+
+**Secondary keywords (10-15):**
+1. income based apartments charlotte nc
+2. low income housing charlotte nc
+3. affordable housing charlotte nc
+4. Section 8 housing charlotte nc
+5. INLIVIAN charlotte housing
+6. area median income charlotte
+7. AMI charlotte nc
+8. housing choice voucher charlotte
+9. income restricted apartments charlotte
+10. how to qualify for low income housing charlotte
+11. affordable housing waitlist charlotte
+12. charlotte housing trust fund
+13. income based townhomes charlotte nc
+14. apply for low income housing charlotte nc
+15. LIHTC apartments charlotte
+
+**Entities to mention (must appear in article):**
+1. INLIVIAN (Charlotte's public housing authority, formerly Charlotte Housing Authority)
+2. Charlotte Housing Trust Fund
+3. Area Median Income (AMI) — Charlotte-Concord-Gastonia MSA figure
+4. Housing Choice Voucher Program (Section 8)
+5. Low-Income Housing Tax Credit (LIHTC)
+6. DreamKey Partners (House Charlotte Program administrator)
+7. Mecklenburg County Department of Community Resources (DCR)
+8. Crisis Assistance Ministry
+9. HUD (U.S. Department of Housing and Urban Development)
+10. NC 211
+
+**Terms to AVOID:**
+best, top, ultimate, #1, hidden gem, vibrant, bustling, thriving, navigate, leverage, deep dive, whether you're X or Y, from X to Y, it's worth noting, interestingly, notably, gentrification, any ILS platform names (Apartments.com, Zillow, Trulia, Rent.com, Zumper, etc.), any review aggregator names (Yelp, Niche, ApartmentRatings, etc.), em dashes, the word "signal" in any form.
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** How Income-Based Housing Works in Charlotte, NC
+
+*Writing instruction: This H1 uses Option A from Section 2. It is descriptive, contains the primary keyword variant, and clearly communicates what the reader will learn. It is under 60 characters.*
+
+---
+
+**H2: What Income-Based Housing Actually Means**
+
+*Writing instruction: This is the featured snippet target. Open with a 40-60 word direct definition of income-based housing. State the 30% of gross monthly income rule. Note that Charlotte has multiple program types that renters conflate. This section must be scannable and complete enough to stand alone as a snippet. Do not include links, bullets, or tables in this opening paragraph. Write in plain declarative sentences only.*
+
+---
+
+**H2: The Main Program Types in Charlotte**
+
+*Writing instruction: This section explains the four primary program types renters encounter in Charlotte: (1) Housing Choice Voucher/Section 8 administered by INLIVIAN, (2) INLIVIAN-managed public housing, (3) LIHTC/tax credit properties with income caps, (4) City-funded affordable housing through the Charlotte Housing Trust Fund. Include a comparison table (see Section 7b for column headers). The critical distinction to draw — which NO competitor explains clearly — is the difference between true income-based rent (adjusts with income) vs. income-restricted/affordable rent (fixed discount from market rate). This is a [CONTENT GAP] that every competitor blurs.*
+
+**[COMPARISON TABLE to include under this H2]**
+| Program Type | How Rent Is Set | Who Manages It | Typical Income Cap |
+|---|---|---|---|
+| Housing Choice Voucher (Section 8) | 30% of adjusted gross income | INLIVIAN (private landlords accept voucher) | Below 50% AMI |
+| INLIVIAN Public Housing | 30% of adjusted gross income | INLIVIAN-owned properties | Below 80% AMI |
+| LIHTC / Tax Credit Apartments | Fixed affordable rent (50-60% AMI formula) | Private developers, income-capped | 50-60% AMI |
+| City-Funded Affordable Housing | Mixed, set by development agreement | Charlotte Housing Trust Fund recipients | 30-80% AMI varies |
+
+*Writing instruction for table: Present column headers exactly as shown. The writing agent must note clearly under the table: LIHTC rent is NOT the same as income-based rent. Rent does not adjust with your income in LIHTC properties.*
+
+---
+
+**H2: Charlotte's AMI Numbers and What They Mean for You**
+
+*[CONTENT GAP — see Section 6d]*
+
+*Writing instruction: This section presents the current Charlotte-Concord-Gastonia MSA Area Median Income figures by household size with AMI percentage thresholds. Include a simple 3-column table: household size, 50% AMI income limit, 80% AMI income limit. Note that HUD updates these annually and the writer must verify and date-stamp current figures. Explain in plain language: if your household earns below 50% AMI, you may qualify for the Housing Choice Voucher waitlist. If below 80% AMI, many LIHTC and city-funded properties may accept your application. This section directly targets the "who qualifies" PAA question and is the highest-value section for AI citation because no competitor presents this data in a readable format for renters.*
+
+---
+
+**H2: How to Qualify for Low-Income Housing in Charlotte**
+
+*Writing instruction: This H2 directly targets PAA question #1 and the related search query "how do I apply for low-income housing in Charlotte, NC." Open with the direct answer in one sentence. Cover: income documentation requirements (pay stubs, tax returns, Social Security award letters), household size verification, citizenship/residency status as required by HUD, and criminal background check standards (which vary by program). Note INLIVIAN's specific eligibility criteria. Keep this section practical and process-oriented. Reference that eligibility requirements differ by program — this is why applying to multiple programs simultaneously is advisable.*
+
+---
+
+**H2: Where to Apply First in Charlotte**
+
+*Writing instruction: Present the three primary application channels in priority order for a renter starting from scratch: (1) INLIVIAN for Housing Choice Voucher and public housing — note that waitlists open and close periodically and the writer must flag this clearly, (2) LIHTC/income-restricted properties through direct application at the leasing office (shorter waitlists than public programs), (3) Charlotte Housing Trust Fund-funded developments through the Charlotte Housing and Neighborhoods portal. Include INLIVIAN's address (400 East Boulevard, Charlotte, NC 28203) and phone number (704-336-5183). Include NC 211 (dial 2-1-1) as a referral resource. Name Crisis Assistance Ministry (500-A Spratt Street, 704-371-3001) for emergency rental assistance. Do NOT list or link to ILS platforms. Do NOT link to INLIVIAN, charlottenc.gov, or dcr.mecknc.gov as citation sources in the published article — these are reference sources only.*
+
+---
+
+**H2: Waitlists, Timelines, and What to Expect**
+
+*[CONTENT GAP — see Section 6d]*
+
+*Writing instruction: This section addresses a critical renter pain point that NO competitor content handles directly: realistic expectations about waitlist timelines in Charlotte. The writer should communicate that Housing Choice Voucher waitlists in Charlotte have historically been open infrequently and can involve multi-year waits when open. INLIVIAN's individual property waitlists vary — some accept applications online, some are closed entirely (the INLIVIAN property page scraped confirms multiple properties listed as "Currently Not Accepting Applications"). Advise renters to apply to multiple programs simultaneously, check INLIVIAN property pages regularly for waitlist openings, and pursue LIHTC properties (which tend to have shorter waits) while waiting on voucher programs. This is practical, honest information no competitor provides. Do not speculate on exact wait times — present the range and emphasize variability.*
+
+---
+
+**H2: Income-Based Options for Homebuyers, Not Just Renters**
+
+*Writing instruction: This section briefly addresses the income-based homeownership track in Charlotte, which appears in multiple competitor pages and PAA results ("income based homes in charlotte nc for sale"). Cover: (1) Habitat for Humanity Charlotte Region, which serves households earning $45,000-$95,000 (below 80% AMI) and has move-in ready homes listed, (2) the House Charlotte Program administered by DreamKey Partners, which offers up to $30,000 in down payment assistance for households earning up to 110% AMI. Note that the House Charlotte program requires an 8-hour homebuyer education course and HUD-approved counseling. Keep this section short (2-3 short paragraphs) — it acknowledges the homebuyer search intent without diluting the renter focus of the article.*
+
+---
+
+**H2: Frequently Asked Questions About Income-Based Homes in Charlotte**
+
+*Writing instruction: Each FAQ answer must be 40-60 words, written as a direct answer starting with the question's key term. These become FAQPage schema entries. Format as Q: / A: pairs. Do not use sub-headers for individual questions — use the Q/A format only. Include all 8 questions listed in Section 7c.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+**6a. Experience Signals:**
+
+1. **brightplace search data framing:** Where the article discusses what renters typically encounter in Charlotte's affordable housing process (waitlist closures, application requirements), use framing such as "Based on brightplace's analysis of renter search patterns in Charlotte..." This positions brightplace as an active observer, not a passive aggregator.
+
+2. **Specific date-stamped observations:** Every rent range, AMI figure, and program threshold must appear with "(as of [Quarter Year])." Example: "The Charlotte-Concord-Gastonia MSA AMI for a 4-person household is $[X] (as of Q1 2026)." The writing agent must verify these figures and insert the current date.
+
+3. **Honest tradeoff framing:** The sections on waitlists and program differences should reflect genuine honesty: some waitlists are closed for years. LIHTC rent is not the same as income-based rent. The House Charlotte program has an income cap that excludes very low-income households from the homebuyer track. Acknowledging these tradeoffs demonstrates direct knowledge of how these programs actually work.
+
+**6b. Expertise Signals:**
+
+- Present the AMI percentage table with specific household-size income figures (not vague percentage ranges). Only a source familiar with HUD income limit publications would include this.
+- The comparison table distinguishing program types must include the "how rent is set" column. This is the distinction that demonstrates true understanding of the housing landscape vs. a generic resource page.
+- The section on LIHTC vs. true income-based rent is the highest expertise marker in the article. Most competitor content confuses or ignores this distinction entirely.
+
+**6c. Freshness & Date-Stamping:**
+
+Include a "Last reviewed: [Month Year]" line directly below the H1, before the article body begins.
+
+Claims most likely to go stale (flag for future updating):
+1. Charlotte-Concord-Gastonia AMI figures (HUD updates annually, typically April/May)
+2. INLIVIAN waitlist open/closed status (changes without advance notice)
+3. House Charlotte down payment assistance amount (currently $30,000, program terms change)
+4. Habitat for Humanity move-in ready home prices and availability (monthly changes)
+5. HOMES Program income limits table from Mecklenburg County DCR (updated annually)
+
+**6d. Information Gain:**
+
+Three specific pieces of information this article can provide that NO current top-ranking competitor covers clearly:
+
+**Gap 1: The LIHTC vs. true income-based rent distinction**
+Competitors either ignore this or blur it together. The article must explicitly state: LIHTC/affordable apartments set rent at a fixed amount calculated from the AMI formula (e.g., 60% AMI = roughly 30% of 60% of AMI as monthly rent). Your actual income does not affect what you pay. True income-based rent (Section 8, public housing) adjusts with your income. A renter earning $1,500/month pays about $450/month in a true income-based unit. The same renter in a 60% AMI LIHTC unit might pay $1,100/month regardless of their income. This is the most practically important distinction in the article.
+
+**Gap 2: Realistic waitlist context specific to Charlotte**
+No competitor tells renters that the Housing Choice Voucher waitlist in Charlotte opens infrequently and may involve multi-year waits. The INLIVIAN property directory (scraped in Data Source 1) shows multiple properties marked "Currently Not Accepting Applications." Presenting this honestly, with a practical strategy (apply to everything simultaneously, pursue LIHTC as the near-term path), is information gain over every competitor.
+
+**Gap 3: AMI table calibrated to Charlotte with specific dollar amounts by household size**
+The Claude AI response in Data Source 3 provides a partial AMI table. No competitor page presents this in a readable format for renters. A clean table showing 50% and 80% AMI income thresholds by household size (1-6 persons) for the Charlotte MSA gives the renter an immediate self-qualification tool. This is the highest-value section for AI citation.
+
+**6e. Helpful Content Checklist:**
+
+- **Clear specific audience?** Yes: Charlotte renters and potential homebuyers earning below 80% AMI who want to understand program options and qualify.
+- **First-hand expertise demonstrated?** Yes: Via the LIHTC vs. income-based distinction, the waitlist context section, and date-stamped AMI figures.
+- **Reader achieves their goal?** Yes: After reading, a renter can identify which program type fits their income level, understand the difference between LIHTC and income-based rent, and know the three primary application channels in Charlotte.
+- **Human editor at brightplace confident publishing this?** Yes: All brand rules are met. No ILS citations. No banned phrases. Fair housing compliance maintained throughout (no neighborhood demographic descriptions). brightplace lowercase throughout.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+**7a. Current AI Citation Landscape:**
+
+**ChatGPT response:** Not retrieved in Data Source 3 (field blank).
+
+**Claude response citations (from Data Source 3):**
+1. **inlivian.org** — cited as the primary public housing authority managing Housing Choice Vouchers and public housing in Charlotte. Cited because it is the official governmental housing authority portal.
+2. **charlottenc.gov/housing** — cited for the Charlotte Housing Trust Fund and city-funded affordable housing programs. Cited because it is the official city portal.
+3. **resources.hud.gov** — cited as the HUD Resource Locator for finding project-based Section 8 properties by zip code. Cited because it is a federal government database.
+4. **nc211.org** — cited as the statewide resource referral line (dial 2-1-1). Cited because it serves as a human navigation resource for the process.
+5. **Charlotte-Mecklenburg Housing Partnership (cmhp.net)** — cited as a nonprofit developer and manager of affordable rentals. Cited because it appears in Claude's knowledge base as a named local organization.
+6. **affordablehousingonline.com** — cited as an aggregator database for LIHTC and Section 8 listings. *Per brand rules, this must NOT be cited or linked in the published article. Use as background only.*
+
+**Is brightplace cited by either engine?**
+- ChatGPT: No (no data retrieved)
+- Claude: No
+
+**7b. Citation Gap Analysis:**
+
+What cited sources have that brightplace currently lacks:
+- Official governmental authority (INLIVIAN, charlottenc.gov, HUD) — brightplace cannot replicate this, but can surpass these sources on clarity, structure, and practical explanation.
+- Direct database access (affordablehousingonline.com) — not relevant for brightplace to replicate.
+- Named local program context (CMHP, DreamKey Partners, Crisis Assistance Ministry) — brightplace can match this by naming and explaining these organizations in structured, citable format.
+
+**Information gaps both AI engines identified (direct citation opportunities):**
+1. The AMI table with specific dollar amounts by household size for the Charlotte MSA (Claude provided partial data; no competitor provides this in a clean format)
+2. The distinction between LIHTC fixed affordable rent and true income-based rent
+3. Realistic waitlist timeline context for Charlotte specifically
+4. Which program types to pursue simultaneously (vs. waiting on one)
+5. The homebuyer vs. renter distinction (income-based pathways differ significantly)
+
+**7c. Citability Rules for the Writing Agent:**
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article (under H1, before any H2) must contain: (a) a direct answer stating that income-based homes in Charlotte set rent at approximately 30% of a renter's gross monthly income, (b) the target audience statement (Charlotte renters earning below the area median income), (c) at least one specific numerical data point (the 30% of income rent rule, or the Charlotte AMI figure for a household of four). Do not open with background, history, or context. Answer first.
+
+**Rule 2: Structured data rule.**
+Two tables are required:
+- **Table 1 (H2: The Main Program Types in Charlotte):** 4 columns: Program Type | How Rent Is Set | Who Manages It | Typical Income Cap. 4 rows as specified in outline Section 5.
+- **Table 2 (H2: Charlotte's AMI Numbers and What They Mean for You):** 3 columns: Household Size | 50% AMI Income Limit | 80% AMI Income Limit. Rows for 1-person through 6-person households. Writing agent must research and insert current HUD figures for the Charlotte-Concord-Gastonia MSA and date-stamp them. Both tables must use clean, minimal HTML formatting with no merged cells.
+
+**Rule 3: Definition rule.**
+The following terms must be explicitly defined in a single clear sentence each, at the point where they first appear in the article:
+
+1. **Area Median Income (AMI):** "Area Median Income (AMI) is the midpoint income for households in the Charlotte-Concord-Gastonia region, as calculated annually by HUD, and is used to determine eligibility for most income-based housing programs."
+2. **Housing Choice Voucher (Section 8):** "The Housing Choice Voucher program, commonly called Section 8, is a federal rental assistance program that pays a portion of a qualifying renter's monthly rent directly to a private landlord."
+3. **LIHTC (Low-Income Housing Tax Credit):** "Low-Income Housing Tax Credit (LIHTC) properties are privately owned apartment communities that receive federal tax credits in exchange for capping rents at levels affordable to households earning 50-60% of AMI."
+4. **INLIVIAN:** "INLIVIAN is Charlotte's public housing authority (formerly the Charlotte Housing Authority) and manages both public housing properties and the city's Housing Choice Voucher program."
+5. **Income-restricted:** "An income-restricted apartment has a maximum income limit for eligibility, but rent is set at a fixed amount based on AMI percentages, not adjusted to your specific income."
+
+**Rule 4: Proof point rule.**
+The article must include these specific numerical claims (writer must verify and date-stamp each):
+
+1. "Housing is considered affordable when a household spends no more than 30% of gross monthly income on rent and utilities (HUD standard, as of [current year])."
+2. "The Charlotte-Concord-Gastonia MSA Area Median Income for a 4-person household is $[X] (as of [Quarter Year])." — Writer must pull current figure from HUD income limits database.
+3. "A household at 50% AMI in Charlotte earns no more than $[X] per year for a single person and $[X] for a family of four (as of [Quarter Year])."
+4. "Charlotte's Housing Trust Fund has contributed more than $231 million to support over 11,000 affordable housing units since 2001 (as of 2022 data)."
+5. "The House Charlotte Program, administered by DreamKey Partners, offers up to $30,000 in down payment assistance for eligible first-time homebuyers (as of [current year])."
+
+**Rule 5: FAQ rule.**
+The 8 FAQ questions for the FAQ H2 section, with source noted:
+
+| # | Question | Source |
+|---|---|---|
+| 1 | How do I qualify for low-income housing in Charlotte, NC? | PAA |
+| 2 | Who qualifies for low-income housing in NC? | PAA |
+| 3 | How do I apply for low-income housing in Charlotte, NC? | PAA |
+| 4 | Is there income-based housing in Charlotte with no waiting list? | PAA (search query variant) |
+| 5 | What is the difference between income-based and income-restricted housing in Charlotte? | AI engine gap (Claude) |
+| 6 | What is the income limit for Section 8 housing in Charlotte? | AI engine gap (Claude) |
+| 7 | Are there income-based townhomes available in Charlotte? | PAA (search query variant) |
+| 8 | What is the Charlotte area median income for 2024-2025? | AI engine gap (Claude) |
+
+Each answer: 40-60 words, direct, no preamble, begins with the key term from the question.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: "Search income-friendly apartments in Charlotte on brightplace" linking to brightplace.ai (or a Charlotte-specific search page if available at time of production).
+
+Placement: Three locations:
+1. After the first H2 (the definition/explanation section) — inline, one sentence. Example: "brightplace tracks available apartments across Charlotte, including income-restricted communities. Search current listings at brightplace.ai."
+2. After the comparison table in H2: The Main Program Types — a single sentence between the table and the next paragraph.
+3. End of article — after the FAQ section, as a natural closing step. Example: "Ready to see what is currently available in Charlotte? brightplace shows apartments across Charlotte's neighborhoods, including income-restricted and affordable communities."
+
+**Secondary CTA:**
+If brightplace has published guides on renting in Charlotte, rent price trends in Charlotte, or Charlotte neighborhood guides, the writing agent should add an inline link after the "Where to Apply First" H2 section with framing such as: "For a fuller picture of where rent prices sit across Charlotte right now, see brightplace's Charlotte rent guide [link]." The writing agent will receive the sitemap to identify the correct URL.
+
+**CTA language rules:**
+No urgency language. No "act now" or "don't miss out." No promotional tone. Every CTA must read as a helpful next step, not an advertisement. Use "see," "search," or "explore" rather than "find your dream home" or "get started today." brightplace is referenced as a tool, not a product to sell.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**BRAND RULES — NON-NEGOTIABLE. Follow every rule below without exception.**
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+**Target word count:** 1,100-1,400 words (body text, excluding tables, CTAs, and schema markup).
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style. Write as if explaining to a friend who just moved to Charlotte and asked "how do these programs actually work?"
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. Avoid subordinate clauses that bury the main point.
+
+**Paragraph length:** 2-4 sentences maximum. No paragraph should exceed 4 sentences. Dense paragraphs lose mobile readers and reduce dwell time. White space is a feature.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with "Charlotte is a growing city" or any scene-setting preamble. Answer first.
+
+**Every H2 section opens with its answer:** State the key takeaway in the first sentence of every section. Never open a section with background, history, or context.
+
+**Date-stamping:** Every dollar figure, rent range, AMI statistic, or program threshold must include "(as of [Quarter Year])" immediately after the claim. The article must include a "Last reviewed: [Month Year]" line directly below the H1.
+
+**Schema to implement:**
+- Article schema: Always.
+- FAQPage schema: Always, applied to all Q/A pairs in the FAQ H2.
+- Speakable schema: Apply to the opening summary paragraph (first H2, 40-60 word answer) and to the FAQ section.
+- HowTo schema: Apply to the "Where to Apply First" H2 section if the section is structured as sequential steps.
+
+**Tables:** Use clean, minimal HTML tables. No merged cells. No color formatting. Column headers in bold. Rows for each program type or household size as specified in the outline. Tables must parse cleanly for both human readers and AI engine extraction.
+
+**Do not invent data:** If a specific AMI figure, rent range, or program threshold is not available to verify at time of writing, insert a clearly marked placeholder in brackets: [VERIFY: current HUD Charlotte MSA 4-person 50% AMI figure]. Do not guess or round up.
+
+**Do not name or link to:** Reddit, City-Data, BiggerPockets, Zillow, Apartments.com, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com, ApartmentRatings, Yelp, Niche, AreaVibes, Walk Score, Bike Score, or Transit Score. These sources may be used as background research but must never appear in the published article.
+
+**brightplace product references:** brightplace and its product IntentOS may be referenced by name in CTAs only. Do not describe brightplace as "the best" or "the only" apartment search tool. Reference it as a practical tool with a specific function: "brightplace tracks available apartments across Charlotte" or "search current listings at brightplace.ai."
