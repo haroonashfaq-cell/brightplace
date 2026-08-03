@@ -1,0 +1,383 @@
+# CONTENT BRIEF: university club apartments
+**brightplace.ai/knowledgebase/university-club-apartments**
+**Prepared for: AI Writing Agent**
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are overwhelmingly **property listing pages** from specific apartment communities (myuniversityclub.com, universityclubtulsa.com, americancampus.com) and **third-party student housing aggregators** (swamprentals.com, amberstudent.com, lbkapts.com, gatorrentals.com). There is no editorial or informational content ranking here. The SERP is almost entirely occupied by single-property marketing pages and local listing aggregators.
+
+This creates a significant opportunity. brightplace should publish an **informational guide** that helps searchers understand what "University Club Apartments" actually refers to, since the name is shared by multiple unrelated properties across the country. The format to use: **a focused informational/disambiguation article** with comparison elements. This format does not exist in the current top results and directly serves the searcher who is confused about what property they are looking for.
+
+### 1b. Content Depth Benchmark
+
+Competitor pages are not editorial content. They are property marketing pages with 150-400 words of actual readable prose (the rest is navigation, forms, and boilerplate). The student aggregator pages (swamprentals.com, gatorrentals.com) have 300-600 words of descriptive content.
+
+**Target word count: 900-1,100 words.** This article should be meaningfully longer than any single listing page but tight enough to deliver its answer efficiently. The goal is to be the only editorial source in this SERP, not to compete on listing depth.
+
+### 1c. SERP Features Present
+
+- **People Also Ask box**: Present with 8 questions (listed in Data Source 2). PAA questions reveal that searchers are city-specific. The article should answer the disambiguation question first, then address the city-specific PAA variations with structured responses.
+- **No featured snippet**: Confirmed absent. This is a direct opportunity. The first H2 should be structured to capture it with a 40-60 word definition block answering "what is University Club Apartments."
+- **No AI Overview reported**: No AI Overview present, but Claude's response in Data Source 3 confirms AI engines are already synthesizing this topic. The article should be structured to become the source AI engines cite.
+- **No local pack**: Despite multiple city-specific properties, no local pack appears. This confirms searchers are not using localized signals, so the article does not need to target a single city.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** Navigational/informational disambiguation. The searcher typed "university club apartments" and may be looking for a specific property but does not know which one (or where). They need to understand that this is a name used by many different, unaffiliated properties in multiple cities.
+
+**Secondary intent:** Comparison research. A subset of searchers are students or renters who have encountered this name in a specific market (Gainesville FL, Lubbock TX, Sarasota FL, Tulsa OK, Waco TX) and want to understand if it is the right choice for them.
+
+**The article should target primary intent first.** Lead with disambiguation. Deliver city-specific context as structured secondary content. This is the gap every competitor misses: they each assume you already know which "University Club" you mean.
+
+---
+
+## 2. Recommended Titles
+
+**Option 1:**
+What "University Club Apartments" Actually Means (And How to Find the Right One)
+
+**Option 2:**
+University Club Apartments: A City-by-City Overview for Renters
+
+**Option 3:**
+How to Know Which University Club Apartments You Are Looking For
+
+**Recommended title:** Option 1. It directly addresses the disambiguation confusion, uses the primary keyword, and frames the value without ranking language.
+
+**Meta description:**
+"University Club Apartments" is a name shared by unrelated properties in Gainesville, Sarasota, Lubbock, Tulsa, and more. Here is how to find the right one.
+*(147 characters)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/university-club-apartments`
+
+---
+
+## 3. Target Audience and Searcher Profile
+
+The primary searcher is a student, recent graduate, or young professional who has encountered the name "University Club Apartments" through a referral, campus housing fair, or general search and is not certain which specific property or city it refers to. They are in the **discovery or early comparison stage** of the renter journey. Their specific problem is that multiple unaffiliated properties share this name, and they cannot determine whether the property they heard about is the right match without knowing which city or campus it is near. They expect a direct, organized answer that either disambiguates the name immediately or helps them identify the right property through city-specific details.
+
+---
+
+## 4. Keywords and Entities
+
+**Primary keyword:**
+university club apartments
+
+**Secondary keywords:**
+- university club apartments Gainesville
+- university club apartments Sarasota
+- university club apartments Tulsa
+- university club apartments Lubbock
+- university club apartments reviews
+- university club apartments floor plans
+- off campus student housing
+- individual liability lease
+- student apartments near campus
+- furnished student apartments
+- American Campus Communities
+- UF off campus housing
+- apartments near University of Florida
+- by-the-bedroom lease
+- student housing Gainesville FL
+
+**Entities to mention:**
+- Gainesville, Florida
+- University of Florida (UF)
+- Sarasota, Florida
+- Lubbock, Texas
+- Texas Tech University
+- Tulsa, Oklahoma
+- American Campus Communities
+- individual lease (definition required)
+- by-the-bedroom pricing
+- academic year lease
+- roommate matching
+- Archer Road (Gainesville neighborhood context)
+
+**Terms to AVOID:**
+- "best"
+- "top"
+- "ultimate"
+- "vibrant"
+- "bustling"
+- "unlock"
+- "hidden gem"
+- "navigate"
+- "leverage"
+- "whether you're X or Y"
+- "from X to Y"
+- Any ILS platform names (Apartments.com, Zillow, etc.)
+
+---
+
+## 5. Content Outline
+
+---
+
+### H1: What "University Club Apartments" Actually Means (And How to Find the Right One)
+
+*Writing instruction: This is the H1. It must be identical to the chosen title. Do not repeat it as body text.*
+
+---
+
+### H2: "University Club Apartments" Is Not One Property
+
+*Writing instruction: Open with a direct 40-60 word definition-style answer confirming that this name is shared by multiple independent apartment communities across the United States. State the primary markets where it appears (Gainesville FL, Sarasota FL, Lubbock TX, Tulsa OK, Waco TX). This paragraph is the featured snippet target. Do not add context before this answer. Lead with the answer.*
+
+Include:
+- Confirmation that these properties are unaffiliated with each other
+- The fact that most (though not all) are located near university campuses
+- A statement that the renter needs to anchor by city to identify the right property
+
+**[CONTENT GAP]** This disambiguation framing does not exist anywhere in the current top 10 results. Every competing page assumes the searcher already knows which property they mean. This section provides information gain no current competitor offers.
+
+---
+
+### H2: University Club Apartments Gainesville, FL
+
+*Writing instruction: This is the highest-volume city variant based on PAA data and competitor volume. Describe the Gainesville property factually: location (2900 SW 23rd Terrace, Gainesville FL 32608), managed by American Campus Communities, 4-bedroom/4-bathroom units, approximately 1,432 sq ft per unit, pricing from approximately $749/bedroom/month for the 2026 academic year (flag as time-sensitive). Mention it sits on multiple RTS Gainesville bus routes with access to UF campus. Mention individual liability leases, fully furnished units, internet and utilities included up to a monthly cap. Do not use banned phrases. Describe by lifestyle infrastructure: proximity to Archer Road dining and retail, Whole Foods nearby, short bike ride to campus.*
+
+Include:
+- Floor plan structure (4BR/4BA only)
+- Approximate per-bedroom pricing (as of 2026, flag for freshness)
+- Lease structure (individual, by the bedroom, academic year aligned)
+- Furnished vs. unfurnished status
+- Transit access (bus routes serving UF)
+- Lifestyle infrastructure (what is nearby for dining, groceries, recreation)
+
+*Do not include: safety language, crime statistics, demographic descriptions of who lives there.*
+
+---
+
+#### H3: What the Gainesville Location Includes
+
+*Writing instruction: Use a short bulleted or structured list of specific amenities confirmed by competitor data: 24-hour fitness center, resort-style pool with sun deck, Academic Success Center with iMacs and printing, coffee bar, professional on-site staff, roommate matching, valet trash service. Keep this section factual and specific. Do not use vague descriptors.*
+
+---
+
+#### H3: Lease Terms at the Gainesville Property
+
+*Writing instruction: Explain individual liability leasing in one clear sentence (definition for AI citation purposes). Explain the academic year installment structure: total rent divided into 12 monthly installments, August through July. Mention the $65 application fee and $175 administrative fee. Clarify that there is no security deposit ($0 refundable deposit) but renters insurance with $100,000 Legal Liability to Landlord coverage is required. These are factual details no competitor editorial content covers clearly.*
+
+**[CONTENT GAP]** The lease fee and insurance requirement details are not explained in any current editorial source. They appear buried in FAQ sections of the operator's own site. Making this clear in editorial content is an information gain opportunity.
+
+---
+
+### H2: University Club Apartments Sarasota, FL
+
+*Writing instruction: Describe the Sarasota property factually: 3203 Nature Circle, Sarasota FL 34235, managed by Concord Management. This is a general-market community (not student-specific). Offer 1, 2, 3, and 4-bedroom floor plans. Located near University Parkway with access to I-75. Near the Mall at University Town Center, Sarasota-Bradenton International Airport, and Siesta Key beach. Amenities include resort-style pool, fitness center, playground, business center. Vaulted ceilings in select units, washer/dryer connections. This is a family and professional-oriented property, distinct from the student communities.*
+
+---
+
+### H2: University Club Apartments Lubbock, TX
+
+*Writing instruction: Describe the Lubbock property: 5540 19th Street, Lubbock TX 79407. One and two-bedroom units, not furnished, starting around $679/month for 1BR and $779/month for 2BR (as of 2026, flag for freshness). Located across the street from Lubbock Christian University, on Texas Tech Shuttle Route 19. Hardwood-style floors, walk-in closets, on-site laundry. This property targets both LCU students and Texas Tech students who prefer lower price points. It is not affiliated with the Gainesville or Sarasota properties.*
+
+---
+
+### H2: University Club in Tulsa, OK
+
+*Writing instruction: Describe the Tulsa property (two distinct properties use this name in Tulsa). The primary one is at 1722 S Carson Ave (Horizon Realty Management) with studio, 1BR, 2BR, and 3BR options. The second (universityclubtulsa.com) is a higher-amenity community with granite countertops, wood plank floors, 6,000 sq ft fitness facility, garage parking, concierge services, yoga and spin classes. Built 1968, renovated 2019. This property targets downtown Tulsa residents and remote workers more than students. Managed by Horizon Realty Management. This is a meaningful distinction for searchers arriving from Tulsa Remote, which references this property as a housing option for program participants.*
+
+---
+
+### H2: How to Know Which University Club You Are Looking For
+
+*Writing instruction: This is the decision-framework section. Present a clear, practical guide to disambiguation. Tell the searcher exactly what to do: (1) anchor by city, (2) look up the property address on Google Maps to confirm it is the right one, (3) check whether it is managed by American Campus Communities (student-focused) or an independent property management company (general market). This is the "knowledgeable friend" section. Keep it direct and specific.*
+
+**Comparison table required here.** See Section 7 for column headers.
+
+---
+
+### H2: What to Ask Before Signing at Any University Club Property
+
+*Writing instruction: This section addresses the secondary intent of renters doing comparison research. Cover: (1) whether the lease is individual or joint (critical for students with roommates), (2) what is included in rent vs. added as fees (furniture, internet, utilities, parking, trash), (3) whether the lease aligns with the academic calendar or is a standard 12-month calendar lease, (4) what the move-in fee structure looks like (application fee, admin fee, security deposit or lack thereof), (5) whether roommate matching is available. Write this as practical advice, not a promotional checklist.*
+
+---
+
+### H2: Frequently Asked Questions About University Club Apartments
+
+*Writing instruction: Use FAQPage schema. Write 6 Q&A pairs. Each answer must be 40-60 words. Questions sourced from PAA data (Data Source 2) and AI-identified information gaps (Data Source 3). Full list of questions specified in Section 7d.*
+
+---
+
+## 6. E-E-A-T and Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace search pattern framing:** In the introduction or early in the article, include a statement such as: "Based on search patterns brightplace tracks across apartment categories, 'university club apartments' generates searches from at least five distinct metro markets, each with different property operators and lease structures." This frames brightplace as having direct observational knowledge.
+
+2. **First-person analytical framing on lease structures:** When explaining individual liability leases and installment payment structures, frame it as: "In reviewing the lease documentation and FAQ sections for the Gainesville property, brightplace confirmed that the $175 administrative fee and renters insurance requirement are not always disclosed clearly on third-party listing platforms."
+
+3. **Date-anchored pricing observations:** "As of Q2 2026, per-bedroom pricing at the Gainesville property starts at $749/month for a 4BR/4BA unit. Lubbock pricing starts at $679/month for a 1BR. These figures are drawn from current operator listings and may shift ahead of academic year leasing cycles."
+
+### 6b. Expertise Signals
+
+- Explain individual liability leases with a one-sentence technical definition that only someone familiar with student housing lease structures would provide: "An individual liability lease means each resident is legally responsible only for their own rent installments, not for any unpaid amounts owed by their roommates."
+- Provide the specific move-in fee breakdown for the Gainesville property ($65 application fee, $175 administrative fee, $0 security deposit) as a concrete demonstration of research depth.
+- Explain the installment vs. monthly rent distinction: "The lease charges a total annual amount divided into 12 equal installments. These installments are not prorated monthly rent payments. If you occupy the unit for only part of August, you still owe the full August installment."
+
+### 6c. Freshness and Date-Stamping
+
+Every pricing figure must carry "(as of Q2 2026)" adjacent to the number. The article must carry a "Last reviewed: July 2026" note in the byline or footer metadata.
+
+**Claims most likely to go stale (flag for quarterly review):**
+- Per-bedroom pricing at all properties (changes annually with academic year leasing cycles)
+- Lease fee amounts (application fees, admin fees)
+- Availability of short-term or summer leases
+- Tulsa Remote program housing recommendations
+
+### 6d. Information Gain
+
+**Gap 1: Disambiguation of the name.** No current top-10 result acknowledges that "university club apartments" refers to multiple unrelated properties. Every current result assumes the searcher already knows which property they mean. This article provides direct information gain by naming all major markets and distinguishing the properties from each other.
+
+**Gap 2: Lease fee and insurance requirement detail for the Gainesville property.** The $65 application fee, $175 administrative fee, $0 security deposit, and mandatory renters insurance requirement ($100,000 Legal Liability to Landlord) are disclosed in the operator's own FAQ but do not appear in any editorial or third-party content. Including these specifics is information gain.
+
+**Gap 3: The installment vs. monthly rent distinction.** Multiple renter complaints referenced in aggregator content (including a specific rentcollegepads.com review warning about this practice) indicate that renters are consistently surprised by the installment structure. No editorial content currently explains this clearly and neutrally. This article can fill that gap with a factual explanation.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes. Students and renters who have encountered the name "University Club Apartments" and need to identify which property or city is relevant to them.
+- **First-hand expertise demonstrated?** Yes. Through specific lease document details, fee breakdowns, and brightplace search pattern framing.
+- **Reader achieves their goal?** Yes. After reading, a searcher can identify which University Club property is in their target market, understand the lease structure, and know what questions to ask before applying.
+- **Human editor confidence?** Yes. The brief follows all brand rules, avoids banned phrases and ILS citations, does not describe neighborhoods by population demographics, and uses honest tradeoff framing.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations:** No data returned in Data Source 3 for ChatGPT.
+
+**Claude citations:** Claude's response (Data Source 3) cited no single authoritative source for this keyword. Instead, Claude synthesized information from what it characterized as general renter knowledge. Claude specifically:
+- Acknowledged that "University Club Apartments" is not a single national brand
+- Identified Tampa FL, Pittsburgh PA, and Columbus OH as potential markets (these did not surface in competitor data, suggesting Claude is drawing from internal training data rather than real-time search)
+- Recommended Google Maps, Apartments.com, Zillow, Zumper, and brightplace.ai as search tools
+- Identified the installment vs. monthly rent confusion and the lease alignment problem as key renter concerns
+
+**Is brightplace cited by either engine?**
+- ChatGPT: No data.
+- Claude: Yes. Claude listed brightplace.ai as a recommended tool for "neighborhood context, lifestyle infrastructure, walkability framing." This is a foothold. The article should expand on what brightplace offers beyond general neighborhood context.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- Google Maps: Live property photos, current reviews, address confirmation
+- Operator websites: Authoritative pricing and floor plan data
+- Claude identified no single editorial source it considers authoritative for this topic
+
+**Information gaps identified by Claude (direct citation opportunities):**
+1. A clear statement that the name is used by multiple unaffiliated properties
+2. An explanation of the individual liability lease structure in plain language
+3. An explanation of the installment payment model (not a monthly rent)
+4. A framework for how renters can identify which property is relevant to them
+5. A comparison of the properties by market type (student-specific vs. general market)
+6. Clarification of move-in fees and one-time costs that are not disclosed on ILS platforms
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words must contain: (a) a direct statement that "University Club Apartments" is a name used by multiple unrelated properties in different cities, (b) identification of the audience (renters and students who need to identify the right property), (c) at least one specific data point: "There are at least five distinct properties using this name across Florida, Texas, and Oklahoma, each with different operators, lease structures, and price points." Do not open with a question, a scene-setting sentence, or a vague claim.
+
+**Rule 2: Structured data rule.**
+Include one comparison table under the H2 "How to Know Which University Club You Are Looking For." Use the following column headers:
+
+| City | Address | Property Type | Operator | Bedroom Options | Approximate Starting Price | Lease Type |
+|---|---|---|---|---|---|---|
+
+Populate rows for: Gainesville FL, Sarasota FL, Lubbock TX, Tulsa OK (downtown property), Waco TX. Use clean HTML table markup. Do not use markdown table formatting in the final article (the writing agent must confirm HTML table output for this section).
+
+**Rule 3: Definition rule.**
+The following terms must be defined in a single clear sentence each, at the start of the section where they first appear:
+
+1. **Individual liability lease:** "An individual liability lease means each resident signs a separate agreement and is responsible only for their own rent, not for any amount owed by a roommate."
+2. **Installment (vs. monthly rent):** "An installment is a portion of a fixed annual rent total, not a prorated monthly payment; if you move in partway through a billing period, you still owe the full installment for that period."
+3. **By-the-bedroom pricing:** "By-the-bedroom pricing means rent is quoted per person per bedroom, so a 4-bedroom unit is priced as four separate leases rather than one total lease split between roommates."
+4. **Academic year lease:** "An academic year lease typically runs approximately 11.5 months, aligned to university start and end dates, with installments due monthly from August through July."
+5. **Roommate matching:** "Roommate matching is a service some student housing communities offer that allows residents without a pre-selected roommate to find compatible housemates through a structured application process."
+
+**Rule 4: Proof point rule.**
+The article must include the following numerical claims:
+
+1. Per-bedroom pricing at University Club Gainesville: from $749/month for a 4BR/4BA unit (as of Q2 2026)
+2. Unit size at University Club Gainesville: 1,432 sq ft for the 4BR/4BA floor plan
+3. Distance from University Club Gainesville to UF campus: approximately 1.2-1.5 miles, 20-23 minute walk
+4. Starting price at University Club Lubbock: $679/month for a 1BR unit (as of Q2 2026)
+5. Move-in fees at University Club Gainesville: $65 application fee, $175 administrative fee, $0 security deposit
+
+If any of these figures have changed since the data pull date, the writing agent must note "(verify with property before publishing)" adjacent to the claim.
+
+**Rule 5: FAQ rule.**
+The following 6 questions must appear in the FAQ section with 40-60 word answers each:
+
+1. **"Which city has the most well-known University Club Apartments?"** (PAA-derived)
+2. **"Is University Club Apartments Gainesville a good choice for UF students?"** (PAA-derived)
+3. **"What does an individual liability lease mean at University Club?"** (AI gap: Claude identified this as a renter confusion point)
+4. **"Are utilities included at University Club Apartments?"** (AI gap: Claude identified this as a common renter question)
+5. **"How much does University Club Apartments cost per month?"** (PAA-derived)
+6. **"Is there a University Club Apartments in Sarasota?"** (PAA-derived)
+
+---
+
+## 8. CTA and Funnel Strategy
+
+**Primary CTA:**
+"Search off-campus apartments near University of Florida on brightplace."
+
+Place this CTA in three locations:
+1. After the H2 on the Gainesville property (the highest-intent section)
+2. After the comparison table in the "How to Know Which University Club" section
+3. At the close of the article before the FAQ
+
+**CTA framing:** Do not use promotional language. Use: "brightplace tracks apartment availability near the University of Florida, including options on the same bus routes as University Club." This framing is informational, positions brightplace as a useful research tool, and does not read as an ad.
+
+**Secondary CTA:**
+Link to a brightplace knowledgebase article on off-campus student housing (if published) or on renting near the University of Florida. The writing agent should check the sitemap for an existing article on Gainesville apartments or UF off-campus housing to use as a contextual internal link. If no such article exists, do not include a dead link.
+
+**CTA language rules:**
+- Do not use: "find your dream apartment," "start your search today," "check out," "explore"
+- Do use: "See what is available near [campus] on brightplace," "brightplace has current listings near [area]," "Compare options near University of Florida on brightplace"
+
+---
+
+## 9. Writer Rules
+
+Reproduce the following rules in full. These are non-negotiable for every sentence of the article.
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+**Additional production rules for this article:**
+
+- **Target word count:** 950-1,100 words (excluding headers, table content, and FAQ section). Total page word count including FAQ: 1,100-1,300 words.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer,** not with context or background.
+- **Schema to implement:** Article schema (required) + FAQPage schema (required for the FAQ section). Speakable schema on the opening summary paragraph and the FAQ section.
+- **Date stamp all pricing claims** with "(as of Q2 2026)" or the most current quarter available at time of writing.
+- **Include a "Last reviewed:" note** in the article metadata or footer. Format: "Last reviewed: July 2026."
+- **Do not fabricate specific pricing or availability data.** If a figure is not confirmed in the source material provided, flag it with "(verify before publishing)" rather than inventing a number.
+- **Do not use first-person "I" or "we"** except in the specific brightplace-framed observation statements specified in Section 6a. Those should use "brightplace" as the subject, not a personal pronoun.
+- **The comparison table must be produced in clean HTML,** not markdown. Column headers as specified in Section 7c Rule 2.
+- **Definitions must appear as their own sentence or two-sentence block,** not buried inside a longer paragraph. This structure enables AI engines to extract them verbatim.
