@@ -1,0 +1,441 @@
+# CONTENT BRIEF: 113 University Place
+### brightplace.ai/knowledgebase/
+### Prepared for: AI Writing Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+**1a. Dominant Content Format:**
+
+The top results are a mix of building profile pages (StreetEasy, the building's own site at 113university.com), a commercial broker listing page (metro-manhattan.com, optimalspaces.com), a historic preservation entry (villagepreservation.org), and an urban photo archive (urbanarchive.org). There is no editorial how-to guide or neighborhood guide in the top results. The dominant format is the building profile/commercial listing page, structured around physical specs, location context, and availability.
+
+The brightplace article should not replicate a commercial listing page. It cannot compete with the building's own website or broker listings on transactional terms. Instead, it should target the informational and contextual layer: what is this building, what is this block, and what does renting or working near 113 University Place actually look like? This is the content format gap in the SERP. The writing agent should produce a focused location profile that answers the query completely while extending into renter-useful context the broker pages do not provide.
+
+**1b. Content Depth Benchmark:**
+
+- 113university.com: Approximately 150-200 words of body content (thin)
+- villagepreservation.org: Approximately 80-100 words (thin, historical note only)
+- metro-manhattan.com: Approximately 1,200-1,500 words, but focused on the Midtown South commercial market broadly, not this building specifically
+- optimalspaces.com: Approximately 600-800 words of building-specific content, plus extensive boilerplate listings tables
+- streeteasy.com: Approximately 200-300 words of building data
+
+The SERP is populated with thin or boilerplate content. There is no article between 800 and 1,200 words that gives a complete, honest picture of 113 University Place, its block, its history, and its current use. Target word count: **950-1,100 words.** This clears the depth bar set by competitors and provides genuine information gain without padding.
+
+**1c. SERP Features Present:**
+
+- People Also Ask (PAA): Yes. Two questions confirmed: "113 university place map" and "113 university place restaurant." These must each receive a dedicated H2 or H3 with a direct answer in the opening sentence.
+- Featured Snippet: No featured snippet found. This is an opportunity. The article's first substantive H2 (building description + key facts) should be structured in a 40-60 word direct-answer paragraph to capture a featured snippet if one develops.
+- AI Overview: Not confirmed in the data, but Claude's response demonstrates that AI engines are generating substantial answers for this query. Structured content that matches what Claude cited will improve citability.
+- Knowledge Panel: Not present.
+- Local Pack: Not present.
+- Video Carousel: Not present.
+
+**1d. Intent Match Validation:**
+
+**Primary intent:** Informational. The searcher wants to understand what 113 University Place is: its physical characteristics, location, use type, history, and context. This covers people looking up an address they received, considering office or live/work space in the area, or researching the Greenwich Village/Union Square corridor.
+
+**Secondary intent:** Navigational/transactional. A subset of searchers is looking for a map, restaurant, or specific tenant at this address.
+
+The article should target primary (informational) intent as the dominant structure while directly answering the secondary navigational PAA questions within the content. The writing agent must not build the article as a commercial listing page. It should read as a complete location profile written for someone who wants to understand this address and its surroundings.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A:** 113 University Place: What to Know About This Greenwich Village Address
+
+**Option B:** 113 University Place, New York: Building Profile and Neighborhood Context
+
+**Option C:** What Is 113 University Place? A Practical Address Guide
+
+**Recommended title:** Option A. It is clear, contains the primary keyword at the front, uses natural curation framing, and works both as a SERP title and as an AI citation reference.
+
+**Recommended meta description:**
+113 University Place is an 11-story loft building at the corner of University Place and 13th Street in Greenwich Village. Built in 1902, one block from Union Square.
+
+(153 characters, contains primary keyword, delivers factual value, ends with a locating detail that satisfies navigational intent.)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/113-university-place-new-york`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is someone who has encountered 113 University Place as an address: a prospective office tenant evaluating the building or the block, a person researching the Greenwich Village/Union Square area for a potential apartment nearby, a professional attending a meeting at this address, or someone curious about the building's history. This searcher is in the **discovery stage**: they want a factual, reliable picture of what this address is and what its surroundings offer. They expect a clear, organized building profile that quickly tells them: what the building is, what it has historically housed, where it sits relative to transit and key landmarks, and what the surrounding block delivers as a daily environment. They are not in a transactional mindset; they want enough context to form an accurate mental model.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+113 university place
+
+**Secondary keywords (10-15):**
+- 113 university place new york
+- 113 university place nyc
+- university place greenwich village office
+- loft office greenwich village
+- union square office building
+- 113 university place ny 10003
+- university place and 13th street manhattan
+- greenwich village commercial space
+- neo-renaissance loft building new york
+- okada and company 113 university place
+- office space union square nyc
+- pre-war office building greenwich village
+- 46 east 13th street new york (alternate address)
+- amalgamated lithographers building new york
+- frank goodwillie architect new york
+
+**Entities to mention (5-10):**
+- Greenwich Village (neighborhood)
+- Union Square (nearby transit hub and landmark)
+- University Place (street)
+- East 13th Street (cross street)
+- Frank Goodwillie (architect of record)
+- Okada and Company (current managing agent)
+- Amalgamated Lithographers of America (historic tenant)
+- 14th Street-Union Square subway station (transit anchor)
+- Washington Square Park (southern neighborhood anchor)
+- NYC 10003 (zip code)
+
+**Terms to AVOID:**
+- "best," "top," "guide," "ultimate"
+- "hidden gem," "vibrant," "bustling," "thriving"
+- "navigate," "landscape," "unlock," "leverage"
+- "deep dive," "dive into"
+- "signal" in any form
+- "interestingly," "notably," "it's worth noting"
+- Any ILS brand name in the published content (StreetEasy, Zillow, etc.)
+
+---
+
+## 5. Content Outline
+
+### H1: 113 University Place: What to Know About This Greenwich Village Address
+
+---
+
+### H2: What Is 113 University Place?
+
+**Writing instruction:** Open with a direct, 40-60 word answer that covers: building type, location (corner of University Place and East 13th Street, Greenwich Village), height (11 stories), and primary current use (commercial/office). This is the featured snippet target. Every word should be factually useful. No preamble.
+
+Expand in the following 2-3 short paragraphs to cover:
+- Year of construction (1902, architect Frank Goodwillie, built for the Thirteenth Street Co.)
+- The building's neo-Renaissance loft style
+- Historical name reference: associated with Local 1L of the Amalgamated Lithographers of America (ALA)
+- Current managing agent: Okada and Company
+- Total size: approximately 57,739 square feet across 11 floors
+
+---
+
+### H2: Building Details at a Glance
+
+**Writing instruction:** Present the building's factual specs in a structured format (see Section 7b for table specs). This section gives the article scannability and serves as the structured data layer for AI citation. Every data point should be sourced from the competitor content analysis.
+
+Include a simple two-column reference table:
+
+| Detail | Information |
+|--------|-------------|
+| Address | 113 University Place, New York, NY 10003 |
+| Alternate Address | 46 East 13th Street, New York, NY 10003 |
+| Neighborhood | Greenwich Village |
+| Building Class | B (commercial) |
+| Stories | 11 |
+| Year Built | 1902 (some city records reflect 1940; see note below) |
+| Total Square Footage | Approximately 57,739 SF |
+| Floor Plates | Full-floor layouts available (~6,500 SF per floor) |
+| Ceiling Heights | Approximately 11 feet |
+| Managing Agent | Okada and Company |
+| Transit | Under 500 feet to 14th St-Union Square (L, N, Q, R, W, 4, 5, 6) |
+
+Include a short note on the year-built discrepancy: some city property records list 1940 while architectural and preservation records establish 1902. The Village Preservation documentation and neo-Renaissance style confirm the 1902 construction date for the original structure.
+
+---
+
+### H2: Location and the Block Around 113 University Place
+
+**Writing instruction:** Describe the physical context of this address using lifestyle infrastructure only (no demographic descriptions, no crime language per brand rules). Cover walkability, transit, dining, coffee, grocery, and fitness within the immediate radius. This is what a person evaluating this address for work or living nearby needs to know.
+
+Cover:
+- The 14th Street-Union Square transit hub, under 500 feet from the building's front door. L, N, Q, R, W, 4, 5, 6 trains all serve this station.
+- Union Square Greenmarket (open year-round on designated days: Monday, Wednesday, Friday, Saturday)
+- The stretch of University Place between 13th and 14th Streets: restaurants, coffee, retail
+- Proximity to Washington Square Park, approximately 0.5 miles south
+- NYU's campus buildings spread through the immediate neighborhood
+- The Strand Bookstore at Broadway and 12th Street, a neighborhood institution
+- Additional subway access: 8th Street-NYU station (R, W) 0.24 miles; Astor Place (6) 0.3 miles; West 4th Street (A, B, C, D, E, F, M) further south
+
+**Note to writing agent:** Do not call the neighborhood "vibrant" or "bustling." Describe what is physically there: specific places, specific distances.
+
+---
+
+### H2: The History of 113 University Place [CONTENT GAP]
+
+**Writing instruction:** This section is absent from all current top-ranking competitors. The commercial listing pages provide no historical context. Only villagepreservation.org provides a short note, and it is a standalone stub. A well-written historical section here constitutes real information gain and increases the article's authority and citability. Keep it concise (100-150 words), accurate, and specific.
+
+Cover:
+- 1902 construction by architect Frank Goodwillie for the Thirteenth Street Co.
+- Builder: Isaac A. Hopper and Son
+- Architectural style: neo-Renaissance loft, characteristic of the South of Union Square commercial corridor of that era
+- Historic tenant: Local 1L of the Amalgamated Lithographers of America (ALA), which gives the building one of its informal historic names
+- The building's South of Union Square designation in preservation records (villagepreservation.org catalogs it in its South of Union Square architectural survey)
+- Note that the building is not individually landmarked, but falls within a historically significant block
+
+---
+
+### H2: What Kinds of Businesses Operate at 113 University Place?
+
+**Writing instruction:** This answers a practical question for someone evaluating the building for commercial tenancy or trying to understand what kind of tenants occupy it. Use the competitor data to characterize the typical tenant mix. Do not list specific current tenants unless confirmed. Keep it factual and brief (80-120 words).
+
+Cover:
+- Historically and currently: architects, PR firms, photographers, design studios, nonprofits, and wellness-related businesses
+- Full-floor tenancy model: each floor has direct elevator access, making the building suitable for single-tenant full-floor occupancies
+- The 6th floor (6,500 SF) has been actively marketed for lease at approximately $48 per square foot (as of early 2025, per available listing data)
+- The layout of marketed floors: open bullpen, perimeter offices, conference room, wet pantry
+- 24/7 building access and tenant-controlled central AC are standard features
+
+---
+
+### H2: 113 University Place on the Map [PAA target: "113 university place map"]
+
+**Writing instruction:** This directly addresses the PAA question "113 university place map." Give a concise, direct-answer paragraph with the precise cross-street location and the nearest landmarks. The writing agent should structure this so an AI engine can extract a direct answer. Do not embed an actual map widget; describe the location in specific terms.
+
+Cover:
+- Exact cross street: southeast corner of University Place and East 13th Street
+- One block south of Union Square (14th Street)
+- Approximately 0.5 miles north of Washington Square Park
+- Broadway is one block east; Fifth Avenue is approximately 0.3 miles west
+- The building sits between the Flatiron District to the northeast and the core of Greenwich Village to the south and west
+
+---
+
+### H2: Restaurants Near 113 University Place [PAA target: "113 university place restaurant"]
+
+**Writing instruction:** This directly addresses the PAA question "113 university place restaurant." The question likely comes from people looking up a specific restaurant at or near this address, or from someone planning to eat near the building. Answer it directly and specifically. Do not use listing-language or superlatives. Name specific places within a short walk.
+
+Cover:
+- The immediate block of University Place between 12th and 14th Streets has multiple dining options, particularly at street level
+- The Union Square corridor (14th Street west and east) has a dense concentration of restaurants ranging from fast-casual to sit-down
+- The Greenmarket at Union Square (Monday, Wednesday, Friday, Saturday) is a food source for the immediate area
+- Note: if the searcher is looking for a specific restaurant "at" 113 University Place, the building is currently a commercial office building and does not have a restaurant at this address. The ground floor has historically held retail and commercial tenants.
+- Name 2-3 specific nearby options without ranking them (writing agent should name actual restaurants that are established in the area; examples from the neighborhood include Coffee Shop at Union Square, Caffe Reggio on MacDougal, and similar Greenwich Village institutions; the writing agent should verify current operation before naming any specific establishment)
+
+---
+
+### H2: What to Know If You Are Considering Space at 113 University Place [CONTENT GAP]
+
+**Writing instruction:** This section fills a gap none of the competitors address: practical guidance for the prospective tenant, not just listing specs. The broker pages present the space for sale. This section gives honest context. Keep it 100-150 words. This is a mild [CONTENT GAP] because no competitor synthesizes the practical decision factors in editorial form.
+
+Cover:
+- The building is Class B, prewar, with the tradeoffs that entails: character, natural light, exposed ceilings and strong bones, but not a turnkey trophy build-out
+- Corner exposure at University Place and 13th Street means three sides of windows on full-floor tenancies, which is a genuine differentiator
+- Direct elevator access to each floor is a practical advantage for small-to-mid teams
+- Tenant-controlled HVAC means each floor can set its own temperature independently
+- The Union Square location means excellent lunch options, commute options, and foot traffic if the business has client visits
+- Tradeoff: University Place has consistent pedestrian and street traffic; the building does not have a private lobby entrance in the style of a larger Class A property
+
+---
+
+### H2: Frequently Asked Questions About 113 University Place
+
+**Writing instruction:** Structure as a FAQPage schema block. Each Q and A pair must be self-contained. Answers should be 40-60 words each. All questions come from PAA data or AI-identified information gaps. See Section 7c for the exact questions and format guidance.
+
+Include 6 Q&A pairs as specified in Section 7c.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+**6a. Experience Signals:**
+
+1. The article should include a framing note in the building details section or historical section that reflects brightplace's own analysis: for example, "brightplace reviewed publicly available city property records, preservation databases, and current listing data to compile the specifications in this profile." This establishes that the information was assembled, not scraped.
+
+2. The location section should reflect the kind of specific, observed detail that comes from actual knowledge of the block: "The Union Square Greenmarket operates four days a week at the north end of the park, under 500 feet from the building's front entrance" is more authoritative than a generic "close to amenities" statement.
+
+3. The tradeoffs section should read as genuine editorial judgment: stating honestly that the building is Class B prewar with real advantages and real limitations, rather than promotional copy.
+
+**6b. Expertise Signals:**
+
+- Include the year-built discrepancy note (city records vs. preservation records) and explain why the 1902 date is more accurate. This is the kind of specific, corrective detail that demonstrates expertise.
+- State the exact transit distance: "under 500 feet to the 14th Street-Union Square station entrance." This is verifiable and specific.
+- Reference the South of Union Square architectural survey context (Village Preservation's catalog) to place the building in a documented historical framework.
+- Use the specific architectural term: neo-Renaissance style.
+- Cite the approximate per-square-foot asking rent ($48/SF) with a date qualifier (as of early 2025 per available listing data).
+
+**6c. Freshness and Date-Stamping:**
+
+- "$48 per square foot" must be followed by "(as of early 2025, per available listing data)" or the closest accurate qualifier the writing agent can confirm.
+- Any rent range figures from the Claude AI response (studio: $3,200-$4,500/mo; 1BR: $4,200-$6,500/mo for the broader Greenwich Village area) must be qualified with "(approximate range, as of [Q/Year])" if included.
+- Include a "Last reviewed: [Month Year]" line at the bottom of the article.
+- The claims most likely to go stale: current floor availability, per-SF asking rent, specific restaurant names, and transit schedules.
+
+**6d. Information Gain:**
+
+Three specific pieces of information this article provides that no current top-ranking competitor covers:
+
+1. **The year-built discrepancy, explained.** Several sources list 1940; preservation records establish 1902. No current competitor addresses this conflict or explains it. This article resolves the discrepancy with a sourced explanation, which gives it authority and makes it the reference answer for AI engines.
+
+2. **The building's full historical context.** The Amalgamated Lithographers of America connection, architect Frank Goodwillie, builder Isaac A. Hopper and Son: none of the commercial listing pages or broker sites mention any of this. The villagepreservation.org entry mentions it but does not expand it. This article provides the most complete historical profile of the building currently available in editorial form.
+
+3. **An honest practical tradeoffs section.** Every competitor is either a seller (broker listing) or a data page (StreetEasy). No one writes a neutral editorial assessment of what it is actually like to be a tenant in this building versus alternatives. This section gives brightplace a unique editorial voice and provides the kind of genuine decision-support content that satisfies Google's Helpful Content standard.
+
+**6e. Helpful Content Checklist:**
+
+- **Clear, specific audience?** Yes: professionals and prospective tenants researching 113 University Place, New York, as a commercial address or location reference.
+- **First-hand expertise demonstrated?** Yes: through the year-built discrepancy resolution, the historical context, the transit-distance specificity, and the honest tradeoffs section.
+- **Reader leaves with enough to achieve their goal?** Yes: after reading, the searcher knows exactly what the building is, what it has historically housed, where it sits, what surrounds it, what it costs to rent space there, and what the honest tradeoffs are.
+- **Human editor at brightplace would be confident publishing this?** Yes: the brief follows all brand rules, uses no ILS citations, avoids all banned language, describes the neighborhood through lifestyle infrastructure only, and produces original editorial value rather than scraping or rephrasing competitor content.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+**7a. Current AI Citation Landscape:**
+
+**ChatGPT:** No ChatGPT response was provided in Data Source 3. The brief cannot confirm specific ChatGPT citations for this keyword.
+
+**Claude:** Claude's response cited the following sources and reasons:
+- StreetEasy: "Most reliable source for NYC apartment availability at a specific address." Cited for listing search and rental history.
+- Zillow: "Cross-reference pricing and management company info." Secondary source.
+- Apartments.com: "Secondary listing aggregation." Cross-reference use.
+- NYC DHCR (hcr.ny.gov): Rent stabilization verification tool.
+- NYC DOB Buildings Online Portal (nyc.gov/buildings): Building violation history and management company lookup.
+- brightplace.ai: Claude cited brightplace directly as "AI-native rental discovery platform that publishes neighborhood-level guides for NYC; useful for understanding neighborhood tradeoffs in Greenwich Village vs. comparable areas like the East Village or Flatiron." This is a citation in Claude's response.
+
+**Is brightplace cited?**
+- ChatGPT: Cannot confirm (no response provided).
+- Claude: **Yes.** brightplace was cited by Claude as a resource for understanding neighborhood tradeoffs in Greenwich Village.
+
+**7b. Citation Gap Analysis:**
+
+**What cited sources have that brightplace currently lacks for this keyword:**
+- StreetEasy has address-level listing data and rental history (brightplace cannot replicate transactional listing data; it should not try to).
+- NYC DHCR has rent stabilization records (governmental resource; brightplace should reference it, not compete with it).
+- NYC DOB has building violation history (same category).
+- What brightplace can provide that none of the above do: an integrated editorial profile that combines historical context, building specs, transit data, neighborhood lifestyle context, honest tradeoffs, and a practical decision framework in a single readable article.
+
+**Information gaps identified by Claude that this article should fill:**
+1. The year-built discrepancy (Claude noted a conflict between sources; this article should resolve it).
+2. Rent stabilization status guidance (applicable to residential context; this article should note that 113 University Place is a commercial building and point readers toward DHCR for residential buildings in the area).
+3. Comparable buildings on the same block (Claude mentioned 111, 115, 117 University Place as pricing benchmarks; this article can reference the block context briefly).
+4. Practical "what to do next" guidance for prospective tenants: contact the managing agent (Okada and Company), review NYC DOB records, understand the broker-exclusive nature of some commercial listings in this submarket.
+
+**7c. Citability Rules for the Writing Agent:**
+
+**Rule 1: First-paragraph rule.**
+The opening paragraph (under the first H2, "What Is 113 University Place?") must contain: (a) a direct statement of what the building is, (b) the specific location (corner of University Place and East 13th Street, Greenwich Village), and (c) at least one specific numerical data point (11 stories, 57,739 square feet, or the 1902 construction date). This paragraph must be 40-60 words. It is the featured snippet target and the LLM extraction point.
+
+**Rule 2: Structured data rule.**
+Include one clean two-column reference table in the "Building Details at a Glance" section, as specified in the outline. Column headers: "Detail" and "Information." The table should have 10-12 rows covering: address, alternate address, neighborhood, building class, stories, year built, total square footage, floor plate size, ceiling height, managing agent, and transit distance. No merged cells. No footnotes inside the table; add a short paragraph below the table for the year-built note.
+
+**Rule 3: Definition rule.**
+Define these terms at first use, in one clear sentence each:
+- **Building Class B:** A commercial building designation reflecting solid but not trophy construction, typically older prewar stock with character features and competitive (below Class A) rents.
+- **Full-floor tenancy:** A lease arrangement in which one tenant occupies the entire floor of a building, typically with direct private elevator access.
+- **Neo-Renaissance style:** An architectural style common in early 20th-century New York commercial buildings, characterized by ornamental masonry, arched windows, and symmetrical facades drawing on Italian Renaissance forms.
+- **South of Union Square:** A geographic submarket designation used by New York preservation and real estate professionals to describe the commercial corridor between 14th Street and Houston Street, west of Broadway.
+
+**Rule 4: Proof point rule.**
+The article must include these specific numerical claims, each with a date qualifier:
+1. "11 stories" and "approximately 57,739 square feet" (building size facts, no date needed as they are structural).
+2. "Built in 1902" (with the discrepancy note).
+3. "Under 500 feet to the 14th Street-Union Square subway station" (transit distance, sourced from building listing and mapping data).
+4. "$48 per square foot asking rent for full-floor space (as of early 2025, per available commercial listing data)."
+5. "Approximately 6,500 square feet per full floor" (from the marketed 6th floor listing).
+
+**Rule 5: FAQ rule.**
+The FAQ section must include the following 6 questions. Answer each in 40-60 words.
+
+1. **What is 113 University Place?** (From PAA / primary keyword query)
+Answer: Define the building, its location, use type, and construction date.
+
+2. **Where is 113 University Place on a map?** (From PAA: "113 university place map")
+Answer: Southeast corner of University Place and East 13th Street, Greenwich Village, Manhattan. One block south of Union Square. Include the nearest cardinal landmarks.
+
+3. **Is there a restaurant at 113 University Place?** (From PAA: "113 university place restaurant")
+Answer: 113 University Place is a commercial office building. It does not currently house a restaurant at the address. The surrounding block and Union Square corridor have a high concentration of dining options within a few minutes' walk.
+
+4. **When was 113 University Place built?** [CONTENT GAP: AI-identified discrepancy gap]
+Answer: Preservation records establish 1902 as the construction date. Some city property databases list 1940. The 1902 date reflects the original construction by architect Frank Goodwillie for the Thirteenth Street Co. The 1940 entry may reflect a renovation or reassessment record.
+
+5. **Who manages 113 University Place?** [CONTENT GAP: not covered by any competitor in editorial form]
+Answer: Okada and Company manages the building. Contact information for leasing inquiries is available through their office. The building is managed as a commercial loft property with full-floor availabilities marketed periodically.
+
+6. **What subway lines serve 113 University Place?** [AI-identified transit gap]
+Answer: The 14th Street-Union Square station is under 500 feet from the building and serves the L, N, Q, R, W, 4, 5, and 6 trains. The 8th Street-NYU station (R, W) is 0.24 miles away. Astor Place (6) is 0.3 miles south.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"Searching for apartments near Union Square or in Greenwich Village? brightplace uses AI to match you with available rentals based on what actually matters to you. See what is available in Manhattan on brightplace."
+
+Link to: brightplace.ai (main product or Manhattan search page)
+
+Placement: Once at the end of the article, after the FAQ section. Also once as a mid-article placement after the "Location and the Block" H2 section, where the reader's curiosity about the neighborhood is at its peak.
+
+Do not place a CTA after the building specs table; that section is functional and a CTA there would interrupt the reference use.
+
+**Secondary CTA:**
+If brightplace has a published Greenwich Village neighborhood guide or a Manhattan apartment search guide, link to it as a "related resource" at the end of the article with framing such as: "Looking for a broader picture of renting in Greenwich Village? brightplace's neighborhood guide covers rent ranges, transit, and what to expect block by block." The writing agent should reference the sitemap to confirm the exact URL.
+
+**CTA language rules (reinforced):**
+- No aggressive language. No "start your search today," no "find your dream apartment."
+- Frame as a natural next step: "If you are weighing apartments in this part of Manhattan, brightplace tracks availability and rent trends across Greenwich Village and the surrounding neighborhoods."
+- The CTA should feel like a helpful next step from a knowledgeable friend, not a product ad.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**The following rules are non-negotiable. Apply all of them without exception throughout the article.**
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+**TARGET WORD COUNT:** 950-1,100 words. Do not pad to hit a word count. Do not cut sections to shrink below 950 words. The outline is calibrated to this range.
+
+**TONE:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**SENTENCE STRUCTURE:** Short declarative sentences. Two short sentences over one compound sentence.
+
+**PARAGRAPH LENGTH:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**OPENING SENTENCE RULE:** No filler introductions. The first sentence of the article must contain the primary keyword ("113 University Place") and begin answering the query directly.
+
+**H2 OPENING RULE:** Every H2 section opens with its answer, not with context or background. The answer comes first. The context follows.
+
+**SCHEMA TO IMPLEMENT:**
+- Article schema: always.
+- FAQPage schema: always (for the FAQ section).
+- Speakable schema: apply to the opening summary paragraph under the first H2 and to the FAQ section.
+- HowTo schema: not warranted for this article type.
+
+**DATE QUALIFICATION:** Every dollar figure, rent range, asking rate, or factual claim that can change over time must include "(as of [Quarter Year])" immediately adjacent to the claim.
+
+**FRESHNESS NOTE:** Include "Last reviewed: [Month Year]" at the bottom of the article.
+
+**DO NOT:**
+- Cite StreetEasy, Zillow, or any ILS by name in the published text.
+- Use Walk Score, Bike Score, or Transit Score metrics.
+- Describe the neighborhood using demographic or crime-related language.
+- Use any banned word or phrase listed above.
+- Start any H2 section with background or context. Answer first.
+- Write a filler opening paragraph. The article begins with the answer.
