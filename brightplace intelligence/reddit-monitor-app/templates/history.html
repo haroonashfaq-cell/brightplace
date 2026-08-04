@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Run History{% endblock %}
+
+{% block content %}
+<h1 class="text-xl font-semibold text-white mb-6">Scout Run History</h1>
+
+{% if runs %}
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border overflow-hidden">
+    <table class="w-full text-sm">
+        <thead>
+            <tr class="border-b border-bp-dark-border text-gray-500 text-xs">
+                <th class="px-4 py-3 text-left">Run ID</th>
+                <th class="px-4 py-3 text-left">Started</th>
+                <th class="px-4 py-3 text-left">Finished</th>
+                <th class="px-4 py-3 text-left">Tiers</th>
+                <th class="px-4 py-3 text-right">Posts Checked</th>
+                <th class="px-4 py-3 text-right">Matched</th>
+                <th class="px-4 py-3 text-right">Opportunities</th>
+                <th class="px-4 py-3 text-left">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for run in runs %}
+            <tr class="border-b border-bp-dark-border/50 hover:bg-bp-dark-hover transition-colors">
+                <td class="px-4 py-3 text-gray-400">#{{ run.id }}</td>
+                <td class="px-4 py-3 text-gray-300">{{ run.started_at[:16] }}</td>
+                <td class="px-4 py-3 text-gray-400">{{ run.finished_at[:16] if run.finished_at else '—' }}</td>
+                <td class="px-4 py-3 text-gray-400">{{ run.tiers }}</td>
+                <td class="px-4 py-3 text-right text-gray-300">{{ run.posts_checked }}</td>
+                <td class="px-4 py-3 text-right text-gray-300">{{ run.posts_matched }}</td>
+                <td class="px-4 py-3 text-right text-bp-orange font-medium">{{ run.opportunities_found }}</td>
+                <td class="px-4 py-3">
+                    <span class="text-xs px-2.5 py-0.5 rounded-full
+                        {% if run.status == 'completed' %}bg-bp-teal-light text-bp-teal
+                        {% elif run.status == 'running' %}bg-bp-orange-light text-bp-orange
+                        {% else %}bg-red-900/30 text-red-400{% endif %}">
+                        {{ run.status }}
+                    </span>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-16 text-center">
+    <div class="text-gray-500">No scout runs yet. Click "Run Scout" to start.</div>
+</div>
+{% endif %}
+{% endblock %}

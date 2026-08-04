@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% block title %}Settings{% endblock %}
+
+{% block content %}
+<h1 class="text-xl font-semibold text-white mb-6">Settings</h1>
+
+<div class="grid grid-cols-2 gap-6">
+    <!-- Tone Profile -->
+    <div class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-5">
+        <h2 class="text-sm font-semibold text-bp-teal mb-3 tracking-wide">TONE PROFILE</h2>
+        <form action="/settings/tone" method="post">
+            <textarea name="tone_profile" rows="12"
+                class="w-full bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white placeholder-gray-600 focus:border-bp-orange focus:outline-none font-mono">{{ tone_profile }}</textarea>
+            <button type="submit" class="mt-3 bg-bp-orange hover:bg-bp-orange-hover text-bp-dark px-4 py-2 rounded text-sm font-semibold transition-colors">Save Tone</button>
+        </form>
+    </div>
+
+    <!-- Right column -->
+    <div>
+        <!-- Promotional Ratio -->
+        <div class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-5 mb-6">
+            <h2 class="text-sm font-semibold text-bp-teal mb-3 tracking-wide">PROMOTIONAL RATIO</h2>
+            <p class="text-gray-500 text-xs mb-3">Percentage of answers that include a brightplace link. Reddit best practice: keep under 20%.</p>
+            <form action="/settings/ratio" method="post" class="flex gap-3 items-center">
+                <input type="number" name="promotional_ratio" value="{{ promotional_ratio }}" min="0" max="0.5" step="0.05"
+                    class="bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white w-24 focus:border-bp-orange focus:outline-none">
+                <span class="text-gray-500 text-sm">= {{ (promotional_ratio|float * 100)|int }}%</span>
+                <button type="submit" class="bg-bp-orange hover:bg-bp-orange-hover text-bp-dark px-4 py-2 rounded text-sm font-semibold transition-colors">Save</button>
+            </form>
+        </div>
+
+        <!-- Add Subreddit -->
+        <div class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-5">
+            <h2 class="text-sm font-semibold text-bp-teal mb-3 tracking-wide">ADD SUBREDDIT</h2>
+            <form action="/settings/subreddit/add" method="post" class="flex gap-3">
+                <input type="text" name="name" placeholder="subreddit name" required
+                    class="bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white placeholder-gray-600 focus:border-bp-orange focus:outline-none flex-1">
+                <select name="tier" class="bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white focus:border-bp-orange focus:outline-none">
+                    <option value="high">High Priority</option>
+                    <option value="city" selected>City</option>
+                    <option value="topical">Topical</option>
+                </select>
+                <button type="submit" class="bg-bp-orange hover:bg-bp-orange-hover text-bp-dark px-4 py-2 rounded text-sm font-semibold transition-colors">Add</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Subreddit List -->
+<div class="mt-6 bg-bp-dark-card rounded-xl border border-bp-dark-border overflow-hidden">
+    <h2 class="text-sm font-semibold text-bp-teal px-5 py-3 border-b border-bp-dark-border tracking-wide">MONITORED SUBREDDITS ({{ subreddits|length }})</h2>
+    <div class="grid grid-cols-3 gap-0">
+        {% for sub in subreddits %}
+        <div class="px-4 py-2.5 border-b border-bp-dark-border/50 flex items-center justify-between hover:bg-bp-dark-hover transition-colors">
+            <div class="flex items-center gap-2">
+                <span class="text-xs px-2 py-0.5 rounded-full font-medium
+                    {% if sub.tier == 'high' %}bg-bp-orange-light text-bp-orange
+                    {% elif sub.tier == 'city' %}bg-bp-teal-light text-bp-teal
+                    {% else %}bg-bp-dark text-gray-400{% endif %}">{{ sub.tier }}</span>
+                <span class="text-sm {% if sub.enabled %}text-white{% else %}text-gray-600 line-through{% endif %}">r/{{ sub.name }}</span>
+            </div>
+            <div class="flex gap-2">
+                <form action="/settings/subreddit/{{ sub.id }}/toggle" method="post" class="inline">
+                    <input type="hidden" name="enabled" value="{{ 0 if sub.enabled else 1 }}">
+                    <button type="submit" class="text-xs font-medium {% if sub.enabled %}text-bp-teal{% else %}text-gray-600{% endif %}">
+                        {{ 'ON' if sub.enabled else 'OFF' }}
+                    </button>
+                </form>
+                <form action="/settings/subreddit/{{ sub.id }}/delete" method="post" class="inline">
+                    <button type="submit" class="text-xs text-gray-600 hover:text-red-400 transition-colors" onclick="return confirm('Delete r/{{ sub.name }}?')">x</button>
+                </form>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

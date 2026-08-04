@@ -1,0 +1,164 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<!-- Stats -->
+<div class="grid grid-cols-4 gap-4 mb-8">
+    <div class="bg-bp-dark-card rounded-xl p-5 border border-bp-dark-border">
+        <div class="text-3xl font-bold text-white">{{ stats.total }}</div>
+        <div class="text-sm text-gray-500 mt-1">Total Opportunities</div>
+    </div>
+    <div class="bg-bp-dark-card rounded-xl p-5 border border-bp-dark-border">
+        <div class="text-3xl font-bold text-bp-orange">{{ stats.pending }}</div>
+        <div class="text-sm text-gray-500 mt-1">Pending Review</div>
+    </div>
+    <div class="bg-bp-dark-card rounded-xl p-5 border border-bp-dark-border">
+        <div class="text-3xl font-bold text-bp-teal">{{ stats.posted }}</div>
+        <div class="text-sm text-gray-500 mt-1">Posted</div>
+    </div>
+    <div class="bg-bp-dark-card rounded-xl p-5 border border-bp-dark-border">
+        <div class="text-3xl font-bold text-gray-600">{{ stats.dismissed }}</div>
+        <div class="text-sm text-gray-500 mt-1">Dismissed</div>
+    </div>
+</div>
+
+<!-- Filters -->
+<div class="flex gap-2 mb-6">
+    <a href="/" class="px-4 py-1.5 rounded-full text-sm font-medium transition-colors {% if not filter_status %}bg-bp-orange-light text-bp-orange border border-bp-orange/30{% else %}bg-bp-dark-card text-gray-400 border border-bp-dark-border hover:text-white{% endif %}">All</a>
+    <a href="/?status=pending" class="px-4 py-1.5 rounded-full text-sm font-medium transition-colors {% if filter_status == 'pending' %}bg-bp-orange-light text-bp-orange border border-bp-orange/30{% else %}bg-bp-dark-card text-gray-400 border border-bp-dark-border hover:text-white{% endif %}">Pending</a>
+    <a href="/?status=posted" class="px-4 py-1.5 rounded-full text-sm font-medium transition-colors {% if filter_status == 'posted' %}bg-bp-teal-light text-bp-teal border border-bp-teal/30{% else %}bg-bp-dark-card text-gray-400 border border-bp-dark-border hover:text-white{% endif %}">Posted</a>
+    <a href="/?status=dismissed" class="px-4 py-1.5 rounded-full text-sm font-medium transition-colors {% if filter_status == 'dismissed' %}bg-bp-dark-card text-gray-400 border border-gray-600{% else %}bg-bp-dark-card text-gray-400 border border-bp-dark-border hover:text-white{% endif %}">Dismissed</a>
+</div>
+
+<!-- Opportunities -->
+{% if opportunities %}
+{% for opp in opportunities %}
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border mb-4 overflow-hidden hover:border-bp-dark-hover transition-colors">
+    <!-- Header -->
+    <div class="px-5 py-3 border-b border-bp-dark-border flex items-center justify-between">
+        <div class="flex items-center gap-3">
+            <span class="text-xs font-semibold px-2.5 py-0.5 rounded-full
+                {% if opp.relevance == 'HIGH' %}bg-bp-orange-light text-bp-orange
+                {% elif opp.relevance == 'MEDIUM' %}bg-bp-teal-light text-bp-teal
+                {% else %}bg-bp-dark text-gray-400{% endif %}">
+                {{ opp.relevance }}
+            </span>
+            <span class="text-xs text-gray-500">r/{{ opp.subreddit }}</span>
+            {% if opp.is_promotional %}
+            <span class="text-xs px-2.5 py-0.5 rounded-full bg-bp-teal-light text-bp-teal">promotional</span>
+            {% endif %}
+            {% if opp.status == 'posted' %}
+            <span class="text-xs px-2.5 py-0.5 rounded-full bg-bp-teal-light text-bp-teal">posted</span>
+            {% elif opp.status == 'dismissed' %}
+            <span class="text-xs px-2.5 py-0.5 rounded-full bg-bp-dark text-gray-500">dismissed</span>
+            {% endif %}
+        </div>
+        <span class="text-xs text-gray-600">{{ opp.created_at[:16] }}</span>
+    </div>
+
+    <!-- Post Title -->
+    <div class="px-5 py-4">
+        <a href="{{ opp.post_url }}" target="_blank" class="text-white font-medium hover:text-bp-orange text-sm transition-colors">
+            {{ opp.post_title }}
+        </a>
+        {% if opp.post_body %}
+        <p class="text-gray-500 text-xs mt-1.5 line-clamp-2 leading-relaxed">{{ opp.post_body[:200] }}</p>
+        {% endif %}
+    </div>
+
+    <!-- Drafted Answer -->
+    <div class="px-5 py-4 bg-bp-dark/50 border-t border-bp-dark-border">
+        <div class="text-xs text-bp-teal mb-2 font-semibold tracking-wide">DRAFTED ANSWER</div>
+        <div class="text-sm text-gray-300 whitespace-pre-wrap leading-relaxed" id="answer-{{ opp.id }}">{{ opp.drafted_answer }}</div>
+
+        {% if opp.suggested_link %}
+        <div class="mt-3 text-xs text-bp-teal">
+            Suggested link: <a href="{{ opp.suggested_link }}" target="_blank" class="underline hover:text-bp-orange transition-colors">{{ opp.suggested_link }}</a>
+        </div>
+        {% endif %}
+    </div>
+
+    <!-- Actions -->
+    <div class="px-5 py-3 border-t border-bp-dark-border flex items-center gap-3">
+        <button onclick="copyAnswer({{ opp.id }})" class="bg-bp-orange hover:bg-bp-orange-hover text-bp-dark text-xs px-4 py-1.5 rounded font-semibold transition-colors">
+            Copy Answer
+        </button>
+        <form action="/opportunity/{{ opp.id }}/regenerate" method="post" class="inline">
+            <button type="submit" class="bg-bp-dark border border-bp-dark-border hover:border-bp-teal text-gray-300 text-xs px-3 py-1.5 rounded transition-colors">
+                Regenerate
+            </button>
+        </form>
+        {% if opp.status == 'pending' %}
+        <form action="/opportunity/{{ opp.id }}/status" method="post" class="inline">
+            <input type="hidden" name="status" value="posted">
+            <button type="submit" class="bg-bp-teal-light border border-bp-teal/30 hover:bg-bp-teal hover:text-white text-bp-teal text-xs px-3 py-1.5 rounded transition-colors">
+                Mark Posted
+            </button>
+        </form>
+        <form action="/opportunity/{{ opp.id }}/status" method="post" class="inline">
+            <input type="hidden" name="status" value="dismissed">
+            <button type="submit" class="text-gray-500 hover:text-gray-300 text-xs px-3 py-1.5 rounded border border-bp-dark-border transition-colors">
+                Dismiss
+            </button>
+        </form>
+        {% endif %}
+        <a href="{{ opp.post_url }}" target="_blank" class="text-xs text-gray-500 hover:text-bp-orange ml-auto transition-colors">
+            Open on Reddit &rarr;
+        </a>
+    </div>
+</div>
+{% endfor %}
+{% else %}
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-16 text-center">
+    <div class="text-gray-500 text-lg mb-2">No opportunities yet</div>
+    <div class="text-gray-600 text-sm">Click "Run Scout" to scan Reddit for relevant posts</div>
+</div>
+{% endif %}
+
+<!-- Recent Runs -->
+{% if runs %}
+<div class="mt-10">
+    <h2 class="text-sm font-semibold text-bp-teal mb-3 tracking-wide">RECENT RUNS</h2>
+    <div class="bg-bp-dark-card rounded-xl border border-bp-dark-border overflow-hidden">
+        <table class="w-full text-sm">
+            <thead>
+                <tr class="border-b border-bp-dark-border text-gray-500 text-xs">
+                    <th class="px-4 py-3 text-left">Time</th>
+                    <th class="px-4 py-3 text-left">Posts Checked</th>
+                    <th class="px-4 py-3 text-left">Matched</th>
+                    <th class="px-4 py-3 text-left">Opportunities</th>
+                    <th class="px-4 py-3 text-left">Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for run in runs %}
+                <tr class="border-b border-bp-dark-border/50 hover:bg-bp-dark-hover transition-colors">
+                    <td class="px-4 py-3 text-gray-400">{{ run.started_at[:16] }}</td>
+                    <td class="px-4 py-3 text-gray-300">{{ run.posts_checked }}</td>
+                    <td class="px-4 py-3 text-gray-300">{{ run.posts_matched }}</td>
+                    <td class="px-4 py-3 text-bp-orange font-medium">{{ run.opportunities_found }}</td>
+                    <td class="px-4 py-3">
+                        <span class="text-xs px-2.5 py-0.5 rounded-full
+                            {% if run.status == 'completed' %}bg-bp-teal-light text-bp-teal
+                            {% elif run.status == 'running' %}bg-bp-orange-light text-bp-orange
+                            {% else %}bg-red-900/30 text-red-400{% endif %}">
+                            {{ run.status }}
+                        </span>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endif %}
+
+<script>
+function copyAnswer(id) {
+    const el = document.getElementById('answer-' + id);
+    navigator.clipboard.writeText(el.textContent.trim());
+    event.target.textContent = 'Copied!';
+    setTimeout(() => { event.target.textContent = 'Copy Answer'; }, 2000);
+}
+</script>
+{% endblock %}

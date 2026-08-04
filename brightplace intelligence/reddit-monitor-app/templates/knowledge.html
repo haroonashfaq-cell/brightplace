@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Knowledge Base{% endblock %}
+
+{% block content %}
+<h1 class="text-xl font-semibold text-white mb-2">Knowledge Base</h1>
+<p class="text-gray-500 text-sm mb-6">Articles that the AI can reference when drafting Reddit answers. Keywords determine which posts match which articles.</p>
+
+<!-- Add Article -->
+<form action="/knowledge/add" method="post" class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-5 mb-6">
+    <h2 class="text-sm font-semibold text-bp-teal mb-3 tracking-wide">ADD ARTICLE</h2>
+    <div class="grid grid-cols-3 gap-4">
+        <input type="text" name="title" placeholder="Article title" required
+            class="bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white placeholder-gray-600 focus:border-bp-orange focus:outline-none">
+        <input type="text" name="url" placeholder="https://www.brightplace.ai/..." required
+            class="bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white placeholder-gray-600 focus:border-bp-orange focus:outline-none">
+        <div class="flex gap-2">
+            <input type="text" name="keywords" placeholder="keyword1, keyword2, ..."
+                class="bg-bp-dark border border-bp-dark-border rounded-lg px-3 py-2 text-sm text-white placeholder-gray-600 focus:border-bp-orange focus:outline-none flex-1">
+            <button type="submit" class="bg-bp-orange hover:bg-bp-orange-hover text-bp-dark px-4 py-2 rounded text-sm font-semibold transition-colors">Add</button>
+        </div>
+    </div>
+</form>
+
+<!-- Articles List -->
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border overflow-hidden">
+    <table class="w-full text-sm">
+        <thead>
+            <tr class="border-b border-bp-dark-border text-gray-500 text-xs">
+                <th class="px-4 py-3 text-left">Title</th>
+                <th class="px-4 py-3 text-left">URL</th>
+                <th class="px-4 py-3 text-left">Keywords</th>
+                <th class="px-4 py-3 text-right">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for art in articles %}
+            <tr class="border-b border-bp-dark-border/50 hover:bg-bp-dark-hover transition-colors">
+                <td class="px-4 py-2.5 text-white">{{ art.title }}</td>
+                <td class="px-4 py-2.5">
+                    <a href="{{ art.url }}" target="_blank" class="text-bp-teal hover:text-bp-orange text-xs truncate block max-w-xs transition-colors">{{ art.url }}</a>
+                </td>
+                <td class="px-4 py-2.5 text-gray-500 text-xs">{{ art.keywords }}</td>
+                <td class="px-4 py-2.5 text-right">
+                    <form action="/knowledge/{{ art.id }}/delete" method="post" class="inline">
+                        <button type="submit" class="text-gray-500 hover:text-red-400 text-xs transition-colors" onclick="return confirm('Delete this article?')">Delete</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<div class="text-gray-500 text-xs mt-3">{{ articles|length }} articles in knowledge base</div>
+{% endblock %}

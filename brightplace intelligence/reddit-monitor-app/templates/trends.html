@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Trends{% endblock %}
+
+{% block content %}
+<h1 class="text-xl font-semibold text-white mb-2">Trending Topics</h1>
+<p class="text-gray-500 text-sm mb-6">Terms appearing frequently across monitored subreddits. Use these to identify content opportunities.</p>
+
+{% if trends %}
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border overflow-hidden">
+    {% for trend in trends %}
+    <div class="px-5 py-3.5 border-b border-bp-dark-border/50 flex items-center justify-between hover:bg-bp-dark-hover transition-colors">
+        <div class="flex items-center gap-4">
+            <span class="text-white font-medium">{{ trend.term }}</span>
+            <span class="text-gray-500 text-xs">{{ trend.subs }}</span>
+        </div>
+        <div class="flex items-center gap-3">
+            <div class="bg-bp-dark rounded-full h-2 w-32">
+                <div class="bg-bp-orange rounded-full h-2 transition-all" style="width: {{ [trend.total * 5, 100]|min }}%"></div>
+            </div>
+            <span class="text-bp-orange text-sm font-medium w-12 text-right">{{ trend.total }}</span>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<div class="bg-bp-dark-card rounded-xl border border-bp-dark-border p-16 text-center">
+    <div class="text-gray-500">No trend data yet. Trends are collected during scout runs.</div>
+</div>
+{% endif %}
+{% endblock %}

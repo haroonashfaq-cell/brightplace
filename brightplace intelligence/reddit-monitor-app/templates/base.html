@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Reddit Monitor{% endblock %} — brightplace</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        bp: {
+                            orange: '#F5A623',
+                            'orange-hover': '#E6951A',
+                            'orange-light': 'rgba(245, 166, 35, 0.12)',
+                            teal: '#00BCD4',
+                            'teal-hover': '#00ACC1',
+                            'teal-light': 'rgba(0, 188, 212, 0.12)',
+                            dark: '#1A1A1A',
+                            'dark-card': '#222222',
+                            'dark-border': '#2E2E2E',
+                            'dark-hover': '#2A2A2A',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif; }
+        .nav-active { background-color: rgba(245, 166, 35, 0.15); color: #F5A623; }
+    </style>
+</head>
+<body class="bg-bp-dark text-gray-300 min-h-screen">
+    <!-- Nav -->
+    <nav class="bg-bp-dark-card border-b border-bp-dark-border px-6 py-3 flex items-center justify-between">
+        <div class="flex items-center gap-6">
+            <span class="text-lg font-semibold text-bp-orange tracking-tight">brightplace <span class="text-bp-teal font-normal text-sm">reddit monitor</span></span>
+            <a href="/" class="px-3 py-1.5 rounded text-sm {% if page == 'dashboard' %}nav-active{% else %}text-gray-400 hover:text-bp-orange{% endif %}">Dashboard</a>
+            <a href="/knowledge" class="px-3 py-1.5 rounded text-sm {% if page == 'knowledge' %}nav-active{% else %}text-gray-400 hover:text-bp-orange{% endif %}">Knowledge Base</a>
+            <a href="/trends" class="px-3 py-1.5 rounded text-sm {% if page == 'trends' %}nav-active{% else %}text-gray-400 hover:text-bp-orange{% endif %}">Trends</a>
+            <a href="/history" class="px-3 py-1.5 rounded text-sm {% if page == 'history' %}nav-active{% else %}text-gray-400 hover:text-bp-orange{% endif %}">History</a>
+            <a href="/warmup" class="px-3 py-1.5 rounded text-sm {% if page == 'warmup' %}nav-active{% else %}text-gray-400 hover:text-bp-orange{% endif %}">Account Warmup</a>
+            <a href="/settings" class="px-3 py-1.5 rounded text-sm {% if page == 'settings' %}nav-active{% else %}text-gray-400 hover:text-bp-orange{% endif %}">Settings</a>
+        </div>
+        <div class="flex items-center gap-2">
+            <form action="/scout/run" method="post">
+                <input type="hidden" name="test_mode" value="1">
+                <button type="submit" class="bg-bp-dark border border-bp-dark-border hover:border-bp-teal text-bp-teal px-4 py-1.5 rounded text-sm font-medium transition-colors">
+                    Test Scout
+                </button>
+            </form>
+            <form action="/scout/run" method="post">
+                <button type="submit" class="bg-bp-orange hover:bg-bp-orange-hover text-bp-dark px-4 py-1.5 rounded text-sm font-semibold transition-colors">
+                    Run Scout
+                </button>
+            </form>
+        </div>
+    </nav>
+
+    <!-- Content -->
+    <main class="max-w-7xl mx-auto px-6 py-8">
+        {% block content %}{% endblock %}
+    </main>
+</body>
+</html>
