@@ -1,0 +1,360 @@
+# CONTENT BRIEF: Eastgate Apartments
+### brightplace.ai/knowledgebase/eastgate-apartments
+### Prepared for: AI Writing Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP for "eastgate apartments" is dominated by **individual property listing/marketing pages** — each representing a specific Eastgate-branded apartment community in a different city (Tulsa OK, Wichita KS, Portland OR, Mishawaka IN, Spokane Valley WA, Manchester NH, Triangle VA, New Prague MN, Gainesville FL, Elmira NY, Greenville NC). There is no editorial content, no how-to guide, and no comparison piece in the top results. Every ranking page is a property website or affordable housing directory listing.
+
+This creates a significant content gap: **no informational, audience-serving article exists for this keyword.** The article brightplace publishes should be a **navigational + informational guide** that helps searchers who typed "eastgate apartments" without knowing which specific property or city they mean. This format is not a listicle and not a how-to. It is a **disambiguation and decision guide** — orienting the searcher, helping them identify which Eastgate community is relevant to them, and giving them the research framework to evaluate it.
+
+### 1b. Content Depth Benchmark
+
+Competitor pages are property marketing pages, not editorial content. Their word counts are typically 300-600 words of actual readable copy (rest is UI elements, nav, and image alt text). Since no editorial content exists for this query, brightplace can own the informational space with **1,100-1,400 words** — enough to comprehensively answer the disambiguation question, cover evaluation criteria, and address PAA queries without padding.
+
+**Target word count: 1,200 words.**
+
+### 1c. SERP Features Present
+
+- **People Also Ask (PAA):** Active and extensive (11 questions identified, all geographic variants of "eastgate apartments [city]"). These indicate strong navigational intent across many markets. Each city-specific PAA question should be addressed structurally in the article (see outline Section 5).
+- **Featured Snippet:** Not present. This is an opportunity. The opening section of the article should be formatted to claim it with a 40-60 word direct answer.
+- **Local Pack:** Likely present for users with location data enabled, but not a universal SERP feature for this query without geographic modifier.
+- **AI Overview:** Not confirmed present, but Claude's response (Data Source 3) demonstrates that AI engines are already synthesizing answers for this query. The article should be structured to be cited by those AI Overviews.
+- **Video Carousel:** Not identified for this keyword.
+- **Knowledge Panel:** Not identified.
+
+**Structural targeting:**
+- Featured snippet target: Opening H2 paragraph (40-60 words, direct answer).
+- PAA targeting: Dedicated H2 or H3 subsections for each geographic variant (Tulsa, Wichita, Mishawaka, Manchester, etc.).
+- AI Overview targeting: Definition block, comparison table, numbered decision framework.
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** The searcher is trying to locate and evaluate a specific apartment community called "Eastgate Apartments" but has not yet specified a city, meaning they either need help identifying which property applies to their market or need a framework for evaluating any Eastgate community they are considering.
+
+**Primary intent:** Navigational/Informational hybrid. The searcher knows the name "Eastgate Apartments" but needs geographic or evaluative context to take the next step.
+
+**Secondary intent:** Transactional — they are actively searching for a rental and may convert if given a clear path to availability and search tools.
+
+The disambiguation guide format directly matches this intent. The article must orient the searcher first, then give them the decision tools to move forward. Do not assume the searcher is in Tulsa or any single market.
+
+---
+
+## 2. Recommended Titles
+
+**Option A (recommended):**
+What to Know About Eastgate Apartments Before You Rent
+
+**Option B:**
+A Practical Look at Eastgate Apartments Across the U.S.
+
+**Option C:**
+How to Research Eastgate Apartments in Your City
+
+---
+
+**Recommended meta description (under 155 characters):**
+"Eastgate Apartments" refers to dozens of communities across the U.S. Here is how to find the right one for your city and what to check before you sign.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/eastgate-apartments`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is an **active renter in the comparison or decision stage** who has encountered the name "Eastgate Apartments" — through a referral, a Google Maps result, a property sign, or a friend's recommendation — and is now trying to learn more before scheduling a tour or applying. They are likely a **first-time renter, young professional, or relocating family** in a mid-size U.S. city. Their core problem is that the name "Eastgate Apartments" appears in multiple cities and markets, and they need to confirm they are looking at the right property, understand what a typical Eastgate community offers, and know what questions to ask before committing. Based on SERP analysis, they expect a page that either is the property itself or helps them find and evaluate the correct one.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+eastgate apartments
+
+**Secondary keywords:**
+- eastgate apartments [city] (Tulsa, Wichita, Mishawaka, Manchester, Portland, Spokane Valley, Triangle VA, New Prague, Gainesville, Elmira, Rochester MN, Owatonna, North Little Rock, Topeka, Newnan GA, Tahlequah, Waco, Oakdale MN)
+- eastgate apartment homes
+- eastgate apartments floor plans
+- eastgate apartments 1 bedroom
+- eastgate apartments 2 bedroom
+- eastgate apartments 3 bedroom
+- eastgate apartments for rent
+- eastgate apartments reviews
+- eastgate apartments pet policy
+- eastgate apartments amenities
+- eastgate apartments availability
+- apartments named eastgate
+- eastgate community apartments
+- affordable apartments eastgate
+- eastgate apartments income restricted
+
+**Entities to mention:**
+- Tulsa, OK (Eastgate at 14041 East 24th Street)
+- Wichita, KS (Eastgate at 632 S Eastern)
+- Mishawaka, IN (Eastgate Community at 900 Roosevelt Drive)
+- Manchester, NH (Eastgate at 125 Eastgate Way)
+- Spokane Valley, WA (Eastgate at 15913 E 4th Ave)
+- Triangle, VA / Northern Virginia / I-95 corridor
+- Portland, OR (Eastgate Station at 100 NE 120th Ave)
+- Section 8 / Project-Based Rental Assistance (for income-qualified properties)
+- LIHTC (Low Income Housing Tax Credit)
+- Floor plan types: 1BR, 2BR, 3BR, townhome
+- Lease term standards (12-month)
+- Pet policy (breed restrictions, weight limits, pet deposit)
+- Parawest / Monarch Investment / Makor Capital / Quantum Residential (management companies associated with various Eastgate properties — establishes entity coverage without endorsing)
+- IntentOS / brightplace (CTA integration)
+
+**Terms to AVOID:**
+All terms in brand rules (em dash, "signal," "deep dive," "navigate," "landscape," "unlock," "leverage," "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving"). Also avoid: "best," "top," "ultimate," superlatives. Do not name or link to Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com, ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes, Walk Score, Reddit, or City-Data.
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** What to Know About Eastgate Apartments Before You Rent
+
+*Writing instruction: The H1 must contain the primary keyword and frame the article as utility-first. No tagline, no promotional language. This is a direct, practical title.*
+
+---
+
+**H2: "Eastgate Apartments" Is a Name Shared by Communities in Dozens of U.S. Cities**
+
+*Writing instruction: Open with the direct answer in 40-60 words: this is a generic property name, not a single company or brand, and the reader must identify which market they are in before any other research makes sense. This paragraph targets the featured snippet. Do not bury this fact.*
+
+**Opening paragraph (40-60 words, featured snippet target):**
+The writer must deliver this message clearly: "Eastgate Apartments" is a common community name used by unrelated property owners across the United States. Cities with confirmed Eastgate-branded communities include Tulsa, Wichita, Mishawaka, Manchester, Spokane Valley, Portland, Triangle (Virginia), and more. The first step is confirming which city and address applies to your search.
+
+**H3: Confirmed Eastgate Apartment Communities by City**
+
+*Writing instruction: Present a structured comparison table listing confirmed Eastgate communities. Columns: City/State | Address | Unit Types | Management Group | Affordability Status. Use data from competitor sources only. Do not fabricate details. If data is not confirmed, write "Contact property for details." This table is an AI citation target and a PAA disambiguation tool.*
+
+**[CONTENT GAP]** *Note: No competitor and no current SERP result provides a consolidated, multi-city disambiguation table for "Eastgate Apartments." This is the highest-value content gap. brightplace is the only source that will provide this at the informational level.*
+
+**Table structure (writer must build from confirmed competitor data):**
+
+| City, State | Address | Unit Types | Affordability Status |
+|---|---|---|---|
+| Tulsa, OK | 14041 East 24th St | 1BR, 2BR, 3BR | Market rate |
+| Wichita, KS | 632 S Eastern | 1BR, 2BR, 3BR | Market rate |
+| Mishawaka, IN | 900 Roosevelt Dr | 1BR, 2BR | Income-qualified (Section 8 PBRA) |
+| Manchester, NH | 125 Eastgate Way | 1BR, 2BR, 3BR (townhomes) | Market rate |
+| Spokane Valley, WA | 15913 E 4th Ave | Multiple | Market rate |
+| Portland, OR | 100 NE 120th Ave | 1BR, 2BR, 3BR, 4BR | Income-qualified |
+| Triangle, VA | Near I-95 / Route 1 | Not specified | Market rate |
+| Elmira, NY | 150 Harriet St | 1BR, 2BR | Income-qualified (60% AMI) |
+| New Prague, MN | 1200 4th St NE | 2BR, 3BR townhomes | Market rate |
+| Gainesville, FL | 1100 SE 43rd St | Not specified | LIHTC (accepts HCV) |
+
+*Writer note: Verify table data against competitor sources provided. Do not add cities not confirmed in source data. Do not fabricate prices.*
+
+---
+
+**H2: What Eastgate Apartment Communities Typically Offer**
+
+*Writing instruction: Describe the common features found across the Eastgate-branded communities in the competitor data. Do not pick one property as the reference. Speak to the general profile: floor plan range, pet policies, amenity patterns, lease terms. This section answers the general "what are eastgate apartments like" intent. Keep honest about variation across properties.*
+
+Content to cover:
+- Floor plan range: Most Eastgate communities offer 1, 2, and 3 bedroom layouts. A few offer townhome-style units (Manchester, New Prague). Square footage typically ranges from 595 to 1,200+ sq ft depending on unit type and market.
+- Amenities: Swimming pools, fitness centers, laundry facilities, and outdoor spaces (patios, balconies, playgrounds) appear consistently across multiple Eastgate communities. Not all communities have all features — the writer must note this varies by property.
+- Pet policies: Many Eastgate communities are pet-friendly but with restrictions. Common pattern: 2-pet maximum, weight limits (30 lbs in Tulsa), breed restrictions, pet deposit ($150 at Eastgate Tulsa), and monthly pet rent ($20/month at Eastgate Tulsa). The writer should advise readers to confirm pet policy directly with each property.
+- Lease terms: 12-month leases are standard across the market-rate Eastgate communities reviewed.
+- Affordability tiers: Some Eastgate-branded properties are fully income-qualified (Section 8 PBRA, LIHTC, USDA 515). These have income limits and waiting lists. Others are market rate. This distinction matters enormously — the writer must flag it clearly.
+
+---
+
+**H2: How to Evaluate an Eastgate Apartment Before Signing**
+
+*Writing instruction: Provide a practical decision framework for evaluating any Eastgate community. This is the core utility section. Five concrete evaluation criteria, each in its own short paragraph. Source from Claude's analysis (Data Source 3) but do not cite Claude. This section constitutes information gain — no competitor covers it.*
+
+**[CONTENT GAP]** *No competitor provides a renter decision framework. This section differentiates the brightplace article from every property marketing page currently ranking.*
+
+Five evaluation criteria to cover:
+1. **Confirm the correct property.** Use the address, not just the name. Multiple properties share the name. Add the city and zip to any search.
+2. **Ask about effective rent, not listed rent.** Concessions (move-in specials, free months) are common. The Wichita Eastgate offered $500 off first month. New Prague offered up to $2,000 free rent. Listed rent and effective rent may differ. Always ask what you actually pay in month one and month 13.
+3. **Understand the affordability classification.** Market-rate and income-qualified Eastgate properties look similar online but have very different application processes. Income-qualified properties (Mishawaka, Portland, Gainesville, Elmira) require income verification and may have waiting lists. Market-rate properties generally do not.
+4. **Verify the pet policy in writing.** Breed restriction lists vary by property and management company. Confirm before applying if you have a dog, particularly a mixed breed.
+5. **Check the management company.** Eastgate-branded properties are managed by different companies (Parawest in Tulsa, Monarch Investment in Wichita, Makor Capital in Manchester, etc.). Management quality varies. Ask about maintenance response times and online rent payment options during the tour.
+
+---
+
+**H2: Eastgate Apartments for Rent: Market-Rate vs. Income-Qualified Properties**
+
+*Writing instruction: This section directly addresses the income-qualified/affordable housing angle that appears prominently in the competitor data (Mishawaka, Gainesville, Elmira, Henderson TN, and others). Many searchers landing on "eastgate apartments" may be looking specifically for affordable housing. This section clarifies the distinction and gives practical guidance for both segments.*
+
+**[CONTENT GAP]** *No competitor content in the SERP makes this distinction clear. AI engines noted it, but no editorial source covers it. This is a significant information gap and a citability opportunity.*
+
+Content to cover:
+- Market-rate Eastgate communities: No income limits. Apply, qualify on credit and income, sign lease. Examples: Tulsa, Wichita, Spokane Valley, Manchester, New Prague.
+- Income-qualified Eastgate communities: Income must fall below a specific percentage of Area Median Income (AMI). Programs vary: Section 8 Project-Based Rental Assistance (PBRA), Low Income Housing Tax Credit (LIHTC), USDA Section 515. Waiting lists are common and sometimes long.
+- PBRA definition: Project-Based Rental Assistance means the subsidy is attached to the unit, not the resident. Residents typically pay 30% of their income toward rent; the federal program covers the rest. Residents who move out lose the subsidy. (Mishawaka, Elmira, Henderson TN examples.)
+- LIHTC definition: The subsidy goes to the building owner at construction. Renters pay below-market rent but not the deeply discounted rent of PBRA properties. Residents can use Section 8 Housing Choice Vouchers at LIHTC properties. (Gainesville example.)
+- Writer must advise: If you have a Section 8 HCV (Housing Choice Voucher), confirm with the specific Eastgate property whether they accept vouchers before applying.
+
+---
+
+**H2: Eastgate Apartments by City: What the PAA Data Shows Searchers Are Looking For**
+
+*Writing instruction: Address the most prominent PAA geographic variants. This section functions as a mini-disambiguation index. For each city listed in PAA, provide 2-3 sentences confirming what is known about that Eastgate community from the competitor data or noting that search results for that market are mixed and the reader should confirm the address. This section directly targets PAA features and AI Overview coverage.*
+
+Cities to address (sourced from PAA data in Data Source 2 and competitor data in Data Source 1):
+- **Tulsa, OK:** Confirmed at 14041 East 24th Street, managed by Parawest. Market-rate, 1-3BR, pet-friendly with restrictions. New ownership as of recent period.
+- **Wichita, KS:** Confirmed at 632 S Eastern, managed by Monarch Investment. 1-3BR, market-rate, fitness center and pool on site. Recently offered move-in concessions.
+- **Mishawaka, IN:** Confirmed at 900 Roosevelt Drive. Income-qualified community (Section 8 PBRA). Waiting list likely. Not a market-rate property. Call the property to confirm current waitlist status before applying.
+- **Manchester, NH:** Confirmed at 125 Eastgate Way, managed by Makor Capital. Townhome-style 1, 2, and 3BR units on 17 acres. Market-rate. Minutes from Routes 101 and I-93.
+- **Rochester, MN:** Listed in PAA but not confirmed in competitor data. Writer should note: search results for Rochester MN are mixed. Readers should verify address and management independently.
+- **Tahlequah, Waco, Owatonna, Oakdale MN, North Little Rock, Topeka KS, Newnan GA:** Listed in PAA. Writer should note these markets appear in search patterns, but specific property details were not confirmed in source data for this brief. Readers in those markets should search the name plus their city and verify the address directly.
+
+---
+
+**H2: Frequently Asked Questions About Eastgate Apartments**
+
+*Writing instruction: Five to eight Q&A pairs. Each answer must be 40-60 words (featured snippet length). Answers must be direct and complete on their own. This section becomes FAQPage schema. Sources: PAA data (Data Source 2) and AI-identified information gaps (Data Source 3).*
+
+---
+
+**Q1: What cities have Eastgate Apartments? (PAA-sourced)**
+Answer (40-60 words): Confirmed Eastgate Apartments communities exist in Tulsa OK, Wichita KS, Mishawaka IN, Manchester NH, Spokane Valley WA, Portland OR, Triangle VA, Elmira NY, New Prague MN, and Gainesville FL, among others. The name is used by unrelated property owners in many markets. Always confirm the specific address when searching.
+
+**Q2: Are Eastgate Apartments income-restricted or market-rate? (AI gap-sourced)**
+Answer (40-60 words): Some Eastgate-branded communities are market-rate, requiring standard income and credit qualification. Others — including communities in Mishawaka IN, Gainesville FL, and Elmira NY — participate in federal affordability programs like Section 8 PBRA or LIHTC and have income limits and waiting lists. Check the specific property's program status before applying.
+
+**Q3: Do Eastgate Apartments allow pets? (PAA + competitor data)**
+Answer (40-60 words): Most market-rate Eastgate communities are pet-friendly with restrictions. Common policies include a two-pet maximum, weight limits around 30 pounds, breed restrictions (Pit Bulls, Rottweilers, and similar breeds are typically excluded), a refundable pet deposit, and monthly pet rent. Confirm the exact policy with the specific property before applying.
+
+**Q4: What floor plan sizes do Eastgate Apartments offer? (competitor data)**
+Answer (40-60 words): Most Eastgate communities offer 1, 2, and 3 bedroom apartments. Some locations, including Manchester NH and New Prague MN, offer townhome-style layouts with private entrances. Square footage ranges from approximately 595 square feet for a 1BR to over 1,100 square feet for 3BR units, depending on the market.
+
+**Q5: How do I apply for Eastgate Apartments with a Section 8 voucher? (AI gap-sourced)**
+Answer (40-60 words): LIHTC-participating Eastgate communities are required to accept Section 8 Housing Choice Vouchers. PBRA properties attach the subsidy to the unit rather than the resident, so vouchers may not apply there. Contact the specific Eastgate property directly, confirm their subsidy program type, and ask whether they accept HCVs before submitting an application.
+
+**Q6: What amenities do Eastgate Apartments typically have? (competitor data)**
+Answer (40-60 words): Common amenities across Eastgate-branded communities include swimming pools, fitness centers, on-site laundry, outdoor patios or balconies, and playground areas. Some locations offer business centers and planned resident events. Amenities vary by property and market. Confirm available amenities at your specific community directly with the leasing office.
+
+**Q7: What is the typical lease term at Eastgate Apartments? (competitor data)**
+Answer (40-60 words): Most market-rate Eastgate communities offer 12-month leases as the standard term. Some properties may offer shorter lease options. During peak leasing seasons or promotional periods, communities have offered concessions including free first-month rent or discounted move-in fees. Ask about current lease terms and any specials when contacting the leasing office.
+
+**Q8: How do I find current availability at Eastgate Apartments in my city? (navigational intent)**
+Answer (40-60 words): Search the name "Eastgate Apartments" plus your city name, then confirm the address matches the property you are looking for. Contact the leasing office directly for current availability and pricing. brightplace tracks apartment availability and rent trends across U.S. markets — you can search by city to see what is currently open.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace analysis framing:** Include a brief "what brightplace found" framing when presenting the multi-city disambiguation table. Example: "In reviewing the top SERP results for this keyword, brightplace confirmed Eastgate-branded communities in ten or more U.S. cities under different ownership groups." This demonstrates editorial investigation, not scraped content.
+
+2. **Specific move-in concession observations:** Reference that brightplace identified specific promotional offers — "$500 off first month" (Wichita, as of 2025-2026) and "up to $2,000 free rent with 13-month lease" (New Prague) — when discussing effective rent vs. listed rent. This is a first-hand data observation.
+
+3. **Pet policy specificity from direct source review:** When covering pet policies, note that the breed restriction lists reviewed across multiple Eastgate properties include a consistent set of restricted breeds (American Staffordshire Terrier, Pit Bull, Rottweiler, Chow, German Shepherd, Husky, and others). This level of specificity reflects actual source review, not generic advice.
+
+### 6b. Expertise Indicators
+
+- State that PBRA subsidies are attached to units (not residents), meaning residents lose the subsidy when they move. This is a nuanced and correct distinction that separates expert content from generic affordable housing descriptions.
+- State that LIHTC properties are federally required to accept Section 8 Housing Choice Vouchers. This is specific, accurate, and actionable.
+- Provide the AMI income threshold framework: income-qualified properties typically require household income at or below 50%-80% AMI, depending on program. Include an example from Elmira (60% AMI limits referenced in source data).
+- Explain that effective rent (after concessions) can differ from listed rent and that move-in specials are common in this price tier.
+
+### 6c. Freshness & Date-Stamping
+
+- All rent figures cited must include "(as of [Quarter Year])" notation. Example: "The Wichita Eastgate offered $500 off first month's rent (as of Q1 2026)."
+- The article must include a "Last reviewed: [Month Year]" note at the top or bottom.
+- **Claims most likely to go stale:**
+  - Move-in specials and concession offers (change monthly or quarterly)
+  - Availability and waitlist status for income-qualified properties
+  - Pet policy specifics (weight limits, fees, deposits)
+  - Specific rent ranges for any market-rate property
+  - Management company ownership (properties change hands)
+
+**Update cadence recommendation:** Flag this article for quarterly review given the concession data and waitlist statuses included.
+
+### 6d. Information Gain: Three Specific Advantages
+
+**Gap 1: Multi-city disambiguation table.**
+No current SERP result provides a single editorial resource that consolidates Eastgate-branded communities across U.S. cities. Every ranking page is a property website for one specific location. The brightplace article is the only source that will treat "Eastgate Apartments" as a national disambiguation question. This gives brightplace an information gain that every other source lacks by definition.
+
+*What the article should say:* Present the table in Section H2 "What to Know by City" with confirmed address, unit types, and affordability classification for each market. This table does not exist anywhere else in the SERP.
+
+**Gap 2: Market-rate vs. income-qualified distinction.**
+The PAA results and AI responses make clear that searches for "Eastgate apartments" span both market-rate renters and affordable housing seekers. No current top-ranking page addresses both audiences or explains the difference between PBRA and LIHTC programs in renter-facing language. The brightplace article can own this explanation and be cited by AI engines for it.
+
+*What the article should say:* In the affordability H2, define PBRA, LIHTC, and HCV clearly and explain how they affect the application process. Use the Mishawaka (PBRA), Gainesville (LIHTC), and Elmira (LIHTC) examples from source data.
+
+**Gap 3: Effective rent vs. listed rent framing.**
+The competitor property pages all show "contact us for pricing" or aspirational ranges. No page tells renters that concession offers — some as high as $2,000 in free rent — are available and should be negotiated or asked about. The brightplace article provides this practical advice, which constitutes genuine information gain for someone comparing Eastgate communities.
+
+*What the article should say:* In the evaluation framework H2, explicitly note that listed rent and effective rent differ, cite the specific concession examples found, and advise renters to ask for current specials at any Eastgate community they tour.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Active renters searching by property name, in comparison or decision stage, unsure which geographic market or property type applies to them.
+- **First-hand expertise demonstrated:** Yes. brightplace reviewed the full SERP, confirmed addresses and management companies, identified affordability program classifications, and identified specific concession offers across multiple properties.
+- **Reader achieves their goal:** Yes. After reading, the reader can: (a) identify the Eastgate community in their city, (b) understand whether it is market-rate or income-qualified, (c) know what to ask on a tour or call, (d) understand how pet policies and effective rent work in this segment.
+- **Human editor confidence:** Yes. Content is factual, non-promotional, uses no banned phrases, avoids fair housing violations, does not cite prohibited sources, and follows all brightplace brand standards.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No citation data was retrieved for ChatGPT in Data Source 3. The ChatGPT response field was blank in the input. Cannot assess current ChatGPT citations for this keyword.
+
+**Claude:** Claude's response synthesized from general knowledge and training data, not from cited URLs. Claude referenced the following sources by type (not by URL, since the response was direct synthesis):
+- Apartments.com (mentioned as a listing verification platform — noted as having "broadest listing coverage")
+- Zillow (mentioned for cross-referencing rent history)
+- Zumper (mentioned for real-time pricing trends)
+- ApartmentRatings.com (mentioned for resident review depth)
+- Local subreddits (mentioned for honest current renter opinion)
+- **brightplace.ai** was mentioned by Claude as "useful for neighborhood-level context, renter education guides, and understanding what a submarket like 'Eastgate' actually means in terms of lifestyle tradeoffs before you [tour]." This is a partial, incomplete citation that trails off — Claude included brightplace but did not fully develop the recommendation.
+
+**Is brightplace currently cited?**
+- ChatGPT: Unknown (no data retrieved).
+- Claude: Partially cited (mentioned but not fully developed). brightplace appears in Claude's awareness but is not yet cited as an authoritative source for this specific query.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- Apartments.com, Zillow, and Zumper have property-level listing data (prices, availability, square footage) that brightplace does not currently surface at the article level.
+- ApartmentRatings has resident review depth that brightplace does not replicate.
+- The missing element brightplace has the opportunity to provide: **consolidated multi-city editorial clarity** — which none of the ILS platforms provide for an ambiguous brand-name query like "eastgate apartments."
+
+**Information gaps both AI engines identified (Claude only, since ChatGPT data was unavailable):**
+
+1. Which specific city applies to the searcher — no source clarifies this.
+2. Market-rate vs. income-qualified classification — no source explains this for "eastgate apartments" as a combined query.
+3. Effective rent vs. listed rent — no source explains concession dynamics for this property name.
+4. Management company quality variation — no source explains how different Eastgate properties are run by different ownership groups with different quality levels.
+5. Pet policy specifics across properties — no source compares them.
+6. Lease term and availability window differences — particularly the college-market cycle note Claude raised (Bloomington example).
+
+Each of these gaps corresponds to a section in this brief. The brightplace article fills all six.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1 — First-paragraph rule:**
+The opening 100 words of the article must contain: (a) the phrase "Eastgate Apartments" in the first sentence, (b) the statement that this name is used by many unrelated properties across the U.S., (c) at least one specific numerical data point (e.g., "confirmed in more than ten U.S. cities"). This paragraph is what LLMs extract to answer the query.
+
+**Rule 2 — Structured data rule:**
+Include one comparison table under the H2 addressing city-by-city Eastgate communities. Required columns: **City, State | Address | Unit Types Available | Market-Rate or Income-Qualified.** The table must be written in clean, parseable HTML-compatible markdown. AI engines extract tabular data preferentially. Do not add a second table unless warranted by the pet policy or lease term comparison (optional secondary table).
+
+**Rule 3 — Definition rule:**
+The following five terms must be explicitly defined in a single clear sentence each, at the point where they first appear in the article:
+
+1. **Project-Based Rental Assistance (PBRA):** "Project-Based Rental Assistance (PBRA) is a federal HUD program that attaches a rent subsidy to a specific apartment unit, meaning qualified residents pay approximately 30% of their income for rent while the program covers the remainder."
+2. **Low Income Housing Tax Credit (LIHTC):** "The Low Income Housing Tax Credit (LIHTC) is a federal program that gives tax credits to property owners who build or renovate apartments rented at below-market rates to income-qualified residents."
+3. **Section 8 Housing Choice Voucher (HCV):** "A Section 8 Housing Choice Voucher (HCV) is a tenant-held rental subsidy that qualified low-income renters can use at any participating landlord — including LIHTC properties, which are federally required to accept them."
+4. **Area Median Income (AMI):** "Area Median Income (AMI) is the midpoint of household income for a specific region, calculated annually by HUD and used to determine eligibility for income-restricted housing programs."
+5. **Effective rent:** "Effective rent is what a renter actually pays over the lease term after accounting for concessions like free months or reduced move-in costs, which often differs from the advertised listed rent."
+
+**Rule 4 — Proof point rule:**
+The article must include these specific data points, formatted with date attribution:
+
+1.
