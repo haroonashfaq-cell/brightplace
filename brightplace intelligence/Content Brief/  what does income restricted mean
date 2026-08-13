@@ -1,0 +1,413 @@
+# CONTENT BRIEF: "What Does Income Restricted Mean?"
+### brightplace.ai/knowledgebase/ — Senior SEO/GEO/AEO Content Strategy Document
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are definition-first explainer guides: a comprehensive definition followed by eligibility breakdown, comparison tables, and a step-by-step application process. The format is a long-form educational guide, not a listicle and not a pure how-to. Every top competitor leads with a definition answer, then expands into qualification criteria, rent calculation mechanics, and the income-restricted vs. income-based distinction. This article must follow that structure: definition first, mechanical explanation second, comparison third, application process fourth, FAQ last.
+
+The article must NOT be a listicle (no "5 things to know" framing) and must NOT bury the definition. The searcher wants to understand what the term means before they want advice on how to qualify.
+
+### 1b. Content Depth Benchmark
+
+Top competitor word counts:
+- leaserunner.com: approximately 3,200 words (substantially long, covers AMI tables, policy detail)
+- lifestepsusa.org: approximately 2,100 words
+- apartmentguide.com: approximately 1,800 words
+- aqui355.com: approximately 2,000 words
+- roomrs.com: approximately 1,200 words
+- mymove.com: approximately 1,100 words
+- fosheeresidential.com: approximately 1,000 words
+
+The competition skews 1,000-2,100 words for consumer-facing guides, with the outlier (leaserunner.com) covering policy depth appropriate for landlords and compliance professionals. For a renter-facing article at brightplace.ai/knowledgebase/, the target is **1,100-1,400 words**. This matches the consumer-intent competitors, stays within the brightplace format spec (800-1,500 words), and avoids the compliance-heavy depth that pads the leaserunner piece for a different audience.
+
+### 1c. SERP Features Present
+
+The following features are present for this keyword cluster:
+
+**People Also Ask (PAA):** Active. 12 PAA questions identified. Each question that is renter-relevant must be answered in the body of the article and in the FAQ section. This is the highest-value structural opportunity: Google is already surfacing these questions, meaning the article can capture incremental impression share by answering each one in dedicated structured blocks.
+
+**No Featured Snippet confirmed.** This is an open opportunity. The first H2 section under the definition should be structured as a 40-60 word paragraph that directly answers "what does income restricted mean" in plain language. This is the featured snippet target.
+
+**No video carousel, no local pack, no knowledge panel** identified for this keyword.
+
+**AI Overview:** The ChatGPT and Claude responses in Data Source 3 both provided direct answers, which means AI Overviews for this keyword are likely active or emerging. The article must be structured to be cited by AI engines: definition blocks, comparison tables, numbered steps, and a FAQ section with schema.
+
+### 1d. Intent Match Validation
+
+**Searcher's intent:** A renter (or prospective renter) has encountered the label "income restricted" on a listing and wants to understand what it means, whether they qualify, and how the rent is calculated.
+
+**Primary intent:** Definitional/informational. The searcher does not know what the term means and wants a clear explanation.
+
+**Secondary intent:** Qualification checking. After understanding the definition, the searcher wants to know if they personally qualify.
+
+**Content format validation:** A definition-first educational guide with qualification criteria, a comparison section, and a FAQ section matches both intents. Confirmed.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option 1 (Recommended):**
+What Income Restricted Means for Apartment Renters
+
+**Option 2:**
+How Income Restricted Apartments Actually Work
+
+**Option 3:**
+What Income Restricted Means: Rent, Eligibility, and What to Expect
+
+---
+
+**Recommended Meta Description (under 155 characters):**
+Income restricted apartments cap both who can rent and what the owner can charge. Here is how eligibility works and what the rent label actually means for you.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/what-does-income-restricted-mean`
+
+---
+
+## 3. Target Audience and Searcher Profile
+
+This article targets renters in the discovery stage who have encountered the label "income restricted" on a listing and do not know what it means. The primary persona is a first-time renter or a renter in an unfamiliar market: a young professional, a recent graduate, a service worker, a single adult on a fixed income, or a household whose income has recently changed. They are not searching for policy detail or landlord compliance guidance. They want a clear, honest explanation of whether they can rent a unit they found, how much they would pay, and what happens if their income changes. They expect a short, direct answer followed by practical eligibility guidance, matching the definition-first guide format that dominates the SERP.
+
+---
+
+## 4. Keywords and Entities
+
+**Primary keyword:**
+`what does income restricted mean`
+
+**Secondary keywords:**
+- income restricted apartments
+- income restricted housing
+- income restricted apartments qualifications
+- what does income restricted mean for apartments
+- income restricted vs income based apartments
+- AMI income limits
+- area median income apartments
+- 60 percent AMI rent
+- 80 percent AMI meaning
+- how is rent calculated income restricted
+- LIHTC apartments
+- affordable housing eligibility
+- income restricted apartments Section 8
+- what does income restricted mean for a single person
+- income restricted apartments what happens if income increases
+
+**Entities to mention:**
+- HUD (U.S. Department of Housing and Urban Development)
+- Area Median Income (AMI)
+- Low-Income Housing Tax Credit (LIHTC) / Section 42
+- Section 8 / Housing Choice Voucher program
+- Public Housing Authority (PHA)
+- LIHTC compliance period (30 years)
+- Extremely low income / Very low income / Low income (the three HUD tiers)
+- Annual recertification
+- Income-based housing (as a contrast term)
+- Waitlist
+
+**Terms to avoid:**
+All terms from the brand banned list. Additionally avoid: "navigate," "unlock," "leverage," "dive," "vibrant," "bustling," "hidden gem," "best-kept secret," "top," "best," "ultimate," "everything you need to know," "interestingly," "notably," "it's worth noting," "deep dive," "whether you're X or Y," "from X to Y," "signal," em dashes.
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** What Income Restricted Means for Apartment Renters
+
+---
+
+**H2: The Short Answer: What Income Restricted Means**
+
+*Writing instruction:* This section must deliver a complete, standalone definition of "income restricted" in the first 40-60 words, targeting the featured snippet position. Define the term in plain English: a legal cap on who can rent and what the owner can charge, tied to Area Median Income. Do not build up to the answer. Start with it. The paragraph must mention AMI and the fact that the cap applies to both income and rent, not just one.
+
+*Featured snippet target paragraph structure:*
+Sentence 1: Definition (what income restricted means).
+Sentence 2: What AMI is.
+Sentence 3: Why the rent is lower.
+Total: 40-60 words.
+
+Immediately following the featured snippet paragraph, add 2-3 sentences expanding on how this differs from a standard apartment (the rent cap is legal, not a discount, and it stays even when the market rises).
+
+**[CTA placement 1]:** After this H2, include a natural in-content CTA directing readers to search brightplace for available income restricted apartments in their city.
+
+---
+
+**H2: How Area Median Income (AMI) Sets Your Eligibility**
+
+*Writing instruction:* Define AMI explicitly in the first sentence. Explain the four AMI threshold tiers: 30%, 50%, 60%, and 80%. Clarify that 60% AMI is the most common threshold because it is the standard used by LIHTC tax-credit properties, which make up the majority of income-restricted apartments in the U.S. Include a concrete numerical example: pick one real metro area (such as Denver or Atlanta) and show what 60% AMI means in actual dollar figures for a household of one and a household of four, noting the year. Note that household size matters: the same percentage threshold produces a higher dollar ceiling for a larger household. Note that AMI tables are recalculated by HUD annually and that the limits for any given county can rise or fall year over year.
+
+Include a structured table here with the following columns:
+
+| AMI Tier | Who It Typically Targets | Most Common Program |
+|---|---|---|
+| 30% AMI | Extremely low income | Public housing, Housing Choice Vouchers |
+| 50% AMI | Very low income | Voucher eligibility, Section 202, Section 811 |
+| 60% AMI | Low to moderate income | LIHTC / tax-credit apartments |
+| 80% AMI | Moderate income | Some public housing, HOME-funded units |
+
+*This table targets the PAA question "What does 80 income restricted apartments mean" and the AI citation opportunity for structured AMI tier explanations.*
+
+---
+
+**H2: Income Restricted vs. Income Based: What Is the Difference?**
+
+*Writing instruction:* This section targets the PAA question "Income restricted apartments vs income-based" and the AI citation gap where multiple competitors conflate the two terms. Open with a single sentence that states the core difference directly. Then explain: income restricted means the rent is capped at a fixed amount tied to the AMI for the unit (rent does not change when your paycheck changes). Income based means your rent is calculated as roughly 30% of your own adjusted monthly income (rent rises and falls with your income). Include a two-column comparison table.
+
+Table column headers:
+
+| Feature | Income Restricted | Income Based |
+|---|---|---|
+| How rent is set | Fixed cap tied to the unit's AMI tier | Roughly 30% of your adjusted income |
+| Does rent change if your income rises? | No (in LIHTC units) | Yes |
+| Does rent change if your income drops? | No | Yes |
+| Who monitors eligibility | Property and auditor | Housing authority, per-tenant |
+| Examples | LIHTC apartments, local set-asides | Section 8 vouchers, public housing |
+
+After the table, add one practical sentence telling the reader how to find out which type a specific unit is: ask the leasing office one question: "Does my rent change if my income changes?"
+
+*This section also partially addresses "Does income restricted mean Section 8."*
+
+---
+
+**H2: Who Qualifies for Income Restricted Housing**
+
+*Writing instruction:* Open with the qualification rule in plain language: your total gross household income must fall below the AMI percentage designated for that unit, verified with documents. Address household size. Address the student exception: households where every member is a full-time student are generally ineligible for LIHTC units unless specific exceptions apply (single parents, veterans, married couples eligible to file jointly, certain job training participants). Note that credit is checked separately from income eligibility; income eligibility is not the same as tenant screening. Credit history is reviewed by the property under its own standards, and a low credit score does not automatically disqualify someone. Address the PAA question "Are income restricted apartments easier to get approved?" directly here: approval is more structured than market-rate apartments because income eligibility is a defined cutoff, not a judgment call; however, the application process is more document-intensive, and waitlists can be long.
+
+**[CONTENT GAP — see Section 6d]:** Address the specific scenario of a renter who earns too little to qualify (minimum income requirements are common in LIHTC properties and are separate from the AMI cap). This is not covered by most competitors.
+
+---
+
+**H2: How Rent Is Calculated in Income Restricted Apartments**
+
+*Writing instruction:* Open with the key takeaway: in a LIHTC (tax-credit) income restricted unit, rent is calculated based on an imputed household size tied to the unit, not based on what you personally earn. Explain the formula: rent is capped at 30% of an assumed income for 1.5 persons per bedroom, applied to the AMI tier the unit is designated for. Give a concrete example: if the three-person income limit at 60% AMI in a given metro is $54,000, the rent ceiling for a two-bedroom unit is $1,350 per month, before any utility allowance reduction. Note that utility allowances reduce the effective rent cap when tenants pay utilities directly. Note that this is different from income-based housing (Section 8, public housing), where you pay 30% of your own adjusted income. The CTA question to ask: "Is rent here fixed, or does it adjust to my income?"
+
+---
+
+**H2: What Happens If Your Income Goes Up**
+
+*Writing instruction:* This directly targets the PAA question and a recurring concern in renter discussions. Open with the answer: in a LIHTC tax-credit unit, a raise does not force you out and does not increase your rent, as long as you were eligible at move-in. The rent ceiling moves only when the published AMI limits move. Contrast with Section 8 and public housing: in those programs, rent is recalculated annually as your income changes, so a raise increases your rent payment. Mention the 140% rule for LIHTC: if your income rises above 140% of the qualifying limit, the owner must rent the next available comparable unit to a qualified household, but you do not face immediate eviction. Note that annual recertification applies to voucher and public housing households; fully affordable LIHTC buildings have generally been exempt from annual third-party income rechecks since 2008. Close with the practical takeaway: getting a promotion is safe in a capped-rent unit; budget for rent increases if you are in an income-based program.
+
+---
+
+**H2: How to Find and Apply for Income Restricted Apartments**
+
+*Writing instruction:* This is a practical process section. Open with the honest statement that there is no single national database of all available income-restricted units; finding them requires working multiple channels. Structure as numbered steps without using a "HowTo" framing that reads like a recipe. Tone: practical friend, not bureaucratic guide. Cover: (1) Start with HUD's Resource Locator and your state housing finance agency's LIHTC property list. (2) Contact your local Public Housing Authority for voucher and public housing waitlists. (3) Apply to multiple lists simultaneously; lists open and close on their own schedule. (4) Gather documentation before you apply: tax returns, consecutive pay stubs, benefit award letters, and asset statements. (5) Be prepared for a wait; the shortage of affordable units is structural, not a paperwork problem. Include the supply context: nationally, there are roughly 35 affordable and available rental homes for every 100 extremely low-income renter households (as of 2025 estimates). Note that income eligibility and tenant screening are two separate gates, so having documentation ready for both speeds the process.
+
+**[CTA placement 2]:** Mid-article CTA after this section: "brightplace can help you identify which apartments in your target city accept income-restricted renters. Search available listings at brightplace.ai."
+
+---
+
+**H2: Frequently Asked Questions About Income Restricted Apartments**
+
+*Writing instruction:* This section becomes FAQPage schema. Each Q&A pair should be 40-60 words in the answer, written in plain English. No nested lists inside FAQ answers. One clear, direct answer per question. Structure as H3 questions under this H2.
+
+---
+
+**H3: Are income restricted apartments easier to get approved for?**
+
+*Source: PAA Data Source 2*
+
+Answer target: Address that approval is more structured than market-rate (the income cutoff is a clear line, not a subjective judgment), but the process is more document-intensive and waitlists can be long. The documentation burden is higher, not lower.
+
+---
+
+**H3: Does income restricted mean Section 8?**
+
+*Source: PAA Data Source 2*
+
+Answer target: No. Section 8 is a specific federal voucher program where a housing authority covers a portion of rent in private apartments. Income restricted is a broader term that includes LIHTC tax-credit apartments, public housing, project-based assistance, and local set-asides. Section 8 vouchers can be used in some income-restricted buildings, but the two are not the same thing.
+
+---
+
+**H3: What does 80 percent AMI income restricted mean?**
+
+*Source: PAA Data Source 2*
+
+Answer target: A unit designated at 80% AMI is available to households earning up to 80% of the Area Median Income for their area and household size. This is a moderately restrictive threshold; more people qualify for 80% AMI units than for 60% or 50% AMI units. In many metros, 80% AMI covers working professionals in fields like education, healthcare support, and food service.
+
+---
+
+**H3: What does income restricted mean for a single person?**
+
+*Source: PAA Data Source 2*
+
+Answer target: A single-person household has a lower AMI dollar ceiling than a multi-person household at the same percentage tier, because AMI tables scale by household size. The AMI percentage threshold is the same; the dollar amount is lower. Check the income table for your specific metro area and household size of one.
+
+---
+
+**H3: Can you be removed from an income restricted apartment if your income increases?**
+
+*Source: AI engine gap, Data Source 3*
+
+Answer target: In LIHTC tax-credit units, no, as long as you were eligible at move-in. Your rent stays at the capped rate. If your income exceeds 140% of the qualifying limit, the owner must rent the next comparable unit to a qualified household, but you are not immediately evicted. In Section 8 and public housing, rising income increases your rent payment and can eventually move you off the program.
+
+---
+
+**H3: What income is counted when applying for income restricted housing?**
+
+*Source: AI engine gap, Data Source 3*
+
+Answer target: Income is counted broadly. Wages, self-employment income, Social Security, pensions, child support, alimony, and income from assets all count. It is annualized and projected forward, not averaged from the past. Scholarships for tuition are generally excluded. One-time payments (insurance settlements, inheritance) are often excluded. Review all income sources before applying; omissions discovered later can void an approval.
+
+---
+
+**H3: Is there a minimum income to rent an income restricted apartment?**
+
+*Source: PAA Data Source 2 and AI engine gap — [CONTENT GAP]*
+
+Answer target: Yes, in most LIHTC properties, there is a minimum income requirement set by the property manager, separate from the AMI cap. Properties want evidence that the tenant can pay even the reduced rent. Minimum requirements typically fall in the range of 2 to 2.5 times the monthly rent. This requirement is often waived for housing voucher holders, since the voucher itself covers a portion of rent.
+
+---
+
+**H3: How long does it take to get into income restricted housing?**
+
+*Source: PAA implied and AI engine response*
+
+Answer target: Wait times range from a few months (at newer tax-credit buildings in lower-demand markets) to several years (at public housing or voucher waitlists in high-cost cities). There is no national average that applies universally. The best approach is to apply to multiple lists simultaneously and keep your contact information current with each agency, since a missed notification can cost you your place.
+
+---
+
+## 6. E-E-A-T and Google Core Update Compliance
+
+### 6a. Experience Signals
+
+The writing agent must implement all three of the following:
+
+1. **brightplace search pattern framing.** At least once in the article, frame an observation with brightplace as the source: "Renters searching on brightplace frequently encounter the income restricted label when filtering for apartments under a certain rent threshold in high-cost cities. The term appears most often in listings for newer mixed-income buildings, where some units are market-rate and others are designated for qualifying households." This grounds the content in a platform-level observation, not sourced from a competitor.
+
+2. **Specific real-city numerical illustration.** When introducing AMI examples, use a real named metro area with real approximate figures and the observation year: "In the Denver metro area, the 2025 AMI for a household of four is approximately $105,000. A unit designated at 60% AMI would be available to a four-person household earning up to roughly $63,000. A single-person household at the same 60% tier faces a lower dollar ceiling, approximately $44,100." Real numbers in real places establish expertise that abstract explanations do not.
+
+3. **Tradeoff acknowledgment.** Include at least one honest tradeoff that most competitor articles soften or omit: "Income restricted apartments solve the rent problem but not always the location or timing problem. The unit you qualify for may not be in the area you prefer, and the building you want may have a two-year waitlist. The program protects affordability, but it does not guarantee availability when you need it." This is the knowledgeable-friend tone working correctly.
+
+### 6b. Expertise Signals
+
+The writing agent must include the following:
+
+1. The 1.5-persons-per-bedroom formula for LIHTC rent calculation with a worked numerical example. This is a technical fact that separates genuinely knowledgeable content from surface-level explanations.
+2. The 140% rule: if a LIHTC tenant's income rises above 140% of the qualifying limit, the owner's obligation to provide the next comparable unit to a qualified household, not immediate tenant eviction.
+3. The 2008 exemption: fully affordable LIHTC properties have been exempt from the annual third-party income recheck since 2008. This distinguishes LIHTC recertification from voucher and public housing recertification and is a detail most competitor content misses or muddles.
+4. The HUD recalculation note: AMI limits are recalculated annually and can fall as well as rise in specific counties, meaning last year's eligibility determination may not apply this year.
+
+### 6c. Freshness and Date-Stamping
+
+Rules for the writing agent:
+
+- Every dollar figure must be followed by "(as of [Quarter] [Year])."
+- Every AMI example must be followed by the year the table applies to.
+- The article must include at the top or bottom: "Last reviewed: [Month Year]."
+- Claims most likely to go stale and requiring future update: (a) AMI figures for named metros, updated annually by HUD each spring; (b) the supply statistic (35 affordable units per 100 extremely low-income households) — this figure is updated annually by the National Low Income Housing Coalition; (c) any reference to compliance exemption rules, which can be modified by federal legislation.
+
+### 6d. Information Gain
+
+The following three pieces of information appear in the AI engine responses (Data Source 3) but are absent or underdeveloped in the top-ranking competitor content. These are the **[CONTENT GAP]** sections:
+
+**Gap 1: Minimum income requirements in LIHTC properties.**
+Most competitor articles discuss only the maximum income (the AMI cap) and ignore the minimum income requirement that most LIHTC property managers apply. A renter who earns too little to cover even the reduced rent will be screened out. The minimum is typically 2x-2.5x the monthly rent, similar to market-rate screening. This is a genuine information gap that renters need to understand. The FAQ question "Is there a minimum income to rent an income restricted apartment?" addresses this directly, and it should also appear in the qualification section.
+
+**Gap 2: The LIHTC 2008 exemption from annual income recertification.**
+Competitors either skip this detail or present recertification as universal. The article should clearly distinguish: voucher and public housing residents must recertify income annually, and rent adjusts accordingly; however, fully affordable LIHTC properties have been exempt from the annual third-party income recheck since 2008. This means a LIHTC tenant who gets a raise does not face an automatic rent increase. This is both an information gain and a factual clarification that benefits the reader.
+
+**Gap 3: The 1.5-persons-per-bedroom rent formula.**
+The LIHTC rent cap is not calculated against the actual tenant's income. It is calculated against an assumed income for 1.5 persons per bedroom at the designated AMI tier for that unit. This means a single person renting a two-bedroom LIHTC unit faces the same rent cap as any other qualified renter, because the cap is unit-based, not tenant-based. Most competitor articles describe rent as "based on the tenant's income," which is accurate for income-based housing but inaccurate for LIHTC housing. Correcting this misconception is a direct information gain.
+
+### 6e. Helpful Content Checklist
+
+- **Does the article have a clear, specific audience?** Yes. Renters in the discovery stage who have encountered the label "income restricted" on a listing and want to understand what it means, whether they qualify, and how rent is calculated.
+- **Does the article demonstrate first-hand expertise?** Yes. Through the brightplace search pattern observation, the specific metro-level numerical examples, and the three technical details (1.5-person formula, 140% rule, 2008 exemption) that require genuine subject knowledge to articulate correctly.
+- **Does the article leave the reader feeling they learned enough to achieve their goal?** Yes. After reading, the searcher can define income restricted, understand AMI tiers, check their own eligibility against a clear framework, understand how rent is calculated, know what happens if their income changes, and know where to begin searching and applying.
+- **Would a human editor at brightplace be confident publishing this?** Yes, provided the writing agent follows the brand rules below without exception, particularly: lowercase "brightplace," no em dashes, no banned phrases, no ILS citations, no neighborhood descriptions by demographics, and fair housing compliance throughout.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:**
+The ChatGPT response data was not fully returned in Data Source 3. Based on the Claude response and the competitor set, typical citations for this keyword cluster include HUD.gov (primary authority for AMI definitions and income limits), AffordableHousingOnline.com (database coverage), and editorial sources such as apartmentguide.com or mymove.com (consumer explanation format). brightplace is not cited.
+
+**Claude citations for this keyword:**
+Claude cited HUD.gov's Resource Locator and HUD USER's LIHTC database for official data. It cited AffordableHousingOnline.com and GoSection8.com as finding resources. It did not cite any competitor editorial content directly. brightplace is not cited.
+
+**Is brightplace cited by either engine?** No, for both.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks:**
+
+1. Structured AMI tables. HUD.gov and HUD USER are cited because they are authoritative data sources for AMI limits. brightplace's /knowledgebase/ article can reference these tables by explaining the framework and directing readers to HUD for their specific county lookup, while providing illustrative examples with real metro numbers.
+
+2. Specific program-type explanations. Claude's response organized housing types into a structured table (LIHTC, Section 8, public housing, mixed-income, inclusionary zoning). The brightplace article includes a comparison table that mirrors this structure, making it parseable for AI citation.
+
+3. Renter-specific Q&A coverage. The PAA questions are not consistently answered in a structured, schema-ready format by any single competitor. brightplace's FAQ section, marked up with FAQPage schema, targets this gap directly.
+
+**Information gaps identified by AI engines not covered by competitors:**
+
+- The minimum income requirement in LIHTC properties (covered in Gap 1 above)
+- The 2008 annual recertification exemption for fully affordable LIHTC buildings (Gap 2)
+- The 1.5-persons-per-bedroom LIHTC rent formula (Gap 3)
+- The distinction between being removed from the program vs. facing a rent increase when income rises (partially covered by competitors but not clearly distinguished)
+- The honest caveat that 80% AMI restricted rents in lower-cost metros may not offer much savings over market rate
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article must contain: (a) a direct answer to "what does income restricted mean" in plain English, (b) the statement of who this article is for (renters who have encountered the label on a listing), and (c) at least one specific numerical data point (the most common AMI threshold, such as "most income restricted apartments are designated for households earning 60% or less of the Area Median Income for their area"). This is what LLMs extract for direct answers.
+
+**Rule 2: Structured data rule.**
+Three tables must appear in the article, each in clean markdown format:
+
+- Table 1: AMI tiers (columns: AMI Tier, Who It Typically Targets, Most Common Program) — placed in the AMI H2 section.
+- Table 2: Income Restricted vs. Income Based comparison (columns: Feature, Income Restricted, Income Based) — placed in the comparison H2 section.
+
+No additional tables are needed. Do not add tables for decoration. Each table must be readable as plain text if formatting is stripped.
+
+**Rule 3: Definition rule.**
+The following five terms must be explicitly defined in a single clear sentence each, at the point they first appear in the article:
+
+1. **Income restricted:** A legal designation that caps both who can rent a unit and what the owner can charge, tied to the Area Median Income for that location.
+2. **Area Median Income (AMI):** The household income at the midpoint of the income distribution for a specific metro area, recalculated annually by HUD.
+3. **LIHTC (Low-Income Housing Tax Credit):** A federal program that gives tax credits to private developers in exchange for reserving a portion of their units for income-qualified renters at capped rents.
+4. **Income based housing:** A separate type of affordable housing where rent is calculated as a percentage of the tenant's own adjusted income, so rent rises and falls with income changes.
+5. **Annual recertification:** The process by which a tenant verifies their income each year to confirm they still meet program eligibility requirements.
+
+**Rule 4: Proof point rule.**
+The following five numerical claims must appear in the article with date attribution:
+
+1. "Most LIHTC properties cap eligibility at 60% of the Area Median Income (as of 2025, the most common threshold in U.S. tax-credit apartment programs)."
+2. "Nationally, there are approximately 35 affordable and available rental homes for every 100 extremely low-income renter households (as of 2025, per National Low Income Housing Coalition estimates)."
+3. "LIHTC properties are required to maintain income restrictions for a minimum of 30 years (initial 15-year compliance period plus a 15-year extended use agreement, per IRS program requirements)."
+4. "Rent in a LIHTC unit is calculated at 30% of an imputed income for 1.5 persons per bedroom at the unit's designated AMI tier (standard LIHTC rent formula, per HUD MTSP tables)."
+5. Provide one real metro example: "[Metro name] had a 2025 AMI of approximately $[X] for a household of four, placing the 60% AMI ceiling at roughly $[Y] for a four-person household and $[Z] for a single person." The writing agent must insert the accurate figures for the chosen metro.
+
+**Rule 5: FAQ rule.**
+The FAQ section must include exactly these eight questions, in this order. Each answer must be 40-60 words. Each question must appear as an H3 under the FAQ H2 for FAQPage schema.
+
+1. Are income restricted apartments easier to get approved for? *(PAA source)*
+2. Does income restricted mean Section 8? *(PAA source)*
+3. What does 80 percent AMI income restricted mean? *(PAA source)*
+4. What does income restricted mean for a single person? *(PAA source)*
+5. Can you be removed from an income restricted apartment if your income increases? *(AI engine gap)*
+6. What income is counted when applying for income restricted housing? *(AI engine gap)*
+7. Is there a minimum income to rent an income restricted apartment? *(PAA source + AI engine gap — Content Gap 1)*
+8. How long does it take to get into income restricted housing? *(PAA implied + AI engine gap)*
+
+---
+
+## 8. CTA and Funnel Strategy
+
+**Primary CTA:**
+Action: Search for apartments on brightplace.
+Placement: Three locations in the article.
+- CTA 1: After the first H2 (definition section). Language: "brightplace tracks income restricted apartments available for rent across [city] markets. Search current listings at brightplace.ai."
+- CTA 2: After the "How to Find and Apply" H2. Language: "See which income restricted apartments are currently accepting applications in your target city. Search on brightplace."
+- CTA 3: End of article, after FAQ. Language: "Ready to search? brightplace makes it easier to find apartments that match your income and budget in one place. Start your search at brightplace.ai."
+
+**Secondary CTA:**
+Link to a relevant brightplace knowledgebase guide on how AMI is calculated in specific cities, or a guide on the difference between Section 8 and LIHTC apartments, if those pages exist. The writing agent should receive the brightplace sitemap to identify the most relevant internal link target. If no such page exists, the secondary CTA should direct readers to the brightplace homepage with language: "brightplace also covers rent pricing by neighborhood across major U.S. cities.
