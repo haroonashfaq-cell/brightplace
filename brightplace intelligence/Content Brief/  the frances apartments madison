@@ -1,0 +1,411 @@
+# CONTENT BRIEF: The Frances Apartments Madison
+
+**For:** brightplace AI Writing Agent
+**Published at:** brightplace.ai/knowledgebase/
+**Brief version:** 1.0
+**Brief prepared by:** brightplace Content Brief Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results for "the frances apartments madison" are a mix of property listing pages (Rentable.co, RentCollegePads), a property management site page (RentMadison.com for a nearby Frances Street address), and a map/directory listing (MapQuest). There is no editorial article currently ranking. The dominant format is the **apartment listing/property profile page**: address, unit types, rent figures, amenities list, and a brief description.
+
+This is a named-property navigational query. The searcher is looking for a specific building. However, because no editorial content exists and the listing pages are thin or show zero availability, there is a clear opening for a property-profile editorial article that goes beyond what listing pages provide. The article format this brief targets is a **focused property profile with decision-support context**: factual, specific, organized around what a prospective renter needs to evaluate the property. This format matches the SERP gap and the AI response structure from Data Source 3.
+
+### 1b. Content Depth Benchmark
+
+Competitor pages are extremely thin:
+- RentCollegePads: approximately 50 words (no listings, navigation only)
+- Rentable.co: approximately 200-300 words of descriptive content plus unit tables (most units marked "Rented")
+- RentMadison.com (321 N. Frances): approximately 80 words of property description
+- MapQuest: approximately 100 words of AI-generated boilerplate description
+
+The current content bar is very low. The AI response from Claude (Data Source 3) is the most substantive piece of content in the entire competitive set, running approximately 600-700 words. This article should target **900-1,100 words**, enough to substantially outperform thin listing pages and match the depth of the AI citation response while staying within the knowledgebase format guidelines.
+
+### 1c. SERP Features Present
+
+- **People Also Ask:** Active. At least 12 PAA questions surface, including several property-specific queries ("The Frances apartments madison reviews," "215 N Frances St Madison WI," "The Frances apartments madison for rent") and broader Madison living questions. Target PAA boxes with concise 40-60 word answers under clearly labeled H2 and H3 headings, and implement FAQPage schema.
+- **No Featured Snippet:** Confirmed absent. This is an opportunity. The first substantive H2 opening paragraph should be 40-60 words in definition/summary format to compete for a featured snippet if Google assigns one as the query matures.
+- **No AI Overview confirmed:** The AI responses in Data Source 3 are research responses, not confirmed SERP AI Overviews. However, both engines produce substantive responses, meaning this article needs to be structured for AI citation.
+- **Local Pack:** Likely present for this query given the address-specific PAA questions. The article cannot generate a local pack result, but mentioning the precise address (215 N Frances St, Madison, WI 53703) and the Kohl Center cross-street reference improves entity association for local intent.
+- **Knowledge Panel:** Possible given this is a named property. Mentioning the property manager (Mullins Apartments, phone 608-257-2127), year built (1969), total unit count (140), and address increases entity completeness.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** Navigational-informational. The searcher knows the name of a specific building and wants to understand what it offers: location, unit types, rent range, amenities, and whether it is worth pursuing.
+
+**Secondary intent:** Comparative evaluation. Searchers at the decision stage want to know how the Frances compares to other options in the same area.
+
+**Confirmed format match:** A focused property profile article with decision-support context matches both intents. The article answers the navigational query (what is this building, where is it, what does it cost) and the comparative query (is this right for me, what should I weigh against other options).
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+What to Know About the Frances Apartments on N. Frances St in Madison
+
+**Option B:**
+A Practical Look at the Frances Apartments in Madison, WI
+
+**Option C:**
+the Frances Apartments Madison: Location, Rents, and What Renters Should Know
+
+**Recommended:** Option B. Clean, curation-framed, keyword-inclusive, under 60 characters, no superlatives. Works for SERP click-through and AI citation.
+
+---
+
+**Meta description:**
+the Frances Apartments at 215 N Frances St in Madison offers furnished 1 and 2BR units near UW-Madison and State Street. Here is what prospective renters should know. (155 characters)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/the-frances-apartments-madison`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a prospective renter, most likely a UW-Madison student, graduate student, or young professional affiliated with the university, who has encountered the Frances Apartments by name and wants to verify whether it merits a closer look. They are in the **comparison or decision stage** of the renter journey: they know the property exists and need specific information (exact address, rent range, included utilities, amenities, proximity to campus) to decide whether to contact the property manager. They expect a page that answers those specific questions quickly and without friction, matching the property-profile format that dominates the SERP. A secondary audience includes relocators to Madison who are researching the N. Frances Street corridor and have found this building name while surveying campus-adjacent options.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+the frances apartments madison
+
+**Secondary keywords:**
+- 215 N Frances St Madison WI
+- frances apartments madison WI
+- apartments near UW-Madison campus
+- apartments near State Street Madison
+- furnished apartments Madison WI
+- heat included apartments Madison
+- apartments near Kohl Center Madison
+- madison 1 bedroom apartments rent
+- madison 2 bedroom apartments rent
+- mullins apartments madison
+- campus-area apartments madison
+- affordable apartments near UW Madison
+- madison apartments utilities included
+- madison apartment near kohl center
+- student apartments madison wi
+
+**Entities to mention:**
+- 215 N Frances St (precise address)
+- Kohl Center (cross-street landmark)
+- State Street Madison (lifestyle corridor)
+- UW-Madison campus (proximity reference)
+- Mullins Apartments (property manager entity)
+- N. Frances Street corridor (neighborhood entity)
+- Madison, WI 53703 (zip code entity for local SEO)
+- Capitol Square Madison (broader downtown reference)
+- Heat and water included (lease term entity)
+- 1969 (year built, entity completeness)
+
+**Terms to avoid:**
+best, top, ultimate, hidden gem, vibrant, bustling, navigate, leverage, deep dive, whether you're X or Y, from X to Y, it's worth noting, signal, interestingly, notably
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** A Practical Look at the Frances Apartments in Madison, WI
+
+---
+
+**H2: What the Frances Apartments Is**
+
+*Writing instruction:* Open with a direct 40-60 word summary identifying the building by name, address, property type, total unit count, year built, and property manager. This is the featured snippet target. Include: 215 N Frances St, Madison, WI 53703; 140-unit building; built 1969; managed by Mullins Apartments. Do not editorialize. State facts first.
+
+---
+
+**H2: Location and What Is Around It**
+
+*Writing instruction:* Describe the Frances's location in practical, lifestyle-infrastructure terms. Name specific landmarks: Kohl Center (directly across), State Street (a few blocks east), UW-Madison campus (within walking distance). Describe what a renter can access on foot: coffee shops, restaurants, grocery options, transit. Do not use Walk Score as a citation. Do not describe the area by who lives there. Describe by what is there.
+
+**H3: Getting Around Without a Car**
+
+*Writing instruction:* Explain transit access. The property is on a Madison Metro bus line. Note that off-street parking is available under a separate agreement (meaning it costs extra and is not included). Describe what car-free or car-light living looks like from this address. Be specific: name actual transit corridors or bus routes if known; if not confirmed, describe proximity to campus and State Street on foot.
+
+---
+
+**H2: Unit Types, Rent Ranges, and What Is Included** *(Primary decision-support section)*
+
+*Writing instruction:* Present what competitor data reveals. One-bedroom units: $930-$1,025/month as listed (note all shown as rented per available data as of early 2025). Two-bedroom units: $1,180/month as listed (same caveat). Heat and water are included in rent. No pets allowed. Building has an elevator and on-site laundry. Off-street parking available separately. Units are furnished. Flag that these figures reflect historical listing data and readers should contact Mullins Apartments directly at (608) 257-2127 for current pricing. Apply date-stamp to all figures.
+
+**H3: How Frances Rents Compare to the Madison Market** *[CONTENT GAP]*
+
+*Writing instruction:* This section does not exist in any competitor content. Use the Rentable.co market data to provide context: Madison average 1BR rent is approximately $1,606/month citywide (as of data available in source). The Frances's listed 1BR rents ($930-$1,025) reflect pricing well below the city median, partially explained by the building's age (1969), furnished format, and small unit footprint. Two-bedroom median citywide runs approximately $2,059. The Frances 2BR at $1,180 is also substantially below that figure. Explain what this means: the Frances offers below-market rent for its location corridor but likely trades square footage and finish level for that price advantage. Do not overstate this; flag the data limitations.
+
+---
+
+**H2: Building Amenities and Lease Terms**
+
+*Writing instruction:* Present the amenity list in clean, scannable format. Do not use bullet-heavy listicle style; write in short declarative sentences grouped by category. Confirmed amenities from source data: elevator, on-site laundry, secured entry, intercom system, controlled access, 24-hour maintenance, furnished units, on bus line. Utilities included: heat and water. Not included: parking (separate). Pets: not allowed. Furnished: yes (one and two bedroom). Cable-ready. Air conditioning present.
+
+---
+
+**H2: What Renters Should Weigh Before Applying** *[CONTENT GAP]*
+
+*Writing instruction:* This section does not exist in any competitor content. Claude's AI response (Data Source 3) included a decision framework that no competitor provides. Produce a practical "right fit / consider alternatives" framework without using those exact words. Cover: who this building fits well (someone prioritizing walkability to campus and State Street, someone who wants utilities included and furnished units, someone whose budget is in the sub-$1,100 range for a 1BR); honest tradeoffs (building is from 1969, no pets, parking is extra, all units shown as rented meaning high competition for openings, no listed fitness center or rooftop). Frame this as honest evaluation, not promotional.
+
+---
+
+**H2: How to Check Availability at the Frances**
+
+*Writing instruction:* Give practical, direct guidance. The property is managed by Mullins Apartments. Contact: (608) 257-2127. Note that based on available listing data, units turn over on a lease-cycle basis and fill quickly given the location. Advise contacting the property manager directly rather than relying on third-party listing pages, which may show outdated or inaccurate availability. This is genuinely useful advice because all listed units in the available data are marked "Rented." Include a CTA to brightplace here (see Section 8).
+
+---
+
+**H2: Frequently Asked Questions About the Frances Apartments in Madison**
+
+*Writing instruction:* Implement FAQPage schema on this section. Each answer must be 40-60 words. Questions drawn from PAA data (Data Source 2) and AI-identified information gaps (Data Source 3).
+
+**Q1: Where exactly are the Frances Apartments in Madison?**
+*(PAA source: "215 N Frances St Madison WI")*
+
+**Q2: Are the Frances Apartments pet-friendly?**
+*(PAA source: general renter query; confirmed "no pets" in source data)*
+
+**Q3: Is parking included at the Frances Apartments in Madison?**
+*(AI gap: lease term detail that does not appear in any competitor)*
+
+**Q4: What utilities are included at the Frances Apartments?**
+*(AI gap: utility inclusion is a key decision factor not foregrounded by competitors)*
+
+**Q5: How close is the Frances to the UW-Madison campus?**
+*(PAA source: implied by "apartments near UW-Madison" query cluster)*
+
+**Q6: Is UW-Madison housing first come first serve?**
+*(PAA source: direct PAA question from Data Source 2)*
+
+**Q7: What are the rent ranges at the Frances Apartments in Madison?**
+*(PAA source: "The Frances apartments madison for rent")*
+
+**Q8: What is the most famous street in Madison, Wisconsin?**
+*(PAA source: direct PAA question from Data Source 2; State Street answer provides relevant editorial context for location section)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Indicators
+
+1. **brightplace renter data framing:** Where referencing market comparisons (Frances rents vs. city median), frame as "based on brightplace's review of available Madison listing data" to establish an analytical perspective rather than pure content aggregation.
+
+2. **Specific observation framing:** Use date-anchored observations: "As of the most recent available listing data (early 2025), all advertised units at the Frances are marked as rented, which reflects the building's high occupancy rate in a competitive corridor." This kind of specific, current-state observation is something only a source that actually looked at the data would include.
+
+3. **Honest limitation acknowledgment:** Include one instance of explicitly naming a data limitation: "Unit-level pricing shown on third-party listing sites may reflect rates from prior lease cycles. The figures cited here are the most recently available but should be verified directly with Mullins Apartments before any leasing decision." This is an E-E-A-T indicator because it reflects genuine analytical care rather than promotional content.
+
+### 6b. Expertise Indicators
+
+- Include the specific year-built figure (1969) and total unit count (140) alongside the address. These are facts that a generalist content farm would not include; they reflect entity-level knowledge.
+- Include the property manager name (Mullins Apartments) and direct contact number ((608) 257-2127). This is primary-source information that positions the article as a research resource.
+- Include the specific comparison between Frances rents and Madison citywide averages with the methodology note ("based on citywide median data available as of [date]"). A decision framework with numerical anchors demonstrates analytical expertise.
+
+### 6c. Freshness & Date-Stamping
+
+- All rent figures must carry "(as of early 2025, per available listing data)" or equivalent.
+- Madison citywide rent averages (1BR ~$1,606; 2BR ~$2,059) must carry a date stamp and the note that these are citywide medians, not corridor-specific.
+- Article must include: "Last reviewed: [Month 2025]" in the byline or footer note area.
+
+**Claims most likely to go stale and need updating:**
+- Unit-level rents (these change lease-cycle to lease-cycle; verify annually)
+- Availability status (all units currently shown as rented; this changes)
+- Madison citywide rent medians (update quarterly if possible, annually at minimum)
+- Internet provider data (the FCC data in the source is from June 2020; do not include this without noting it is outdated)
+
+### 6d. Information Gain
+
+**Gap 1: Frances rents vs. Madison market benchmarks**
+No competitor contextualizes the Frances's rent levels against the broader Madison market. This article provides that context using citywide median data. A prospective renter reading this learns not just "1BR is $995" but "that is approximately 38% below Madison's citywide 1BR median, which reflects the building's age, furnished format, and smaller unit footprint." That is decision-useful information no competitor currently provides.
+
+**Gap 2: Decision framework (who this building fits and who should look elsewhere)**
+All competitor pages are promotional or neutral listing formats. None include an honest "tradeoff" section. The article's "What Renters Should Weigh Before Applying" section is the only content anywhere in this SERP that gives a prospective renter a framework for evaluating fit. This is the highest-value section for both renter utility and AI citation probability.
+
+**Gap 3: Practical availability guidance (why you should not rely on listing page data)**
+The single most useful thing this article can tell a renter is that the listing pages showing Frances units are uniformly marked "Rented," meaning third-party sites are not the right research tool here. Advising direct contact with Mullins Apartments is actionable guidance that no competitor provides. This also positions brightplace as a trustworthy, transparent source.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Prospective renters researching the Frances Apartments, primarily UW-Madison students, graduate students, and young professionals in the comparison or decision stage.
+- **First-hand expertise demonstrated:** Yes. Through specific entity-level data (address, unit count, year built, property manager, direct phone), rent-to-market comparisons with methodology notes, and an explicit honest-limitation acknowledgment about third-party data accuracy.
+- **Reader achieves their goal:** Yes. After reading, a renter knows what the Frances is, where it is, what units and rents are available, what is included in the lease, what the honest tradeoffs are, and exactly how to contact the property manager to take the next step.
+- **Human editor confidence:** Yes. The brief enforces all brand rules, avoids ILS citations and banned phrases, uses lifestyle infrastructure framing for location, and produces utility-first content that does not read as a property advertisement.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data was provided in Data Source 3 for ChatGPT. The brief cannot confirm ChatGPT citations for this keyword.
+
+**Claude:** Claude's response does not cite any external source URLs for the Frances specifically. It generates a structured informational response drawing on general knowledge of Madison's rental market. Sources Claude references in passing (Apartments.com, Zillow, Zumper, Apartment List, UW-Madison Off-Campus Housing portal) are cited as research tools for the reader, not as sources Claude itself used. Claude is not citing any competitor page, which means there is no incumbent competitor with a citation advantage in AI search for this keyword.
+
+**brightplace cited by ChatGPT:** No data available.
+**brightplace cited by Claude:** No.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+Claude's response treats listing aggregators (Apartments.com, Zillow, Zumper) as the default research tools for a specific property. brightplace lacks a property-profile content layer that positions it as a research resource for named Madison buildings. This article closes that gap.
+
+**Information gaps both AI engines identified:**
+1. Actual rent-to-market comparison data for the Frances specifically (Claude estimated this but flagged it as unverified)
+2. Honest evaluation of tradeoffs (Claude's decision framework was the most substantive editorial content about this building anywhere in the SERP)
+3. Verification guidance: both AI responses acknowledged that specific pricing and availability require direct contact, but no source makes this explicit or useful
+4. Building age and what it means for unit quality expectations (1969 construction context is absent from all competitors and from Claude's response)
+5. Utility inclusion breakdown (heat and water included is a financially significant fact that no competitor foregrounds as a decision factor)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) the phrase "the Frances Apartments" or "the Frances" within the first sentence; (b) the address (215 N Frances St, Madison, WI 53703); (c) at least one numerical data point such as unit count (140 units), year built (1969), or rent range (1BR from $930-$1,025/month as of early 2025). Do not begin with a question, a rhetorical statement, or a welcome sentence. Begin with a factual statement that directly answers what this building is.
+
+**Rule 2: Structured data rule**
+Include one comparison table under the "Unit Types, Rent Ranges, and What Is Included" H2. Column headers:
+
+| Unit Type | Listed Rent Range | Utilities Included | Furnished | Pets |
+|---|---|---|---|---|
+| 1 Bedroom | $930-$1,025/mo | Heat, water | Yes | No |
+| 2 Bedroom | $1,180/mo | Heat, water | Yes | No |
+
+Add a note beneath the table: "All units shown as rented in most recently available listing data (early 2025). Contact Mullins Apartments directly for current availability."
+
+Also include a second simple comparison block under "How Frances Rents Compare to the Madison Market":
+
+| Bedroom Type | Frances Listed Rent | Madison Citywide Median | Difference |
+|---|---|---|---|
+| 1 Bedroom | $930-$1,025/mo | ~$1,606/mo | ~35-42% below median |
+| 2 Bedroom | $1,180/mo | ~$2,059/mo | ~43% below median |
+
+Date-stamp both tables with "(as of early 2025)."
+
+**Rule 3: Definition rule**
+Define the following terms explicitly in a single sentence each, at or near their first appearance:
+
+1. **Utilities included:** Heat and water are included in the monthly rent at the Frances, meaning tenants pay a flat rent without separate utility billing for those services.
+2. **Furnished apartment:** A furnished unit comes with furniture already in place, typically including beds, seating, and a dining table, reducing move-in costs for tenants who do not own furniture.
+3. **Off-street parking (separate agreement):** Parking is available at the Frances but is not part of the base rent; tenants who need it sign a separate parking agreement and pay an additional monthly fee.
+4. **Property manager:** The Frances is managed by Mullins Apartments, the company responsible for leasing, maintenance, and tenant relations at the building.
+
+**Rule 4: Proof point rule**
+The following numerical claims must appear in the article. Each must carry a date stamp or source note:
+
+1. The Frances has 140 total units and was built in 1969. (Source: listing data)
+2. One-bedroom rents at the Frances range from $930 to $1,025/month (as of early 2025, per available listing data; contact property for current pricing).
+3. Two-bedroom rents at the Frances are listed at $1,180/month (same caveat).
+4. Madison's citywide median 1BR rent is approximately $1,606/month (as of available 2024-2025 market data).
+5. Madison's citywide median 2BR rent is approximately $2,059/month (same source).
+
+**Rule 5: FAQ rule**
+The FAQ section must include exactly these 8 questions, in this order. Each answer must be 40-60 words. Implement FAQPage schema.
+
+1. **Where exactly are the Frances Apartments located in Madison?** *(PAA: "215 N Frances St Madison WI")*
+Answer must include: 215 N Frances St, Madison, WI 53703; proximity to Kohl Center; proximity to State Street and UW-Madison campus.
+
+2. **What are the rent ranges at the Frances Apartments in Madison?** *(PAA: "the Frances apartments madison for rent")*
+Answer must include 1BR and 2BR ranges from source data, heat and water included note, date stamp, direct contact recommendation.
+
+3. **What utilities are included in rent at the Frances Apartments?** *(AI information gap)*
+Answer must specify: heat and water included. Clarify what is not mentioned as included (electricity, internet, cable likely separate; flag uncertainty, advise confirming with manager).
+
+4. **Is parking included at the Frances Apartments?** *(AI information gap)*
+Answer must clarify: off-street parking is available but requires a separate agreement. Not included in base rent. Recommend asking about current monthly cost when contacting manager.
+
+5. **Are pets allowed at the Frances Apartments in Madison?** *(PAA: "does this property allow cats or dogs" implied)*
+Answer: No. The Frances does not allow pets. Confirm with Mullins Apartments before applying if this may change.
+
+6. **How close is the Frances Apartments to UW-Madison?** *(PAA: implied by campus-proximity query cluster)*
+Answer must include walking distance reference to campus buildings or the Kohl Center as a landmark, and State Street proximity.
+
+7. **Is UW-Madison housing first come first serve?** *(PAA: direct question from Data Source 2)*
+Answer must address UW-Madison on-campus housing application process briefly, distinguish it from private off-campus buildings like the Frances, and note that private buildings like the Frances operate on their own leasing timelines.
+
+8. **How do I check availability at the Frances Apartments?** *(AI information gap: verification guidance)*
+Answer must include Mullins Apartments contact number (608-257-2127), note that third-party listing sites may show outdated availability, and recommend direct contact as the most reliable method.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"See what is currently available near the UW-Madison campus on brightplace."
+Link to brightplace.ai or brightplace's Madison city search if a direct URL exists.
+
+Place this CTA in three locations:
+1. After the "How to Check Availability at the Frances" H2, as a natural extension of the "here is how to find your options" guidance.
+2. After the rent comparison table in the "How Frances Rents Compare to the Madison Market" section, framed as: "brightplace tracks rent across Madison neighborhoods. Search current Madison listings on brightplace."
+3. At the end of the article, after the FAQ section, as a closing recommendation: "Searching near campus or downtown Madison? brightplace shows current available apartments across the city with pricing context."
+
+**Secondary CTA:**
+If brightplace has a published Madison renter guide, a "what to know about renting in Madison" article, or a guide to the Capitol-area or campus-area neighborhoods, link to it here as a "go deeper" resource. Framing: "For more on what to expect renting near campus in Madison, see brightplace's guide to [relevant topic]." The writing agent should check the brightplace knowledgebase sitemap for the most relevant URL.
+
+**CTA language rules:**
+No urgency language. No "don't miss out." No "find your dream apartment." Frame all CTAs as a practical research tool: "see what is available," "compare prices," "search current listings." The reader should feel this is a helpful next step, not an ad.
+
+---
+
+## 9. Writer Rules
+
+*Reproduce these rules in full. The writing agent must follow all of them.*
+
+---
+
+### Brand Rules (Non-Negotiable)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only: walkability, dining, transit, parks, grocery, coffee, fitness.
+
+**SOURCING:** Never cite or link to: Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com, ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes, Walk Score, Bike Score, Transit Score, Reddit, City-Data, or BiggerPockets in published content.
+
+---
+
+### Production Rules
+
+**Target word count:** 900-1,100 words (calibrated to match or exceed competitor depth while staying focused).
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with a question, a welcome, or a rhetorical statement.
+
+**Every H2 section opens with its answer:** State the answer or key fact first. Provide context second. Never open a section with background or setup before the main point.
+
+**Date-stamp all data:** Every rent figure, market average, or factual claim tied to a specific number must include "(as of [Quarter/Date] [Year])" immediately adjacent to the claim.
+
+**Tables:** Write clean, readable markdown tables that can be rendered in HTML. Label every table with a caption or introductory sentence. Include a data-limitation note beneath any table drawn from third-party listing data.
+
+**Reddit rule:** Reddit was reviewed as background research for this brief. Reddit must never be cited, named, linked, or quoted in the published article. It does not exist in this content.
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema (on the FAQ H2 section, all 8 Q&A pairs)
+- Speakable schema (on the opening summary paragraph and each FAQ answer)
+
+**Last reviewed date:** Include "Last reviewed: [Month Year]" in the article footer or byline area. The writing agent should use the current month and year at time of drafting.
+
+**Contact information:** Mullins Apartments, (608) 257-2127. Include this in the "How to Check Availability" section and in relevant FAQ answers. This is a public phone number from the property's own listing data.
+
+**Do not invent:** If a specific fact (square footage, exact building layout, current availability) is not confirmed in the source data, do not state it as fact. Flag the uncertainty and direct the reader to contact the property directly.
