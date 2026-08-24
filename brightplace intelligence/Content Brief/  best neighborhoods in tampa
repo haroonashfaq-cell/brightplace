@@ -1,0 +1,397 @@
+# Content Brief: brightplace.ai/knowledgebase/best-neighborhoods-in-tampa
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP for "best neighborhoods in Tampa" is dominated by **listicle-style neighborhood guides**. Every top-ranking competitor uses a format of 5–15 neighborhoods, each with a header, a short description, and lifestyle or pricing context. Some include comparison tables (Eaton Realty, Extra Space Storage). The article MUST use this format: a neighborhood-by-neighborhood listicle with structured comparisons.
+
+The secondary dominant format is the **lifestyle-segmented guide**, where neighborhoods are grouped by audience type (young professionals, families, renters). Claude's AI response used this framing. This brief recommends a hybrid: neighborhood-by-neighborhood listing with a brief lifestyle-fit callout per section.
+
+### 1b. Content Depth Benchmark
+
+Top 5 competitor word counts (estimated):
+
+- Eaton Realty: ~2,800 words (deepest, with pricing table)
+- Extra Space Storage: ~2,200 words
+- 360 Realty Tampa: ~1,400 words
+- MidFlorida Credit Union: ~1,100 words
+- Graystone Investment Group: ~2,600 words
+
+The /knowledgebase/ format targets **1,200–1,500 words**. This matches or slightly exceeds the mid-tier competitors and stays within the focused, utility-first content model. The article should not try to outrun Eaton Realty on length. It should outrun all competitors on specificity, renter-focus, and structural clarity.
+
+**Target word count: 1,200–1,400 words.**
+
+### 1c. SERP Features Present
+
+**People Also Ask:** Present. 12 PAA questions identified. Relevant to renters:
+- "What is the best part of Tampa to live in?" → Target with H1/opening summary
+- "Best neighborhoods in Tampa to live" → Core article content
+- "Best neighborhoods in Tampa for young professionals" → H2 section
+- "Best neighborhoods in Tampa for families" → H2 section
+- "Best neighborhoods in Tampa to rent" → H2 section
+- "What is the richest part of Tampa?" → FAQ
+
+**Featured Snippet:** Not currently owned by any single source. The 40–60 word opening paragraph under the first H2 directly targets this.
+
+**AI Overview:** Both ChatGPT and Claude provide structured neighborhood breakdowns. brightplace is not cited. This brief targets the citation gap directly.
+
+**No local pack or video carousel** identified for this keyword.
+
+### 1d. Intent Match Validation
+
+**Primary searcher intent:** Navigational/informational. The searcher is deciding where to rent or live in Tampa and wants a clear comparison of neighborhoods by lifestyle fit, price, and character.
+
+**Secondary intent:** Research before a move or relocation decision. This is not a transactional query ("find apartments in Tampa") but a decision-support query.
+
+**Intent match confirmation:** The neighborhood listicle format with lifestyle framing and price context directly matches this intent. The article should not be a buying guide or a mortgage resource. It is a renter-first, lifestyle-first neighborhood orientation.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A:**
+Tampa Neighborhoods: What Renters Actually Need to Know
+
+**Option B:**
+How Tampa Neighborhoods Compare for Renters
+
+**Option C:**
+A Practical Look at Tampa's Neighborhoods for Renters
+
+**Recommended title:** Option A. It uses curation framing ("what renters actually need to know"), avoids superlatives, and positions brightplace as a trusted advisor rather than a ranking site.
+
+---
+
+**Meta description (under 155 characters):**
+Tampa has more than 20 distinct neighborhoods. Here is how they compare on rent, walkability, lifestyle, and tradeoffs so renters can find the right fit.
+
+*Character count: 153. Includes primary keyword context, ends with a clear value statement.*
+
+---
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/tampa-neighborhoods-renters`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article targets renters who are considering a move to Tampa from another city or relocating within the metro, typically in the 25–40 age range. They are in the **discovery to comparison stage** of the renter journey: they know Tampa is on their list but have not yet narrowed down which neighborhood fits their lifestyle, commute, and budget. Their core problem is decision paralysis: there are too many neighborhoods and too little practical guidance written specifically for renters (most competitors write for buyers). They expect a neighborhood-by-neighborhood format with specific rent ranges, honest tradeoffs, and lifestyle characterizations rather than generic promotional copy.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+best neighborhoods in Tampa
+
+**Secondary keywords (10–15):**
+- neighborhoods in Tampa for renters
+- Tampa neighborhoods to live in
+- where to live in Tampa
+- best areas to live in Tampa
+- Tampa neighborhood guide
+- Tampa neighborhoods for young professionals
+- Tampa neighborhoods for families
+- South Tampa apartments
+- Seminole Heights rentals
+- Channel District Tampa apartments
+- Hyde Park Tampa
+- Ybor City apartments Tampa
+- Westchase Tampa rentals
+- walkable neighborhoods Tampa
+- affordable neighborhoods Tampa
+
+**Entities to mention (must appear in article):**
+- Hyde Park / Hyde Park Village
+- Seminole Heights (Old Seminole Heights)
+- Channel District
+- Ybor City
+- South Tampa
+- Westchase
+- Tampa Heights
+- Bayshore Boulevard
+- Sparkman Wharf
+- Davis Islands
+- Armature Works
+- The Tampa Riverwalk
+
+**Terms to AVOID:**
+- best, top, ultimate, hidden gem, best-kept secret
+- vibrant, bustling, thriving
+- navigate, landscape, unlock, leverage
+- deep dive, dive into
+- it's worth noting, interestingly, notably
+- whether you're X or Y
+- from X to Y
+- gentrification or safety/crime language
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1:** Tampa Neighborhoods: What Renters Actually Need to Know
+
+---
+
+**H2: How Tampa's Neighborhoods Break Down for Renters**
+
+*Writing instruction: Open with a direct 40–60 word answer naming the top neighborhoods and establishing what makes Tampa unusual as a rental market. This is the featured snippet target and the opening AI citation anchor. Must include at least one specific rent figure. No preamble, no throat-clearing.*
+
+*This section sets up the article's organizing logic: neighborhoods are presented by lifestyle fit and price tier, not ranked. Establishes that Tampa's neighborhoods are genuinely distinct from one another, unlike many Sun Belt cities where neighborhoods blur together.*
+
+---
+
+**H2: Hyde Park and South Tampa**
+
+*Writing instruction: Describe Hyde Park's walkable retail corridor (Hyde Park Village), Bayshore Boulevard, and proximity to downtown Tampa. Specify approximate median rent for a 1BR (as of Q2 2026). Name actual places: Hyde Park Village's restaurant corridor, the waterfront sidewalk along the bay. Be honest about the tradeoff: it is one of Tampa's more expensive rental areas and parking in older buildings can be limited. Include a one-line "who it works for" callout.*
+
+---
+
+**H2: Seminole Heights**
+
+*Writing instruction: Position Seminole Heights as Tampa's character-rich, value-alternative to South Tampa. Mention the Craftsman bungalow housing stock, the independent restaurant and brewery scene (without using "vibrant"). Note that rent is meaningfully lower than Hyde Park for comparable square footage. Be specific about the honest tradeoff: housing quality and block character vary significantly within the neighborhood. Include a one-line "who it works for" callout.*
+
+---
+
+**H2: Channel District**
+
+*Writing instruction: Frame Channel District as Tampa's most urban, amenity-dense rental option. Note its walkable access to Sparkman Wharf, Amalie Arena, and the Tampa Riverwalk. Mention the free TECO streetcar to Ybor City. Describe the building type (newer mid-rise and high-rise with full amenities). Include rent range (as of Q2 2026). Honest tradeoff: street-level activity can feel thin on non-event nights, and the rent premium is real. Include a one-line "who it works for" callout.*
+
+---
+
+**H2: Ybor City**
+
+*Writing instruction: Describe Ybor City's historic character (former cigar manufacturing district, cobblestone streets, Latin-influenced architecture) and its role as Tampa's main nightlife corridor along 7th Avenue. Note that it has some of the most affordable walkable rentals in the urban core. Honest tradeoff: 7th Avenue nightlife means noise on weekends is a genuine factor. Proximity to the entertainment strip matters greatly. Include rent range. Include a one-line "who it works for" callout. Do NOT use "vibrant" or "bustling."*
+
+---
+
+**H2: Tampa Heights**
+
+*Writing instruction: Cover Tampa Heights as Tampa's fastest-changing neighborhood close to downtown. Mention Armature Works (food hall and event venue on the Hillsborough River) and the Riverwalk connection. Describe the housing mix: renovated historic homes, newer townhomes, mixed-use development. Note rent range and honest tradeoff: prices have increased substantially in recent years and the neighborhood is still mid-transformation, so character varies by block. Include "who it works for" callout.*
+
+---
+
+**H2: Westchase**
+
+*Writing instruction: Position Westchase as the master-planned suburban option for renters who prioritize space, green space, and proximity to Tampa International Airport without needing to be in the urban core. Note parks, golf access, and community events. Honest tradeoff: commute to downtown Tampa is 25–35 minutes by car, and the area is car-dependent. Include rent range for a 2BR (larger format than urban options). Include "who it works for" callout.*
+
+---
+
+**H2: How Tampa Neighborhoods Compare at a Glance** [COMPARISON TABLE]
+
+*Writing instruction: Create a clean comparison table with the following six neighborhoods as rows and these columns: Neighborhood, Rent Range (1BR, Q2 2026), Housing Style, Walkability Level, Who It Fits. Use simple descriptors in the Walkability column ("high," "moderate," "low") rather than citing score sites. This table is the primary AI citation and PAA answer target. Must use clean, parseable formatting.*
+
+---
+
+**H2: What Renters Often Miss When Choosing a Tampa Neighborhood** [CONTENT GAP]
+
+*Writing instruction: This section does not appear in any top-ranking competitor. It addresses a genuine information gap Claude identified: most guides describe neighborhoods but fail to explain the practical considerations renters overlook. Cover three specific points:*
+*1. Flood zone and insurance costs — some Tampa neighborhoods, particularly those near the bay, carry higher flood insurance requirements that affect overall housing cost. Renters should ask landlords about the property's flood zone designation.*
+*2. Tampa is car-dependent outside of Hyde Park, Channel District, and Ybor City. Many renters from walkable Northern cities underestimate this.*
+*3. Within Ybor City and Seminole Heights specifically, individual block quality varies more than in most cities. Renting without visiting the specific block in person is a material risk.*
+
+*Write these as three short, declarative paragraphs. No subheadings within this section.*
+
+---
+
+**H2: Tampa Neighborhood FAQ**
+
+*Writing instruction: Include 6 Q&A pairs in FAQPage schema format. Each answer must be 40–60 words. Answers begin directly. No "Great question!" or filler. These are the PAA and AI citation targets.*
+
+**FAQ questions (specify for writing agent):**
+
+1. What is the best neighborhood in Tampa for renters? *(PAA)*
+2. What is the most walkable neighborhood in Tampa? *(PAA + AI gap)*
+3. What is the most affordable neighborhood in Tampa to rent? *(PAA: "best neighborhoods in Tampa to rent")*
+4. Which Tampa neighborhood is best for young professionals? *(PAA)*
+5. Which Tampa neighborhood is best for families? *(PAA)*
+6. What is the average rent in Tampa? *(AI gap: Claude surfaced specific rent benchmarks that no competitor addressed)*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+The writing agent must implement these three experience markers:
+
+1. **brightplace framing on renter search patterns:** Include at least one reference to what renters searching on brightplace most commonly ask about Tampa. Example frame: "Renters searching Tampa neighborhoods on brightplace consistently flag two priorities: commute time to downtown and whether a neighborhood is actually walkable or just described that way."
+
+2. **"What to know before you sign" framing:** In the [CONTENT GAP] section, use first-person adjacent language that reflects direct knowledge of the rental experience ("Renters who relocate to Tampa from walkable Northern cities frequently underestimate how car-dependent most of the city is"). This is an experience marker, not an opinion marker.
+
+3. **Honest tradeoffs in every neighborhood section:** Every H2 neighborhood section must include at least one specific, honest tradeoff. The presence of tradeoffs is a strong E-E-A-T marker because it distinguishes genuine expertise from promotional copy.
+
+### 6b. Expertise Signals
+
+The writing agent must include:
+
+- A specific median rent figure (with Q2 2026 date stamp) for each major neighborhood
+- A comparison table with defined methodology (lifestyle, rent, walkability)
+- The flood zone note in the [CONTENT GAP] section — this is the kind of practical, specific insight a real estate expert provides that generic content farms do not
+
+### 6c. Freshness & Date-Stamping
+
+- Every rent figure must carry "(as of Q2 2026)" immediately following the number
+- The article must include a "Last reviewed: [Month] 2026" note in the article footer or introduction note
+- The claims most likely to go stale (requiring future update): rent ranges by neighborhood, Westchase commute time if transit changes, any reference to Armature Works programming or Sparkman Wharf development activity
+
+### 6d. Information Gain (Content Gaps)
+
+Three specific pieces of information this article covers that NO top-ranking competitor addresses:
+
+**Gap 1: Flood zone and renter cost impact**
+None of the 20+ competitor pages mention that flood zone designations in waterfront-adjacent Tampa neighborhoods can affect a renter's insurance obligations or a landlord's cost structure passed through to rent. This is factually accurate, locally specific, and useful. The article should note that renters near Bayshore, Davis Islands, or the Channel District waterfront should confirm flood zone status with the landlord and factor potential renter's insurance costs.
+
+**Gap 2: Block-level variance within Seminole Heights and Ybor City**
+Every competitor describes these neighborhoods uniformly. In reality, both neighborhoods have significant within-neighborhood variation in housing condition and street character. Claude's AI response flagged this. The article explicitly names this as a practical renter caution, providing information gain over all competitors.
+
+**Gap 3: Car-dependency gap for relocating renters**
+Most competitors list walkability in generic terms or cite score sites (which brightplace cannot cite). None directly address the practical reality that a renter moving from Chicago, New York, or Boston to Tampa will face a fundamentally different daily mobility experience in most neighborhoods. Only Hyde Park, Channel District, and parts of Ybor City offer genuine pedestrian access to daily needs. This is a high-value, honest observation that distinguishes this article.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Renters considering or relocating to Tampa in the discovery-to-comparison stage.
+- **First-hand expertise demonstrated:** Yes. Via specific rent data with date stamps, honest tradeoffs in every section, brightplace renter search framing, and the flood zone/car-dependency observations absent from all competitors.
+- **Reader achieves their goal:** Yes. After reading, a renter can narrow down their Tampa neighborhood based on lifestyle fit, budget, and honest tradeoffs. They can then act on the next step (search on brightplace).
+- **Brand standards met:** Yes. No banned phrases, no superlatives, no crime language, no sourcing from prohibited platforms.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:**
+*Data Source 3 did not return a ChatGPT citation list for this specific query. Based on the SERP data, ChatGPT is most likely citing Eaton Realty, Extra Space Storage, and 360 Realty Tampa for Tampa neighborhood content — all of which appear in the top SERP results and have structured tables and rich descriptive content.*
+
+**Claude citations for this keyword:**
+Claude's response (provided in Data Source 3) drew on the following without explicit citation: neighborhood characterizations consistent with Eaton Realty (pricing data), Extra Space Storage (lifestyle framing), and Graystone Investment Group (renter/investor nuance). Claude organized content by lifestyle priority and included specific rent ranges — structural choices the writing agent should replicate.
+
+**brightplace cited by either engine:** No. brightplace is not cited by ChatGPT or Claude for this keyword. This is the core citation gap this article targets.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+
+- Structured comparison tables with specific rent and pricing data
+- Per-neighborhood breakdown with honest tradeoffs (Graystone does this well for investor angle; the article does it for renter angle)
+- FAQ sections targeting PAA questions directly
+- Specific named places within neighborhoods (restaurants, landmarks, parks)
+
+**Information Gaps both AI engines identified:**
+
+1. Car-dependency reality for relocating renters (neither competitor nor AI covered this clearly)
+2. Block-level variance within Seminole Heights and Ybor City (Claude flagged this; no competitor covers it)
+3. Flood zone cost considerations for renters near Tampa Bay waterfront (absent from all sources)
+4. A direct comparison format that lets renters quickly match neighborhoods to their lifestyle profile (Claude provided this in table form; no competitor's article does it for renters specifically)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer naming the 4–5 most relevant Tampa neighborhoods for renters, (b) the target audience statement ("for renters deciding where to live in Tampa"), and (c) at least one specific numerical data point (a rent figure or neighborhood count). This is what LLMs extract for AI Overview and citation.
+
+**Rule 2: Structured data rule**
+Include one comparison table in the section "How Tampa Neighborhoods Compare at a Glance." Column headers (exact): Neighborhood | Rent Range 1BR (Q2 2026) | Housing Style | Walkability | Who It Fits. Six neighborhood rows: Hyde Park/South Tampa, Seminole Heights, Channel District, Ybor City, Tampa Heights, Westchase. Table must use clean markdown formatting convertible to HTML. No merged cells.
+
+**Rule 3: Definition rule**
+Define these three terms explicitly at their first use, in a single clear sentence each:
+
+- **Channel District:** Tampa's most urban, waterfront-adjacent rental neighborhood, built primarily around newer mid-rise and high-rise apartments within walking distance of Amalie Arena and Sparkman Wharf.
+- **Seminole Heights:** A historic neighborhood north of downtown Tampa characterized by early-20th-century Craftsman bungalows, independent restaurants, and rent prices below those of South Tampa.
+- **Ybor City:** Tampa's historic cigar manufacturing district, now a cobblestone-street neighborhood known for its Latin-influenced architecture and 7th Avenue nightlife corridor.
+
+**Rule 4: Proof point rule**
+The writing agent must include the following five numerical claims (research and insert current figures; all must carry Q2 2026 date stamps):
+
+1. Average 1BR rent in Hyde Park/South Tampa (as of Q2 2026): approximately $[X]
+2. Average 1BR rent in Seminole Heights (as of Q2 2026): approximately $[X]
+3. Average 1BR rent in Channel District (as of Q2 2026): approximately $[X]
+4. Average 1BR rent in Ybor City (as of Q2 2026): approximately $[X]
+5. Drive time from Westchase to downtown Tampa during peak hours: approximately 25–35 minutes
+
+*Note to writing agent: Insert current market rent figures from brightplace's internal data or publicly available city-level rental data. Do not cite ILS platforms. Frame as "brightplace tracks rents across Tampa neighborhoods" if using brightplace data directly.*
+
+**Rule 5: FAQ rule**
+
+The following 6 questions must appear in the FAQ section. Each answer must be 40–60 words. Format as FAQPage schema.
+
+1. **What is the best neighborhood in Tampa for renters?** *(Source: PAA)*
+Answer must: name multiple neighborhoods rather than declare one winner, briefly explain the lifestyle-fit logic (Hyde Park for walkability, Seminole Heights for value and character, Channel District for urban density).
+
+2. **What is the most walkable neighborhood in Tampa?** *(Source: AI gap — Claude flagged this as missing from competitor content)*
+Answer must: name Hyde Park and Channel District as the two most walkable options. Note that Ybor City is walkable within its entertainment corridor. Note that most of Tampa requires a car.
+
+3. **What is the most affordable neighborhood in Tampa to rent?** *(Source: PAA — "best neighborhoods in Tampa to rent")*
+Answer must: name Ybor City and Seminole Heights as the most affordable options in the urban core. Note that Westchase and Tampa Heights offer value in different formats. Include a rent figure.
+
+4. **Which Tampa neighborhood is best for young professionals?** *(Source: PAA)*
+Answer must: name Channel District and Hyde Park for walkability to offices and restaurants. Mention that Seminole Heights offers a character-driven alternative at lower price points.
+
+5. **Which Tampa neighborhood is best for families renting in Tampa?** *(Source: PAA)*
+Answer must: name Westchase and South Tampa as the family-oriented options. Note green space, park access, and commute considerations without referencing schools (Fair Housing compliance — describe by lifestyle infrastructure only).
+
+6. **What is the average rent in Tampa?** *(Source: AI gap — Claude included specific rent ranges; no competitor addressed the city-wide average)*
+Answer must: include a city-wide average rent figure (as of Q2 2026) and note that neighborhood choice causes significant variance above and below that average.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"See available apartments in Tampa on brightplace." This CTA links to `brightplace.ai` or a Tampa-specific search landing page.
+
+Placement: Three locations.
+1. After the first H2 answer paragraph (opening summary). Brief, single sentence: "brightplace shows available rentals across Tampa's neighborhoods in real time."
+2. After the comparison table (mid-article). Frame: "See current listings in these neighborhoods on brightplace."
+3. Final paragraph of article, before FAQ. Frame: "For renters narrowing down which Tampa neighborhood to explore, brightplace offers apartment search organized by neighborhood with current availability."
+
+CTA language must not say "unlock," "leverage," "dive into," or use any banned phrase. Keep each CTA to one sentence. The CTAs should read as a natural recommendation, not an advertisement.
+
+**Secondary CTA:**
+If brightplace has a Tampa city guide, rent price article, or cost-of-living piece in the /knowledgebase/, link to it from the article body (not from the FAQ or the CTA). Frame as: "For a broader look at what renting in Tampa actually costs, see brightplace's Tampa rent overview." The writing agent will receive the brightplace sitemap to locate the exact URL.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**BRAND RULES — NON-NEGOTIABLE. Follow every rule exactly. No exceptions.**
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES FOR THIS ARTICLE:**
+
+- **Target word count:** 1,200–1,400 words. Do not go over 1,500. Do not go under 1,100.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. When in doubt, split it.
+- **Paragraph length:** 2–4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time. If a paragraph hits 5 sentences, split it.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not start with "Tampa is a city that..." or "If you are looking for..." Begin with the answer.
+- **Every H2 section opens with its answer, not with context or background.** The first sentence of each H2 section states the key takeaway. Context and supporting detail follow.
+- **Honest tradeoffs are required in every neighborhood section.** If a tradeoff is not present, the section is incomplete. Tradeoffs must be specific, not generic ("it is more expensive" is not a tradeoff; "1BR rents average $200–$400 more per month than comparable units in Seminole Heights" is a tradeoff).
+- **Named places are required in every neighborhood section.** Generic descriptions are not acceptable. Hyde Park requires a mention of Hyde Park Village. Channel District requires a mention of Sparkman Wharf or the Riverwalk. Ybor City requires a mention of 7th Avenue. Tampa Heights requires a mention of Armature Works.
+- **All rent figures must carry "(as of Q2 2026)" immediately after the number.** No exceptions.
+- **Schema to implement:** Article schema (always). FAQPage schema for the FAQ section. Speakable schema for the opening summary paragraph (first H2) and FAQ section. The writing agent should flag these sections in the draft for the developer.
+- **The comparison table must use clean markdown formatting.** No complex HTML. Six rows, five columns. Column headers exactly as specified in Rule 2 of Section 7c.
+- **brightplace is always lowercase, including in CTAs, headings, and mid-sentence.**
+- **Do not use "best" in body copy to describe any single neighborhood.** Use "strong fit for," "works well for," "a practical option for," "a consistent choice for."
