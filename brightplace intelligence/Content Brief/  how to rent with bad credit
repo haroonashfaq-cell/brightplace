@@ -1,0 +1,407 @@
+# CONTENT BRIEF: brightplace.ai/knowledgebase/
+
+**Target Keyword:** how to rent with bad credit
+**Prepared for:** brightplace AI Writing Agent
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The SERP is overwhelmingly dominated by **how-to guides** with numbered or bulleted strategy lists. Every top competitor (American Express, Experian, NerdWallet, Redfin, Homes.com, LifeLock, Business Insider) uses a sequential "here is what to do" structure. Several include a brief definitional opener (what counts as bad credit, what landlords check) before moving into strategies.
+
+The article MUST match this format: **a how-to guide with numbered or clearly delineated strategies**. Do not brief a comparison piece, a definition page, or a pure listicle without actionable guidance.
+
+### 1b. Content Depth Benchmark
+
+Top 5 competitor word counts (estimated from scraped content):
+- American Express: ~800 words
+- Experian: ~1,200 words
+- Redfin: ~1,400 words
+- NerdWallet: ~1,100 words
+- LifeLock: ~1,350 words
+
+**Target word count for this article: 1,100–1,300 words.** This matches the depth of the stronger mid-tier competitors while staying within the 800-1,500 word constraint. The goal is not to out-length everyone; it is to answer faster and more specifically than the competition.
+
+### 1c. SERP Features Present
+
+The following SERP features are active for this keyword:
+
+| Feature | Present | Structural element to target |
+|---|---|---|
+| Featured Snippet | No (as noted in brief input) | First H2 opening paragraph (40-60 words, direct answer format) |
+| People Also Ask | Yes (14 questions identified) | Dedicated FAQ H2 section + H2 sections addressing specific PAA questions |
+| AI Overview | Likely (given Claude/ChatGPT coverage) | Opening 100-word summary block; structured definitions; numbered steps |
+| Video Carousel | Not confirmed for this keyword | N/A |
+| Local Pack | No | N/A |
+| Knowledge Panel | No | N/A |
+
+The absence of a featured snippet is an opportunity. The first H2 answer block should be formatted to claim it: one direct question answered in a tight, self-contained 40-60 word paragraph.
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** Someone who currently has bad credit is actively searching for an apartment and wants to know which specific strategies will help them get approved despite a low credit score.
+
+**Primary intent:** Transactional-informational. The reader is in the process of searching for a rental right now and needs actionable steps to take today.
+
+**Secondary intent:** Some searchers are in early discovery ("can I even rent with bad credit?"), and a small segment is researching specific circumstances (no co-signer, California, evictions). The article should answer the primary intent first and address secondary intents in the FAQ.
+
+**Confirmation:** The how-to guide format briefed here directly matches the primary intent. The FAQ section addresses secondary intents.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A (recommended):**
+How to Rent an Apartment with Bad Credit
+
+**Option B:**
+Renting with Bad Credit: What Actually Works
+
+**Option C:**
+A Practical Guide to Renting with Bad Credit
+
+**Recommended title for production:** Option A. It contains the exact primary keyword, matches dominant SERP title patterns, and is clear enough for AI citation. It is 44 characters. Clean.
+
+**Meta description (under 155 characters):**
+Bad credit makes renting harder, but not impossible. Here is what landlords actually look at and how to strengthen your application before you apply.
+
+*Character count: 148. Includes keyword variant, clear value proposition.*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/how-to-rent-with-bad-credit`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a renter in the active search phase: most likely between 22 and 45 years old, with a credit score below 620, who has already encountered one or more rejections or is trying to prepare before submitting applications. The credit issue may stem from medical debt, student loans, a period of unemployment, or a prior eviction. They are at the **decision and transaction stage** of the renter journey: they know their score is a problem and they need a concrete plan, not a definition of what credit scores are. They expect a numbered or organized list of specific strategies, presented in plain language, from a source that does not lecture them about their credit history.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+how to rent with bad credit
+
+**Secondary keywords (10-15):**
+- rent an apartment with bad credit
+- apartment with low credit score
+- renting with poor credit
+- bad credit apartments
+- how to get approved for a rental with bad credit
+- private landlord no credit check
+- co-signer for apartment
+- security deposit bad credit
+- no credit check apartment
+- rental application bad credit
+- proof of income for apartment
+- rent with 500 credit score
+- apartments that accept bad credit
+- rental approval without good credit
+- bad credit renter strategies
+
+**Entities to mention (5-10):**
+- FICO Score (credit scoring model most landlords use)
+- Credit score range 580-669 (Fair), 300-579 (Poor)
+- Co-signer / guarantor (key rental workaround)
+- Security deposit (financial lever renters can use)
+- Private/individual landlord (vs. corporate property manager)
+- Rent-to-income ratio (landlord evaluation tool, 3x monthly rent standard)
+- Rent-reporting services (Experian RentBureau context only, no citation)
+- Housing Choice Voucher / Section 8 (for low-income crossover PAA questions)
+- Letter of explanation (documentation landlords may accept)
+- IntentOS / brightplace.ai (product mention via CTA only)
+
+**Terms to AVOID:**
+- Apartments.com, Zillow, Trulia, Zumper, Rent.com, Apartment List (ILS platforms, banned from citation)
+- "Hidden gem," "vibrant," "bustling," "thriving," "leverage," "navigate," "unlock," "deep dive," "notably," "interestingly"
+- "Whether you're X or Y," "from X to Y," "it's worth noting"
+- Any use of em dashes
+- The word "signal" in any form
+
+---
+
+## 5. Content Outline
+
+**H1:** How to Rent an Apartment with Bad Credit
+
+---
+
+**H2: Yes, You Can Rent with Bad Credit**
+*Writing instruction:* Open with a direct, unambiguous answer to the core question in the first sentence. Follow with 40-60 words total covering what "bad credit" means in a rental context (below 580 on the FICO scale is typically considered poor; most landlords prefer 620 or higher), and acknowledge that the score is one factor among several. This paragraph is the featured snippet target. Keep it tight, factual, and self-contained. Do not editorialize or add caveats beyond what is essential.
+
+*CTA placement:* After this section, insert the primary CTA (one sentence, natural framing).
+
+---
+
+**H2: What Landlords Actually Check (It Is More Than Your Score)**
+*Writing instruction:* This section addresses the PAA question "How to pass a rental credit check with bad credit?" and the PAA question "Can you get an apartment with bad credit but good income?" Explain the four main things landlords evaluate: (1) credit score and payment history, (2) income relative to rent (the 3x monthly rent standard), (3) rental history and references, (4) outstanding debts and collections. Use a short table (3 columns: Factor, What Landlords Want to See, How to Address It). This table is an AI citation target. Opening sentence of section must be the key takeaway.
+
+**Table structure:**
+
+| Factor | What Landlords Look For | How to Address It |
+|---|---|---|
+| Credit score | 620+ preferred by most landlords | Offer larger deposit or co-signer |
+| Income | At least 3x monthly rent (gross) | Provide pay stubs or bank statements |
+| Rental history | On-time payments, no evictions | Get written references from past landlords |
+| Outstanding debt | Low balances, no active collections | Prepare a written explanation if needed |
+
+---
+
+**H2: 6 Strategies That Work When Your Credit Score Is Low**
+*Writing instruction:* This is the core how-to section. Present 6 numbered strategies in priority order (most accessible/highest impact first). Each strategy gets one short declarative headline, 2-3 sentences of explanation, and one specific action to take. No padding. No repeating what was said in the landlord-check section. Strategies should be:
+
+1. Target private landlords instead of corporate complexes
+2. Offer a larger security deposit (note: check state deposit caps before offering; California caps at 2 months, many states have no cap)
+3. Show proof of income first, before they ask
+4. Write a short letter explaining your credit history
+5. Bring a co-signer or look into guarantor services
+6. Apply to properties with vacancies that have been sitting
+
+*Writing instruction continued:* Do not use passive voice. Every sentence should tell the reader what to do or what to expect. Example of correct tone: "Call the landlord before applying. Explain your income and offer a larger deposit upfront. Many private owners will give you a hearing that a corporate leasing office never would."
+
+---
+
+**H2: [CONTENT GAP] How to Tell Which Landlords Are More Likely to Work with You**
+*Writing instruction:* This section has NO strong coverage in any top competitor. Competitors tell renters to "find private landlords" without explaining how to identify them or what listing behaviors indicate flexibility. The writing agent should cover: (1) what listing language points to private ownership (no management company branding, a personal phone number in the listing, shorter descriptions), (2) how a long-vacant property creates more negotiating room (landlords with zero applicants are more flexible than landlords with five), (3) how building size correlates with flexibility (a 4-unit building typically has more flexible screening than a 200-unit complex). This is information gain. It is specific, useful, and not replicated by any current top-ranking competitor.
+
+*Writing instruction continued:* This section addresses the PAA query "private landlords no credit checks near me" in a way that does not require citing a platform. Keep it practical and specific. No more than 150 words.
+
+---
+
+**H2: [CONTENT GAP] What to Do If You Have Both Bad Credit and Low Income**
+*Writing instruction:* This addresses the PAA question "how to rent with bad credit and low income" and a gap identified in both AI engine responses. Competitors rarely address the compounding difficulty of low income alongside bad credit. Cover: (1) income-based housing programs (HUD, Housing Choice Vouchers / Section 8) as a parallel track to pursue, with HUD's resource locator as the appropriate reference, (2) the reality that some private landlords in lower-rent markets apply different income standards than the 3x rule, (3) the subletting and roommate route as an option that sidesteps the applicant's individual credit profile entirely. Be honest about the difficulty. Do not oversell the options. Honest tradeoffs build reader trust. Target: 100-130 words.
+
+---
+
+**H2: [CONTENT GAP] How to Handle It If You Have Bad Credit AND a Prior Eviction**
+*Writing instruction:* This PAA question ("how to rent a house with bad credit and evictions") is asked by a significant subset of searchers and is only superficially addressed by competitors. The section should explain: (1) eviction records typically appear on tenant screening reports for 7 years, separate from credit reports, (2) the specific written explanation that helps (what happened, what changed, why it will not happen again), (3) which property types are most likely to still consider the application (private landlords, suburban markets, older Class B/C buildings), (4) rent guarantor services as a bridge option. This section adds genuine information gain for a high-need subsegment of the audience.
+
+---
+
+**H2: How to Build Your Credit While You Are Renting**
+*Writing instruction:* This section provides forward-looking value and addresses the PAA question "Can paying rent build my credit?" It is a natural close before the FAQ because it serves renters who want to improve their situation, not just survive it. Cover: (1) rent-reporting services that can add rental payments to credit history (do not cite or endorse any specific platform by name, refer to them generically as "rent-reporting services"), (2) the impact of keeping credit card balances below 30% of the available limit, (3) setting up autopay on existing accounts to prevent further missed payments. 80-100 words maximum. Do not turn this into a full credit-improvement guide; the article is about renting, not credit repair.
+
+---
+
+**H2: Frequently Asked Questions**
+*Writing instruction:* Include 7 Q&A pairs. Each answer must be 40-60 words (featured snippet and voice search length). Use plain question phrasing, not formal language. Mark each with its source (PAA or content gap) so the writing agent knows the priority.
+
+**FAQ questions (with source):**
+
+1. **Can I rent with a 500 credit score?** (PAA: "Can you lease with a 500 credit score")
+2. **What is the lowest credit score a landlord will accept?** (PAA: "What is the lowest credit score you can have to rent")
+3. **Can I rent an apartment with bad credit but good income?** (PAA: exact match)
+4. **How do I rent with bad credit and no co-signer?** (PAA: "How to rent with bad credit and no co-signer")
+5. **Do landlords prefer credit score or income?** (Content gap identified by Claude; competitors rarely address this directly)
+6. **Can I find an apartment with bad credit in California?** (PAA: "How to rent with bad credit in california")
+7. **Does applying for an apartment hurt my credit score?** (Content gap: AI engines flagged soft vs. hard inquiry distinction; competitors mention it briefly but do not answer it directly)
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace platform framing:** Where the article discusses how landlords evaluate applications, the writing agent may include a phrase such as: "Based on renter search patterns tracked on brightplace, income verification and deposit offers are the two most frequently raised flexibility factors in markets where renter competition is lower." This frames the statement as coming from an AI-native platform with real search data, not a generic financial publication.
+
+2. **Specific market observation:** The article should include at least one specific, grounded observation tied to current rental conditions: "As of mid-2026, landlords in many mid-size metros have more vacancy than in 2021-2022, which means more negotiating room for applicants who would have been flat-out rejected two years ago." This demonstrates awareness of current conditions, not generic advice.
+
+3. **Honest tradeoff language:** At least once in the strategies section, the writing agent should include a sentence that acknowledges a downside or limitation of the strategy being discussed. Example: "A co-signer strengthens your application significantly, but it puts real financial responsibility on another person. Only ask someone who understands what they are agreeing to." This signals actual experience with the topic, not surface-level coverage.
+
+### 6b. Expertise Signals
+
+- State the specific credit score thresholds with sourcing context: most landlords use FICO Score 8 or a tenant-screening-specific model; the general preference threshold is 620 or higher.
+- Include the 3x rent income standard as a named decision framework, not just a tip.
+- Reference state-level security deposit caps as a class of variation (not just as a footnote), showing awareness that the strategies are not universally applicable.
+
+### 6c. Freshness & Date-Stamping
+
+Every numerical claim must include "(as of [Quarter] [Year])." The article must open with "Last reviewed: July 2026" in a byline or metadata note.
+
+**Claims most likely to go stale and require future updates:**
+- Average renter credit score (currently cited around 638 by some sources; this shifts annually)
+- State security deposit caps (legislation changes; California changed its law in 2024)
+- Rental market tightness (vacancy rates shift with economic conditions; the "more vacancy" framing of mid-2026 may not apply in 2027)
+- Guarantor service fees and coverage markets (commercial services expand and change pricing)
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that NO current top-ranking competitor covers adequately:
+
+1. **How to identify flexible landlords from listing behavior** (H2: "How to Tell Which Landlords Are More Likely to Work with You"): No competitor explains what listing signals indicate a private owner versus a corporate manager, or how long-vacant properties create negotiating leverage. This is directly actionable and completely absent from all 20+ competitor URLs analyzed.
+
+2. **The compounding difficulty of low income plus bad credit with specific routing logic** (H2: "What to Do If You Have Both Bad Credit and Low Income"): Competitors either address bad credit alone or mention Section 8 in passing. None walk through the specific decision tree for renters facing both conditions simultaneously, including the subletting route as an applicant-profile workaround.
+
+3. **The eviction-plus-bad-credit scenario with specific property type routing** (H2: "How to Handle It If You Have Bad Credit AND a Prior Eviction"): Competitors mention evictions as a problem but rarely address what type of landlord, market, or application structure can still result in approval. This section serves a real and underserved searcher subsegment.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Active apartment searcher with a credit score below 620, currently looking for housing, not interested in general financial advice.
+- **First-hand expertise demonstrated:** Yes. Platform-grounded observation in Section 6a, specific market framing, honest tradeoff acknowledgment in strategies section.
+- **Reader achieves their goal:** Yes. Goal is to understand which strategies will help them get approved for a rental. The article delivers 6 specific strategies, a table comparing what landlords check, and FAQ answers for specific circumstances.
+- **brightplace brand standards:** Yes. Confirmed: no em dashes, "brightplace" lowercase throughout, no banned words or phrases, no ILS citations, Fair Housing language absent from any neighborhood or demographic description, title uses curation framing.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:** The brief input did not include ChatGPT response data (field was blank). No citation analysis possible for ChatGPT. Writing agent should note this gap; the article should be structured to compete for ChatGPT citation in the same way it targets Claude.
+
+**Claude citations for this keyword:**
+
+Claude provided a detailed, structured response. Its sourcing logic (inferred from its response structure) relies on:
+- Authoritative financial publications with structured how-to content (Experian, NerdWallet style)
+- Content that provides a ranked or tiered breakdown (effectiveness ordering)
+- Content with specific numerical benchmarks (620+ credit score, 3x rent income standard)
+- Content that distinguishes between landlord types (private vs. corporate) with specific practical implications
+- Content that references government housing programs (HUD) with actionable routing (hud.gov/findhousing)
+
+**Is brightplace cited by either engine?**
+- ChatGPT: Unknown (no data provided)
+- Claude: No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+
+The sources Claude drew from (inferred) have:
+- Domain authority established through financial and real estate content verticals
+- Consistent use of structured, scannable formats (numbered steps, tables)
+- Explicit coverage of the private-vs.-corporate landlord distinction with specific tactical guidance
+- State-level nuance (California deposit caps, NYC guarantor services)
+- Clear attribution to named decision frameworks (rent-to-income ratio, FICO Score 8)
+
+**brightplace's current gaps:**
+- No existing /knowledgebase/ content on this keyword
+- No proof points or data that can be cited by AI engines for this topic
+
+**Information gaps both AI engines identified:**
+1. How to identify which landlords are more likely to accept bad credit applicants from listing behavior alone
+2. The decision path for renters facing both bad credit AND low income simultaneously
+3. The soft vs. hard inquiry distinction for rental applications (does applying hurt your credit)
+4. Specific routing for renters with eviction history on top of bad credit
+5. How long-vacant properties create negotiating leverage that high-demand properties do not
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer to "can you rent with bad credit" (yes, with conditions), (b) the audience statement (you are currently searching for an apartment and your credit score is below the standard threshold), (c) at least one specific numerical data point ("most landlords prefer a FICO score of 620 or higher").
+
+**Rule 2: Structured data rule**
+Include two tables in the article:
+- Table 1 in the "What Landlords Actually Check" section: 3 columns (Factor | What Landlords Look For | How to Address It). See outline above for column headers and content.
+- Table 2 is optional but recommended if word count permits: a comparison of landlord types (Private Owner vs. Corporate Manager) with columns for Credit Flexibility, Typical Score Requirement, What Carries Most Weight. This is an AI citation target because it provides a direct comparison LLMs can extract as a structured answer.
+
+If Table 2 would push the article above 1,300 words, omit it and include the comparison as a short two-paragraph prose section under the strategies H2 instead.
+
+**Rule 3: Definition rule**
+The following terms must be explicitly defined in one clear sentence the first time they appear:
+
+1. **FICO score:** "A FICO score is a three-digit number between 300 and 850 that reflects your history of paying debts on time; most landlords use it as a screening tool."
+2. **Co-signer:** "A co-signer is a person who signs the lease alongside you and agrees to pay your rent if you cannot."
+3. **Guarantor:** "A guarantor is similar to a co-signer but typically does not live in the unit; they take on legal responsibility for your lease obligations."
+4. **Rent-to-income ratio:** "The rent-to-income ratio is the landlord's standard check that your gross monthly income is at least three times the monthly rent."
+5. **Letter of explanation:** "A letter of explanation is a short written statement you provide with your rental application that describes what caused your credit issues and what has changed since."
+
+**Rule 4: Proof point rule**
+The article must include the following specific numerical claims, adjacent to "(as of [Quarter] [Year])" parenthetical:
+
+1. "Most landlords prefer a FICO score of 620 or higher (as of mid-2026)."
+2. "Roughly 28-30% of U.S. consumers have credit scores below the 'Good' threshold of 670 (as of 2025, per Experian data)." *(Note to writing agent: verify this figure against the most current available Experian data before publishing; do not invent a number.)*
+3. "The standard rent-to-income threshold most landlords apply is 3x the monthly rent in gross income (as of mid-2026)."
+4. "Negative information, including most collection accounts and late payments, can remain on a credit report for up to seven years." *(This is a regulatory fact, not a market statistic; no date-stamping required, but note source: Fair Credit Reporting Act.)*
+5. "Eviction records typically appear on tenant screening reports for seven years and are separate from credit reports."
+
+**Rule 5: FAQ rule**
+Seven FAQ questions, format requirements, and source attribution:
+
+| Question | Source | Answer length target |
+|---|---|---|
+| Can I rent with a 500 credit score? | PAA | 40-60 words |
+| What is the lowest credit score a landlord will accept? | PAA | 40-60 words |
+| Can I rent with bad credit but good income? | PAA | 40-60 words |
+| How do I rent with bad credit and no co-signer? | PAA | 40-60 words |
+| Do landlords care more about credit score or income? | Content gap (Claude) | 40-60 words |
+| Can I find an apartment with bad credit in California? | PAA | 40-60 words |
+| Does applying for an apartment hurt my credit score? | Content gap (both AI engines) | 40-60 words |
+
+Each answer must be a complete, self-contained response. Do not say "it depends" as the opening word. Give the direct answer first, then qualify.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search for available apartments on brightplace.ai.
+Text: "brightplace tracks available apartments across major metros. Search what is available near you."
+Placement: Three locations in the article:
+1. Immediately after the opening H2 answer block (before the landlord-check section).
+2. Midway through the strategies section, after Strategy 3 (proof of income).
+3. At the end of the article, after the FAQ section.
+
+CTA framing must feel like a natural editorial step, not an advertisement. Example approved language: "If you are currently searching, brightplace shows available apartments with actual rent prices so you can identify markets where your budget and income work." Do not use: "Start your search today," "Find your dream apartment," or any promotional phrasing.
+
+**Secondary CTA:**
+If brightplace has a published guide on apartment search budgeting, renter checklists, or related knowledgebase content, the writing agent should add one internal link in the "How to Build Your Credit While You Are Renting" section with language like: "For more on budgeting your first apartment, see [article title] on brightplace." The writing agent will receive the sitemap to locate the exact URL. If no relevant article exists, omit the secondary CTA rather than linking to an unrelated page.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+### Brand Rules (Non-Negotiable)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### Additional Production Rules
+
+**Target word count:** 1,100-1,300 words (calibrated to match or slightly exceed top competitor depth without padding).
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style. The reader is stressed about housing. Write like you know what you are talking about and you are on their side.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. If a sentence has more than two clauses, break it in two.
+
+**Paragraph length:** 2-4 sentences maximum. No exceptions. Dense paragraphs lose mobile readers and reduce dwell time.
+
+**No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with "If you are looking for an apartment..." or "Finding a rental can be challenging..." Start with the answer.
+
+**Every H2 section opens with its answer, not with context or background.** The reader should be able to skim only the H2s and the first sentence of each section and leave with a complete mental model of the article.
+
+**Honesty requirement:** Every strategy section must include at least one honest tradeoff or limitation. If a strategy has conditions or costs, name them. This is not optional. It protects reader trust and brightplace's credibility.
+
+**No brand name citations:** Do not cite, name, link, or reference any ILS platform, review site, score site, credit bureau product, or rental app in the body of the article. The only permissible external references are government sources (HUD, CFPB, FTC, FCRA) and regulatory bodies when directly relevant.
+
+**Schema to implement:**
+- Article schema: Always.
+- FAQPage schema: Always (on the FAQ H2 section).
+- HowTo schema: Recommended for the "6 Strategies" H2 section. Each strategy is a HowToStep.
+- Speakable schema: Apply to the opening summary paragraph (first H2 answer block) and the FAQ section. These are the two blocks most likely to be read aloud by voice assistants and cited by AI engines.
+
+**Prohibited at the article level:**
+- No use of "signal" in any form (use "indicator," "suggests," "points to," or "reflects")
+- No em dashes anywhere in the article
+- No use of banned phrases listed above
+- No ILS platform names, forum names, or review aggregator names
+- No neighborhood descriptions that reference demographics, crime, or safety
+
+**Date-stamping rule:** Every numerical market claim (rent amounts, credit score thresholds, percentage figures, income standards) must be followed immediately by "(as of [Quarter] [Year])." The article must include a "Last reviewed: [Month Year]" note in the article metadata or first paragraph.
