@@ -1,0 +1,393 @@
+# CONTENT BRIEF: Brooklyn Neighborhoods
+**For:** brightplace.ai/knowledgebase/
+**Primary Keyword:** brooklyn neighborhoods
+**Prepared by:** brightplace Content Strategy
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results are a hybrid of two formats: **curated neighborhood guides** (listicle-style with descriptive paragraphs per neighborhood) and **comprehensive overview articles** (long-form editorial pieces organizing neighborhoods by category, geography, or renter type). The brightplace guide already at brightplace.ai/guides/brooklyn-neighborhood-guide demonstrates this format works. Competitors like prospectplaces.com, cohabs.com, junehomes.com, and craigyoskowitz.com all use the curated neighborhood guide format. The Wikipedia result ranks on authority alone, not format. The writing agent should produce a **curated neighborhood guide** organized by renter type or lifestyle category, not a flat alphabetical list or pure listicle.
+
+### 1b. Content Depth Benchmark
+
+Top competitors range from:
+- Wikipedia: Reference list only (no narrative depth)
+- visitbrooklyn.nyc: Navigation index, minimal copy
+- prospectplaces.com: ~3,500–4,500 words with data tables
+- cohabs.com: ~1,800 words, neighborhood-by-neighborhood
+- junehomes.com: ~5,000+ words (outlier; comprehensive guide format)
+- craigyoskowitz.com: ~800 words (brief descriptors)
+- newyorkdearest.com: ~2,500 words
+- propertyclub.nyc: ~2,800 words
+
+The sweet spot for the /knowledgebase/ format is **1,200–1,500 words**. This is shorter than the major editorial guides but longer than the brief listicles. The article must answer the query completely within this range. It should not attempt to cover every neighborhood; it should cover the neighborhoods renters actually research and use specific, useful data rather than volume.
+
+### 1c. SERP Features Present
+
+- **People Also Ask:** Yes (6 questions confirmed: "nicest neighborhood in Brooklyn," "toughest neighborhood in Brooklyn," "safest area in Brooklyn," "where do celebrities live in Brooklyn," plus secondary queries about maps, lists, and explained neighborhoods). PAA questions must each be addressed with a 40-60 word answer in the FAQ section.
+- **Featured Snippet:** No featured snippet currently exists for this keyword. This is a direct capture opportunity. The first H2 must contain a 40-60 word direct answer formatted for snippet extraction.
+- **AI Overview:** Not confirmed present, but both ChatGPT and Claude are citing sources for this query, meaning an AI Overview is likely appearing or will appear. Structure must support AI citation.
+- **Knowledge Panel / Local Pack:** Not applicable for this keyword.
+- **Video Carousel:** Not identified in top results.
+
+**Structural targeting:**
+- Featured snippet: Opening paragraph under first H2 (40-60 words, direct answer)
+- PAA: Dedicated FAQ section at the end with structured Q&A
+- AI Overview: Comparison table, definition blocks, proof points throughout
+
+### 1d. Intent Match Validation
+
+**Searcher intent:** Someone researching Brooklyn neighborhoods to understand how they compare for renting or relocating, seeking a practical orientation to make a neighborhood choice.
+
+**Primary intent:** Informational with high transactional adjacency. The searcher is deciding where to live in Brooklyn or narrowing a shortlist.
+
+**Secondary intent:** General curiosity or research about Brooklyn's geography and neighborhood character.
+
+**This brief targets the primary intent.** The article must serve a renter in the comparison or decision stage, not a tourist or casual browser. Every section should answer: "What does this neighborhood mean for someone who will sign a lease here?"
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+Brooklyn Neighborhoods: A Practical Renter's Orientation
+*(58 characters)*
+
+**Option B:**
+What to Know About Brooklyn Neighborhoods Before You Sign
+*(56 characters)*
+
+**Option C:**
+How Brooklyn Neighborhoods Actually Differ for Renters
+*(53 characters)*
+
+**Recommended:** Option A for the H1. It contains the primary keyword, signals practical utility, speaks directly to the renter audience, and avoids superlatives or ranking language.
+
+---
+
+**Meta description:**
+Brooklyn has 70+ neighborhoods with rents ranging from $1,800 to $5,500. Here is how the major areas compare for renters making a real decision.
+*(150 characters)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/brooklyn-neighborhoods`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The searcher is a prospective renter, most likely arriving from out of state or moving from Manhattan, who has decided Brooklyn is the right borough and now needs to understand how the neighborhoods differ from a practical standpoint. They are in the **comparison stage**: they have a budget in mind, a general lifestyle preference, and a commute constraint, but they do not yet know which neighborhood names match those criteria. They expect a concise but specific guide that gives them enough information to narrow a shortlist and take their next step, without requiring them to read a 5,000-word encyclopedia. They are not looking for a list of every neighborhood in Brooklyn; they want a functional map of the major options organized by what matters to a renter.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+brooklyn neighborhoods
+
+**Secondary keywords:**
+- brooklyn neighborhoods for renters
+- brooklyn neighborhoods explained
+- brooklyn neighborhoods by price
+- best brooklyn neighborhoods to rent
+- brooklyn neighborhoods map
+- brooklyn neighborhoods list
+- brooklyn neighborhood guide
+- neighborhoods in brooklyn ny
+- where to live in brooklyn
+- brooklyn apartment neighborhoods
+- brooklyn neighborhood comparison
+- brooklyn rent by neighborhood
+- north brooklyn neighborhoods
+- south brooklyn neighborhoods
+- brooklyn neighborhoods for young professionals
+
+**Entities to mention:**
+- Park Slope, Williamsburg, Crown Heights, Bed-Stuy (Bedford-Stuyvesant), Fort Greene, Clinton Hill, DUMBO, Brooklyn Heights, Bushwick, Greenpoint, Prospect Heights, Bay Ridge, Downtown Brooklyn, Carroll Gardens, Cobble Hill
+- Prospect Park, Brooklyn Bridge Park, Eastern Parkway
+- L train, G train, 2/3 train, 4/5 train, B/Q train, A/C train
+- Median 1BR rent (as a concept and with specific figures)
+- Brownstone apartments, managed high-rise buildings, walk-up apartments
+- Broker fees, no-fee listings
+- North Brooklyn, South Brooklyn (as geographic organizing concepts)
+
+**Terms to AVOID:**
+- "best," "top," "ultimate," "greatest," "hidden gem," "vibrant," "bustling," "thriving"
+- "deep dive," "navigate," "leverage," "unlock," "explore" (as imperative)
+- Zillow, Apartments.com, StreetEasy, Zumper, Apartment List, RentCafe, or any ILS platform name
+- Reddit, Niche, AreaVibes, Walk Score
+- "gentrification" (Fair Housing concern adjacent)
+- "safe" or "unsafe" as neighborhood descriptors (Fair Housing compliance)
+
+---
+
+## 5. Content Outline
+
+**H1: Brooklyn Neighborhoods: A Practical Renter's Orientation**
+
+---
+
+**H2: How Brooklyn Neighborhoods Work**
+
+*Writing instruction:* Open with a 40-60 word direct answer explaining the core organizing logic of Brooklyn neighborhoods for renters. This paragraph is the featured snippet target. It must explain the borough's basic geography (North vs. South Brooklyn), the rent range across neighborhoods, and the key variable (subway access). No context-setting or introductory pleasantries.
+
+Include after this paragraph: a brief note establishing the two-half framework (North Brooklyn: Williamsburg, Greenpoint, connected via L train; South Brooklyn: Park Slope, Crown Heights, Prospect Heights, Bed-Stuy, connected via 2/3/4/5 and B/Q). This framework is how renters should mentally organize their search and is a [CONTENT GAP] not clearly articulated by most competitors.
+
+---
+
+**H2: At a Glance: Brooklyn Neighborhoods by Rent and Lifestyle**
+
+*Writing instruction:* Include a comparison table with the following columns: Neighborhood | Median 1BR Rent | Primary Subway Lines | Vibe in Three Words | Best For. Cover 8-10 neighborhoods. Use (as of Q1 2026) for all rent figures. Data should draw from brightplace's market data. This table is the AI citation and featured snippet anchor for the comparison aspect of the query. Every row must use lifestyle infrastructure framing only (no safety language, no demographic descriptors).
+
+---
+
+**H2: North Brooklyn (Williamsburg, Greenpoint, Bushwick)**
+
+*Writing instruction:* Cover these three neighborhoods as a connected zone. Explain what they share (L train access, creative and nightlife culture, higher rents near the waterfront, lower as you move east into Bushwick). Be specific: median rents, transit options, and what type of renter actually thrives here. Include honest tradeoffs. Williamsburg: highest rents, most amenities, L train to Union Square in ~15 minutes. Greenpoint: slightly quieter, strong coffee and restaurant scene, G train only (major tradeoff). Bushwick: most affordable of the three, warehouse aesthetic, best for night owls and creative-industry renters. Do NOT describe neighborhoods by who lives there.
+
+---
+
+**H2: Brownstone Brooklyn (Park Slope, Fort Greene, Clinton Hill, Carroll Gardens, Cobble Hill)**
+
+*Writing instruction:* Organize this section around the shared character of brownstone Brooklyn. Explain what these neighborhoods have in common: pre-war walk-up apartments, stoop culture, tree-lined streets, moderate-to-high rents. Then differentiate: Park Slope (families, Prospect Park, District 15 schools, highest rents in the cluster); Fort Greene and Clinton Hill (arts and cultural institutions, BAM, Pratt, slightly more affordable); Carroll Gardens and Cobble Hill (quieter, Italian-heritage restaurant scene, limited subway options). Include specific rent ranges and transit notes for each. This is the cluster most renters coming from Manhattan investigate first.
+
+---
+
+**H2: Central Brooklyn (Crown Heights, Prospect Heights, Bed-Stuy)**
+
+*Writing instruction:* This section covers the neighborhoods with the best value-to-access ratio in the borough as of early 2026. Be specific and honest: Crown Heights and Prospect Heights offer Prospect Park access and 2/3/4/5 train connections at 1BR rents roughly $400–$800 below Park Slope. Bed-Stuy offers iconic brownstone architecture at prices below Fort Greene. Include honest tradeoffs: larger geographic footprint means block-by-block variation in character; some blocks have long walks to the nearest train. Use lifestyle infrastructure framing (dining corridors like Franklin Avenue, Eastern Parkway). This section should include a **[CONTENT GAP]** note about how these neighborhoods are frequently misunderstood as monolithic when they have strong internal variation by sub-area.
+
+---
+
+**H2: Downtown Brooklyn and DUMBO**
+
+*Writing instruction:* Treat these as the managed high-rise corridor of the borough. Downtown Brooklyn is Brooklyn's most transit-connected neighborhood (nearly every subway line within blocks) and has the highest concentration of amenity-rich managed buildings. DUMBO is smaller, more expensive, waterfront-oriented, with Manhattan Bridge views and cobblestone streets. Cover who these neighborhoods work for: renters who prioritize transit access and modern building amenities over brownstone character. Include a brief note on broker fees: managed buildings in this corridor are more likely to be no-fee.
+
+---
+
+**H2: Outer Brooklyn (Bay Ridge, Sunset Park, Flatbush)**
+
+*Writing instruction:* These neighborhoods serve renters who need to stretch budget or want more space. Bay Ridge: $2,200–$2,500 1BR, R train only (45-60 min to Midtown), waterfront parks, small-city feel. Sunset Park: affordable, multicultural restaurant scene along 8th Avenue, closer to Midtown than Bay Ridge. Flatbush: large geographic area with strong Caribbean restaurant culture, B/Q train access, highly affordable but requires block-level research. **[CONTENT GAP]:** Most competitor content ignores these outer neighborhoods or treats them as afterthoughts. brightplace should give these neighborhoods substantive treatment since they represent where value-conscious renters actually end up. Frame entirely by lifestyle infrastructure.
+
+---
+
+**H2: The North/South Divide: Why It Matters for Your Search**
+
+*Writing instruction:* This section addresses a [CONTENT GAP] that appears in the Claude AI response but is not clearly articulated in most competitor content. Explain that traveling between North Brooklyn (Williamsburg/Greenpoint) and South Brooklyn (Park Slope/Crown Heights) is inconvenient except via the G train. If your job, social life, or daily routine is centered on one half, your apartment should be in that half. This is a practical renter decision that no competitor states plainly enough. Keep this section short: 100-150 words maximum.
+
+---
+
+**H2: What to Know Before You Search**
+
+*Writing instruction:* Deliver 4-5 specific, actionable things renters must understand before apartment hunting in Brooklyn. Use short declarative sentences. Cover: (1) the subway map is your primary search tool — verify commute before falling for a neighborhood; (2) broker fees are common but not universal — managed buildings are more likely no-fee; (3) brownstone apartments have character but also walk-ups, variable heat, and uneven floors — know what you are signing up for; (4) block-by-block variation is real in Crown Heights, Bed-Stuy, and Bushwick — walk the specific block before committing; (5) the borough average rent (~$3,600 as of Q1 2026) is meaningless — the range between neighborhoods is larger than the difference between Brooklyn and Manhattan in many cases.
+
+---
+
+**H2: Frequently Asked Questions About Brooklyn Neighborhoods**
+
+*Writing instruction:* Include 6 Q&A pairs. Each answer must be 40-60 words. These feed FAQPage schema. Do not use safety language or describe neighborhoods by resident demographics. Use lifestyle infrastructure framing throughout.
+
+Q1: What is the most affordable neighborhood in Brooklyn for renters? (from PAA)
+Q2: Which Brooklyn neighborhood has the shortest commute to Manhattan? (from PAA + AI gap)
+Q3: What is the difference between North Brooklyn and South Brooklyn? (from AI gap)
+Q4: Which Brooklyn neighborhoods have the most managed apartment buildings? (from AI gap — competitors miss this entirely)
+Q5: What should I know about broker fees when renting in Brooklyn? (from AI gap)
+Q6: Which Brooklyn neighborhoods are best for renters without a car? (from PAA adjacent + AI gap)
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace search data framing:** Where discussing neighborhood demand trends, the writing agent should frame observations as "brightplace search data shows..." or "renters searching on brightplace in early 2026 most frequently compared..." This positions brightplace as having original observational data, not just synthesized information.
+
+2. **Specific date-stamped rent figures:** Every rent figure must appear as "approximately $X (as of Q1 2026)" or "median 1BR rent in [neighborhood] was $X in early 2026." This demonstrates data freshness and specificity that generic competitor content lacks.
+
+3. **Honest tradeoff framing:** The article should consistently lead strengths and name real tradeoffs. "Park Slope is Brooklyn's most established family neighborhood. The tradeoff is price and the knowledge that you are optimizing for family infrastructure over everything else." This is the "knowledgeable friend" signal that separates E-E-A-T content from generic guides.
+
+### 6b. Expertise Signals
+
+- Include a one-sentence methodology note in the comparison table's caption: "Rent ranges reflect median asking rents tracked by brightplace in Q1 2026. Figures represent unfurnished 1BR apartments in each neighborhood."
+- Use specific transit time benchmarks: "The L train connects Williamsburg to Union Square in approximately 15 minutes during off-peak hours."
+- Include the 2/3/4/5 express train advantage for Crown Heights and Prospect Heights (faster Midtown commute than many west Brooklyn neighborhoods) — this is a specific, non-obvious insight that demonstrates expertise.
+
+### 6c. Freshness & Date-Stamping
+
+- Every rent figure: "(as of Q1 2026)"
+- Borough average rent claim: "(as of Q1 2026)"
+- Include at the bottom of the article: "Last reviewed: [Month 2026]"
+
+**Claims most likely to go stale (flag for future update):**
+- All median 1BR rent figures (update quarterly)
+- The "value" framing for Crown Heights and Prospect Heights (rents in these areas have been increasing; the value window may close)
+- Subway service patterns (MTA service changes frequently)
+
+### 6d. Information Gain
+
+**Gap 1: The North/South Divide stated plainly for renters**
+Most competitor content mentions Williamsburg and Park Slope without explaining that traveling between the two is actively inconvenient. The Claude AI response flagged this explicitly. brightplace should state plainly: "If your life is on one side of the borough, your apartment should be too. The G train connects them, but it runs infrequently." No top competitor makes this actionable for renters.
+
+**Gap 2: Managed buildings vs. brownstone walk-ups as a renter decision**
+Competitors describe neighborhoods by feel and architecture but rarely explain the practical implication: brownstone apartments have charm and also walk-ups, variable heat systems, and individual landlords with inconsistent maintenance response. Managed high-rises in Downtown Brooklyn and along the Fort Greene/Williamsburg corridors offer in-unit laundry and responsive management at a premium. This is a decision framework renters need that no competitor surfaces.
+
+**Gap 3: Outer Brooklyn neighborhood coverage**
+Bay Ridge, Sunset Park, and Flatbush receive minimal, dismissive treatment in most competitor guides. These are where significant portions of Brooklyn's renter population live. A guide that treats them with specificity will capture renter queries that the premium-neighborhood-focused competitors miss.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Yes. Prospective renter in the comparison or decision stage, researching Brooklyn for a lease decision.
+- **Demonstrates first-hand expertise:** Yes. Via brightplace data framing, specific rent figures with dates, transit time benchmarks, and honest tradeoff language.
+- **Leaves the reader able to achieve their goal:** Yes. After reading, a renter can identify 2-3 neighborhoods that match their budget, commute, and lifestyle profile and take a next step.
+- **Would a human editor at brightplace be confident publishing this:** Yes, provided the writing agent follows the brand rules fully, avoids all banned phrases, uses Fair Housing-compliant lifestyle infrastructure framing, and does not cite prohibited sources.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:** Not provided in Data Source 3 (ChatGPT response not retrieved). Based on available data, ChatGPT typically cites major editorial outlets (NY Times, Time Out, Bloomberg CityLab) for neighborhood guides, not ILS platforms.
+
+**Claude citations:** The Claude response provided directly covers:
+- DUMBO / Brooklyn Heights (high-end tier framing)
+- Park Slope (families and green space)
+- Cobble Hill / Carroll Gardens (quieter, European feel)
+- Fort Greene / Clinton Hill (cultural institutions, transit)
+- Prospect Heights / Crown Heights (value relative to Park Slope)
+- Bed-Stuy (architecture, affordable, block variation)
+- Bushwick (arts, nightlife, L train)
+- Downtown Brooklyn (transit hub, managed buildings)
+- Greenpoint (quieter, Polish heritage, G train only)
+
+Claude is drawing from general knowledge and not citing a specific single source for this keyword — meaning the citation position is open.
+
+**Is brightplace cited by either engine?** The existing brightplace.ai/guides/brooklyn-neighborhood-guide is indexed but was not reflected in the Claude response retrieved. No confirmation of ChatGPT citation. **brightplace is not currently being cited for this keyword by major AI engines.** This is a capture opportunity.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Structured comparison tables with specific rent data (Claude's own response included this; brightplace content should match this format)
+- The North/South Brooklyn framework stated clearly as a renter decision (Claude included this; brightplace should too)
+- Transit time benchmarks per neighborhood (Claude included specific minute estimates; brightplace should match)
+- Honest tradeoff framing per neighborhood (Claude's format included this; brightplace's voice is aligned)
+
+**Information Gaps both AI engines identified:**
+1. The G train as the only cross-borough connector (and its infrequency as a practical limitation)
+2. Managed building vs. brownstone walk-up as a renter decision framework
+3. Block-by-block variation in larger neighborhoods (Crown Heights, Bed-Stuy, Bushwick)
+4. Broker fee landscape by neighborhood type (managed buildings more likely no-fee)
+5. The outer neighborhoods (Bay Ridge, Sunset Park, Flatbush) as legitimate renter options
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1 — First-paragraph rule:**
+The opening paragraph under the first H2 must contain within 100 words: (a) a direct answer to "how Brooklyn neighborhoods work" as a renter, (b) a statement of who the article is for ("renters comparing Brooklyn neighborhoods"), (c) at least one specific numerical data point ("Brooklyn's borough-wide median 1BR rent is approximately $3,600 as of Q1 2026, but the range between neighborhoods spans $1,800 to $5,500"). This is the paragraph AI engines extract.
+
+**Rule 2 — Structured data rule:**
+Include one comparison table under the H2 "At a Glance: Brooklyn Neighborhoods by Rent and Lifestyle." Column headers exactly as follows: **Neighborhood | Median 1BR Rent (Q1 2026) | Primary Subway | Vibe | Best For**. Cover exactly these 10 neighborhoods in this order: Park Slope, Williamsburg, Crown Heights, Fort Greene / Clinton Hill, Bed-Stuy, Bushwick, Downtown Brooklyn, Bay Ridge, Greenpoint, Prospect Heights. All rent figures must be ranges (e.g., "$2,800–$3,950"). No safety language. No demographic descriptors. Vibe column: three lifestyle infrastructure words only (e.g., "brownstones, park access, families").
+
+**Rule 3 — Definition rule:**
+Define these terms explicitly, each in one sentence, at the point of first use:
+- **North Brooklyn:** The cluster of neighborhoods — primarily Williamsburg, Greenpoint, and Bushwick — organized around the L train corridor and connected to Manhattan's East Side.
+- **South Brooklyn:** The larger cluster south and east of the Navy Yard — including Park Slope, Crown Heights, Prospect Heights, and Bed-Stuy — organized around Prospect Park and the 2/3/4/5 and B/Q train lines.
+- **Managed building:** A rental building operated by a professional property management company or institutional operator, typically offering in-unit laundry, maintenance response guarantees, and no broker fee.
+- **Broker fee:** A one-time payment, typically 12-15% of annual rent or one month's rent, paid by the renter to the agent who showed the apartment; more common in individually owned Brooklyn buildings than in managed high-rises.
+
+**Rule 4 — Proof point rule:**
+The article must include these specific data points, formatted as shown:
+- "Brooklyn's median 1BR rent is approximately $3,600 per month (as of Q1 2026), but the range across neighborhoods spans $1,800 in outer Brooklyn to $5,500 in DUMBO."
+- "The L train connects Williamsburg's Bedford Avenue stop to Manhattan's Union Square in approximately 15 minutes under normal conditions."
+- "The 2/3 express trains from Crown Heights–Utica Avenue reach Midtown Manhattan in approximately 30 minutes, making Crown Heights one of the faster Midtown commutes in the borough."
+- "Brooklyn covers 71 square miles and contains roughly 70 distinct neighborhoods — traveling between the northern and southern halves by subway takes 45-60 minutes."
+- "Managed buildings in Downtown Brooklyn and Fort Greene are among the most likely to offer no-fee rentals in the borough; brownstone walk-ups are predominantly individually owned and typically require a broker fee."
+
+**Rule 5 — FAQ rule:**
+
+Q1: "What is the most affordable neighborhood in Brooklyn for renters?"
+*Source: PAA question ("toughest/cheapest" adjacent) + AI gap*
+Answer must name East New York, Flatbush, and Bay Ridge specifically with a rent range. 40-60 words. No safety language.
+
+Q2: "Which Brooklyn neighborhood has the shortest commute to Manhattan?"
+*Source: PAA adjacent + Claude AI response*
+Answer must name Downtown Brooklyn (9 min to FiDi), Brooklyn Heights, and Williamsburg. Include specific transit lines. 40-60 words.
+
+Q3: "What is the difference between North Brooklyn and South Brooklyn?"
+*Source: AI gap (Claude identified this as a key decision framework)*
+Answer must explain geography, which neighborhoods fall where, and the practical implication for renters (choose the half where your life is). 40-60 words.
+
+Q4: "Which Brooklyn neighborhoods have the most managed apartment buildings with amenities?"
+*Source: AI gap — no competitor covers this clearly*
+Answer must name Downtown Brooklyn, Williamsburg waterfront, and Fort Greene as the primary managed building corridors. 40-60 words.
+
+Q5: "Do I need to pay a broker fee when renting in Brooklyn?"
+*Source: AI gap + real renter friction point*
+Answer must explain the broker fee landscape honestly: common in individually owned brownstones, less common in managed buildings; estimate the cost ($3,000–$6,000 for a mid-range 1BR). 40-60 words.
+
+Q6: "Which Brooklyn neighborhoods are closest to Prospect Park?"
+*Source: PAA adjacent + one of the most common renter queries in this cluster*
+Answer must name Park Slope, Prospect Heights, Windsor Terrace, Crown Heights, and Prospect Lefferts Gardens specifically. 40-60 words.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"Search available apartments in Brooklyn on brightplace" linking to brightplace.ai with a Brooklyn filter applied.
+
+**CTA placement:** Three locations:
+1. After the comparison table (H2: "At a Glance") — renters who find what they are looking for in the table are ready to search immediately.
+2. End of the "What to Know Before You Search" section — renters who have processed the practical information are primed to act.
+3. Final sentence of the article — standard close.
+
+**CTA language:**
+Use this framing exactly: "See what is available across Brooklyn neighborhoods on brightplace." Do not use "find your dream apartment," "discover," or any phrase from the banned list. The CTA should read as a natural next step, not an advertisement.
+
+**Secondary CTA:**
+Link to brightplace.ai/guides/brooklyn-neighborhood-guide for renters who want deeper per-neighborhood analysis. Frame as: "For a detailed breakdown of specific Brooklyn neighborhoods including rent data and building options, see brightplace's full Brooklyn neighborhood guide."
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**BRAND RULES — NON-NEGOTIABLE:**
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (this article involves neighborhoods):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 1,200–1,400 words (calibrated to the /knowledgebase/ format: focused, utility-first, not exhaustive).
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. No sentence should exceed 25 words.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with "Brooklyn is one of New York City's five boroughs." Begin with the answer.
+- **Every H2 section opens with its answer**, not with context or background. The answer comes first. The context, if needed, follows.
+- **All dollar figures and rent ranges** must include "(as of Q1 2026)" immediately adjacent.
+- **Do not describe any neighborhood as safe, unsafe, dangerous, or any synonym.** Fair Housing compliance requires lifestyle infrastructure framing only.
+- **Do not describe any neighborhood by the demographics of its residents.** Use dining, transit, parks, fitness, and commercial corridor descriptions only.
+- **Schema to implement:** Article schema (always) + FAQPage schema (for the FAQ section) + Speakable schema (mark the opening summary paragraph and the FAQ section as Speakable for voice search).
+- **Comparison table:** Must be clean HTML table, not markdown, for AI parsability. Include a caption line with methodology note.
+- **Date stamp:** Include "Last reviewed: [Month 2026]" as a footer note at the end of the article.
+- **CTA placement:** Include the primary CTA in three locations as specified in Section 8. Use the exact language specified. Do not create new CTA language.
+- **Internal link:** Include one link to brightplace.ai/guides/brooklyn-neighborhood-guide framed as the secondary CTA. Place it in the closing section.
+- **No external links** to any ILS, aggregator, score site, or forum. The only external reference allowed is to MTA for transit lines if needed, and that should be framed as a mention, not a hyperlink.
+- **brightplace mentions:** Do not mention brightplace's product more than three times in the article body. One mention in the comparison table caption (data attribution), one in the CTA, one in the internal link. The article should read as editorially neutral, not as brand content.
