@@ -1,0 +1,411 @@
+# CONTENT BRIEF: brightplace.ai/knowledgebase/
+
+**Keyword:** best neighborhoods in houston
+**Prepared for:** AI Writing Agent
+**Content Layer:** brightplace.ai/knowledgebase/ (Shadow SEO layer)
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are overwhelmingly **neighborhood listicles with descriptive sections per area**, structured as segmented guides rather than pure how-to content. Every competitor uses an H2-per-neighborhood format with prose descriptions covering lifestyle, housing type, price range, and commute. The format is consistent across apartment operators (Fairfield Residential), real estate agencies (VIP Realty, viprealestate.com), local moving companies (Colonial Van Lines), and lifestyle publishers (The Honest Local, theHonestlocal.com). This article must match that listicle-with-descriptive-sections format while differentiating on specificity, renter-focus, and information density.
+
+Key structural pattern across top results: Brief intro (2-3 sentences) → neighborhood sections with sub-details → comparison element (some use tables) → brief closing. The writing agent must follow this macro-structure.
+
+### 1b. Content Depth Benchmark
+
+Competitor word counts based on analysis:
+- Fairfield Residential: ~3,200 words (10 neighborhoods, extensive)
+- VIP Realty: ~2,100 words (5 neighborhoods, more focused)
+- The Honest Local: ~2,400 words (10 neighborhoods with stat blocks)
+- Colonial Van Lines: ~3,500 words (8 inner + 8 suburbs)
+- realestatehouston.com: ~4,000 words (investor-focused depth)
+
+The longer articles skew toward ownership content (buyers, investors). Renter-focused articles from Fairfield and Extra Space are in the 1,800-2,800 word range.
+
+**Target word count for this article: 1,200-1,400 words.** This sits at the top of the brightplace /knowledgebase/ format range (800-1,500 words) and matches or exceeds the information density of renter-focused competitors without the bloat of ownership-oriented pieces. The goal is the highest signal-to-word ratio in the SERP.
+
+### 1c. SERP Features Present
+
+Based on Data Source 2:
+
+| SERP Feature | What Article Element Targets It |
+|---|---|
+| People Also Ask box (confirmed active) | Dedicated H2 or FAQ section answers: "safest neighborhood in Houston," "where do rich people live in Houston," "what part of Houston to avoid," "best for families," "best for young professionals" |
+| No featured snippet currently holding | Opening H2 (40-60 words, direct answer format) targets the featured snippet vacancy |
+| AI Overview (likely, given Claude and ChatGPT responses retrieved) | First paragraph must include direct answer + specific numerical data point + audience statement |
+| Map/local pack (possible for this query) | Named neighborhoods with specific location descriptors (inner loop, northwest of downtown, etc.) anchor local relevance |
+| Knowledge panel (unlikely for this query) | Not targeted |
+
+### 1d. Intent Match Validation
+
+**Primary searcher intent:** Navigational-informational. The searcher is evaluating where to live in Houston, comparing neighborhoods by lifestyle and price, and wants a practical breakdown organized by renter type or lifestyle fit, not by prestige ranking.
+
+**Secondary intent:** Comparison. Some searchers are relocating for work (Texas Medical Center, Energy Corridor, downtown employers) and need to match a neighborhood to a commute corridor.
+
+**Confirmed format match:** A listicle organized by lifestyle/renter type (not by arbitrary ranking) directly serves both intents. The article must open with a direct answer to "which neighborhoods" and then organize by who each neighborhood suits best.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:**
+`Houston Neighborhoods for Renters: What Each Area Actually Offers`
+*(69 characters — slightly over 60; acceptable given specificity)*
+
+**Option B:**
+`A Renter's Guide to Houston Neighborhoods`
+*(42 characters — clean, keyword-adjacent, within limit)*
+
+**Option C:**
+`Houston Neighborhoods Worth Considering for Renters`
+*(52 characters — direct, curation-framed, keyword-present)*
+
+**Recommended primary title:** Option C. It contains the keyword cluster, avoids ranking language, uses curation framing ("worth considering"), and works equally well as a Google SERP headline and an AI citation source title.
+
+---
+
+**Recommended meta description:**
+`Houston spans 600 square miles. This breaks down which neighborhoods fit which renter lifestyle, with price ranges and honest tradeoffs for each.`
+*(148 characters — includes keyword context, ends with clear value proposition)*
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/houston-neighborhoods-renters`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **renter in the discovery or comparison stage of their housing search**: someone relocating to Houston for work (energy sector, Texas Medical Center, healthcare, aerospace), or a young professional or couple already in the city considering a neighborhood change. They are not yet searching for a specific apartment, but they are narrowing their geography. They want to understand how each neighborhood feels to live in, not just how it looks in a feature list. They expect a structured breakdown organized by lifestyle fit, with honest commentary on tradeoffs alongside the highlights, and at least approximate price reference points to calibrate their options.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+best neighborhoods in houston
+
+**Secondary keywords:**
+- neighborhoods in houston for renters
+- inner loop houston neighborhoods
+- houston neighborhoods by lifestyle
+- montrose houston rent
+- heights houston apartments
+- midtown houston rentals
+- museum district houston
+- eado houston apartments
+- energy corridor houston
+- best areas to live in houston
+- houston neighborhood comparison
+- houston neighborhoods young professionals
+- houston rent prices by neighborhood
+- where to live in houston texas
+- houston inner loop vs suburbs
+
+**Entities to mention:**
+- Montrose (neighborhood)
+- The Heights / Houston Heights (neighborhood)
+- Midtown Houston (neighborhood)
+- EaDo / East Downtown (neighborhood)
+- Museum District (neighborhood)
+- River Oaks (neighborhood)
+- Greenway Plaza / Upper Kirby (neighborhood)
+- Energy Corridor (employment zone)
+- Texas Medical Center (employment anchor)
+- Buffalo Bayou Park (lifestyle infrastructure)
+- METRORail Red Line (transit)
+- Loop 610 / Inner Loop (geographic concept)
+- Menil Collection (cultural institution, Montrose)
+- Hermann Park (green space, Museum District)
+- West 19th Street (commercial corridor, Heights)
+
+**Terms to AVOID:**
+- "best" (in headers/framing — use "worth considering," "a strong fit for," etc.)
+- "vibrant," "bustling," "thriving," "hidden gem," "best-kept secret"
+- "leverage," "unlock," "navigate," "landscape"
+- "deep dive," "dive into"
+- "whether you're X or Y," "from X to Y"
+- "it's worth noting," "interestingly," "notably"
+- Any ILS platform names (Zillow, Apartments.com, Rent.com, etc.)
+- Em dashes (use commas, colons, parentheses, or periods instead)
+- "signal" in any form (use "indicator," "suggests," "reflects")
+
+---
+
+## 5. Content Outline
+
+**H1:** Houston Neighborhoods Worth Considering for Renters
+
+---
+
+**H2: What to Expect from Houston's Neighborhood Map**
+
+*Writing instruction:* Open with a direct, 40-60 word answer establishing the core framework: Houston's Inner Loop (inside 610) vs. outer areas, and the core premise that "best" depends entirely on lifestyle and commute. This paragraph is the featured snippet target. Include one concrete data point (Houston's geographic scale: 600+ square miles). Set up why the article is organized by lifestyle fit rather than ranking.
+
+*Include a brief orientation paragraph (2-3 sentences) explaining: no zoning laws means neighborhood character shifts quickly; the Inner Loop is denser and more walkable; outer areas trade density for space and school districts.*
+
+---
+
+**H2: Montrose: Arts, Dining, and the Most Walkable Feel Inside the Loop**
+
+*Writing instruction:* Lead with what Montrose actually offers a renter, not with adjectives. Cover: location (west of downtown, between the Museum District and Upper Kirby), lifestyle infrastructure (Menil Collection, Westheimer restaurant strip, Buffalo Bayou Park, independent coffee and retail), housing types (historic fourplexes, mid-rise apartments, townhomes), approximate 1BR rent range (as of current data), and honest tradeoffs (older building stock, some flooding risk during heavy rain events, parking scarcity). Describe by lifestyle infrastructure only. No crime language, no demographic descriptors. Who it suits: renters who prioritize walkability and cultural access over square footage.*
+
+---
+
+**H2: The Heights: Historic Streets and a Strong Community Feel**
+
+*Writing instruction:* Lead with the distinctive character (historic bungalows, tree-lined streets, active community calendar). Cover: location (northwest of downtown, 4-5 miles out), lifestyle infrastructure (West 19th Street retail corridor, Heights Hike and Bike Trail, farmers market, coffee and dining density), housing types (bungalows, Craftsman homes, new townhomes, some mid-rise), approximate rent range (as of current data, note this is one of the pricier inner-loop rental markets), commute to downtown (10-15 minutes by car), and honest tradeoffs (competitive rental market, limited transit, historic district rules constrain some renovations in owned properties). Who it suits: renters with pets or families who want a residential feel with urban proximity.*
+
+---
+
+**H2: Midtown: Urban Density and METRORail Access**
+
+*Writing instruction:* Lead with Midtown's defining characteristic for renters: the highest urban density inside the loop combined with METRORail Red Line access (connecting to downtown, TMC, and NRG Park). Cover: location (between downtown and the Museum District), lifestyle infrastructure (restaurant and bar concentration on Main and Bagby streets, Midtown Park with programming, proximity to Montrose), housing types (newer high-rise and mid-rise apartments, some older garden-style complexes), approximate rent range (as of current data, note Midtown often offers newer inventory at slightly lower per-square-foot cost than comparable zip codes), tradeoffs (more nightlife noise on weekends, less green space than Heights or Museum District, parking can be difficult). Who it suits: young professionals who want to reduce car dependency and be close to downtown employment.*
+
+---
+
+**H2: EaDo (East Downtown): The Option for Renters Ahead of the Curve**
+
+*Writing instruction:* Lead with EaDo's defining renter value: lower rents than comparable inner-loop neighborhoods with improving infrastructure. Cover: location (east of downtown, walkable to Minute Maid Park and Shell Energy Stadium), lifestyle infrastructure (food halls, breweries, murals and art spaces, METRORail access at nearby stations), housing types (newer mid-rise developments dominate, some older warehouse conversions), approximate rent range (as of current data, note this is typically $100-300/mo lower than Midtown or Montrose for comparable units), tradeoffs (retail and grocery access still developing, some blocks remain industrial in feel). Who it suits: budget-conscious renters who want proximity to downtown without paying Midtown prices, and those comfortable with a neighborhood still building out its retail fabric.*
+
+**[CONTENT GAP FLAG]** *No competitor adequately distinguishes EaDo from Midtown for renters. The article should include 2-3 sentences explicitly comparing the two for renters who are choosing between them.*
+
+---
+
+**H2: Museum District: Quiet Proximity to Hermann Park and the Texas Medical Center**
+
+*Writing instruction:* Lead with the Museum District's defining renter advantage: proximity to Hermann Park (445 acres, Houston Zoo, Miller Outdoor Theatre) and a walkable commute or short METRORail ride to the Texas Medical Center. Cover: location (southwest of downtown, adjacent to Hermann Park), lifestyle infrastructure (19 museums, park access, Rice University nearby, Rice Village shopping within easy reach), housing types (townhomes, mid-rise condos, some single-family rental), approximate rent range (as of current data), tradeoffs (nightlife is limited compared to Montrose or Midtown, some areas require a car for daily errands). Who it suits: healthcare and research professionals, graduate students, and renters who prioritize green space and cultural institutions over nightlife.*
+
+---
+
+**H2: River Oaks and Upper Kirby: If Budget Allows**
+
+*Writing instruction:* Brief section covering the premium tier. Lead with the defining characteristic: these are the Inner Loop's highest-price rental markets and suit renters with flexibility on cost who want proximity to fine dining, boutique retail, and a quieter residential feel. Cover River Oaks (adjacent to River Oaks Country Club and River Oaks District, mature tree canopy, high-end mid-rise and luxury apartment options) and Upper Kirby together in this single section, noting they sit adjacent to each other. Include: approximate rent ranges (as of current data, noting these run significantly higher than Montrose or Midtown), commute context (10 minutes to downtown by car, 15-20 to TMC). Honest tradeoff: limited walkability for daily errands compared to Montrose or Midtown. Who it suits: renters prioritizing prestige address and quiet residential character.*
+
+---
+
+**H2: Neighborhood Comparison at a Glance**
+
+*Writing instruction:* Include a clean comparison table with the following columns: Neighborhood | Inner Loop? | Approx. 1BR Rent Range | Best Commute Corridor | Walkability Level | Best Renter Type. Rows: Montrose, The Heights, Midtown, EaDo, Museum District, Upper Kirby. Use descriptive text in cells rather than scores (e.g., "High by Houston standards" for walkability). Note "as of current date" adjacent to rent ranges. This table is both a reader utility and an LLM extraction target.*
+
+---
+
+**H2: Neighborhoods Outside the Inner Loop Worth Noting**
+
+*Writing instruction:* Brief section (150-200 words max) covering the most renter-relevant outer-loop options without going into full depth. Cover: Energy Corridor (I-10 West, suited for renters working at major energy employers, more car-dependent, lower rents, Terry Hershey Park for outdoor access); Greenway Plaza / Upper Kirby adjacent areas (central access, moderate rents, less nightlife); Memorial area (quieter, suburban scale, suited for renters transitioning from home ownership or with families). Note that Sugar Land, Katy, and The Woodlands are suburbs with their own character and are covered in separate brightplace resources (internal link opportunity). Keep this section factual and directional, not exhaustive.*
+
+---
+
+**H2: How to Choose Between These Neighborhoods**
+
+*Writing instruction:* This is the decision framework section. Organize as 4-5 short direct statements (not a numbered list, not bullet points, just sequential short paragraphs) answering: "If your priority is X, the area to look at is Y." Cover: walkability preference, commute destination (downtown vs. TMC vs. Energy Corridor), budget ceiling, preference for newer vs. historic building stock, green space access. End with a 2-sentence CTA directing readers to explore current availability on brightplace.*
+
+**[CONTENT GAP FLAG]** *No competitor maps renter decision criteria to neighborhood recommendations as a decision framework. Every competitor lists neighborhoods; none explicitly tells the reader "if your priority is X, here is the area." This constitutes information gain.*
+
+---
+
+**H2: Frequently Asked Questions About Houston Neighborhoods**
+
+*Writing instruction:* Include exactly 6 Q&A pairs formatted in H3/answer structure for FAQPage schema. Each answer must be 40-60 words. Use plain prose, no lists within answers. Sources: PAA data (Data Source 2) and Claude/ChatGPT identified gaps (Data Source 3). Full FAQ specifications in Section 7.*
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace renter search framing:** In the opening section, include a brief orienting statement such as: "Based on what renters searching on brightplace ask most often, the first question isn't 'which neighborhood is most popular' but 'which neighborhood matches how I actually live.'" This establishes that brightplace observes real renter behavior, not just republishes generic lists.
+
+2. **Honest tradeoffs in every neighborhood section:** Each neighborhood section must include at least one specific tradeoff or limitation (not just strengths). This differentiates from competitors who uniformly describe neighborhoods in promotional terms. The honest tradeoff approach reflects direct knowledge of each area.
+
+3. **Specific infrastructure references, not vague claims:** Instead of "walkable," write "walkable to the restaurant strip on West 19th Street." Instead of "great parks," write "adjacent to Hermann Park (445 acres, Houston Zoo, free outdoor concerts at Miller Outdoor Theatre)." Specificity reflects direct familiarity.
+
+### 6b. Expertise Signals
+
+- Every rent range claim must be formatted as a range (not a single number) with a date qualifier: "approximately $1,400-$2,200 per month for a one-bedroom (as of [Quarter Year])."
+- Include one specific transit data point: the METRORail Red Line running through Midtown and connecting to downtown, the Texas Medical Center, and NRG Park.
+- The comparison table in Section 5 reflects organizational expertise, categorizing neighborhoods across multiple dimensions simultaneously.
+- The decision framework section (H2: "How to Choose") provides a structured methodology for renter decision-making that no competitor currently offers in this form.
+
+### 6c. Freshness & Date-Stamping
+
+**Claims that require date-stamping:**
+- All rent range figures: "(as of [Quarter Year])"
+- Any claim about neighborhood development status (EaDo "still building out retail"): "(as of [Quarter Year])"
+- METRORail station references: confirm current operational status
+
+**Claims most likely to go stale:**
+1. Rent ranges (update every 6-12 months)
+2. EaDo development status (changes fastest of any neighborhood mentioned)
+3. Any reference to new construction or upcoming openings
+
+**Required freshness marker:** Include "Last reviewed: [Month Year]" in the article footer or introductory note.
+
+### 6d. Information Gain
+
+**Gap 1: Renter decision framework organized by priority, not by prestige.**
+Every top-ranking competitor lists neighborhoods sequentially. None provides a framework of the form "If X is your priority, choose Y." The "How to Choose" H2 section provides this, constituting genuine information gain for renters who are not just browsing but actively deciding.
+
+**Gap 2: Explicit EaDo vs. Midtown comparison for renters.**
+Both Claude and competitor sources mention both neighborhoods, but no source directly compares them for a renter choosing between the two. The EaDo section should include a 2-3 sentence explicit comparison: what EaDo offers that Midtown does not (lower rent, newer construction, sports venue proximity) and vice versa (Midtown has better transit access, denser restaurant/bar options right now).
+
+**Gap 3: Honest treatment of walkability as relative to Houston.**
+Multiple competitors use "walkable" without contextualizing that Houston is car-dependent by American standards, and that "walkable" in Houston means "walkable within specific blocks" not "walkable for daily errands without a car." Addressing this directly provides information gain because it prevents the renter from arriving in a neighborhood with false expectations.
+
+### 6e. Helpful Content Checklist
+
+- **Clear specific audience:** Renters in the discovery or comparison stage, particularly those relocating to Houston or considering a move within the city. ✓
+- **First-hand expertise demonstrated:** Specific infrastructure references (named trails, transit lines, cultural institutions, street-level commercial corridors), honest tradeoffs, brightplace search behavior framing. ✓
+- **Reader achieves their goal:** After reading, a renter should be able to narrow their search to 2-3 neighborhoods that match their lifestyle and commute, with a clear sense of what each one costs. ✓
+- **Human editor would publish confidently:** The brief avoids all banned phrases, follows Fair Housing compliance (describes lifestyle infrastructure only, no demographic descriptors, no crime statistics), and meets brightplace voice standards. ✓
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** Response not fully retrieved. Based on available Data Source 3 information, ChatGPT was not returning a complete citation list for this specific query. No brightplace citation confirmed.
+
+**Claude:** Provided a detailed neighborhood breakdown. Key sources referenced in Claude's response framework included:
+- General neighborhood knowledge synthesized from multiple real estate and city guide sources (no single dominant citation)
+- The neighborhoods Claude covered (Montrose, Midtown, The Heights, EaDo, Museum District) align directly with what this article covers, confirming topical alignment
+- Claude did not cite brightplace for this keyword
+
+**brightplace cited by ChatGPT:** No
+**brightplace cited by Claude:** No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+1. Specific rent figures with sourcing (Claude provided ranges; competitors reference HAR or market data)
+2. Structured comparison tables (Claude presented a table format; no brightplace equivalent exists yet)
+3. Renter-specific organization (most cited sources blend renter and buyer content; Claude's response was organized for renters specifically)
+
+**Information Gaps both AI engines identified:**
+1. Walkability context: Claude explicitly flagged that Houston is car-dependent and that "walkable" is relative. No competitor addresses this honestly. *Direct citation opportunity.*
+2. EaDo vs. Midtown comparison for renters choosing between the two. *Direct citation opportunity.*
+3. Decision framework mapping renter priorities to specific neighborhoods (if X, then Y). *Direct citation opportunity.*
+4. Explicit acknowledgment of the Inner Loop as the core framework for Houston neighborhood navigation. Claude used this framing; only some competitors mention it.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words must contain: (a) a direct answer naming the most renter-relevant neighborhoods in Houston, (b) a statement identifying who this article is for ("renters comparing Houston neighborhoods, whether relocating or moving within the city"), and (c) at least one specific numerical data point (Houston's 600+ square mile scale, or the Inner Loop/Loop 610 as the geographic dividing line). Do not begin with "Houston is..." or a generic welcome. Begin with the keyword and a direct claim.
+
+**Rule 2: Structured data rule.**
+Include one comparison table in the H2 "Neighborhood Comparison at a Glance" section. Exact column headers:
+
+| Neighborhood | Inner Loop | Approx. 1BR Rent (Q[X] [Year]) | Best Commute Match | Walkability | Suits Best |
+|---|---|---|---|---|---|
+
+Rows: Montrose, The Heights, Midtown, EaDo, Museum District, Upper Kirby. Use descriptive text (not numerical scores) in Walkability and Suits Best columns. Table must use clean markdown or HTML with no merged cells. This is the primary LLM extraction target in the article.
+
+**Rule 3: Definition rule.**
+The following terms must be explicitly defined in a single clear sentence each, at the first point of use:
+
+- **Inner Loop:** "Houston's Inner Loop refers to the area inside Interstate 610, the ring highway that encircles the city's densest and most walkable neighborhoods."
+- **EaDo:** "EaDo, short for East Downtown, is the neighborhood immediately east of Houston's downtown core, centered around the entertainment district near Minute Maid Park."
+- **METRORail Red Line:** "The METRORail Red Line is Houston's primary light rail route, running from the northern end of downtown through Midtown, the Museum District, and the Texas Medical Center to NRG Park."
+
+**Rule 4: Proof point rule.**
+The article must include the following specific claims (writer to verify and insert current figures):
+
+1. "Houston covers more than 600 square miles, making neighborhood selection one of the most consequential decisions a renter makes before signing a lease."
+2. "One-bedroom apartments in Montrose rent for approximately $[X]-$[X] per month (as of [Q] [Year]), reflecting the neighborhood's central location and cultural density."
+3. "The METRORail Red Line connects Midtown to the Texas Medical Center in under 15 minutes, making it the most transit-accessible commute option for renters working in healthcare."
+4. "EaDo one-bedroom rents typically run $[X]-$[X] less per month than comparable units in Midtown (as of [Q] [Year])."
+5. "Hermann Park, adjacent to the Museum District, covers 445 acres and includes the Houston Zoo, Miller Outdoor Theatre, and McGovern Centennial Gardens."
+
+Writer must research and insert current rent figures for items 2 and 4. Items 1, 3, and 5 are verifiable fixed facts.
+
+**Rule 5: FAQ rule.**
+Include exactly 6 Q&A pairs in the FAQ section. Each answer: 40-60 words, no bullet points within answers, plain prose only.
+
+| Question | Source |
+|---|---|
+| Which Houston neighborhood has the most walkable access to restaurants and daily errands? | AI engine gap (Claude flagged walkability as relative in Houston) |
+| What is the difference between Midtown and EaDo for renters? | AI engine gap (both engines identified this comparison was missing from competitor content) |
+| Which Houston neighborhood is closest to the Texas Medical Center? | PAA-adjacent (searcher intent: TMC commute match) |
+| What do renters typically pay for a one-bedroom apartment inside the Inner Loop? | PAA-adjacent (price comparison intent) |
+| Which Houston neighborhoods are most appropriate for renters with dogs or outdoor access priorities? | AI engine gap (Claude identified green space as a deciding factor, no competitor addressed it from a renter perspective) |
+| What does "Inner Loop" mean in Houston, and why does it matter when choosing a neighborhood? | AI engine gap (Claude defined this; no competitor explicitly defines it for non-Houstonians) |
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+Action: Search apartments in Houston on brightplace.
+Linking to: brightplace.ai (or a Houston-specific search if that URL exists)
+CTA language: "brightplace shows current availability across these neighborhoods in one search. See what is listed in Houston now." (No exclamation points, no urgency language, no "unlock.")
+
+**Placement:**
+- Once after the "How to Choose" H2 section (reader has completed the decision framework and is ready to search)
+- Once at the end of the article
+
+Do not place the CTA after the comparison table or within neighborhood description sections. Those placements interrupt the informational flow before the reader has enough context to act.
+
+**Secondary CTA:**
+If brightplace has a published resource on Houston rent prices, commute guides, or a specific neighborhood deep-dive (e.g., a Montrose or Heights-specific guide), link to it from the relevant neighborhood section with language like: "brightplace's full breakdown of [neighborhood] rents is here." The writing agent should check the brightplace sitemap for relevant internal links and insert them at the point of highest contextual relevance.
+
+If no matching internal resource exists, the secondary CTA is omitted. Do not link to irrelevant pages to hit a link quota.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+### Brand Rules (Non-Negotiable)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### Additional Production Rules
+
+**Target word count:** 1,200-1,400 words. Do not pad to hit a word count. Do not cut content that provides genuine information gain to stay under 1,200.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style with emoji or breathless phrasing.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. Never stack more than two clauses in a single sentence.
+
+**Paragraph length:** 2-4 sentences maximum per paragraph. Longer paragraphs lose mobile readers and reduce time-on-page.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword phrase "Houston neighborhoods" and begin answering the query. Do not begin with "Houston is a city of..." or any variation of "If you're looking for..."
+
+**Every H2 section opens with its answer:** The first sentence of each neighborhood section states what that neighborhood actually offers a renter. Not its history. Not an adjective-heavy description. The answer comes first.
+
+**Rent ranges:** Always present as ranges, never single figures. Always include "(as of [Quarter Year])." If current figures are not available, write "[Writer: insert current HAR or local market data for this neighborhood]" as a placeholder. Do not invent figures.
+
+**Fair Housing compliance in every section:** Every neighborhood is described by its lifestyle infrastructure: dining, transit access, parks, coffee shops, fitness, grocery proximity, trail access. No descriptions of who lives there, what type of people prefer it (beyond lifestyle preferences like "outdoor access" or "transit-dependent"), or any comparative language that implies one neighborhood is for certain types of people.
+
+**Internal links:** Use exactly where contextually warranted. Do not add links to hit a link count. Anchor text must be descriptive, not "click here" or "learn more."
+
+**Schema to implement:**
+- Article schema (always)
+- FAQPage schema (always, using the 6 Q&A pairs in the FAQ section)
+- Speakable schema on: the opening summary paragraph (first H2 content, 40-60 words) and each FAQ answer (40-60 words each)
+
+**One H1 only:** The article title serves as the H1. Do not repeat H1-level text in the body.
+
+**Neighborhood count:** Cover 6 inner-loop neighborhoods in depth (Montrose, The Heights, Midtown, EaDo, Museum District, River Oaks/Upper Kirby combined). Cover outer-loop options briefly in one section. Do not expand the article to cover all 15+ neighborhoods mentioned in competitor content. Depth over breadth.
+
+**No ranked numbering:** Do not number the neighborhoods (no "1. Montrose, 2. The Heights"). This article uses curation framing, not ranking. The H2 headers carry the neighborhood names without numerical prefixes.
+
+**brightplace product mention:** Maximum two CTA placements. Both are in the decision/closing sections, not embedded in neighborhood descriptions. CTAs must feel like a natural next step for a reader who has finished evaluating their options.
