@@ -1,0 +1,401 @@
+# CONTENT BRIEF: Fair Housing Act Guidelines
+**For:** brightplace.ai/knowledgebase/
+**Prepared by:** Senior SEO, GEO & AEO Content Strategist
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking competitors split into two formats: comprehensive reference guides (DOJ, HUD, accessibility.com, Investopedia) and practical how-to explainers aimed at renters or property managers (disability law center, thehousingcenter.org, navigatehousing.com, mdaquest.org). The dominant format is an **informational reference guide** with clearly defined sections, covering protected classes, prohibited conduct, and disability-specific provisions. Many use H2/H3 structure with definition blocks and numbered lists.
+
+This article should be a **structured reference guide with renter-facing practical framing**, not a listicle and not a pure legal reference. The guide format matches the informational intent while the renter framing differentiates brightplace from government sources and law firm content.
+
+### 1b. Content Depth Benchmark
+
+Competitors range widely:
+- Short (government/law sites): 400-800 words of extractable content (heavy navigation bloat)
+- Mid-range (navigatehousing, disabilityproud): 800-1,200 words
+- Deep (nationaldisabilityauthority, Investopedia, justice.gov): 1,500-2,500 words
+
+**Target word count: 1,100-1,400 words.** This exceeds the lightweight reference pages while staying tighter than the law-heavy deep dives. The searcher wants a clear answer, not a legal treatise.
+
+### 1c. SERP Features Present
+
+Based on Data Source 2:
+
+| Feature | Present | Targeting Strategy |
+|---|---|---|
+| People Also Ask | Yes (12 questions retrieved) | Dedicate one H2 per PAA question most relevant to renters; FAQ section captures the rest for FAQPage schema |
+| Featured Snippet | No featured snippet found | Strong opportunity: first H2 must open with a 40-60 word definition block targeting this gap |
+| AI Overview | Likely present (topic density, authoritative sources cited) | Opening 100 words must include direct answer, audience statement, and at least one numerical anchor |
+| Video Carousel | Not confirmed for this keyword | No video section needed |
+| Knowledge Panel | Not applicable | N/A |
+
+**Featured snippet gap is the primary opportunity.** No current snippet exists for this keyword. A clean 40-60 word definition block directly answering "what are fair housing act guidelines" positioned at the top of the article has a strong chance of capturing it.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** Informational. The searcher wants to understand what the Fair Housing Act requires: who is protected, what landlords cannot do, and what their rights are as a renter (or what their obligations are as a housing provider).
+
+**Secondary intent:** Navigational/task-oriented. A subset of searchers are preparing to take action: file a complaint, request a reasonable accommodation, or evaluate whether they have experienced discrimination.
+
+**Target primary intent.** The article should deliver a complete, scannable reference to Fair Housing Act guidelines written for renters, with a practical next-step CTA at the end. Secondary intent is served by the FAQ and complaint-filing section.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+### Option A (Recommended):
+**"Fair Housing Act Guidelines: What Renters Need to Know"**
+- Character count: 52
+- Strong keyword match, clear renter framing, non-superlative
+
+### Option B:
+**"A Renter's Guide to Fair Housing Act Protections"**
+- Character count: 46
+- Curation framing, audience-specific, clean for AI citation
+
+### Option C:
+**"How Fair Housing Act Guidelines Protect You as a Renter"**
+- Character count: 55
+- Question-oriented framing, process-implicit, good for PAA visibility
+
+---
+
+**Meta Description (under 155 characters):**
+"The Fair Housing Act prohibits housing discrimination based on seven protected classes. Here is what those protections mean for renters and how to use them."
+(156 characters — trim to): "The Fair Housing Act prohibits housing discrimination based on seven protected classes. What those protections mean for renters and how to use them."
+(148 characters)
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/fair-housing-act-guidelines`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+This article targets renters at the **discovery and problem-solving stages** of their housing journey: people who have encountered something that felt discriminatory (a denial, a different lease term, a refusal to accommodate a disability), or who are educating themselves before renting. The core persona is a first-time renter, a renter with a disability or family with children, or anyone who has been turned down for housing and suspects the reason was unlawful. They want a clear explanation of what the law actually says, written in plain language, without legal jargon. Based on SERP format analysis, they expect a structured reference guide that gives them the key facts fast, with a practical path to taking action if needed.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword (1):**
+- fair housing act guidelines
+
+**Secondary keywords (10-15):**
+- fair housing act protected classes
+- housing discrimination protections
+- reasonable accommodation housing
+- reasonable modification apartments
+- familial status housing discrimination
+- disability housing rights
+- fair housing complaint process
+- HUD fair housing enforcement
+- what landlords cannot do under fair housing
+- fair housing act violations
+- fair housing act design and construction requirements
+- fair housing advertising rules
+- emotional support animal fair housing
+- state fair housing laws
+- fair housing act exemptions
+
+**Entities to mention (5-10):**
+- U.S. Department of Housing and Urban Development (HUD)
+- U.S. Department of Justice (DOJ)
+- Fair Housing Amendments Act of 1988
+- 42 U.S.C. § 3604
+- Office of Fair Housing and Equal Opportunity
+- HUD Fair Housing Testing Program
+- Section 504 of the Rehabilitation Act
+- Americans with Disabilities Act (ADA)
+- Housing for Older Persons Act (HOPA)
+- Fair Housing Accessibility FIRST (HUD initiative)
+
+**Terms to AVOID:**
+- "navigate" (banned)
+- "vibrant," "bustling," "thriving" (banned)
+- "deep dive," "dive into" (banned)
+- "unlock," "leverage" (banned)
+- "hidden gem," "best-kept secret" (banned)
+- "Top X," "Best," "Ultimate," "#1" (banned title framing)
+- Any ILS platform names (Zillow, Apartments.com, etc.)
+- "signal" or "signaling" in any form
+- "interestingly," "notably," "it's worth noting" (banned)
+
+---
+
+## 5. Content Outline
+
+---
+
+**H1: Fair Housing Act Guidelines: What Renters Need to Know**
+
+---
+
+**H2: What the Fair Housing Act Actually Requires**
+
+*Writing instruction:* Open with a 40-60 word definition block directly answering the query. This targets the missing featured snippet. State what the law is, what year it was enacted (1968, amended 1988), and who enforces it (HUD). This paragraph must stand alone as a complete answer if extracted by Google or an LLM. Then expand with the key principle: it prohibits discrimination in the sale, rental, and financing of housing based on protected classes.
+
+---
+
+**H2: The Seven Federal Protected Classes**
+
+*Writing instruction:* Present a clean comparison table with all seven protected classes and a one-sentence explanation of what each covers. This is a direct citation target for AI engines, which pulled this list in structured form. Include a paragraph after the table noting that state and local laws frequently add additional classes (source of income, marital status, immigration status, military status, sexual orientation, gender identity). Mention California, New York City, and Illinois as specific examples without linking to competitor or ILS sources.
+
+**Table structure:**
+
+| Protected Class | What It Covers |
+|---|---|
+| Race | Any racial background or identity |
+| Color | Skin color, distinct from race |
+| National Origin | Country of birth, ancestry, culture |
+| Religion | Religious beliefs or practices |
+| Sex | Gender; HUD includes sexual orientation and gender identity |
+| Familial Status | Families with children under 18, pregnant women, those securing custody of a minor |
+| Disability | Physical or mental impairments that substantially limit one or more major life activities |
+
+---
+
+**H2: What Landlords Are Not Allowed to Do**
+
+*Writing instruction:* Bulleted list of prohibited practices under 42 U.S.C. § 3604. Keep each point to one short declarative sentence. Include: refusing to rent, steering, discriminatory advertising (specific examples of coded language), different lease terms or deposit requirements, failure to maintain or make repairs, misrepresenting unit availability, and retaliation against someone who files a complaint. This section addresses PAA question #4 ("Which would not be permitted under the Fair Housing Act").
+
+---
+
+**H2: Disability Protections: Accommodations and Modifications**
+
+*Writing instruction:* This is the highest-search-volume subtopic within fair housing. Define reasonable accommodation and reasonable modification as distinct concepts in two short definition blocks at the opening of this section (LLMs pull definitions verbatim). Explain who pays for modifications (the tenant, in most privately owned buildings), what landlords can and cannot ask for when a disability is not visible, and the specific rules around emotional support animals (including that no extra pet deposit is permitted). Address PAA question #10 ("Fair housing act guidelines emotional support animal") here. Include specific examples: reserved parking space, grab bar installation, waiving a no-pets policy, converting a paper notice to email for a hearing-impaired tenant.
+
+---
+
+**H2: Design and Construction Requirements for Multifamily Housing [CONTENT GAP partially addressed by competitors, but not framed for renters]**
+
+*Writing instruction:* Most competitor content addresses this section for builders, not renters. Frame it for renters: if you are moving into a building constructed after March 13, 1991, that has four or more units, it is required by law to include seven specific accessibility features. List all seven (accessible entrance on accessible route, accessible common areas, doors wide enough for wheelchairs, accessible route into and through each unit, environmental controls at accessible heights, reinforced bathroom walls for future grab bars, usable kitchens and bathrooms with wheelchair maneuvering space). Explain that design-and-construction violations are considered ongoing, meaning a renter who discovers non-compliant features in a covered building can still file a complaint regardless of when the building was completed. This is the **[CONTENT GAP]** no competitor clearly explains for renters in plain language.
+
+---
+
+**H2: What a Fair Housing Complaint Looks Like**
+
+*Writing instruction:* Addresses PAA question #3 ("What must be proved in a fair housing complaint"). Explain that a complaint does not require proof of intent: renters can establish discrimination through either disparate treatment (being treated differently because of a protected class) or disparate impact (a neutral policy that disproportionately harms a protected group). Walk through the filing process: document everything, file with HUD within one year of the discriminatory act, or file a private lawsuit within two years. Include HUD's toll-free number (1-800-669-9777) and that HUD investigations are free. Note that the DOJ handles pattern-or-practice cases against large landlords or property management companies. Do not cite or link to any ILS, Reddit, or review platform.
+
+---
+
+**H2: How Fair Housing Advertising Rules Apply [CONTENT GAP]**
+
+*Writing instruction:* Addresses PAA question #11 ("fair housing act advertising rules"). Most competitor content skips advertising rules entirely or mentions them only in passing. This section provides genuine information gain. Explain that any listing language expressing preference, limitation, or exclusion based on a protected class is unlawful under the FHA. Give concrete examples: "ideal for young professionals" (discriminates based on familial status), "no children" (familial status), "quiet Christian household" (religion), "great for couples" (familial status). Explain that the same rules apply to both landlords and real estate agents. Note that this applies to photos used in listings as well (consistently using only certain types of people in building imagery can also constitute unlawful discrimination). This is a **[CONTENT GAP]** across nearly all top-ranking competitor pages.
+
+---
+
+**H2: Common Fair Housing Violations**
+
+*Writing instruction:* Addresses PAA question #2 ("What are the most common fair housing violations"). Cite that HUD investigates hundreds of cases annually. List the most common violation types based on publicly available HUD enforcement data: disability-related complaints represent the largest share, followed by race, familial status, and national origin. Name specific examples: refusing to allow a grab bar installation, misrepresenting unit availability to a family with children, charging a higher security deposit from a person with a disability. Do not name specific companies or landlords. Keep this section tight: 3-4 sentences of context plus a short bulleted list.
+
+---
+
+**H2: Frequently Asked Questions About Fair Housing Act Guidelines**
+
+*Writing instruction:* This section maps to FAQPage schema. Each Q&A must be 40-60 words. Questions pulled from PAA data (labeled PAA) and AI engine information gaps (labeled AI GAP). Keep answers plain-language and complete. Do not use filler phrases. See Section 7c for the full FAQ list.
+
+**FAQ Questions:**
+
+1. What is legally acceptable under the Fair Housing Act? (PAA)
+2. What are the most common fair housing violations? (PAA)
+3. What must be proved in a fair housing complaint? (PAA)
+4. Which practices would not be permitted under the Fair Housing Act? (PAA)
+5. What is the difference between a reasonable accommodation and a reasonable modification? (AI GAP)
+6. Does the Fair Housing Act apply to single-family homes? (AI GAP)
+7. How long do I have to file a fair housing complaint? (AI GAP)
+8. Can a landlord charge a pet deposit for an emotional support animal? (PAA/AI GAP)
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace framing on renter search patterns:** Where the article discusses common reasons renters encounter discrimination (disability and familial status are the most-complained-about categories), reference that brightplace observes renters frequently asking about pet policies, family-size restrictions, and accessibility features as part of their apartment search process. Frame it: "When renters search on brightplace, questions about pet policies and accessible unit features come up in a large share of searches." This provides a platform-grounded observation that goes beyond repeating government text.
+
+2. **"What this means for renters" call-outs:** After each major legal provision, include a one-sentence plain-language translation. Example: after describing design-and-construction requirements, add: "In plain terms: if you are touring a newer apartment building and the entrance is not accessible or the doorways are too narrow for a wheelchair, the building may be violating federal law and you have options."
+
+3. **Date-stamped review note:** Include "Last reviewed: July 2026" in the article header or footer. Identify HUD enforcement statistics as the most time-sensitive claims in this article.
+
+### 6b. Expertise Signals
+
+- State that HUD disability-related complaints consistently represent the single largest category of fair housing complaints filed each year (cite "as of fiscal year 2024 HUD data").
+- Specify the exact date threshold for design-and-construction requirements: March 13, 1991.
+- Include the specific statute reference: 42 U.S.C. § 3604(f)(3)(C) for design requirements, and 42 U.S.C. § 3604 for prohibited conduct.
+- Distinguish between the one-year HUD filing window and the two-year private lawsuit window. This specific distinction appears in AI responses but is missing from several competitor pages.
+- Clarify that design-and-construction violations are treated as ongoing by courts (no standard statute of limitations applies to the structural non-compliance itself). This is expert-level detail not covered by most competitors.
+
+### 6c. Freshness & Date-Stamping
+
+- HUD complaint statistics: "as of HUD Fiscal Year 2024 Annual Report"
+- Civil penalty amounts for FHA violations (referenced in Investopedia at $16,000 first offense): verify and note "as of Q2 2026" or "subject to annual adjustment by HUD"
+- Any reference to state laws that have added protected classes: "as of July 2026, California, New York, and Illinois have enacted source-of-income protections" — these change frequently and must be flagged for quarterly review
+- The article must include: "Last reviewed: July 2026" near the top or at the bottom
+
+**Claims most likely to go stale:**
+1. State-by-state protected class expansions (change with each legislative session)
+2. Civil penalty dollar amounts (adjusted periodically by HUD)
+3. HUD enforcement statistics (updated annually)
+
+### 6d. Information Gain
+
+**Gap 1: Advertising rules for renters (not just landlords)**
+Most competitors address advertising as a landlord obligation. No competitor explains this from the renter's perspective: what language in a listing should make you suspicious, and what you can do about it. The article should tell renters: "If you saw a listing with language that discouraged you from applying based on a protected characteristic, that listing may have violated the Fair Housing Act. Document it. You can include it in a complaint."
+
+**Gap 2: Design-and-construction requirements framed for renters touring apartments**
+Every competitor addresses the seven design-and-construction requirements for builders or property managers. None explains to a renter what to look for during a tour of a covered building, or that discovering these deficiencies gives them complaint standing even in an older building (because the violation is ongoing). This is high-value information gain.
+
+**Gap 3: Disparate impact as a complaint theory**
+Several competitors mention disparate impact only briefly or not at all. Claude's response explains it clearly; competitors do not. Renters need to know that a policy which appears neutral (requiring full-time employment, banning Section 8 vouchers in non-protected jurisdictions, setting income-to-rent ratios at levels that disproportionately screen out a protected class) can constitute discrimination even if the landlord never explicitly mentioned a protected class. This belongs in the complaint section as a [CONTENT GAP].
+
+### 6e. Helpful Content Checklist
+
+| Question | Answer |
+|---|---|
+| Clear, specific audience? | Yes: renters who want to understand their federal fair housing rights and protections, particularly around disability, familial status, and complaint filing |
+| Demonstrates first-hand expertise? | Yes: via brightplace search pattern framing, precise statutory citations, and renter-facing practical translation of each legal provision |
+| Leaves reader able to achieve their goal? | Yes: after reading, a renter will understand all seven protected classes, know what constitutes a violation, understand their complaint options and deadlines, and know what to look for in apartment listings and building tours |
+| Human editor at brightplace confident publishing? | Yes: brief complies with all brand rules, Fair Housing content rules (no crime stats, no neighborhood demographics by population), no ILS citations, no banned phrases, no em dashes |
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT citations for this keyword:**
+No detailed ChatGPT citation data was retrieved (response not included in Data Source 3). Based on topic, ChatGPT typically cites HUD.gov, DOJ.gov, and Investopedia for fair housing questions.
+
+**Claude citations for this keyword:**
+Claude's response drew from:
+- HUD.gov (Fair Housing Act Overview) — cited for protected class definitions and complaint filing process
+- DOJ.gov (Fair Housing Act enforcement) — cited for DOJ enforcement role and pattern-or-practice cases
+- HUD 2020 Guidance on Assistance Animals — cited specifically for emotional support animal rules
+- 42 U.S.C. §§ 3601-3619 (via law.cornell.edu) — cited for statutory authority
+- HUD Section 504 regulations (24 C.F.R. Part 8) — cited for federally assisted housing unit percentage requirements
+- HUD's Fair Housing Accessibility FIRST program — cited for design and construction technical guidance
+
+**Is brightplace cited by either engine?**
+- ChatGPT: No
+- Claude: No
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace currently lacks:**
+- Direct statutory language and citations (easily addressable by including 42 U.S.C. references)
+- Specific numerical thresholds (5% accessible units in federally funded buildings, 2% for hearing/vision impairments)
+- Clear articulation of the disparate impact theory alongside intentional discrimination
+- Distinction between FHA, ADA, and Section 504 — all three AI responses flagged confusion between these frameworks as a common knowledge gap, but only one competitor (nationaldisabilityauthority.com) addressed it clearly
+
+**Information Gaps both AI engines identified:**
+1. How disparate impact differs from intentional discrimination, in plain renter language
+2. What renters should look for physically when touring a covered multifamily building
+3. Advertising rules: specific listing language that constitutes unlawful expression of preference
+4. The ongoing-violation doctrine for design-and-construction claims (no statute of limitations cutoff)
+5. State law expansions beyond federal minimums (source of income, marital status, immigration status)
+6. The distinction between FHA and ADA for residential housing (a very common misconception)
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) the direct answer to "what are fair housing act guidelines" in 1-2 sentences, (b) the audience statement ("if you are renting or looking for an apartment in the U.S."), and (c) at least one specific numerical anchor (seven protected classes, enacted in 1968, amended in 1988). Example opening:
+
+"The Fair Housing Act sets federal guidelines that prohibit discrimination in the rental, sale, and financing of housing. If you are renting or looking for an apartment in the U.S., this law protects you from being turned away, charged different fees, or treated differently based on seven protected characteristics: race, color, national origin, religion, sex, familial status, and disability. It was enacted in 1968 and expanded significantly in 1988 to cover disability and families with children."
+
+**Rule 2: Structured data rule**
+Two tables are required:
+1. **Protected Classes Table** (H2: The Seven Federal Protected Classes): Columns — Protected Class | What It Covers. Seven rows. Clean markdown table format.
+2. **FHA vs. ADA vs. Section 504 Comparison Table** (within the disability H2 or as a standalone H2): Columns — Law | What It Covers | Who Pays for Modifications | Filing Deadline. This table captures a common search query and AI-cited information gap.
+
+**Rule 3: Definition rule**
+The following terms must be defined in one clear sentence each at the start of the section where they first appear:
+
+1. **Reasonable accommodation:** A change to a housing provider's rules, policies, practices, or services that allows a person with a disability to have equal opportunity to use and enjoy their housing.
+2. **Reasonable modification:** A physical change to a dwelling unit or common area that a tenant with a disability may make, generally at their own expense, to allow full enjoyment of the premises.
+3. **Disparate impact:** A legal theory under which a housing policy that appears neutral on its face still violates the Fair Housing Act if it disproportionately harms a protected class.
+4. **Familial status:** A protected class covering households with one or more children under 18, pregnant persons, and anyone in the process of securing legal custody of a child.
+5. **Safe harbor:** A set of design standards that, when fully followed, establishes compliance with FHA accessibility requirements for new construction (use this in the design-and-construction section).
+
+**Rule 4: Proof point rule**
+Include all of the following specific numerical claims with date markers:
+
+1. "Disability-related complaints represent the largest share of fair housing complaints filed with HUD each year, accounting for more than 50% of total complaints in recent years (as of HUD Fiscal Year 2024)."
+2. "The Fair Housing Act covers multifamily buildings with four or more units that were built for first occupancy after March 13, 1991."
+3. "Complaints filed with HUD must be submitted within one year of the discriminatory act. Private lawsuits must be filed within two years."
+4. "For federally assisted multifamily housing with five or more units, at least 5% of units must be fully accessible to people with mobility disabilities, and at least 2% must be accessible to people with hearing or vision disabilities (as of Q2 2026 under 24 C.F.R. Part 8)."
+5. "Civil penalties for a first FHA violation start at approximately $16,000 and can reach $150,000 in cases brought by the Department of Justice (as of Q2 2026, subject to annual HUD adjustment)."
+
+**Rule 5: FAQ rule**
+
+| # | Question | Source | Target Answer Length |
+|---|---|---|---|
+| 1 | What is legally acceptable under the Fair Housing Act? | PAA | 40-60 words |
+| 2 | What are the most common fair housing violations? | PAA | 40-60 words |
+| 3 | What must be proved in a fair housing complaint? | PAA | 40-60 words |
+| 4 | Which practices would not be permitted under the Fair Housing Act? | PAA | 40-60 words |
+| 5 | What is the difference between a reasonable accommodation and a reasonable modification? | AI GAP | 40-60 words |
+| 6 | Does the Fair Housing Act apply to single-family homes? | AI GAP | 40-60 words |
+| 7 | How long do I have to file a fair housing complaint? | AI GAP | 40-60 words |
+| 8 | Can a landlord charge a pet deposit for an emotional support animal? | PAA + AI GAP | 40-60 words |
+
+Each FAQ answer must: start with a direct answer (yes/no or one-sentence conclusion), then add the most important qualifying detail. No filler phrases. These answers will be marked up as FAQPage schema.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+"Search accessible apartments on brightplace" — linking to brightplace.ai (or a filtered search for accessible units if that filter exists in IntentOS).
+
+**Placement:**
+- After the H2 covering Design and Construction Requirements (mid-article): "brightplace lets you filter apartment searches by accessibility features so you can find buildings that meet these standards before scheduling a tour."
+- End of article (after FAQ): "When you are ready to find apartments that fit your needs, brightplace makes it easy to search by the features that matter to you."
+
+**Secondary CTA:**
+Link to any existing brightplace knowledgebase article covering apartment lease terms, renter rights, or what to look for in a lease. If none exists yet, flag this as a content gap for the editorial calendar. Suggested topic: "What to Look for in an Apartment Lease Before You Sign."
+
+**CTA language rules:** No urgency language. No superlatives. Frame as a natural next step. The primary CTA should feel like a tool recommendation, not an ad.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+**Additional Production Rules:**
+
+- **Target word count:** 1,100-1,400 words (excluding title and meta). Stay within this range. Do not pad.
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. If a sentence exceeds 25 words, break it.
+- **Paragraph length:** 2-4 sentences maximum. No exceptions. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query. Do not begin with "In today's housing market..." or any similar construction.
+- **Every H2 section opens with its answer, not with context or background.** The answer comes first. The explanation follows.
+- **Date-stamp all data:** Every statistic, dollar figure, percentage, or year-specific claim must include "(as of [Quarter] [Year])" immediately adjacent to the claim.
+- **Include "Last reviewed: July 2026"** near the top of the article (below the title, above the first paragraph) or in the article footer.
+- **No legal advice disclaimer needed** (this is a reference guide, not a legal consultation platform), but do not frame any section as definitive legal counsel. Use language like "generally," "in most cases," and "consult a local fair housing organization for jurisdiction-specific guidance" at the end of complex sections.
+- **Schema to implement:**
+  - Article schema (always)
+  - FAQPage schema for the FAQ H2 (always)
+  - Speakable schema: apply to the opening paragraph of the article and to each FAQ answer (these are the sections most likely to be read aloud by voice assistants and extracted by AI engines)
+  - HowTo schema is NOT warranted for this article (it is a reference guide, not a process article)
