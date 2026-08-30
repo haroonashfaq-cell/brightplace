@@ -1,0 +1,366 @@
+# CONTENT BRIEF: Domain College Park
+
+**Prepared for:** brightplace AI Writing Agent
+**Published at:** brightplace.ai/knowledgebase/
+**Primary Keyword:** domain college park
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top-ranking results are **property listing pages and database entries**: the UDR official property page, the UMD Off-Campus Housing Database listings, the Lessard Design portfolio entry, and the Hanover Company developer portfolio page. There are no editorial how-to guides or listicles in the top results. One student housing booking platform (Amber) and one review aggregator (VeryApt) also appear. The single news article (DBK, 2016) is informational but dated.
+
+The intent here is **transactional/navigational with an informational secondary layer**. Searchers want to understand what Domain College Park is, whether it fits them, what it costs, and how it compares to alternatives. They are not looking for a how-to guide. The article format to match is: **a focused informational property profile with comparison context and practical decision guidance.** This is the format no editorial source currently holds, which is the ranking gap to occupy.
+
+### 1b. Content Depth Benchmark
+
+- UDR listing page: ~400-600 words of editorial content (rest is navigation/UI)
+- UMD OCH Database entry: Data tables only, minimal prose
+- Lessard Design portfolio: ~200 words editorial
+- Hanover Company portfolio: ~100 words editorial
+- VeryApt: ~300 words editorial plus review fragments
+- DBK news article: ~500 words
+
+The top results are thin on editorial depth. The average prose content of the top 5 is approximately **300-500 words.** An article of **900-1,100 words** will substantially exceed competitor depth while staying within the /knowledgebase/ format guidelines. This is a clear content gap opportunity.
+
+**Target word count: 950-1,100 words.**
+
+### 1c. SERP Features Present
+
+- **People Also Ask:** Yes, 12 questions present (see Data Source 2). Target these with structured FAQ section and individual H2/H3 sections where relevant.
+- **Featured Snippet:** No featured snippet currently exists for this keyword. This is an open opportunity. The first H2 paragraph (40-60 words, direct answer) targets this.
+- **Knowledge Panel:** A Google Business Profile for the property likely appears. The article cannot compete with this but can capture adjacent intent.
+- **Local Pack:** Possible for this keyword given the geo-specific nature. The article should include the full address (3711 Campus Drive, College Park, MD 20740) and proper location entity mentions.
+- **AI Overview:** Not confirmed active for this keyword at time of brief, but Claude's structured response (Data Source 3) confirms AI engines are already synthesizing answers. The FAQ and definition sections target AI citation.
+- **Video Carousel:** Not confirmed, but UDR embeds a video on its property page. Not a priority for this article format.
+
+### 1d. Intent Match Validation
+
+**Primary intent:** A prospective renter (graduate student, university staff member, or young professional affiliated with the University of Maryland) searching to understand what Domain College Park is, what it costs, who it is right for, and how to evaluate it against alternatives before making a leasing decision.
+
+**Secondary intent:** Current residents or people who have seen the property name and want a quick orientation to the building, its location, and what distinguishes it from other College Park apartments.
+
+**The article format briefed (informational property profile with cost data, renter fit analysis, comparison context, and FAQ) directly matches both interpretations.** Primary intent is the target.
+
+---
+
+## 2. Recommended Titles
+
+**Option A:** What to Know About Domain College Park Before You Lease
+**Option B:** Domain College Park: Rents, Amenities, and Who It Actually Fits
+**Option C:** A Practical Look at Domain College Park in College Park, MD
+
+**Recommended:** Option B. It contains the primary keyword, sets a clear expectation of specificity (rents, amenities, fit), and works as both a SERP click target and an AI citation headline.
+
+**Meta description (under 155 characters):**
+Domain College Park is a luxury apartment community near UMD. Here is what it costs, what is included, and whether it fits your situation.
+
+**Recommended URL slug:** `brightplace.ai/knowledgebase/domain-college-park`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The person searching "domain college park" is most likely a **graduate student, postdoctoral researcher, university staff member, or young professional with a connection to the University of Maryland** who has heard the property name and wants to assess it seriously. They are in the **comparison stage** of their renter journey: past discovery, not yet at transaction. They have probably already identified that Domain College Park is one of the higher-end options near campus, and they want concrete data (pricing, what is included, real tradeoffs) to decide whether to schedule a tour. Based on the SERP format, they expect a **direct, factual property profile** that answers cost and fit questions without requiring them to navigate a leasing website.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:** domain college park
+
+**Secondary keywords (10-15):**
+1. domain college park apartments
+2. domain college park reviews
+3. domain college park rent
+4. domain college park price
+5. domain college park College Park MD
+6. apartments near University of Maryland
+7. luxury apartments college park MD
+8. off-campus housing UMD
+9. domain college park amenities
+10. domain college park floor plans
+11. 1 bedroom apartments college park
+12. 2 bedroom apartments college park
+13. domain college park parking
+14. UMD graduate student housing
+15. college park apartments near campus
+
+**Entities to mention:**
+1. University of Maryland (UMD) - proximity anchor, audience definer
+2. 3711 Campus Drive, College Park, MD 20740 - full property address (local SEO)
+3. UDR (current property management company)
+4. College Park-U of MD Metro Station (Green/Yellow Line) - transit entity
+5. Van Munching Hall / UMD School of Business - geographic reference from competitor data
+6. The Hanover Company - original developer
+7. Campus Drive - street-level location entity
+8. Prince George's County, Maryland - county-level geo entity
+9. MARC Train - secondary transit entity
+10. Washington DC - commute destination anchor
+
+**Terms to AVOID:** best, top, ultimate guide, deep dive, navigate, unlock, leverage, vibrant, bustling, whether you're X or Y, hidden gem, it's worth noting, interestingly, notably, thriving, signal, em dashes, any ILS platform names (Apartments.com, Zillow, etc.)
+
+---
+
+## 5. Content Outline
+
+**H1:** Domain College Park: Rents, Amenities, and Who It Actually Fits
+
+---
+
+**H2: What Domain College Park Is**
+
+*Writing instruction:* Open with a direct 40-60 word definition of the property: what it is, where it is, who manages it, and what tier of housing it represents. This is the featured snippet target. Do not scene-set or introduce context before the answer. Include the full address, the property manager (UDR), and the year it was built (opened June 2013, developed by The Hanover Company).
+
+---
+
+**H2: Current Rent Ranges at Domain College Park**
+
+*Writing instruction:* Present specific, current rent data drawn from the competitor sources. As of mid-2026, 1-bedroom units start at approximately $1,996/month and 2-bedroom units range from approximately $2,736 to $2,802/month. Clarify that these are base rents and that monthly fees (amenity fee approximately $25/month, smart home and internet package approximately $70/month, trash approximately $30/month, package lockers approximately $10-$15/month) are additional. Date-stamp all figures as (as of mid-2026). Note the $400 security deposit and $25 application fee.
+
+Include a simple two-column table:
+
+| Unit Size | Starting Monthly Rent (as of mid-2026) |
+|---|---|
+| 1 Bedroom (625-675 sq ft) | $1,996 |
+| 1 Bedroom (910-970 sq ft) | $2,231 |
+| 2 Bedroom (1,075-1,115 sq ft) | $2,736 |
+| 2 Bedroom (up to 1,300 sq ft) | $2,802+ |
+
+Note that furnished options and shorter-term leases carry higher rates. Note that the total monthly cost of ownership (base rent plus required fees) runs meaningfully higher than the advertised starting rent.
+
+---
+
+**H2: What Is Included (and What Is Not)**
+
+*Writing instruction:* Cover unit-level inclusions (stainless steel appliances, granite countertops, hardwood floors, in-unit washer and dryer, air conditioning, extra storage). Cover community amenities (24-hour fitness center, resort-style pool, outdoor grilling areas, landscaped courtyards, business center, billiards and TV lounge, concierge service, package lockers, EV charging stations, controlled building access). Then explicitly state what is NOT included in base rent: internet (billed through the smart home package), trash, amenity fee, parking (parking rates vary and are required). This honesty is a key differentiator from competitor listing pages and demonstrates the "knowledgeable friend" voice.
+
+---
+
+**H2: Location and Getting Around** **[CONTENT GAP]**
+
+*Writing instruction:* Provide specific, usable transit and proximity data. Domain College Park is at 3711 Campus Drive, directly across from Van Munching Hall (UMD's School of Business). UMD's main campus is approximately 0.7 miles away, which is a 13-14 minute walk. The College Park-U of MD Metro Station (Green and Yellow Lines) is approximately 1.3 miles away, roughly a 24-25 minute walk or a short bus ride. MARC Train service is accessible at the same College Park station. Reagan National Airport is approximately a 28-minute drive. College Park Shopping Center is approximately a 14-minute walk. Note: no major grocery store is within easy walking distance; residents consistently note that a car is useful for grocery shopping. This tradeoff is real and should be stated plainly. Bikeability in the area is strong (rated exceptionally bike-friendly per multiple sources). Transit to DC is viable but not as immediate as walkable urban neighborhoods.
+
+---
+
+**H2: Who Domain College Park Works Best For** **[CONTENT GAP]**
+
+*Writing instruction:* Present a clear, honest renter-fit analysis. This section should replace vague marketing language with specific fit criteria. Structure this as a brief comparison table:
+
+| Renter Type | Fit | Why |
+|---|---|---|
+| Graduate students and postdocs | Strong fit | Walk to campus, study spaces, individual unit leases, stability |
+| University faculty and staff | Strong fit | Quality units, professional environment, proximity |
+| Young professionals commuting to DC | Moderate fit | Metro access exists but the walk is 25+ minutes; factor in commute time |
+| Undergraduates on a budget | Weak fit | Cheaper options exist on the Route 1 corridor; Domain is priced at the upper end |
+| Remote workers wanting a home office | Moderate fit | Den and office floor plans available, built-in desk options, but internet is an add-on cost |
+
+The writing agent should not editorialize on any demographic characteristics. Frame each row around lifestyle infrastructure and cost calculus only.
+
+---
+
+**H2: Real Tradeoffs to Know Before Touring**
+
+*Writing instruction:* This section covers honest, specific tradeoffs that current competitors and listing pages omit. Draw from VeryApt reviews and the DBK news article context. Include: (1) The property sits in an active university corridor; ambient noise is a realistic consideration. (2) Monthly fees on top of base rent add $125-$145/month before utilities. (3) No major grocery store within walking distance. (4) The Metro station is 1.3 miles away, which requires a bus or bike for most riders. (5) Parking is required and not automatically included in rent. (6) The building has a controlled access system and concierge, which residents who value security cite as a genuine plus. Phrase all of these neutrally, as practical information rather than complaints or praise.
+
+---
+
+**H2: How Domain College Park Compares to Other College Park Options** **[CONTENT GAP]**
+
+*Writing instruction:* Provide a brief, factual comparison to named alternatives in the College Park market. Do not rank them. Do not use superlatives. Present factual data points. Mention: The Varsity Maryland (closer to campus, younger demographic skew), Terrapin Row (per-bedroom leasing, primarily undergrad-focused, lower price per room), The Alloy at 4700 Berwyn House Road (1-3 bedrooms, $1,943-$3,059/month as of mid-2026), and University View (1-4 bedrooms, per-bedroom pricing starting around $1,209/bedroom). Note that Domain's differentiator within this set is its full-unit leasing model, higher interior finish level, and on-site concierge, which positions it above per-bedroom student housing but at a higher price point. This is the only section in any current top-10 result that directly addresses comparison; it is a significant content gap.
+
+---
+
+**H2: Is College Park, MD a Good Place to Live?** *(PAA question target)*
+
+*Writing instruction:* Answer the PAA question directly in the first sentence. College Park is a university-anchored city in Prince George's County, Maryland, about 10 miles northeast of Washington DC. Its character is shaped by the University of Maryland campus, which brings dining options, cultural programming, athletic venues, and a consistent population of students, researchers, and academics. Describe by lifestyle infrastructure: the area has strong bikeability, moderate walkability, Green and Yellow Line Metro access, and proximity to Paint Branch Stream Valley Park and Lake Artemisia Natural Area Park. Note the honest tradeoff: retail options outside campus-adjacent blocks are limited without a car, and the closest grocery options require driving for most residents of Campus Drive. Do not include crime statistics or safety language per Fair Housing compliance rules.
+
+---
+
+**H2: Frequently Asked Questions About Domain College Park**
+
+*Writing instruction:* Include 6 Q&A pairs. Each answer must be 40-60 words. These are FAQPage schema entries and AI citation targets. See Section 7, Rule 5 for the exact questions.
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace market framing:** Where rent figures are presented, frame them as "based on current leasing data for Domain College Park (as of mid-2026)" to position brightplace as an active market observer, not a scraper.
+2. **"What renters consistently report" framing:** When covering tradeoffs, use language like "renters who have lived here consistently mention" (without citing any specific review platform) to signal that the perspective reflects observed patterns, not generic claims.
+3. **Direct comparison to named alternatives:** The comparison section in H2 6 demonstrates that the author knows the local market well enough to position the property within it, not just describe it in isolation.
+
+### 6b. Expertise Signals
+
+1. Include the specific building details from the Lessard Design portfolio (408,000 SF total, 256 apartments, 10,260 SF retail, 5 floors above grade, 380 parking spaces) with attribution framing: "when the building was constructed in 2013."
+2. Include the specific fee breakdown ($25/month amenity fee, $70/month smart home and internet, $30/month trash, $10-$15/month package lockers, $400 deposit) with date-stamps. This level of fee transparency is absent from all current top-ranking results and positions the article as genuinely more complete.
+3. The renter-fit table in H2 5 is a decision framework. Only a source with real market knowledge would commit to specific fit assessments. This is an expertise marker.
+
+### 6c. Freshness & Date-Stamping
+
+- Every rent figure must carry "(as of mid-2026)"
+- Every fee figure must carry "(as of mid-2026)"
+- Article must include "Last reviewed: June 2026" in a byline or footer note
+- **Figures most likely to go stale:** Base rent ranges (update every 6 months), monthly fee structure (update annually), availability by floor plan (update every 6 months). The comparison table rent figures for competing properties should also be flagged for quarterly review.
+
+### 6d. Information Gain
+
+Three specific pieces of information this article provides that no current top-10 competitor covers:
+
+1. **The true monthly cost (base rent plus required fees):** No competitor editorial source adds up base rent plus amenity fee, internet package, trash, and package lockers to give a realistic total. This article will. For a 1-bedroom at $1,996/month, required fees add approximately $125-$145/month, making the realistic floor closer to $2,120-$2,141/month before electricity or optional services. This is a major information gap and a high-value service to renters.
+
+2. **A named alternative comparison:** No current top-10 result compares Domain College Park to The Varsity, Terrapin Row, or The Alloy with specific pricing data. The comparison table in H2 6 fills this gap completely.
+
+3. **A structured renter-fit analysis with specific renter types:** Claude's AI response attempted this analysis but was speculative. This article will ground it in real pricing, real commute data, and real lifestyle tradeoffs. No competitor does this.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience?** Yes. Graduate students, university staff, and young professionals considering Domain College Park near UMD.
+- **First-hand expertise demonstrated?** Yes. Via specific fee breakdowns, renter-fit analysis, and comparison data absent from all competitors.
+- **Reader achieves their goal?** Yes. The goal is: evaluate Domain College Park well enough to decide whether to schedule a tour. The article answers cost, amenities, tradeoffs, transit, and fit.
+- **Human editor at brightplace confident publishing?** Yes. The brief complies with all brand rules, Fair Housing rules, and sourcing restrictions. No ILS platforms are cited. No crime or safety data is included. No prohibited phrases are in the outline.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** No response data retrieved (not available in Data Source 3).
+
+**Claude:** Claude provided a direct answer to "domain college park" that:
+- Correctly identified Domain College Park as a luxury apartment community adjacent to the University of Maryland campus in College Park, MD
+- Noted it targets graduate students, university staff, and young professionals
+- Cited an approximate price range of $1,400-$2,800+/month (reasonable but imprecise; the actual current floor is $1,996/month for a 1BR)
+- Identified uncertainty about current ownership (incorrectly speculated "Aspen Heights Partners"; it is managed by UDR)
+- Recommended verifying rates directly or via ILS platforms (a citation this article can displace)
+- Cited Reddit (r/UMD) for resident perspectives
+- Cited competitor ILS platforms for rent history
+
+**Is brightplace cited by either engine?** No. Neither engine.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks for this keyword:**
+- Direct property data (UDR's own page is the authoritative source)
+- Review content (VeryApt, Reddit aggregated impressions)
+- Structured listings (UMD OCH Database)
+
+**What brightplace can provide that current cited sources lack:**
+- Neutral editorial analysis (not promotional, not fee-gated)
+- True monthly cost breakdown (base rent plus all required fees)
+- Named comparison table with competing properties
+- Renter-fit framework with specific types and clear rationale
+- FAQ section structured for AI extraction
+
+**Information gaps both AI engines pointed to:**
+1. Correct current ownership and management (UDR, not Aspen Heights): Claude was uncertain; the article confirms UDR.
+2. Actual total monthly cost including all required fees: Both AI engines referenced only base rent.
+3. Named alternatives for comparison shopping: Claude listed alternatives but with no pricing data.
+4. Transit reality (the Metro station walk is 24-25 minutes, not "walking distance" as casually described): Claude correctly flagged this as "nearby" but did not quantify.
+5. Parking situation: Claude flagged it as a decision factor but provided no specifics. The article provides the specific answer (required, not included in base rent, rates vary).
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule.**
+The opening 100 words of the article must contain: (a) a direct answer to "what is Domain College Park" (name, address, management company, property type), (b) the target audience statement (graduate students, university staff, and young professionals near UMD), and (c) at least one specific numerical data point (256 units, or starting rent of $1,996/month for a 1-bedroom as of mid-2026). Do not begin with a question, an anecdote, or a scene-setting sentence.
+
+**Rule 2: Structured data rule.**
+Include three tables in the article:
+- Table 1 (H2: Rent Ranges): Unit size vs. starting monthly rent. Columns: "Unit Size" and "Starting Monthly Rent (as of mid-2026)."
+- Table 2 (H2: Who It Works Best For): Renter type vs. fit vs. reason. Columns: "Renter Type," "Fit," "Why."
+- Table 3 (H2: Comparison to Other Options): Property name vs. price range vs. key differentiator. Columns: "Property," "Price Range (as of mid-2026)," "Key Differentiator."
+
+All tables must use clean markdown formatting. The writing agent should not use merged cells or footnotes within tables.
+
+**Rule 3: Definition rule.**
+The following terms must be explicitly defined in a single clear sentence each, at the first point of use in the article:
+
+1. **Full-unit leasing:** A lease structure where one party signs for the entire apartment rather than individual bedrooms, which requires roommates to split rent privately rather than having separate leases.
+2. **Required fees:** Monthly charges that are not optional, in addition to base rent, and must be paid regardless of usage (contrasted with optional add-on fees).
+3. **Green and Yellow Line (Metro):** The Washington Metropolitan Area Transit Authority rail lines that connect College Park to destinations including Silver Spring, Bethesda, and downtown Washington DC.
+4. **UDR:** The current property management company for Domain College Park, a publicly traded REIT (real estate investment trust) that manages upscale residential communities across the United States.
+
+**Rule 4: Proof point rule.**
+The following specific numerical claims must appear in the article, date-stamped where indicated:
+
+1. "Domain College Park contains 256 apartment units across 5 floors above grade, with 380 parking spaces in an underground and ground-level garage structure." (sourced from Lessard Design and Hanover Company portfolio data)
+2. "1-bedroom apartments at Domain College Park start at $1,996 per month (as of mid-2026), with required monthly fees adding approximately $125-$145 on top of base rent."
+3. "The College Park-U of MD Metro Station (Green and Yellow Lines) is approximately 1.3 miles from the property, a 24-25 minute walk." (sourced from UMD OCH Database transit data)
+4. "The University of Maryland campus is approximately 0.7 miles from the property, a 13-14 minute walk." (sourced from UMD OCH Database)
+5. "Domain College Park was developed by The Hanover Company and opened in June 2013, making it one of the first market-rate apartment buildings constructed in College Park since 2007."
+
+**Rule 5: FAQ rule.**
+The FAQ section must include these 6 questions and answers. Each answer must be 40-60 words:
+
+1. **How much does it cost to rent at Domain College Park?** (Source: PAA / "domain college park price") Answer: As of mid-2026, 1-bedroom units start at $1,996/month and 2-bedroom units start at approximately $2,736/month. Required monthly fees (amenity, internet package, trash, package lockers) add approximately $125-$145/month. A $400 security deposit and $25 application fee are due before move-in.
+
+2. **Is Domain College Park right for graduate students?** (Source: AI engine gap) Answer: Domain College Park is a strong fit for graduate students who want full-unit leases, proximity to campus, and professional-grade amenities. The 0.7-mile walk to UMD's campus and the built-in study and conference spaces make it practical. The price point (starting around $2,000/month for a 1-bedroom) makes it more realistic for students with stipends or dual-income households.
+
+3. **What amenities does Domain College Park include?** (Source: PAA / "Domain College Park photos," "Domain College Park amenities") Answer: Community amenities include a resort-style pool, 24-hour fitness center, landscaped courtyards, outdoor grilling areas, a billiards and TV lounge, a business center with conference rooms, controlled building access, concierge service, EV charging stations, and package lockers. Units include in-unit washer and dryer, stainless steel appliances, granite countertops, and hardwood floors.
+
+4. **How far is Domain College Park from the Metro?** (Source: AI engine gap / PAA "College Park, MD nice area") Answer: The College Park-U of MD Metro Station on the Green and Yellow Lines is approximately 1.3 miles from Domain College Park's address at 3711 Campus Drive. That is roughly a 24-25 minute walk. Most residents use the bus or bike to reach the station. From there, DC commutes take approximately 30-40 minutes.
+
+5. **What is parking like at Domain College Park?** (Source: PAA / "Domain College Park parking") Answer: Parking at Domain College Park is available in an underground and first-floor garage. It is required for residents who have vehicles and is not automatically included in base rent. Rates vary depending on the type of parking requested. Confirm the current monthly rate directly with the leasing office, as fees are subject to change.
+
+6. **How does Domain College Park compare to other College Park apartments?** (Source: AI engine gap / content gap) Answer: Domain College Park occupies the upper price tier in College Park, alongside properties like The Alloy. It uses full-unit leasing rather than per-bedroom pricing, which distinguishes it from student-oriented options like Terrapin Row. Renters who prioritize interior finish quality, concierge service, and a quieter residential feel typically find it preferable to higher-turnover student complexes.
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:** "See what is available near the University of Maryland on brightplace." Link to brightplace.ai (or a College Park or Maryland search page if available). Place this CTA in three locations:
+1. After the rent ranges table (H2: Current Rent Ranges), as a natural next step for readers comparing costs.
+2. After the comparison table (H2: How Domain College Park Compares), as a prompt to explore alternatives.
+3. At the close of the article, after the FAQ section, as the final action.
+
+CTA language options for the writing agent:
+- "brightplace tracks rental availability near UMD. Search current options at brightplace.ai."
+- "Compare Domain College Park to other College Park apartments on brightplace."
+- "See what is available in College Park right now at brightplace.ai."
+
+No promotional adjectives. No urgency language. No "click here" or "don't miss."
+
+**Secondary CTA:** If brightplace has published a guide to renting near UMD, renting in Maryland, or renting in the DC metro area, link to it as a "Related resource" after the location section (H2: Location and Getting Around). If no such guide exists yet, this link should be omitted from the draft.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+The following rules are non-negotiable. Apply every rule to every sentence of the article.
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING:** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+**ADDITIONAL PRODUCTION RULES:**
+
+- **Target word count:** 950-1,100 words
+- **Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+- **Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence.
+- **Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time.
+- **No filler introductions.** The first sentence of the article must contain the primary keyword and begin answering the query.
+- **Every H2 section opens with its answer,** not with context or background.
+- **Date-stamp every dollar figure, rent range, and statistic** with "(as of mid-2026)" immediately adjacent to the claim.
+- **Include "Last reviewed: June 2026"** in the article footer or byline area.
+- **Schema to implement:** Article schema and FAQPage schema on every article. Add Speakable schema to the opening summary paragraph and the FAQ section. No HowTo schema warranted for this content type.
+- **Tables:** Use clean markdown table formatting. Three tables are required (see Section 7, Rule 2). No merged cells. No footnotes inside table cells.
+- **Do not name, link to, or quote** Reddit, Yelp, ApartmentRatings, or any other review forum, even as background context.
+- **Do not name UDR's specific competitor programs** (Rhino, RentTrack, Amenify, etc.) as features of the property. These are third-party partnerships and may change. Describe them by function if needed: "rent reporting program," "deposit alternative option."
+- **The FAQ section is the final H2.** Nothing follows the FAQ except the CTA and the "Last reviewed" note.
