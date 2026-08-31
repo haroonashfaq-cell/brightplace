@@ -123,6 +123,10 @@ An AI-powered content engine for apartment operators. We research keywords, writ
 7. **AIR Communities locked** — starting with 5 communities
 8. **All 170 AIR communities analyzed** — full Semrush data stored
 9. **Selection criteria:** Volume 700+, KD under 30, zero editorial competition
+10. **Content as markdown files** — not React components. .md + .json in a content/ directory
+11. **GitHub API is the CMS** — no custom backend for Phase 1. Push files via API, Vercel rebuilds
+12. **Custom markdown extensions** — [cta], [image], tables, FAQ cards rendered by dev team's component
+13. **Clean separation** — content team writes markdown, dev team builds renderer. Neither touches the other
 
 ---
 
@@ -138,6 +142,10 @@ An AI-powered content engine for apartment operators. We research keywords, writ
 | `06-build-roadmap.md` | 5-phase roadmap |
 | `07-production-architecture.md` | Local → production migration plan |
 | `08-air-communities-full-analysis.md` | **ALL 170 communities with Semrush data** |
+| `09-developer-requirements.md` | What Tom & Dennis need to build (API endpoints) |
+| `10-scale-architecture.md` | How to go from 5 to 500+ communities |
+| `11-complete-requirements.md` | Every account, API key, database table, endpoint needed |
+| `12-air-communities-content-pipeline.md` | **How content travels from agents to live pages** |
 
 ---
 
