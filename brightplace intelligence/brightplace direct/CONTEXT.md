@@ -141,10 +141,27 @@ An AI-powered content engine for apartment operators. We research keywords, writ
 
 ---
 
+## Pending Action Items
+
+### For Dev Team (Tom & Dennis)
+- [ ] Build 5 property pages from templates (One Canal, Indigo West, One Boynton, 3400 Ave Arts, Citigate)
+- [ ] Create CMS API endpoint: `POST /api/content/publish` (accepts article JSON, creates page)
+- [ ] Create property API endpoint: `POST /api/content/property` (accepts property JSON, creates page)
+- [ ] API authentication (token-based)
+- [ ] Requirements doc sent: `Planning/09-developer-requirements.md`
+
+### For Content Team (Haroon + Claude)
+- [ ] Research property data for 5 communities (floor plans, amenities, pricing, neighborhood)
+- [ ] Research keywords per community (Semrush)
+- [ ] Write 1-2 articles per community after pages are built
+- [ ] Source property images from AIR Communities websites
+
+---
+
 ## Open Questions
 
 1. Pricing model for operators? (Per article? Monthly? Per lead?)
-2. How will operators approve keywords in production? (Dashboard UI)
-3. Auto-publish pipeline timing? (After Phase 2 dashboard)
-4. Do we need real property photos before building pages? (Ask AIR)
-5. Timeline for 5 community build? (Estimate: 2-3 days for pages + content)
+2. Which CMS API option will dev team choose? (A: JSON files, B: Supabase, C: Headless CMS)
+3. Do we need real property photos before building pages? (Ask AIR)
+4. Should each operator have its own repo or share one?
+5. API authentication method? (API key? JWT? Supabase auth?)
