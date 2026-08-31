@@ -1,0 +1,98 @@
+<!-- Rent Affordability $18/Hour — Income, Rules, and Debt Impact Tables -->
+<!-- Paste each table into a separate Webflow HTML Embed element -->
+
+<style>
+.bp-table { width: 100%; border-collapse: collapse; margin: 24px 0; font-family: inherit; font-size: 15px; }
+.bp-table th { background: #1a1a2e; color: #fff; text-align: left; padding: 12px 16px; font-weight: 600; }
+.bp-table td { padding: 10px 16px; border-bottom: 1px solid #e8e8e8; }
+.bp-table tr:hover { background: #f7f7fa; }
+.bp-table .label { font-weight: 600; }
+.bp-table .result { font-weight: 600; color: #1a1a2e; }
+.bp-table .note { font-size: 13px; color: #666; margin-top: 8px; }
+</style>
+
+<!-- TABLE 1: Income Breakdown -->
+<table class="bp-table">
+  <thead>
+    <tr>
+      <th>Pay Period</th>
+      <th>Gross Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="label">Per hour</td><td>$18.00</td></tr>
+    <tr><td class="label">Per week (40 hrs)</td><td>$720</td></tr>
+    <tr><td class="label">Per month (approx.)</td><td>$3,120</td></tr>
+    <tr><td class="label">Per year</td><td>$37,440</td></tr>
+    <tr><td class="label">Est. monthly take-home*</td><td class="result">~$2,450–$2,600</td></tr>
+  </tbody>
+</table>
+<p class="note">*After federal income tax, Social Security, and Medicare. Varies by state. As of Q3 2026.</p>
+
+<!-- TABLE 2: Rule Comparison -->
+<table class="bp-table" style="margin-top: 32px;">
+  <thead>
+    <tr>
+      <th>Rule</th>
+      <th>What It Says</th>
+      <th>Your Number at $18/hr</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="label">30% of gross income</td>
+      <td>Max rent = 30% of $3,120</td>
+      <td class="result">$936/month</td>
+    </tr>
+    <tr>
+      <td class="label">3x rent (landlord test)</td>
+      <td>Gross income must be 3x rent</td>
+      <td class="result">Qualifies up to ~$1,040/month</td>
+    </tr>
+    <tr>
+      <td class="label">50/30/20 rule (needs bucket)</td>
+      <td>All needs ≤ 50% of take-home</td>
+      <td class="result">$700–$900/month for rent</td>
+    </tr>
+    <tr>
+      <td class="label">Conservative (25% of gross)</td>
+      <td>Lower ceiling for financial cushion</td>
+      <td class="result">$780/month</td>
+    </tr>
+  </tbody>
+</table>
+<p class="note">All figures based on $3,120/month gross income at 40 hours/week.</p>
+
+<!-- TABLE 3: Debt Impact -->
+<table class="bp-table" style="margin-top: 32px;">
+  <thead>
+    <tr>
+      <th>Monthly Debt Load</th>
+      <th>Recommended Rent Ceiling</th>
+      <th>Remaining for Food, Transport, Savings</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="label">$0</td>
+      <td class="result">$780–$936</td>
+      <td>$1,500–$1,700</td>
+    </tr>
+    <tr>
+      <td class="label">$200–$350 (1 loan/payment)</td>
+      <td class="result">$650–$800</td>
+      <td>$1,300–$1,500</td>
+    </tr>
+    <tr>
+      <td class="label">$400–$600 (car + student loan)</td>
+      <td class="result">$550–$700</td>
+      <td>$1,100–$1,300</td>
+    </tr>
+    <tr>
+      <td class="label">$600+ (multiple debts)</td>
+      <td class="result">$500–$600</td>
+      <td>Below comfortable threshold</td>
+    </tr>
+  </tbody>
+</table>
+<p class="note">Based on estimated $2,500/month take-home. Adjust for actual pay stubs. As of Q3 2026.</p>

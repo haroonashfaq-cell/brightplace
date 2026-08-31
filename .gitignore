@@ -1,0 +1,10 @@
+operator-pages/
+.DS_Store
+.venv/
+__pycache__/
+node_modules/
+*.pyc
+.env
+.env.local
+brightplace intelligence/reddit-monitor-app/.env
+seo-product/backend/.env

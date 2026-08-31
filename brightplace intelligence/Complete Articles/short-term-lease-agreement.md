@@ -1,17 +1,23 @@
 ---
-title: "What a Short-Term Lease Agreement Actually Covers"
-meta_description: "A short-term lease agreement sets the terms for any rental under 6 months. Here is what every clause means and what to check before you sign."
+title: "Short-Term Lease Agreements: What They Cover, What They Cost, and How to Find One"
+seo_title: "Short-Term Lease Agreement: Furnished Apartments & Month-to-Month Rentals | brightplace"
+meta_description: "What is a short-term lease agreement? Learn what it covers, how it differs from month-to-month, where to find furnished apartments, and what to check before signing."
 slug: short-term-lease-agreement
 primary_keyword: "short term lease agreement"
+secondary_keywords: ["furnished apartment month to month", "temporary apartment rentals", "short term rental apartments"]
 schema_types: ["Article", "FAQPage", "WebPage"]
 word_count_target: 1100-1300
-last_reviewed: "June 2026"
+last_reviewed: "August 2026"
 date_published: 2026-06-11
-date_modified: 2026-06-11
+date_modified: 2026-08-06
 author: brightplace
 ---
 
-# What a Short-Term Lease Agreement Actually Covers
+# Short-Term Lease Agreements: What They Cover, What They Cost, and How to Find One
+
+*Last reviewed: August 2026*
+
+A short-term lease agreement is a rental contract for any tenancy shorter than 12 months, typically ranging from 30 days to six months. Whether you are looking for a furnished apartment month to month, a temporary apartment rental for a work assignment, or a flexible living situation while you search for a permanent home, this is the document that governs your housing. This guide covers what every clause means, how short-term leases compare to standard leases, and what to check before you sign.
 
 ## What Is a Short-Term Lease Agreement?
 
@@ -21,17 +27,17 @@ One legal distinction matters more than most renters realize. Stays under 30 day
 
 Stays between 30 days and six months generally fall under landlord-tenant law, but with fewer protections than a standard annual lease. If you know your exact dates, a short-term fixed lease typically offers clearer terms than a month-to-month arrangement. If your timeline is uncertain, a month-to-month lease provides more flexibility at a higher monthly cost. Renters sharing a unit should also understand how [renters insurance with roommates](https://www.brightplace.ai/resources/renters-insurance-with-roommates) works on shorter lease terms.
 
-**brightplace shows available short-term rental apartments by city and lease length. See what is available at [brightplace.ai](https://brightplace.ai).**
+**brightplace shows available short-term rental apartments by city and lease length. See what is available at [brightplace.ai](https://app.brightplace.ai).**
 
 ## How a Short-Term Lease Differs from a Standard Lease
 
-The core difference is cost. Short-term leases of three months or less typically cost 20-35% more per month than a comparable annual lease in the same market (as of Q2 2026). That premium pays for the flexibility of a shorter commitment and, in many cases, furnished units.
+The core difference is cost. Short-term leases of three months or less typically cost 20-35% more per month than a comparable annual lease in the same market (as of Q3 2026). That premium pays for the flexibility of a shorter commitment and, in many cases, furnished units.
 
 Here is how the two compare across the terms that matter most to renters:
 
 **Duration:** Short-term leases run 30 days to 6 months. Standard leases run 12 months.
 
-**Rent premium:** Short-term leases carry a 15-50% premium over standard rates (as of Q2 2026). Standard leases are priced at market rate.
+**Rent premium:** Short-term leases carry a 15-50% premium over standard rates (as of Q3 2026). Standard leases are priced at market rate.
 
 **Furnished status:** Short-term units are frequently furnished. Standard lease units are almost always unfurnished.
 
@@ -41,9 +47,9 @@ Here is how the two compare across the terms that matter most to renters:
 
 **Renewal:** Short-term leases typically do not auto-renew. Standard leases often convert to month-to-month at expiration.
 
-As of Q2 2026, most furnished short-term rental units in major metro areas price at a 20-35% premium over comparable unfurnished annual leases in the same building. For a broader look at total monthly costs beyond base rent, see [your true monthly cost as a renter](https://brightplace.ai/guides/your-true-monthly-cost).
+As of Q3 2026, most furnished short-term rental units in major metro areas price at a 20-35% premium over comparable unfurnished annual leases in the same building. For a broader look at total monthly costs beyond base rent, see [your true monthly cost as a renter](https://www.brightplace.ai/guides/your-true-monthly-cost).
 
-**See short-term apartment options available now on brightplace. brightplace filters by lease length at [brightplace.ai](https://brightplace.ai).**
+**See short-term apartment options available now on brightplace. brightplace filters by lease length at [brightplace.ai](https://app.brightplace.ai).**
 
 ## What a Short-Term Lease Agreement Should Include
 
@@ -59,7 +65,7 @@ The lease states total rent, rate structure (daily, weekly, or monthly), accepte
 
 ### Security Deposit
 
-A security deposit is money paid upfront by the renter and held by the landlord to cover damages beyond normal wear and tear, returned after checkout if the property is undamaged. Typical deposit amounts equal one night's rent for vacation stays or one month's rent for longer short-term leases (as of Q2 2026). Some platforms handle deposits through their own damage protection programs instead of a direct hold.
+A security deposit is money paid upfront by the renter and held by the landlord to cover damages beyond normal wear and tear, returned after checkout if the property is undamaged. Typical deposit amounts equal one night's rent for vacation stays or one month's rent for longer short-term leases (as of Q3 2026). Some platforms handle deposits through their own damage protection programs instead of a direct hold.
 
 ### Occupancy Limits
 
@@ -83,7 +89,7 @@ Most states require landlords to give notice before entering, even during short-
 
 ### Governing Law and Dispute Resolution
 
-The agreement should specify which state's laws apply. For renters crossing state lines, this matters because [tenant protections vary significantly by state](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/). Dispute resolution clauses (arbitration vs. court) affect your practical options if something goes wrong. brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before you commit to any lease.
+The agreement should specify which state's laws apply. For renters crossing state lines, this matters because [tenant protections vary significantly by state](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/). Dispute resolution clauses (arbitration vs. court) affect your practical options if something goes wrong. brightplace's [guide to renting an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) covers what to prepare before you commit to any lease.
 
 ## Short-Term Lease vs. Month-to-Month: Which One Applies to You
 
@@ -91,13 +97,41 @@ A short-term fixed lease has a set end date and no automatic renewal. A month-to
 
 **End date:** Short-term fixed leases end on a specific date. Month-to-month leases continue until 30-60 days written notice is given.
 
-**Rent pricing:** Short-term fixed leases cost 15-35% above standard rates (as of Q2 2026). Month-to-month leases often carry the highest premium, running 30-50% above standard annual lease rates in most major metros (as of Q2 2026).
+**Rent pricing:** Short-term fixed leases cost 15-35% above standard rates (as of Q3 2026). Month-to-month leases often carry the highest premium, running 30-50% above standard annual lease rates in most major metros (as of Q3 2026).
 
 **Flexibility:** Short-term fixed leases lock you in for the stated term. Month-to-month leases allow exit with notice.
 
 **Best for:** Short-term fixed leases work when you know your exact dates. Month-to-month leases work when your timeline is uncertain.
 
-Most states require 30-60 days written notice to terminate a month-to-month lease, as outlined in the [Uniform Residential Landlord and Tenant Act](https://www.uniformlaws.org/committees/community-home?CommunityKey=2a4517c4-fe4d-4c11-b84f-2256a3f38498). Some states require 60 days if the tenancy has exceeded one year.
+Most states require 30-60 days written notice to terminate a month-to-month lease, as outlined in the [Uniform Residential Landlord and Tenant Act](https://www.uniformlaws.org/committees/community-home?CommunityKey=2a4517c4-fe4d-4c11-b84f-2256a3f38498). Some states require 60 days if the tenancy has exceeded one year. For a detailed comparison of these two structures, see brightplace's guide to [month-to-month vs. 12-month leases](https://www.brightplace.ai/resources/month-to-month-vs-12-month-lease).
+
+## Where to Find Short-Term Apartments
+
+Short-term apartments are available through several distinct channels, each designed for different renter profiles and stay lengths. Knowing where to look saves weeks of searching in the wrong places.
+
+**Corporate housing providers.** Companies that specialize in corporate housing serve relocating professionals and offer furnished leases ranging from one to six months. These units come fully equipped with furniture, kitchenware, linens, and utilities included in the monthly rate. Corporate housing is the most common option for employees on temporary work assignments, and many employers cover the cost directly as part of a relocation package.
+
+**Travel nurse and healthcare housing platforms.** Platforms like Furnished Finder specialize in housing for healthcare workers on assignments of 8 to 13 weeks. These listings are priced for working professionals rather than vacationers, and many landlords on these platforms are accustomed to back-to-back short-term tenants. Healthcare workers have found that booking directly through specialized platforms, rather than general short-term rental sites, often results in lower monthly rates and landlords who understand assignment-based timelines.
+
+**Standard apartment communities with short-term options.** An increasing number of apartment communities now offer 3 to 6 month lease options, especially in Sun Belt markets like Austin, Charlotte, Phoenix, and Tampa where higher vacancy rates give property managers more flexibility (as of Q3 2026). Ask leasing offices directly about short-term availability, as these options are not always advertised online.
+
+**Extended-stay hotels.** Extended-stay hotels serve as a bridge for stays under 30 days, offering furnished rooms with kitchenettes. However, the cost per square foot is significantly higher than a short-term apartment lease, and stays under 30 days do not qualify for landlord-tenant protections in most states.
+
+brightplace filters by lease length to help renters find short-term options without scrolling through listings that require 12-month commitments. Start your search at [brightplace.ai](https://app.brightplace.ai).
+
+## What Short-Term Leases Cost by Market
+
+Short-term lease pricing varies significantly by city, with the premium over a standard annual lease ranging from 15 to 50 percent depending on the market, season, and whether the unit is furnished (as of Q3 2026).
+
+**New York City:** Furnished one-bedroom short-term rentals range from $3,500 to $6,000 per month (as of Q3 2026). The premium reflects both the city's high base rents and the extreme demand for furnished, flexible-term housing from corporate relocations and remote workers.
+
+**Austin:** Furnished one-bedroom short-term rentals range from $1,800 to $3,200 per month (as of Q3 2026). Austin's expanding inventory of new apartment construction has kept short-term premiums more moderate compared to coastal cities.
+
+**Denver:** Furnished one-bedroom short-term rentals range from $2,000 to $3,500 per month (as of Q3 2026). Seasonal demand from outdoor recreation and corporate relocations pushes prices higher in summer months.
+
+**Charlotte:** Furnished one-bedroom short-term rentals range from $1,500 to $2,800 per month (as of Q3 2026). Charlotte's growing corporate presence, particularly in banking and fintech, drives steady demand for short-term professional housing.
+
+The premium over an annual lease is typically smallest in markets with high vacancy rates and largest in supply-constrained cities. Renters moving mid-month should also understand how [prorated rent](https://www.brightplace.ai/resources/prorated-rent) works to avoid paying for days they are not in the unit.
 
 ## What to Check Before You Sign a Short-Term Lease
 
@@ -109,7 +143,9 @@ Most states require 30-60 days written notice to terminate a month-to-month leas
 6. Ask whether utilities and Wi-Fi are included in the rent or billed separately
 7. Check whether the security deposit is held by the landlord or through a third-party damage protection program
 
-*Last reviewed: June 2026*
+For a complete list of what to ask during a tour, see brightplace's guide to [questions to ask when touring an apartment](https://www.brightplace.ai/resources/questions-to-ask-when-touring-an-apartment).
+
+*Last reviewed: August 2026*
 
 ## Frequently Asked Questions About Short-Term Lease Agreements
 
@@ -137,7 +173,15 @@ Most short-term lease agreements hold the renter responsible for rent through th
 
 No. Short-term rental agreements for stays under 30 days are not covered by standard landlord-tenant law in most U.S. states. This removes protections including security deposit return timelines and habitability dispute rights. Renters on stays under 30 days should treat the agreement more like a hotel booking than a lease.
 
-**Ready to find a short-term rental that fits your timeline? Search apartments on brightplace at [brightplace.ai](https://brightplace.ai).**
+### Can I rent a furnished apartment month to month?
+
+Yes. Many landlords and property managers offer furnished apartments on a month-to-month basis, especially in metro areas with high demand from relocating professionals, travel nurses, and corporate housing clients. Month-to-month furnished rentals typically cost 30-50% more than a comparable unfurnished annual lease (as of Q3 2026). brightplace filters by lease length and furnished status to help you find available options.
+
+### Where can I find temporary apartment rentals?
+
+Temporary apartment rentals are available through furnished housing platforms, corporate housing providers, and standard rental listing sites that allow lease-length filtering. Start with brightplace at [app.brightplace.ai](https://app.brightplace.ai) to search by city and lease duration. For stays under 30 days, platforms like Furnished Finder and Airbnb specialize in short stays, though legal protections differ significantly from a standard lease.
+
+**Ready to find a short-term rental that fits your timeline? Search apartments on brightplace at [brightplace.ai](https://app.brightplace.ai).**
 
 ---
 
@@ -195,6 +239,22 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
         "@type": "Answer",
         "text": "No. Short-term rental agreements for stays under 30 days are not covered by standard landlord-tenant law in most U.S. states. This removes protections including security deposit return timelines and habitability dispute rights. Renters on stays under 30 days should treat the agreement more like a hotel booking than a lease."
       }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I rent a furnished apartment month to month?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Many landlords and property managers offer furnished apartments on a month-to-month basis, especially in metro areas with high demand from relocating professionals, travel nurses, and corporate housing clients. Month-to-month furnished rentals typically cost 30-50% more than a comparable unfurnished annual lease."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can I find temporary apartment rentals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Temporary apartment rentals are available through furnished housing platforms, corporate housing providers, and standard rental listing sites that allow lease-length filtering. For stays under 30 days, platforms like Furnished Finder and Airbnb specialize in short stays, though legal protections differ significantly from a standard lease."
+      }
     }
   ]
 }
@@ -206,8 +266,8 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
 {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": "What a Short-Term Lease Agreement Actually Covers",
-  "description": "A short-term lease agreement sets the terms for any rental under 6 months. Here is what every clause means and what to check before you sign.",
+  "headline": "Short-Term Lease Agreements: What They Cover, What They Cost, and How to Find One",
+  "description": "What is a short-term lease agreement? Learn what it covers, how it differs from month-to-month, where to find furnished apartments, and what to check before signing.",
   "author": {
     "@type": "Organization",
     "name": "brightplace",
@@ -219,7 +279,7 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
     "url": "https://brightplace.ai"
   },
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
+  "dateModified": "2026-08-06",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://brightplace.ai/resources/short-term-lease-agreement"
@@ -233,8 +293,8 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
 {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  "name": "What a Short-Term Lease Agreement Actually Covers",
-  "description": "A short-term lease agreement sets the terms for any rental under 6 months. Here is what every clause means and what to check before you sign.",
+  "name": "Short-Term Lease Agreements: What They Cover, What They Cost, and How to Find One",
+  "description": "What is a short-term lease agreement? Learn what it covers, how it differs from month-to-month, where to find furnished apartments, and what to check before signing.",
   "url": "https://brightplace.ai/resources/short-term-lease-agreement",
   "inLanguage": "en-US",
   "isPartOf": {
@@ -260,13 +320,13 @@ No. Short-term rental agreements for stays under 30 days are not covered by stan
       {
         "@type": "ListItem",
         "position": 3,
-        "name": "What a Short-Term Lease Agreement Actually Covers",
+        "name": "Short-Term Lease Agreements: What They Cover, What They Cost, and How to Find One",
         "item": "https://brightplace.ai/resources/short-term-lease-agreement"
       }
     ]
   },
   "datePublished": "2026-06-11",
-  "dateModified": "2026-06-11",
+  "dateModified": "2026-08-06",
   "author": {
     "@type": "Organization",
     "name": "brightplace",

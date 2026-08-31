@@ -1,13 +1,14 @@
 ---
 title: "How to Find Restaurant Space for Lease Near You"
+seo_title: "Restaurant Space for Lease | brightplace"
 meta_description: "Looking for restaurants for lease near you? Here is how commercial restaurant leases work, where to search, and what to check before signing anything."
 slug: restaurants-for-lease-near-me
 primary_keyword: "restaurants for lease near me"
 schema_types: ["Article", "FAQPage", "WebPage"]
 word_count_target: 1200-1400
-last_reviewed: "June 2026"
+last_reviewed: "August 2026"
 date_published: 2026-05-15
-date_modified: 2026-05-15
+date_modified: 2026-08-20
 author: brightplace
 ---
 
@@ -15,7 +16,7 @@ author: brightplace
 
 ## What "Restaurants for Lease Near Me" Actually Returns
 
-Searching for restaurants for lease near me pulls commercial real estate listings, not residential apartments. This is a commercial search, and the tools are different. Restaurant spaces in secondary markets list for as little as $12 to $25 per square foot per year (as of Q2 2026), while prime urban corridors can run $80 to $200+ per square foot per year (as of Q2 2026). If you are a prospective restaurant operator evaluating your first location, expanding, or moving out of a commissary kitchen in cities like [Houston](https://brightplace.ai/guides/houston-city-orientation) or [Dallas](https://brightplace.ai/guides/dallas-families), this guide covers where to search, how pricing works, and what to negotiate before you sign.
+Searching for restaurants for lease near me pulls commercial real estate listings, not residential apartments. This is a commercial search, and the tools are different. Restaurant spaces in secondary markets list for as little as $12 to $25 per square foot per year (as of Q3 2026), while prime urban corridors can run $80 to $200+ per square foot per year (as of Q3 2026). If you are a prospective restaurant operator evaluating your first location, expanding, or moving out of a commissary kitchen in cities like [Houston](https://brightplace.ai/guides/houston-city-orientation) or [Dallas](https://brightplace.ai/guides/dallas-families), this guide covers where to search, how pricing works, and what to negotiate before you sign.
 
 Based on the search patterns brightplace tracks, "restaurants for lease near me" consistently pulls commercial real estate results, not property inventoryings. The platforms, lease structures, and terminology are entirely different from residential rentals. Understanding that distinction is the first step toward an efficient search.
 
@@ -35,7 +36,7 @@ Local commercial brokers carry listings that never reach public platforms. A ten
 
 Commercial restaurant listings look different from anything in residential real estate. The asking rent is quoted in dollars per square foot per year, not as a monthly figure. A listing showing "$24/SF/year" for a 1,500 SF space means a monthly base rent of $3,000. The formula: (asking rent per SF x total SF) / 12 = monthly base rent.
 
-Pay attention to the lease type. A **NNN (Triple Net Lease)** is a lease structure in which the tenant pays base rent plus their proportionate share of property taxes, building insurance, and maintenance costs. Those NNN charges add $3 to $30 per square foot per year (as of Q2 2026) depending on the market, and they come on top of the asking rent.
+Pay attention to the lease type. A **NNN (Triple Net Lease)** is a lease structure in which the tenant pays base rent plus their proportionate share of property taxes, building insurance, and maintenance costs. Those NNN charges add $3 to $30 per square foot per year (as of Q3 2026) depending on the market, and they come on top of the asking rent.
 
 Infrastructure notes matter enormously. Listings that mention existing kitchen infrastructure describe a space that could save you six figures in buildout. Key infrastructure to look for:
 
@@ -52,14 +53,14 @@ A listing that says "vanilla shell" or "white box" means you are building everyt
 
 Restaurant lease pricing varies dramatically by location. Asking rents are only one component of your total occupancy cost. NNN charges, common area maintenance fees, and required buildout costs compound the real monthly cost well beyond the listed rent figure.
 
-- **Secondary/rural:** $12-$25/SF/year asking rent (as of Q2 2026), $3-$6/SF NNN. More negotiable.
-- **Mid-size city:** $20-$45/SF/year asking rent (as of Q2 2026), $5-$10/SF NNN. Varies by corridor.
-- **Major metro (non-prime):** $35-$80/SF/year asking rent (as of Q2 2026), $8-$15/SF NNN. High variance.
-- **Prime urban corridor:** $80-$200+/SF/year asking rent (as of Q2 2026), $15-$30/SF NNN. Manhattan, WeHo, etc.
+- **Secondary/rural:** $12-$25/SF/year asking rent (as of Q3 2026), $3-$6/SF NNN. More negotiable.
+- **Mid-size city:** $20-$45/SF/year asking rent (as of Q3 2026), $5-$10/SF NNN. Varies by corridor.
+- **Major metro (non-prime):** $35-$80/SF/year asking rent (as of Q3 2026), $8-$15/SF NNN. High variance.
+- **Prime urban corridor:** $80-$200+/SF/year asking rent (as of Q3 2026), $15-$30/SF NNN. Manhattan, WeHo, etc.
 
 ### Calculating Monthly All-In Costs
 
-Restaurant spaces in secondary markets typically ask $12 to $25 per square foot per year (as of Q2 2026), converting to roughly $1,000 to $2,100 per month for a 1,000 SF space. A 2,000 SF space in a mid-size city at $30/SF NNN with $8/SF in triple net charges could run $6,333/month all-in. Run the full calculation before scheduling a tour.
+Restaurant spaces in secondary markets typically ask $12 to $25 per square foot per year (as of Q3 2026), converting to roughly $1,000 to $2,100 per month for a 1,000 SF space. A 2,000 SF space in a mid-size city at $30/SF NNN with $8/SF in triple net charges could run $6,333/month all-in. Run the full calculation before scheduling a tour.
 
 ## How a Restaurant Lease Actually Works
 
@@ -110,7 +111,7 @@ A **second-generation restaurant space** is a previously operated restaurant tha
 
 ### Buildout Cost Comparison
 
-Buildout costs for raw commercial space can run $200 to $400 per square foot or more (as of 2026), compared to $75 to $150 per square foot for a second-generation space with existing infrastructure. For a 1,500 SF restaurant, that difference is $187,500 to $375,000 in buildout savings.
+Buildout costs for raw commercial space can run $250 to $500 per square foot or more (as of Q3 2026), with a national median around $404/SF and average near $450/SF. Second-generation spaces with existing infrastructure run $125 to $250 per square foot with existing infrastructure. For a 1,500 SF restaurant, that difference is $187,500 to $375,000 in buildout savings.
 
 The tradeoff: well-located second-gen spaces go quickly because landlords price them to reflect the infrastructure value. Raw spaces linger longer on listing platforms but cost significantly more to occupy. If you find a second-gen space with a functional Type 1 hood, grease interceptor, and adequate gas line capacity, the math almost always favors it, even at a higher base rent. If you are also evaluating which city to open in, brightplace's [neighborhood guides for relocating professionals](https://brightplace.ai/guides/austin-young-professionals) can help you assess dining corridors and foot traffic patterns by area.
 
@@ -118,7 +119,8 @@ The tradeoff: well-located second-gen spaces go quickly because landlords price 
 
 Negotiation happens at the LOI stage, not after the lease is drafted. These five terms should be addressed before you engage a real estate attorney:
 
-1. **TI allowance.**Tenant improvement allowances in softer markets can range from $30 to $100 per square foot (as of 2026); in tight urban markets, TI may be minimal or absent. Push for the highest TI the landlord will offer.
+1. **TI allowance.**Landlord-provided tenant improvement allowances typically range from $25 to $50 per square foot in many markets (as of Q3 2026), though the actual cost to build out restaurant space runs $110 to $285 per square foot depending on concept type. In tight urban markets, TI may be minimal or absent. Push for the highest TI the landlord will offer. Rising restaurant vacancy in 2026 gives tenants more leverage to negotiate better TI, free rent periods, and reduced personal guarantees.
+6. **Percentage rent.**Many restaurant leases include a percentage rent clause requiring 5-8% of gross sales above a breakpoint. Define "gross sales" narrowly to exclude catering, merchandise, and gift card revenue. Negotiate audit rights and confirm how the breakpoint is calculated.
 2. **Free rent period.**Request 3 to 6 months of free rent during buildout and permitting. You cannot generate revenue while construction is underway.
 3. **Personal guarantee scope.**Try to limit the personal guarantee to 1 to 2 years rather than the full lease term. This reduces your personal financial exposure if the business does not perform.
 4. **Options to renew.**Negotiate at least two 5-year renewal options at signing. Without renewal options, you risk losing your location after investing heavily in buildout.
@@ -130,17 +132,17 @@ A tenant-rep broker can negotiate these terms on your behalf at no cost to you. 
 
 ### Budget-Level Traditional Spaces
 
-Spaces under $1,000/month (as of Q2 2026) exist primarily in rural secondary markets and very small square footages under 500 SF. A 1,000 SF space in a secondary market at $20/SF NNN might run $2,500 to $3,500/month all-in (as of Q2 2026). That is typically the realistic floor for a functional restaurant with cooking infrastructure.
+Spaces under $1,000/month (as of Q3 2026) exist primarily in rural secondary markets and very small square footages under 500 SF. A 1,000 SF space in a secondary market at $20/SF NNN might run $2,500 to $3,500/month all-in (as of Q3 2026). That is typically the realistic floor for a functional restaurant with cooking infrastructure.
 
 ### Ghost Kitchens and Commissary Alternatives
 
-Ghost kitchen memberships and commissary kitchens offer an alternative for early-stage operators who are not ready for a full lease commitment, similar to how [short-term lease agreements](https://brightplace.ai/resources/short-term-lease-agreement) reduce commitment on the residential side. Monthly memberships run $2,000 to $10,000 (as of Q2 2026) depending on the market, but they eliminate buildout costs entirely. For operators building a proof of concept before signing a long-term lease, this path reduces risk considerably. The [apartment lease walkthrough process](https://brightplace.ai/guides/how-to-rent-an-apartment) shares some structural similarities with commercial leasing, though the terms and stakes differ significantly.
+Ghost kitchen memberships and commissary kitchens offer an alternative for early-stage operators who are not ready for a full lease commitment, similar to how [short-term lease agreements](https://brightplace.ai/resources/short-term-lease-agreement) reduce commitment on the residential side. Monthly memberships run $2,000 to $10,000 (as of Q3 2026) depending on the market, but they eliminate buildout costs entirely. For operators building a proof of concept before signing a long-term lease, this path reduces risk considerably. The [apartment lease walkthrough process](https://brightplace.ai/guides/how-to-rent-an-apartment) shares some structural similarities with commercial leasing, though the terms and stakes differ significantly.
 
 ## Frequently Asked Questions About Leasing Restaurant Space
 
 ### 1. How much does it cost to lease a restaurant space?
 
-Restaurant lease costs depend on market tier and space size. Secondary markets run $12 to $25 per square foot per year (as of Q2 2026), while prime urban corridors reach $80 to $200+ per square foot per year. A 1,500 SF space in a mid-size city typically costs $3,500 to $6,500 monthly all-in, including NNN charges.
+Restaurant lease costs depend on market tier and space size. Secondary markets run $12 to $25 per square foot per year (as of Q3 2026), while prime urban corridors reach $80 to $200+ per square foot per year. A 1,500 SF space in a mid-size city typically costs $3,500 to $6,500 monthly all-in, including NNN charges.
 
 ### 2. What is the 30/30/30 rule for restaurants?
 
@@ -190,7 +192,7 @@ If you are also deciding which city to open in, brightplace's [city orientation 
       "name": "How much does it cost to lease a restaurant space?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Restaurant lease costs depend on market tier and space size. Secondary markets run $12 to $25 per square foot per year (as of Q2 2026), while prime urban corridors reach $80 to $200+ per square foot per year. A 1,500 SF space in a mid-size city typically costs $3,500 to $6,500 monthly all-in, including NNN charges."
+        "text": "Restaurant lease costs depend on market tier and space size. Secondary markets run $12 to $25 per square foot per year (as of Q3 2026), while prime urban corridors reach $80 to $200+ per square foot per year. A 1,500 SF space in a mid-size city typically costs $3,500 to $6,500 monthly all-in, including NNN charges."
       }
     },
     {

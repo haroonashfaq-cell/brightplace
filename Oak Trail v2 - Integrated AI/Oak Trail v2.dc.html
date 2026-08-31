@@ -1,0 +1,1239 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="stylesheet" href="_ds/brightplace-design-system-e4f9b1ec-c9f7-4eea-833b-c98e276cf5a5/colors_and_type.css">
+<script src="_ds/brightplace-design-system-e4f9b1ec-c9f7-4eea-833b-c98e276cf5a5/_ds_bundle.js"></script>
+<style>
+  :root{--ot-teal-ink:#04606E}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bp-paper);-webkit-font-smoothing:antialiased}
+  html{scroll-behavior:smooth}
+  a{color:var(--bp-navy);text-decoration:none}
+  a:hover{color:var(--ot-teal-ink)}
+  section[id]{scroll-margin-top:var(--ot-anchor-offset,140px)}
+  input[type=range]{accent-color:var(--ot-teal-ink)}
+  @keyframes otRise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+</style>
+</helmet>
+
+<div style="{{ rootStyle }}">
+
+  <header style="position:sticky;top:0;z-index:60;background:rgba(250,246,239,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--bp-line)">
+    <div style="max-width:1280px;margin:0 auto;padding:14px clamp(16px,4vw,40px);display:flex;align-items:center;gap:24px">
+      <a href="#top" style="display:flex;flex-direction:column;line-height:1.05;flex:0 0 auto">
+        <span style="font-family:var(--ff-display);font-weight:700;font-size:20px;letter-spacing:-0.02em">Oak Trail</span>
+        <span style="font-family:var(--ff-body);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--bp-ink-muted)">At Cherry Creek South</span>
+      </a>
+      <nav style="{{ navStyle }}">
+        <a href="#pay" style="padding:6px 0" style-hover="color:var(--ot-teal-ink)">What you pay</a>
+        <a href="#homes" style="padding:6px 0" style-hover="color:var(--ot-teal-ink)">Which home</a>
+        <a href="#around" style="padding:6px 0" style-hover="color:var(--ot-teal-ink)">Getting around</a>
+        <a href="#living" style="padding:6px 0" style-hover="color:var(--ot-teal-ink)">Living here</a>
+        <a href="#fit" style="padding:6px 0" style-hover="color:var(--ot-teal-ink)">Is it a fit</a>
+      </nav>
+      <div style="display:flex;gap:10px;align-items:center;margin-left:auto;flex:0 0 auto">
+        <a href="#tour" onClick="{{ onOpenBooker }}" style="{{ compactTourStyle }}" style-hover="opacity:.85">Schedule a Tour</a>
+        <button type="button" onClick="{{ onToggleMenu }}" style="{{ menuBtnStyle }}" aria-label="Open menu">
+          <span style="display:grid;gap:4px">
+            <span style="display:block;width:16px;height:1.5px;background:currentColor"></span>
+            <span style="display:block;width:16px;height:1.5px;background:currentColor"></span>
+            <span style="display:block;width:16px;height:1.5px;background:currentColor"></span>
+          </span>
+          <span>Menu</span>
+        </button>
+        <div style="{{ headerCtaStyle }}">
+          <a href="#tour" onClick="{{ onOpenBooker }}" style="font-family:var(--ff-display);font-weight:600;font-size:14px;padding:11px 20px;border-radius:999px;background:var(--bp-orange);color:var(--bp-navy);white-space:nowrap" style-hover="opacity:.85">Schedule a Tour</a>
+          <a href="#tour" style="font-family:var(--ff-display);font-weight:600;font-size:14px;padding:11px 20px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink);white-space:nowrap" style-hover="background:var(--ot-teal-ink);color:var(--bp-paper)">Apply Now</a>
+        </div>
+      </div>
+    </div>
+    <sc-if value="{{ barVisible }}" hint-placeholder-val="{{ true }}">
+      <div style="{{ barStyle }}">
+        <div style="max-width:1280px;margin:0 auto;padding:9px clamp(16px,4vw,40px);display:flex;gap:10px 16px;align-items:center;flex-wrap:wrap">
+          <span style="width:7px;height:7px;border-radius:999px;background:var(--bp-teal);flex:0 0 auto"></span>
+          <span style="font-family:var(--ff-display);font-weight:600;font-size:13.5px;line-height:1.35;flex:1 1 auto">{{ barLine }}</span>
+          <div style="display:flex;gap:8px;align-items:center;flex:0 0 auto">
+            <a href="#pay" style="{{ barActionStyle }}">{{ barAction }}</a>
+            <button type="button" onClick="{{ onToggleAdvisor }}" style="{{ barAskStyle }}">
+              <span style="{{ barAskDotStyle }}"></span>
+              <span>{{ barAskLabel }}</span>
+            </button>
+            <button type="button" onClick="{{ onDismissBar }}" style="{{ barCloseStyle }}" aria-label="Dismiss">&times;</button>
+          </div>
+        </div>
+      </div>
+    </sc-if>
+    <sc-if value="{{ advisorOpen }}" hint-placeholder-val="{{ false }}">
+      <div style="{{ drawerStyle }}">
+        <div style="{{ drawerCardStyle }}">
+          <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:12px;padding:16px 20px;background:var(--bp-paper-deep);border-bottom:1px solid var(--bp-line)">
+            <div>
+              <p style="font-family:var(--ff-display);font-weight:600;font-size:16px;margin:0">{{ advisorTitle }}</p>
+              <p style="font-family:var(--ff-body);font-size:12px;color:var(--bp-ink-muted);margin:3px 0 0">Answers from this community's own details</p>
+            </div>
+            <button type="button" onClick="{{ onCloseAdvisor }}" style="background:transparent;border:0;color:var(--bp-ink-muted);font-size:20px;line-height:1;cursor:pointer;padding:0 2px" aria-label="Close">&times;</button>
+          </div>
+          <div style="padding:18px 20px 20px;display:grid;gap:14px;max-height:min(66vh,540px);overflow-y:auto">
+
+            <sc-if value="{{ advisorMenu }}" hint-placeholder-val="{{ true }}">
+              <p style="font-family:var(--ff-body);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--bp-ink-muted);margin:0">{{ menuLabel }}</p>
+              <div style="display:grid;gap:8px">
+                <sc-for list="{{ menuItems }}" as="m" hint-placeholder-count="4">
+                  <button type="button" onClick="{{ m.onSelect }}" style="display:flex;gap:11px;align-items:flex-start;text-align:left;width:100%;background:var(--bp-paper);border:1px solid var(--bp-line);border-radius:12px;padding:13px 15px;cursor:pointer;font-family:var(--ff-body);font-size:14px;line-height:1.4;color:var(--bp-navy)" style-hover="border-color:var(--bp-teal);background:var(--bp-teal-soft)">
+                    <span style="color:var(--ot-teal-ink);font-family:var(--ff-display);font-weight:700;flex:0 0 auto">&rarr;</span>
+                    <span>{{ m.label }}</span>
+                  </button>
+                </sc-for>
+              </div>
+            </sc-if>
+
+            <sc-if value="{{ advisorAnswering }}" hint-placeholder-val="{{ false }}">
+              <div style="display:grid;gap:14px">
+                <button type="button" onClick="{{ onBackToMenu }}" style="justify-self:start;background:transparent;border:0;padding:0;font-family:var(--ff-body);font-size:12.5px;color:var(--ot-teal-ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer">All questions</button>
+                <p style="font-family:var(--ff-display);font-weight:600;font-size:15px;line-height:1.4;margin:0">{{ advisorQuestion }}</p>
+                <div style="display:flex;gap:10px;align-items:flex-start">
+                  <span style="width:26px;height:26px;border-radius:999px;background:var(--bp-teal-deep);flex:0 0 auto"></span>
+                  <p style="font-family:var(--ff-body);font-size:14px;line-height:1.6;color:var(--bp-ink-soft);margin:0;background:var(--bp-paper-deep);padding:12px 14px;border-radius:12px">{{ advisorAnswer }}</p>
+                </div>
+                <a href="#tour" onClick="{{ onBookFromAdvisor }}" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 18px;border-radius:999px;background:var(--bp-orange);color:var(--bp-navy);justify-self:start" style-hover="opacity:.85">Schedule a tour</a>
+                <p style="font-family:var(--ff-body);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--bp-ink-muted);margin:2px 0 0">Follow up</p>
+                <div style="display:flex;flex-wrap:wrap;gap:8px">
+                  <sc-for list="{{ chips }}" as="ch" hint-placeholder-count="4">
+                    <button type="button" onClick="{{ ch.onSelect }}" style="{{ ch.style }}">{{ ch.label }}</button>
+                  </sc-for>
+                </div>
+              </div>
+            </sc-if>
+
+            <div style="display:grid;gap:8px;border-top:1px solid var(--bp-line);padding-top:14px">
+              <p style="font-family:var(--ff-body);font-size:12px;color:var(--bp-ink-muted);margin:0">Or ask something else</p>
+              <div style="display:flex;gap:8px;align-items:center">
+                <input type="text" placeholder="Type your question" style="flex:1;min-width:0;font-family:var(--ff-body);font-size:14px;padding:11px 14px;border:1px solid var(--bp-line);border-radius:999px;outline:none;color:var(--bp-navy);background:var(--bp-paper)">
+                <button type="button" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 16px;border-radius:999px;background:var(--bp-navy);color:var(--bp-paper);border:0;cursor:pointer;flex:0 0 auto">Ask</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </sc-if>
+    <sc-if value="{{ menuOpen }}" hint-placeholder-val="{{ false }}">
+      <div style="border-top:1px solid var(--bp-line);background:var(--bp-paper);animation:otRise 180ms var(--ease-out) both">
+        <div style="max-width:1280px;margin:0 auto;padding:12px clamp(16px,4vw,40px) 24px;display:grid;gap:2px">
+          <a href="#pay" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:18px;padding:14px 0;border-bottom:1px solid var(--bp-line)">What will I actually pay?</a>
+          <a href="#homes" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:18px;padding:14px 0;border-bottom:1px solid var(--bp-line)">Which home fits?</a>
+          <a href="#around" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:18px;padding:14px 0;border-bottom:1px solid var(--bp-line)">How do I get around?</a>
+          <a href="#living" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:18px;padding:14px 0;border-bottom:1px solid var(--bp-line)">What is it like to live here?</a>
+          <a href="#fit" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:18px;padding:14px 0;border-bottom:1px solid var(--bp-line)">Is Oak Trail right for me?</a>
+          <a href="#faq" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:18px;padding:14px 0;border-bottom:1px solid var(--bp-line)">FAQ</a>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:18px">
+            <a href="#tour" onClick="{{ onOpenBookerFromMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:15px;padding:14px 24px;border-radius:999px;background:var(--bp-orange);color:var(--bp-navy)">Schedule a Tour</a>
+            <a href="#tour" onClick="{{ onCloseMenu }}" style="font-family:var(--ff-display);font-weight:600;font-size:15px;padding:14px 24px;border-radius:999px;border:1.5px solid var(--bp-navy);color:var(--bp-navy)">Apply Now</a>
+          </div>
+        </div>
+      </div>
+    </sc-if>
+  </header>
+
+  <section id="top" style="position:relative">
+    <div style="position:relative;min-height:clamp(520px,78vh,760px);display:flex;align-items:flex-end;overflow:hidden">
+      <img src="img/pool-new.jpg" alt="Resort-style pool with a timber pavilion and lounge seating" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:49% 62%;filter:saturate(1.28) contrast(1.08) brightness(1.04)">
+      <div style="position:absolute;inset:0;background:linear-gradient(to top,rgba(15,24,48,.66) 0%,rgba(15,24,48,.5) 22%,rgba(15,24,48,.26) 44%,rgba(15,24,48,.06) 68%,rgba(15,24,48,0) 84%)"></div>
+      <div style="position:relative;max-width:1280px;margin:0 auto;padding:0 clamp(16px,4vw,40px) clamp(40px,6vw,72px);width:100%;animation:otRise 520ms var(--ease-out) both">
+        <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--bp-paper);margin:0 0 18px;text-shadow:0 1px 18px rgba(15,24,48,.9)">2234 S Trenton Way, Denver</p>
+        <h1 style="font-family:var(--ff-display);font-weight:600;letter-spacing:-0.035em;line-height:1;font-size:clamp(38px,6.4vw,76px);color:var(--bp-paper);margin:0;max-width:16ch;text-wrap:pretty;text-shadow:0 2px 28px rgba(15,24,48,.75)">Modern Cherry Creek apartments near downtown Denver</h1>
+        <p style="font-family:var(--ff-body);font-size:clamp(16px,1.7vw,19px);line-height:1.5;color:rgba(250,246,239,.88);margin:20px 0 0;max-width:52ch">One, two, and three bedroom homes with granite counters, in-home laundry, and private balconies. Two resort-style pools, ten minutes from Cherry Creek State Park.</p>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;margin-top:32px">
+          <a href="#tour" onClick="{{ onOpenBooker }}" style="font-family:var(--ff-display);font-weight:600;font-size:16px;padding:16px 30px;border-radius:999px;background:var(--bp-orange);color:var(--bp-navy)" style-hover="opacity:.85">Pick a tour time</a>
+          <a href="#homes" style="font-family:var(--ff-display);font-weight:600;font-size:16px;padding:16px 30px;border-radius:999px;border:1.5px solid var(--bp-teal-soft);color:var(--bp-teal-soft)" style-hover="background:rgba(0,188,212,.16)">Explore Floor Plans</a>
+        </div>
+      </div>
+    </div>
+    <sc-if value="{{ showPromo }}" hint-placeholder-val="{{ true }}">
+    <div style="background:var(--bp-teal-deep);color:var(--bp-paper)">
+      <div style="max-width:1280px;margin:0 auto;padding:11px clamp(16px,4vw,40px);display:flex;gap:8px 16px;align-items:center;justify-content:center;flex-wrap:wrap;text-align:center">
+        <span style="font-family:var(--ff-display);font-weight:600;font-size:14px">Limited time: up to two months free on select homes</span>
+        <a href="#homes" style="font-family:var(--ff-body);font-size:13px;color:var(--bp-paper);text-decoration:underline;text-underline-offset:3px" style-hover="color:var(--bp-teal-soft)">See eligible plans</a>
+      </div>
+    </div>
+    </sc-if>
+  </section>
+
+  <section id="pay" style="background:var(--bp-paper-deep);border-bottom:1px solid var(--bp-line)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(56px,7vw,104px) clamp(16px,4vw,40px)">
+      <div style="max-width:52ch">
+        <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--ot-teal-ink);margin:0 0 16px">All-in pricing</p>
+        <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(32px,4.4vw,52px);line-height:1.06;letter-spacing:-0.03em;margin:0">What will I actually pay?</h2>
+        <p style="font-family:var(--ff-body);font-size:17px;line-height:1.6;color:var(--bp-ink-soft);margin:20px 0 0">Every price on this site includes the required monthly costs of living here. No line items revealed at signing, no fees on move-in day. Set your budget below and the page will keep working from your number.</p>
+      </div>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:clamp(24px,4vw,48px);margin-top:clamp(32px,4vw,52px);align-items:start">
+
+        <div style="display:grid;gap:20px">
+          <div style="background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(20px,2.6vw,28px)">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;gap:12px">
+              <p style="font-family:var(--ff-display);font-weight:600;font-size:17px;margin:0">Your monthly budget</p>
+              <span style="font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px;background:transparent;color:var(--bp-ink-muted);border:1.5px solid var(--bp-line);white-space:nowrap">Optional</span>
+            </div>
+            <p style="font-family:var(--ff-display);font-weight:600;font-size:clamp(30px,4vw,40px);letter-spacing:-0.03em;margin:14px 0 0;font-variant-numeric:tabular-nums">{{ budgetLabel }}<span style="font-family:var(--ff-body);font-weight:400;font-size:15px;color:var(--bp-ink-muted)">/mo all-in</span></p>
+            <input type="range" min="1400" max="2800" step="25" value="{{ budget }}" onChange="{{ onBudget }}" onInput="{{ onBudget }}" style="width:100%;margin:16px 0 4px">
+            <div style="display:flex;justify-content:space-between;font-family:var(--ff-body);font-size:12px;color:var(--bp-ink-muted)">
+              <span>$1,400</span><span>$2,800</span>
+            </div>
+
+            <p style="font-family:var(--ff-body);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--bp-ink-muted);margin:24px 0 10px">Bedrooms</p>
+            <div style="display:flex;gap:8px;flex-wrap:wrap">
+              <sc-for list="{{ bedChoices }}" as="b" hint-placeholder-count="4">
+                <button type="button" onClick="{{ b.onSelect }}" style="{{ b.style }}">{{ b.label }}</button>
+              </sc-for>
+            </div>
+
+            <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-top:24px;padding-top:18px;border-top:1px solid var(--bp-line)">
+              <p style="font-family:var(--ff-body);font-size:14px;line-height:1.5;color:var(--bp-ink-soft);margin:0;flex:1 1 180px">{{ fitSummary }}</p>
+              <a href="#homes" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 18px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink);white-space:nowrap" style-hover="background:var(--ot-teal-ink);color:var(--bp-paper)">See the plans that fit</a>
+            </div>
+          </div>
+
+          <ul style="list-style:none;padding:0;margin:0;display:grid;gap:12px;font-family:var(--ff-body);font-size:15px;color:var(--bp-ink-soft)">
+            <li style="display:flex;gap:10px;align-items:flex-start"><span style="color:var(--ot-teal-ink);font-weight:700">&rarr;</span><span>Required fees itemized before you tour, not after you apply</span></li>
+            <li style="display:flex;gap:10px;align-items:flex-start"><span style="color:var(--ot-teal-ink);font-weight:700">&rarr;</span><span>One honest monthly number to compare against any other community</span></li>
+            <li style="display:flex;gap:10px;align-items:flex-start"><span style="color:var(--ot-teal-ink);font-weight:700">&rarr;</span><span>Deposits, pet rent, and parking quoted in writing at application</span></li>
+          </ul>
+        </div>
+
+        <div style="background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(22px,3vw,32px);box-shadow:0 1px 2px rgba(26,39,68,.06),0 8px 24px rgba(26,39,68,.08)">
+          <div style="display:flex;justify-content:space-between;align-items:baseline;gap:12px;border-bottom:1px solid var(--bp-line);padding-bottom:16px">
+            <div>
+              <p style="font-family:var(--ff-display);font-weight:600;font-size:20px;margin:0">{{ featured.name }}</p>
+              <p style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin:4px 0 0">{{ featured.meta }}</p>
+            </div>
+            <span style="{{ featured.tagStyle }}">{{ featured.tag }}</span>
+          </div>
+          <div style="display:grid;gap:2px;margin-top:18px;font-family:var(--ff-body);font-size:15px">
+            <sc-for list="{{ breakdown }}" as="row" hint-placeholder-count="5">
+              <div style="display:flex;justify-content:space-between;gap:16px;padding:11px 0;border-bottom:1px dashed var(--bp-line)">
+                <span style="color:var(--bp-ink-soft)">{{ row.label }}</span>
+                <span style="font-variant-numeric:tabular-nums">{{ row.value }}</span>
+              </div>
+            </sc-for>
+          </div>
+          <div style="display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin-top:20px;padding-top:18px;border-top:1.5px solid var(--bp-navy)">
+            <div>
+              <p style="font-family:var(--ff-display);font-weight:600;font-size:18px;margin:0">Your all-in monthly cost</p>
+              <p style="font-family:var(--ff-body);font-size:12px;color:var(--bp-ink-muted);margin:4px 0 0">Before any current promotion is applied</p>
+            </div>
+            <span style="font-family:var(--ff-display);font-weight:600;font-size:clamp(28px,4vw,38px);letter-spacing:-0.02em;font-variant-numeric:tabular-nums;color:var(--bp-orange-deep)">{{ featured.allIn }}</span>
+          </div>
+          <p style="font-family:var(--ff-body);font-size:14px;line-height:1.6;color:var(--bp-ink-soft);margin:16px 0 0">{{ featured.verdict }}</p>
+          <p style="font-family:var(--ff-body);font-size:13px;line-height:1.6;color:var(--bp-ink-muted);margin:12px 0 0">Electricity and internet are billed separately by your provider. Figures shown are illustrative placeholders for this prototype.</p>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:20px;padding-top:18px;border-top:1px solid var(--bp-line)">
+            <a href="#tour" onClick="{{ onOpenBooker }}" style="font-family:var(--ff-display);font-weight:600;font-size:14px;padding:13px 22px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink)" style-hover="background:var(--ot-teal-ink);color:var(--bp-paper)">Pick a tour time</a>
+          </div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:14px">
+            <button type="button" onClick="{{ askLease }}" style="{{ askStyle }}"><span style="{{ askDotStyle }}"></span><span>Ask what my all-in cost is on a 15-month lease</span></button>
+            <button type="button" onClick="{{ askDeposit }}" style="{{ askStyle }}"><span style="{{ askDotStyle }}"></span><span>Ask what the deposit and pet rent would be</span></button>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </section>
+
+  <section id="homes" style="background:var(--bp-paper)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(56px,7vw,104px) clamp(16px,4vw,40px)">
+      <div style="display:flex;gap:24px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap">
+        <div style="max-width:44ch">
+          <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--ot-teal-ink);margin:0 0 14px">Floor plans</p>
+          <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(32px,4.4vw,52px);line-height:1.06;letter-spacing:-0.03em;margin:0">Which home fits?</h2>
+          <p style="{{ homesCountStyle }}">{{ homesCountLine }}</p>
+        </div>
+        <p style="font-family:var(--ff-body);font-size:16px;line-height:1.6;color:var(--bp-ink-soft);margin:0;max-width:38ch">Six plans, all with granite countertops, in-home washer and dryer, and a private balcony or patio. Filter, compare up to three, and see what is open now.</p>
+      </div>
+
+      <div style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-top:36px">
+        <sc-for list="{{ filters }}" as="f" hint-placeholder-count="4">
+          <button type="button" onClick="{{ f.onSelect }}" style="{{ f.style }}">{{ f.label }}</button>
+        </sc-for>
+        <button type="button" onClick="{{ onToggleBudgetFilter }}" style="{{ budgetFilterStyle }}">{{ budgetFilterLabel }}</button>
+        <span style="font-family:var(--ff-body);font-size:14px;color:var(--bp-ink-muted);margin-left:6px">{{ resultCount }}</span>
+      </div>
+
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:clamp(16px,2vw,28px);margin-top:28px">
+        <sc-for list="{{ visiblePlans }}" as="p" hint-placeholder-count="6">
+          <article style="{{ p.cardStyle }}">
+            <div style="position:relative;background:var(--bp-paper-deep);border-bottom:1px solid var(--bp-line);padding:18px;display:flex;align-items:center;justify-content:center;min-height:210px">
+              <div role="img" aria-label="{{ p.imgAlt }}" style="{{ p.thumbStyle }}"></div>
+              <span style="{{ p.availStyle }}">{{ p.avail }}</span>
+            </div>
+            <div style="padding:20px;display:flex;flex-direction:column;gap:14px;flex:1">
+              <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:12px">
+                <div>
+                  <p style="font-family:var(--ff-display);font-weight:500;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--bp-ink-muted);margin:0 0 6px">{{ p.tier }}</p>
+                  <p style="font-family:var(--ff-display);font-weight:600;font-size:22px;letter-spacing:-0.01em;margin:0">{{ p.name }}</p>
+                </div>
+                <sc-if value="{{ p.promo }}" hint-placeholder-val="{{ true }}">
+                  <span style="font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px;white-space:nowrap;background:var(--bp-teal-soft);color:var(--ot-teal-ink);border:1.5px solid var(--bp-teal)">2 mo free</span>
+                </sc-if>
+              </div>
+              <div style="display:flex;gap:14px;flex-wrap:wrap;font-family:var(--ff-body);font-size:14px;color:var(--bp-ink-soft);padding-bottom:14px;border-bottom:1px solid var(--bp-line)">
+                <span>{{ p.beds }}</span><span style="color:var(--bp-line)">|</span><span>{{ p.baths }}</span><span style="color:var(--bp-line)">|</span><span>{{ p.sqft }} sq ft</span>
+              </div>
+              <div>
+                <p style="font-family:var(--ff-body);font-size:12px;color:var(--bp-ink-muted);margin:0">All-in, from</p>
+                <p style="font-family:var(--ff-display);font-weight:600;font-size:26px;letter-spacing:-0.02em;margin:2px 0 0">{{ p.allIn }}<span style="font-family:var(--ff-body);font-weight:400;font-size:14px;color:var(--bp-ink-muted)">/mo</span></p>
+                <p style="{{ p.fitStyle }}">{{ p.fitNote }}</p>
+              </div>
+              <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:auto">
+                <a href="#tour" onClick="{{ p.onTour }}" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 16px;border-radius:999px;background:var(--bp-navy);color:var(--bp-paper)" style-hover="opacity:.85">Schedule a tour</a>
+                <a href="#tour" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 16px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink)" style-hover="background:var(--ot-teal-ink);color:var(--bp-paper)">Check availability</a>
+              </div>
+              <div style="display:flex;gap:12px;align-items:center;justify-content:space-between;flex-wrap:wrap;padding-top:12px;border-top:1px solid var(--bp-line)">
+                <label style="display:flex;gap:9px;align-items:center;font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-soft);cursor:pointer">
+                  <input type="checkbox" checked="{{ p.selected }}" onChange="{{ p.onToggle }}" style="width:16px;height:16px;accent-color:var(--bp-teal-deep);cursor:pointer">
+                  <span>Compare</span>
+                </label>
+                <button type="button" onClick="{{ p.onAsk }}" style="font-family:var(--ff-body);font-size:13px;background:transparent;border:0;padding:0;color:var(--ot-teal-ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer">Ask about this plan</button>
+              </div>
+            </div>
+          </article>
+        </sc-for>
+      </div>
+
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:24px">
+        <button type="button" onClick="{{ askReleasing }}" style="{{ askStyle }}"><span style="{{ askDotStyle }}"></span><span>Ask what is releasing next</span></button>
+        <button type="button" onClick="{{ askQuietest }}" style="{{ askStyle }}"><span style="{{ askDotStyle }}"></span><span>Ask which of these is quietest</span></button>
+      </div>
+
+      <sc-if value="{{ noneVisible }}" hint-placeholder-val="{{ false }}">
+        <div style="background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(22px,3vw,32px);margin-top:28px;max-width:60ch">
+          <p style="font-family:var(--ff-display);font-weight:600;font-size:19px;margin:0">Nothing matches those two filters together</p>
+          <p style="font-family:var(--ff-body);font-size:15px;line-height:1.6;color:var(--bp-ink-soft);margin:10px 0 0">{{ emptyHint }}</p>
+          <button type="button" onClick="{{ onResetFilters }}" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 18px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink);background:transparent;cursor:pointer;margin-top:18px">Clear filters</button>
+        </div>
+      </sc-if>
+      
+    </div>
+  </section>
+
+  <sc-if value="{{ hasCompare }}" hint-placeholder-val="{{ false }}">
+    <div style="position:sticky;bottom:0;z-index:50;background:var(--bp-navy);color:var(--bp-paper);box-shadow:0 -8px 30px rgba(15,24,48,.25)">
+      <div style="max-width:1280px;margin:0 auto;padding:18px clamp(16px,4vw,40px)">
+        <div style="display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap">
+          <p style="font-family:var(--ff-display);font-weight:600;font-size:16px;margin:0">Comparing {{ compareCount }}</p>
+          <div style="display:flex;gap:10px;align-items:center">
+            <button type="button" onClick="{{ onExpandCompare }}" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:10px 18px;border-radius:999px;background:transparent;color:var(--bp-teal-soft);border:1.5px solid var(--bp-teal);cursor:pointer">{{ compareToggleLabel }}</button>
+            <button type="button" onClick="{{ onClearCompare }}" style="font-family:var(--ff-body);font-size:13px;background:transparent;border:0;color:rgba(250,246,239,.7);text-decoration:underline;cursor:pointer">Clear</button>
+          </div>
+        </div>
+        <sc-if value="{{ compareOpen }}" hint-placeholder-val="{{ false }}">
+          <div style="overflow-x:auto;margin-top:18px;padding-bottom:4px">
+            <div style="display:flex;gap:16px;min-width:min-content">
+              <sc-for list="{{ compareCols }}" as="c" hint-placeholder-count="2">
+                <div style="flex:1 1 240px;min-width:240px;background:rgba(250,246,239,.06);border:1px solid rgba(250,246,239,.18);border-radius:12px;padding:18px">
+                  <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px">
+                    <p style="font-family:var(--ff-display);font-weight:600;font-size:18px;margin:0">{{ c.name }}</p>
+                    <button type="button" onClick="{{ c.onRemove }}" style="background:transparent;border:0;color:rgba(250,246,239,.6);font-size:16px;cursor:pointer;line-height:1">&times;</button>
+                  </div>
+                  <div style="margin-top:12px;display:grid;gap:0">
+                    <sc-for list="{{ c.rows }}" as="r" hint-placeholder-count="6">
+                      <div style="display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid rgba(250,246,239,.12);font-family:var(--ff-body);font-size:13px">
+                        <span style="color:rgba(250,246,239,.65)">{{ r.label }}</span>
+                        <span style="text-align:right">{{ r.value }}</span>
+                      </div>
+                    </sc-for>
+                  </div>
+                  <a href="#tour" onClick="{{ c.onTour }}" style="display:inline-block;margin-top:16px;font-family:var(--ff-display);font-weight:600;font-size:13px;padding:10px 16px;border-radius:999px;background:var(--bp-orange);color:var(--bp-navy)" style-hover="opacity:.85">Tour {{ c.name }}</a>
+                </div>
+              </sc-for>
+            </div>
+          </div>
+        </sc-if>
+      </div>
+    </div>
+  </sc-if>
+
+  <section id="around" style="background:var(--bp-paper-deep);border-top:1px solid var(--bp-line);border-bottom:1px solid var(--bp-line)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(56px,7vw,104px) clamp(16px,4vw,40px);display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:clamp(32px,5vw,64px);align-items:start">
+      <div>
+        <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--ot-teal-ink);margin:0 0 14px">Getting around</p>
+        <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(32px,4.4vw,52px);line-height:1.06;letter-spacing:-0.03em;margin:0">How do I get around?</h2>
+        <p style="font-family:var(--ff-body);font-size:17px;line-height:1.6;color:var(--bp-ink-soft);margin:20px 0 0;max-width:46ch">Oak Trail sits off South Trenton Way in southeast Denver, with quick access to I-225 and Parker Road. Trails, groceries, and everyday errands are close, and the drive downtown is short.</p>
+
+        <div style="background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(18px,2.4vw,24px);margin-top:28px">
+          <p style="font-family:var(--ff-display);font-weight:600;font-size:16px;margin:0">Add a place you drive to often</p>
+          <p style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin:6px 0 0">Optional. We will estimate the drive and keep it at the top of the list.</p>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:14px">
+            <input type="text" value="{{ destDraft }}" onChange="{{ onDestChange }}" placeholder="Work, campus, a gym" style="flex:1 1 180px;font-family:var(--ff-body);font-size:14px;padding:12px 16px;border:1px solid var(--bp-line);border-radius:999px;outline:none;color:var(--bp-navy);background:var(--bp-paper)">
+            <button type="button" onClick="{{ onDestApply }}" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:12px 20px;border-radius:999px;background:var(--bp-navy);color:var(--bp-paper);border:0;cursor:pointer">Estimate</button>
+          </div>
+          <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:12px">
+            <sc-for list="{{ destChips }}" as="d" hint-placeholder-count="3">
+              <button type="button" onClick="{{ d.onSelect }}" style="{{ d.style }}">{{ d.label }}</button>
+            </sc-for>
+          </div>
+        </div>
+
+        <div style="display:grid;gap:0;margin-top:28px">
+          <sc-for list="{{ places }}" as="pl" hint-placeholder-count="5">
+            <div style="{{ pl.rowStyle }}">
+              <div>
+                <p style="font-family:var(--ff-display);font-weight:600;font-size:17px;margin:0">{{ pl.name }}</p>
+                <p style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin:4px 0 0">{{ pl.kind }}</p>
+              </div>
+              <span style="font-family:var(--ff-display);font-weight:600;font-size:15px;color:var(--bp-ink-soft);white-space:nowrap;font-variant-numeric:tabular-nums">{{ pl.time }}</span>
+            </div>
+          </sc-for>
+        </div>
+        <p style="font-family:var(--ff-body);font-size:13px;line-height:1.6;color:var(--bp-ink-muted);margin:16px 0 0">All times are approximate off-peak drive estimates from 2234 S Trenton Way.</p>
+        <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:18px">
+          <button type="button" onClick="{{ askCommute }}" style="{{ askStyle }}"><span style="{{ askDotStyle }}"></span><span>Ask about parking and light rail options</span></button>
+        </div>
+      </div>
+      <div style="display:grid;gap:16px">
+        <img src="img/denver-skyline.jpg" alt="Downtown Denver skyline with the Front Range behind it" style="width:100%;height:clamp(280px,38vw,460px);object-fit:cover;border-radius:8px">
+        <div style="background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(18px,2.4vw,24px)">
+          <p style="font-family:var(--ff-display);font-weight:600;font-size:16px;margin:0">Car first, transit second</p>
+          <p style="font-family:var(--ff-body);font-size:15px;line-height:1.6;color:var(--bp-ink-soft);margin:10px 0 0">This part of southeast Denver is built around the I-225 and Parker Road corridors. Nine Mile Station puts light rail within a short drive, and most errands sit inside a ten minute radius. Plan on a car for daily trips.</p>
+        </div>
+      </div>
+      
+    </div>
+  </section>
+
+  <section id="living" style="background:var(--bp-navy);color:var(--bp-paper)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(56px,7vw,104px) clamp(16px,4vw,40px)">
+      <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--bp-teal);margin:0 0 14px">Amenities and gallery</p>
+      <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(32px,4.4vw,52px);line-height:1.06;letter-spacing:-0.03em;margin:0;max-width:24ch;color:var(--bp-paper)">What is it like to live here?</h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:clamp(16px,2.4vw,28px);margin-top:44px">
+        <sc-for list="{{ amenities }}" as="a" hint-placeholder-count="6">
+          <div style="border-top:1px solid rgba(250,246,239,.22);padding-top:22px;display:flex;gap:16px;align-items:flex-start">
+            <span style="color:var(--bp-teal);flex:0 0 auto;margin-top:2px">{{ a.icon }}</span>
+            <div>
+              <p style="font-family:var(--ff-display);font-weight:600;font-size:18px;margin:0">{{ a.title }}</p>
+              <p style="font-family:var(--ff-body);font-size:14px;line-height:1.55;color:rgba(250,246,239,.72);margin:6px 0 0">{{ a.body }}</p>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:44px">
+        <span style="font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px;white-space:nowrap;background:transparent;color:var(--bp-paper);border:1.5px solid rgba(250,246,239,.35)">Pet friendly</span>
+        <span style="font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px;white-space:nowrap;background:transparent;color:var(--bp-paper);border:1.5px solid rgba(250,246,239,.35)">Smoke free community</span>
+        <span style="font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px;white-space:nowrap;background:transparent;color:var(--bp-paper);border:1.5px solid rgba(250,246,239,.35)">In-home washer and dryer</span>
+      </div>
+
+      
+    </div>
+    <div style="background:var(--bp-paper-deep);border-top:1px solid var(--bp-line)">
+      <div style="max-width:1280px;margin:0 auto;padding:clamp(40px,5vw,72px) clamp(16px,4vw,40px)">
+        <div style="display:flex;gap:24px;align-items:flex-end;justify-content:space-between;flex-wrap:wrap">
+          <h3 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(24px,3vw,34px);line-height:1.1;letter-spacing:-0.02em;margin:0;color:var(--bp-navy)">A look around the community</h3>
+          <a href="#tour" style="font-family:var(--ff-display);font-weight:600;font-size:15px;padding:14px 24px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink)" style-hover="background:var(--ot-teal-ink);color:var(--bp-paper)">See it in person</a>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:28px">
+          <figure style="margin:0;grid-column:span 2;min-height:0">
+            <img src="img/hero-pool.jpeg" alt="Pool with sundeck, lounge chairs, and grilling pavilion" style="width:100%;height:clamp(240px,30vw,420px);object-fit:cover;border-radius:8px;display:block">
+            <figcaption style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin-top:8px">Two resort-style pools with sundecks and grilling areas</figcaption>
+          </figure>
+          <figure style="margin:0;min-height:0">
+            <img src="img/kitchen-reno.webp" alt="Kitchen with granite countertops and stainless appliances" style="width:100%;height:clamp(240px,30vw,420px);object-fit:cover;border-radius:8px;display:block">
+            <figcaption style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin-top:8px">Granite countertops and modern interiors</figcaption>
+          </figure>
+          <figure style="margin:0">
+            <img src="img/living-fireplace.webp" alt="Living room with a tiled fireplace and wood-style flooring" style="width:100%;height:clamp(240px,30vw,420px);object-fit:cover;border-radius:8px;display:block">
+            <figcaption style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin-top:8px">Living rooms with a fireplace in select homes</figcaption>
+          </figure>
+          <figure style="margin:0;grid-column:1 / -1">
+            <img src="img/dog-park.webp" alt="Fenced on-site dog park with turf and shade trees" style="width:100%;height:clamp(220px,26vw,340px);object-fit:cover;border-radius:8px;display:block">
+            <figcaption style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin-top:8px">On-site dog park for off-leash play</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="fit" style="background:var(--bp-paper)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(56px,7vw,104px) clamp(16px,4vw,40px)">
+      <div style="max-width:52ch">
+        <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--ot-teal-ink);margin:0 0 14px">The honest version</p>
+        <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(32px,4.4vw,52px);line-height:1.06;letter-spacing:-0.03em;margin:0">Is Oak Trail right for me?</h2>
+        <p style="font-family:var(--ff-body);font-size:17px;line-height:1.6;color:var(--bp-ink-soft);margin:20px 0 0">The honest version, in terms of what the place is and what it asks of you. Read both columns before you book a tour.</p>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:clamp(16px,2.4vw,28px);margin-top:clamp(32px,4vw,48px)">
+        <div style="background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(22px,3vw,32px)">
+          <p style="font-family:var(--ff-display);font-weight:600;font-size:20px;margin:0">This works well if you want</p>
+          <div style="display:grid;gap:16px;margin-top:20px">
+            <sc-for list="{{ fitFor }}" as="i" hint-placeholder-count="4">
+              <div style="display:flex;gap:12px;align-items:flex-start">
+                <span style="color:var(--ot-teal-ink);font-weight:700;font-family:var(--ff-display)">&rarr;</span>
+                <div>
+                  <p style="font-family:var(--ff-display);font-weight:600;font-size:16px;margin:0">{{ i.title }}</p>
+                  <p style="font-family:var(--ff-body);font-size:14px;line-height:1.6;color:var(--bp-ink-soft);margin:5px 0 0">{{ i.body }}</p>
+                </div>
+              </div>
+            </sc-for>
+          </div>
+        </div>
+        <div style="background:var(--bp-peach-soft);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(22px,3vw,32px)">
+          <p style="font-family:var(--ff-display);font-weight:600;font-size:20px;margin:0">Worth knowing before you tour</p>
+          <div style="display:grid;gap:16px;margin-top:20px">
+            <sc-for list="{{ fitAgainst }}" as="i" hint-placeholder-count="4">
+              <div style="display:flex;gap:12px;align-items:flex-start">
+                <span style="color:var(--bp-ink-muted);font-weight:700;font-family:var(--ff-display)">&rarr;</span>
+                <div>
+                  <p style="font-family:var(--ff-display);font-weight:600;font-size:16px;margin:0">{{ i.title }}</p>
+                  <p style="font-family:var(--ff-body);font-size:14px;line-height:1.6;color:var(--bp-ink-soft);margin:5px 0 0">{{ i.body }}</p>
+                </div>
+              </div>
+            </sc-for>
+          </div>
+        </div>
+      </div>
+      <div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-top:clamp(28px,3vw,40px);padding:clamp(20px,2.6vw,28px);background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px">
+        <p style="font-family:var(--ff-body);font-size:16px;line-height:1.6;color:var(--bp-ink-soft);margin:0;flex:1 1 260px">{{ fitVerdict }}</p>
+        <button type="button" onClick="{{ askFit }}" style="{{ askStyle }}"><span style="{{ askDotStyle }}"></span><span>Ask a specific question</span></button>
+      </div>
+    </div>
+  </section>
+
+  <section id="tour" style="background:var(--bp-peach)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(40px,5vw,68px) clamp(16px,4vw,40px);display:grid;gap:clamp(20px,2.6vw,32px);grid-template-columns:repeat(auto-fit,minmax(300px,1fr));align-items:center">
+      <div>
+        <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(28px,3.6vw,44px);line-height:1.1;letter-spacing:-0.02em;margin:0;max-width:22ch">Tour in person or from your phone</h2>
+        <p style="font-family:var(--ff-body);font-size:16px;line-height:1.6;color:var(--bp-ink-soft);margin:14px 0 0;max-width:42ch">Pick a time right here. Tours take about 20 minutes, and you will get a confirmation before you leave the page.</p>
+        <p style="font-family:var(--ff-body);font-size:15px;color:var(--bp-ink-soft);margin:18px 0 0">Prefer to talk? Call <a href="tel:9834447734" style="text-decoration:underline;text-underline-offset:3px">983-444-7734</a>.</p>
+      </div>
+
+      <div style="{{ bookerCardStyle }}">
+        <sc-if value="{{ bookerPicking }}" hint-placeholder-val="{{ false }}">
+          <div style="display:grid;gap:12px;animation:otRise 200ms var(--ease-out) both">
+            <div style="display:flex;gap:12px;align-items:flex-start;justify-content:space-between">
+              <div>
+                <p style="font-family:var(--ff-display);font-weight:600;font-size:19px;margin:0">Schedule a tour</p>
+                <p style="font-family:var(--ff-body);font-size:13px;color:var(--bp-ink-muted);margin:3px 0 0">{{ bookerSubhead }}</p>
+              </div>
+            </div>
+
+            <div style="display:grid;gap:7px">
+              <p style="font-family:var(--ff-body);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--bp-ink-muted);margin:0">Pick a day</p>
+              <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:6px">
+                <sc-for list="{{ bookerDays }}" as="d" hint-placeholder-count="5">
+                  <button type="button" onClick="{{ d.onSelect }}" style="{{ d.style }}">
+                    <span style="display:block;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;opacity:.75">{{ d.dow }}</span>
+                    <span style="display:block;font-size:16px;line-height:1.15;margin-top:2px">{{ d.day }}</span>
+                  </button>
+                </sc-for>
+              </div>
+              <button type="button" onClick="{{ onToggleAllDates }}" style="justify-self:start;background:transparent;border:0;padding:0;font-family:var(--ff-body);font-size:12.5px;color:var(--ot-teal-ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer">{{ allDatesLabel }}</button>
+              <sc-if value="{{ allDatesOpen }}" hint-placeholder-val="{{ false }}">
+                <div style="border:1px solid var(--bp-line);border-radius:12px;padding:14px;background:var(--bp-paper);animation:otRise 180ms var(--ease-out) both">
+                  <p style="font-family:var(--ff-display);font-weight:600;font-size:13px;margin:0 0 10px">{{ monthLabel }}</p>
+                  <div style="display:grid;grid-template-columns:repeat(7,1fr);gap:4px">
+                    <sc-for list="{{ monthGrid }}" as="c" hint-placeholder-count="35">
+                      <button type="button" onClick="{{ c.onSelect }}" disabled="{{ c.disabled }}" style="{{ c.style }}">{{ c.label }}</button>
+                    </sc-for>
+                  </div>
+                  <p style="font-family:var(--ff-body);font-size:12px;color:var(--bp-ink-muted);margin:12px 0 0">The office is closed Sunday and Monday.</p>
+                </div>
+              </sc-if>
+            </div>
+
+            <div style="display:grid;gap:7px;border-top:1px solid var(--bp-line);padding-top:12px">
+              <p style="font-family:var(--ff-body);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--bp-ink-muted);margin:0">{{ slotsLabel }}</p>
+              <div style="{{ slotGridStyle }}">
+                <sc-for list="{{ bookerSlots }}" as="t" hint-placeholder-count="4">
+                  <button type="button" onClick="{{ t.onSelect }}" style="{{ t.style }}">{{ t.label }}</button>
+                </sc-for>
+              </div>
+              <button type="button" onClick="{{ onToggleAllTimes }}" style="justify-self:start;background:transparent;border:0;padding:0;font-family:var(--ff-body);font-size:12.5px;color:var(--ot-teal-ink);text-decoration:underline;text-underline-offset:3px;cursor:pointer">{{ allTimesLabel }}</button>
+            </div>
+
+            <div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;border-top:1px solid var(--bp-line);padding-top:12px">
+              <button type="button" onClick="{{ onConfirmBooker }}" disabled="{{ confirmDisabled }}" style="{{ confirmStyle }}">{{ confirmLabel }}</button>
+              <p style="font-family:var(--ff-body);font-size:12.5px;color:var(--bp-ink-muted);margin:0;flex:1 1 140px">No account needed. You can reschedule from your confirmation.</p>
+            </div>
+          </div>
+        </sc-if>
+
+        <sc-if value="{{ bookerConfirmed }}" hint-placeholder-val="{{ false }}">
+          <div style="display:grid;gap:14px;animation:otRise 200ms var(--ease-out) both">
+            <span style="width:34px;height:34px;border-radius:999px;background:var(--bp-teal-soft);border:1.5px solid var(--bp-teal);display:flex;align-items:center;justify-content:center;font-family:var(--ff-display);font-weight:700;color:var(--ot-teal-ink)">&#10003;</span>
+            <div>
+              <p style="font-family:var(--ff-display);font-weight:600;font-size:20px;margin:0">Your tour is set</p>
+              <p style="font-family:var(--ff-body);font-size:15px;line-height:1.6;color:var(--bp-ink-soft);margin:8px 0 0">{{ confirmedLine }}</p>
+            </div>
+            <p style="font-family:var(--ff-body);font-size:13px;line-height:1.6;color:var(--bp-ink-muted);margin:0">Meet at the leasing office at 2234 S Trenton Way. Bring a photo ID. This is a prototype, so no confirmation is actually sent.</p>
+            <div style="display:flex;gap:10px;flex-wrap:wrap">
+              <button type="button" onClick="{{ onOpenBooker }}" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 18px;border-radius:999px;border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink);background:transparent;cursor:pointer">Change time</button>
+              <a href="tel:9834447734" style="font-family:var(--ff-display);font-weight:600;font-size:13px;padding:11px 18px;border-radius:999px;border:1.5px solid var(--bp-navy);color:var(--bp-navy)" style-hover="background:var(--bp-navy);color:var(--bp-paper)">Call the office</a>
+            </div>
+          </div>
+        </sc-if>
+      </div>
+    </div>
+  </section>
+
+  <section id="faq" style="background:var(--bp-paper)">
+    <div style="max-width:900px;margin:0 auto;padding:clamp(56px,7vw,104px) clamp(16px,4vw,40px)">
+      <p style="font-family:var(--ff-display);font-weight:500;font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--ot-teal-ink);margin:0 0 14px">FAQ</p>
+      <h2 style="font-family:var(--ff-display);font-weight:600;font-size:clamp(30px,4vw,44px);line-height:1.1;letter-spacing:-0.02em;margin:0 0 36px">Straight answers</h2>
+      <sc-for list="{{ faqs }}" as="q" hint-placeholder-count="6">
+        <div style="border-bottom:1px solid var(--bp-line)">
+          <button type="button" onClick="{{ q.onToggle }}" style="width:100%;background:transparent;border:0;padding:22px 0;display:flex;gap:16px;align-items:center;justify-content:space-between;cursor:pointer;text-align:left;font-family:var(--ff-display);font-weight:600;font-size:clamp(17px,2vw,20px);color:var(--bp-navy)">
+            <span>{{ q.q }}</span>
+            <span style="{{ q.iconStyle }}">+</span>
+          </button>
+          <sc-if value="{{ q.open }}" hint-placeholder-val="{{ false }}">
+            <p style="font-family:var(--ff-body);font-size:16px;line-height:1.65;color:var(--bp-ink-soft);margin:0 0 24px;max-width:64ch">{{ q.a }}</p>
+          </sc-if>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <footer style="background:var(--bp-navy);color:var(--bp-paper)">
+    <div style="max-width:1280px;margin:0 auto;padding:clamp(48px,6vw,80px) clamp(16px,4vw,40px);display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(28px,4vw,56px)">
+      <div>
+        <p style="font-family:var(--ff-display);font-weight:700;font-size:22px;letter-spacing:-0.02em;margin:0;color:var(--bp-paper)">Oak Trail</p>
+        <p style="font-family:var(--ff-body);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:rgba(250,246,239,.6);margin:6px 0 0">At Cherry Creek South</p>
+        <p style="font-family:var(--ff-body);font-size:15px;line-height:1.6;color:rgba(250,246,239,.8);margin:24px 0 0">2234 S Trenton Way<br>Denver, CO 80231</p>
+        <p style="font-family:var(--ff-display);font-weight:600;font-size:18px;margin:12px 0 0"><a href="tel:9834447734" style="color:var(--bp-paper)">983-444-7734</a></p>
+      </div>
+      <div>
+        <p style="font-family:var(--ff-display);font-weight:600;font-size:14px;letter-spacing:.12em;text-transform:uppercase;color:rgba(250,246,239,.6);margin:0 0 16px">Office hours</p>
+        <div style="display:grid;grid-template-columns:auto 1fr;gap:10px 20px;font-family:var(--ff-body);font-size:14px;line-height:1.35;color:rgba(250,246,239,.85)">
+          <span style="white-space:nowrap">Tuesday to Friday</span><span style="white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums">10:00 AM to 6:00 PM</span>
+          <span style="white-space:nowrap">Saturday</span><span style="white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums">10:00 AM to 5:00 PM</span>
+          <span style="white-space:nowrap">Sunday and Monday</span><span style="white-space:nowrap;text-align:right">Closed</span>
+        </div>
+      </div>
+      <div>
+        <p style="font-family:var(--ff-display);font-weight:600;font-size:14px;letter-spacing:.12em;text-transform:uppercase;color:rgba(250,246,239,.6);margin:0 0 16px">Residents</p>
+        <div style="display:grid;gap:10px;font-family:var(--ff-body);font-size:15px">
+          <a href="#top" style="color:rgba(250,246,239,.85)" style-hover="color:var(--bp-paper)">Resident Portal</a>
+          <a href="#top" style="color:rgba(250,246,239,.85)" style-hover="color:var(--bp-paper)">Reviews</a>
+          <a href="#homes" style="color:rgba(250,246,239,.85)" style-hover="color:var(--bp-paper)">Floor plans</a>
+          <a href="#tour" onClick="{{ onOpenBooker }}" style="color:rgba(250,246,239,.85)" style-hover="color:var(--bp-paper)">Schedule a tour</a>
+        </div>
+        <div style="display:flex;gap:10px;margin-top:22px">
+          <span style="width:36px;height:36px;border:1px solid rgba(250,246,239,.3);border-radius:999px;display:flex;align-items:center;justify-content:center;font-family:var(--ff-display);font-weight:600;font-size:13px">IG</span>
+          <span style="width:36px;height:36px;border:1px solid rgba(250,246,239,.3);border-radius:999px;display:flex;align-items:center;justify-content:center;font-family:var(--ff-display);font-weight:600;font-size:13px">FB</span>
+          <span style="width:36px;height:36px;border:1px solid rgba(250,246,239,.3);border-radius:999px;display:flex;align-items:center;justify-content:center;font-family:var(--ff-display);font-weight:600;font-size:13px">YT</span>
+        </div>
+      </div>
+      <div>
+        <p style="font-family:var(--ff-display);font-weight:600;font-size:14px;letter-spacing:.12em;text-transform:uppercase;color:rgba(250,246,239,.6);margin:0 0 16px">Community</p>
+        <div style="display:grid;gap:14px">
+          <sc-for list="{{ badges }}" as="b" hint-placeholder-count="3">
+            <div style="display:flex;gap:12px;align-items:center">
+              <span style="color:var(--bp-teal);flex:0 0 auto">{{ b.icon }}</span>
+              <span style="font-family:var(--ff-body);font-size:14px;color:rgba(250,246,239,.85)">{{ b.label }}</span>
+            </div>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+    <div style="border-top:1px solid rgba(250,246,239,.16)">
+      <div style="max-width:1280px;margin:0 auto;padding:20px clamp(16px,4vw,40px);display:flex;gap:16px;flex-wrap:wrap;justify-content:space-between;font-family:var(--ff-body);font-size:13px;color:rgba(250,246,239,.55)">
+        <span>Oak Trail at Cherry Creek South. Equal Housing Opportunity.</span>
+        <span>Pricing, availability, and drive times shown are illustrative placeholders in this prototype.</span>
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;showPromoBanner&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Marketing&quot;}}">
+const PLANS = [
+  {id:'1a', name:'Design 1A', tier:'One bedroom', bedCount:1, beds:'1 bed', baths:'1 bath', sqft:'712', base:1499, water:52, avail:3, img:'img/plan-1a.png', promo:false, note:'Balcony, galley kitchen'},
+  {id:'1b', name:'Design 1B', tier:'One bedroom', bedCount:1, beds:'1 bed', baths:'1 bath', sqft:'806', base:1575, water:52, avail:1, img:'img/plan-1b.png', promo:true, note:'Fireplace, larger living room'},
+  {id:'2a', name:'Design 2A', tier:'Two bedroom', bedCount:2, beds:'2 bed', baths:'2 bath', sqft:'1,048', base:1795, water:52, avail:2, img:'img/plan-2a.png', promo:true, note:'Split bedrooms, patio'},
+  {id:'2b', name:'Design 2B', tier:'Two bedroom', bedCount:2, beds:'2 bed', baths:'2 bath', sqft:'1,126', base:1865, water:52, avail:4, img:'img/plan-2b.png', promo:false, note:'Corner home, extra storage'},
+  {id:'2c', name:'Design 2C', tier:'Two bedroom', bedCount:2, beds:'2 bed', baths:'2 bath', sqft:'1,204', base:1940, water:52, avail:0, img:'img/plan-2c.png', promo:true, note:'Fireplace, dining room'},
+  {id:'3a', name:'Design 3A', tier:'Three bedroom', bedCount:3, beds:'3 bed', baths:'2 bath', sqft:'1,368', base:2395, water:64, avail:2, img:'img/plan-3a.png', promo:false, note:'Two balconies, walk-in closets'}
+];
+
+const FEES = {trash: 28, tech: 45, pest: 6};
+const feeTotal = p => p.water + FEES.trash + FEES.tech + FEES.pest;
+const allIn = p => p.base + feeTotal(p);
+const money = n => '$' + n.toLocaleString('en-US');
+
+const DESTS = [
+  {match: ['downtown', 'lodo', 'union station', 'ballpark', 'rino'], label: 'Downtown Denver', min: 22},
+  {match: ['tech center', 'dtc', 'greenwood', 'centennial'], label: 'Denver Tech Center', min: 16},
+  {match: ['anschutz', 'medical', 'aurora', 'hospital', 'children'], label: 'Anschutz Medical Campus', min: 12},
+  {match: ['airport', 'dia', 'den'], label: 'Denver International Airport', min: 30},
+  {match: ['boulder'], label: 'Boulder', min: 48},
+  {match: ['cherry creek', 'shopping'], label: 'Cherry Creek North', min: 15},
+  {match: ['du', 'university of denver', 'campus'], label: 'University of Denver', min: 18}
+];
+
+const BASE_PLACES = [
+  {name: 'Cherry Creek State Park', kind: 'Trails, reservoir, open space', time: '10 minutes'},
+  {name: 'Cherry Creek Shopping Center', kind: 'Shopping and dining', time: '15 minutes'},
+  {name: 'Downtown Denver', kind: 'Offices, venues, restaurants', time: '20 minutes'},
+  {name: 'Nine Mile Station', kind: 'RTD light rail, R and H lines', time: '8 minutes'},
+  {name: 'Grocery on South Parker Road', kind: 'Everyday errands', time: '5 minutes'}
+];
+
+const FAQS = [
+  {q: 'What does the price on this site include?', a: 'The all-in number includes base rent plus every required monthly fee: trash and recycling, water and sewer, pest control, and the technology package. Electricity and internet are billed by your provider, so those stay separate and in your name.'},
+  {q: 'What deposit should I expect?', a: 'Deposits are quoted in writing with your application and depend on the plan and lease term. Nothing about the deposit is decided after you sign, and the leasing office will state the figure before you apply.'},
+  {q: 'Is parking included, and what does a second car cost?', a: 'Open surface parking is included with your home. Reserved and covered spaces are limited and quoted per month at application, so a second car is a real line item to ask about on your tour.'},
+  {q: 'How does the two months free promotion work?', a: 'Select homes qualify for up to two months free. The concession is applied across your lease term, and the leasing office will show you the exact monthly effect on the plan you pick before you sign.'},
+  {q: 'What comes in every home?', a: 'Granite countertops, an in-home washer and dryer, a private balcony or patio, and modern interior finishes throughout.'},
+  {q: 'Can I tour without an appointment?', a: 'Walk-ins are welcome during office hours, Tuesday through Friday 10:00 AM to 6:00 PM and Saturday 10:00 AM to 5:00 PM. Booking ahead means a home is ready to show when you arrive.'}
+];
+
+const svg = (paths, size) => React.createElement('svg', {
+  width: size || 22, height: size || 22, viewBox: '0 0 24 24', fill: 'none',
+  stroke: 'currentColor', strokeWidth: 1.6, strokeLinecap: 'round', strokeLinejoin: 'round'
+}, paths.map((d, i) => React.createElement('path', {key: i, d})));
+
+const AMENITIES = [
+  {icon: ['M6.5 6.5v11','M17.5 6.5v11','M3 9v6','M21 9v6','M6.5 12h11'], title: '24-hour fitness center', body: 'Cardio and strength equipment plus a dedicated yoga studio, open any hour you train.'},
+  {icon: ['M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5c2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1','M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1','M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1'], title: 'Two resort-style pools', body: 'Expansive sundecks, lounge seating, and grilling areas at both pools.'},
+  {icon: ['M9.5 5.5c0 1.4-.7 2.5-1.6 2.5S6.3 6.9 6.3 5.5 7 3 7.9 3s1.6 1.1 1.6 2.5z','M17.7 5.5c0 1.4-.7 2.5-1.6 2.5s-1.6-1.1-1.6-2.5S15.2 3 16.1 3s1.6 1.1 1.6 2.5z','M5 11.5c0 1.2-.7 2.1-1.5 2.1S2 12.7 2 11.5s.7-2.1 1.5-2.1S5 10.3 5 11.5z','M22 11.5c0 1.2-.7 2.1-1.5 2.1S19 12.7 19 11.5s.7-2.1 1.5-2.1S22 10.3 22 11.5z','M12 10.5c2.9 0 5.2 2.5 5.2 5.6 0 2.3-1.5 3.8-3.5 3.8h-3.4c-2 0-3.5-1.5-3.5-3.8 0-3.1 2.3-5.6 5.2-5.6z'], title: 'On-site dog park', body: 'A fenced run for off-leash play, a short walk from every building.'},
+  {icon: ['M20 9V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v3','M2 11v5a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-5a2 2 0 0 0-4 0v2H6v-2a2 2 0 0 0-4 0','M4 18v2','M20 18v2','M12 4v9'], title: 'Resident clubhouse', body: 'Full kitchen, HDTVs, and lounge seating for gathering or hosting.'},
+  {icon: ['M16 20V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16','M4 8h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V10a2 2 0 0 1 2-2z'], title: 'Business center', body: 'Quiet desks and seating on site for focused work without the commute.'},
+  {icon: ['M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z'], title: 'Outdoor social spaces', body: 'Barbecue areas, a fireplace, and shaded seating for evenings outside.'}
+];
+
+const FIT_FOR = [
+  {title: 'Resort-style amenities you use weekly', body: 'Two pools with sundecks, a 24-hour fitness center with a yoga studio, a clubhouse with a full kitchen, and grilling areas with a fireplace.'},
+  {title: 'Costs stated up front', body: 'Required monthly fees are itemized on this page, so the number you compare is the number you pay.'},
+  {title: 'Fast access to I-225 and Parker Road', body: 'Errands sit inside a ten minute radius, and Cherry Creek State Park trails are about ten minutes out.'},
+  {title: 'Space for a dog', body: 'Pet friendly with an on-site dog park and open grounds between buildings.'}
+];
+
+const FIT_AGAINST = [
+  {title: 'It is a drive to downtown', body: 'Plan on about 20 minutes to downtown Denver off-peak, longer in rush hour. This is not a walk-to-work location.'},
+  {title: 'Car-oriented daily life', body: 'Groceries, dining, and transit are all short drives rather than walks. Nine Mile Station is about eight minutes by car.'},
+  {title: 'Reserved parking is limited', body: 'Open surface parking is included. Covered and reserved spaces are quoted per month, so a second car is worth pricing on your tour.'},
+  {title: 'Availability moves', body: 'Some plans have a single home open at a time. If a specific layout matters, ask what is releasing next.'}
+];
+
+const ADVISOR = {
+  pricing: {title: 'About your all-in cost', question: "What's my all-in monthly cost?", chips: ['what-included', 'deposit', 'parking', 'promo']},
+  lease: {title: 'Lease terms and pricing', question: 'What is my all-in cost on a 15-month lease?', chips: ['what-included', 'promo', 'deposit', 'parking']},
+  deposit: {title: 'Deposits and pet costs', question: 'What would the deposit and pet rent be?', chips: ['pets', 'parking', 'what-included', 'promo']},
+  plan: {title: 'About this plan', question: 'Tell me about this plan', chips: ['availability', 'promo', 'pets', 'what-included']},
+  releasing: {title: 'Availability', question: 'What is releasing next?', chips: ['availability', 'promo', 'deposit', 'quiet']},
+  quietest: {title: 'Noise and orientation', question: 'Which of these homes is quietest?', chips: ['availability', 'park-distance', 'parking', 'pets']},
+  commute: {title: 'Getting around', question: 'What are the parking and light rail options?', chips: ['parking', 'park-distance', 'what-included']},
+  fit: {title: 'Is this a fit?', question: 'Who does Oak Trail suit well?', chips: ['deposit', 'pets', 'park-distance', 'availability']}
+};
+
+const FOLLOWUPS = {
+  'what-included': {label: "What's included in the price?", answer: 'Base rent plus water and sewer, trash and recycling, pest control, and the technology package. Those four fees are required, so we show them inside the monthly number. Electricity and internet stay in your name and are billed by the provider.'},
+  deposit: {label: 'What deposit should I expect?', answer: 'Deposits depend on the plan and lease term and are quoted in writing with your application. Nothing is decided after signing. Ask the leasing office for the figure on your plan before you apply.'},
+  parking: {label: 'Is parking included?', answer: 'Open surface parking is included with your home. Covered and reserved spaces are limited and priced per month, so if you have a second car, get that quote during your tour.'},
+  promo: {label: 'How does the two months free work?', answer: 'Select homes qualify for up to two months free, applied across the lease term. Designs 1B, 2A, and 2C currently qualify. The leasing office shows the exact monthly effect on your plan before you sign.'},
+  pets: {label: 'Is it pet friendly?', answer: 'Yes. Oak Trail is pet friendly with an on-site dog park, and the community is smoke free throughout. Pet rent and deposit amounts are quoted in writing with your application.'},
+  'park-distance': {label: 'How far to Cherry Creek State Park?', answer: 'About 10 minutes by car from 2234 S Trenton Way. Cherry Creek Shopping Center is about 15 minutes and downtown Denver about 20, off-peak.'},
+  quiet: {label: 'Which homes are quietest?', answer: 'The interior-facing homes, away from South Trenton Way, are the quietest. In practice that means upper-floor homes and the corner layouts that back onto the grounds rather than the road. Ask the office which specific homes in your plan face the interior when you tour.'},
+  availability: {label: 'What is available right now?', answer: 'Nine homes are open across the six plans: three in Design 1A, one in 1B, two in 2A, four in 2B, and two in 3A. Design 2C is fully leased with a waitlist. Counts in this prototype are placeholders.'}
+};
+
+const MENUS = {
+  pay: {label: 'Questions about cost, where you are now', items: [['topic','lease'],['topic','deposit'],['follow','what-included'],['follow','promo']]},
+  homes: {label: 'Questions about the homes, where you are now', items: [['topic','releasing'],['topic','quietest'],['follow','availability'],['follow','promo']]},
+  around: {label: 'Questions about getting around, where you are now', items: [['topic','commute'],['follow','parking'],['follow','park-distance'],['follow','what-included']]},
+  living: {label: 'Questions about living here, where you are now', items: [['follow','pets'],['follow','quiet'],['follow','park-distance'],['topic','releasing']]},
+  fit: {label: 'Questions renters ask before touring', items: [['topic','fit'],['topic','deposit'],['follow','availability'],['follow','parking']]},
+  faq: {label: 'Questions renters ask before touring', items: [['topic','fit'],['topic','deposit'],['follow','availability'],['follow','parking']]}
+};
+
+const DOW = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const TODAY = new Date(2026, 7, 20);
+const openDay = d => {
+  const w = d.getDay();
+  return w !== 0 && w !== 1;
+};
+const dayKey = d => d.getFullYear() + '-' + d.getMonth() + '-' + d.getDate();
+const SLOTS_WEEK = ['10:30 AM', '11:15 AM', '1:00 PM', '2:30 PM', '4:15 PM', '5:15 PM'];
+const SLOTS_SAT = ['10:30 AM', '11:15 AM', '1:00 PM', '2:30 PM', '4:00 PM'];
+
+class Component extends DCLogic {
+  state = {
+    filter: 0, beds: 'any', budget: 2000, budgetTouched: false, bedsTouched: false, budgetFilter: false, barDismissed: false,
+    compare: [], compareOpen: true,
+    destDraft: '', dest: null,
+    advisor: null, advisorFollowUp: null, section: 'pay',
+    bookerDay: null, bookerTime: null, bookerPlan: null, allDates: false, allTimes: false, booked: null,
+    faq: 0, menuOpen: false, vw: typeof window !== 'undefined' ? window.innerWidth : 1280
+  };
+
+  componentDidMount() {
+    this._onResize = () => this.setState({vw: window.innerWidth});
+    window.addEventListener('resize', this._onResize);
+    this._onResize();
+    this._onScroll = () => {
+      const ids = ['pay', 'homes', 'around', 'living', 'fit', 'faq'];
+      let current = 'pay';
+      for (const id of ids) {
+        const el = document.getElementById(id);
+        if (el && el.getBoundingClientRect().top <= 200) current = id;
+      }
+      if (current !== this.state.section) this.setState({section: current});
+    };
+    window.addEventListener('scroll', this._onScroll, {passive: true});
+    this._onScroll();
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener('resize', this._onResize);
+    window.removeEventListener('scroll', this._onScroll);
+  }
+
+  pillStyle(active) {
+    return 'font-family:var(--ff-display);font-weight:600;font-size:14px;padding:11px 20px;border-radius:999px;cursor:pointer;transition:all 160ms var(--ease-out);' +
+      (active ? 'background:var(--bp-navy);color:var(--bp-paper);border:1.5px solid var(--bp-navy)'
+              : 'background:transparent;color:var(--bp-ink-soft);border:1.5px solid var(--bp-line)');
+  }
+
+  smallPillStyle(active) {
+    return 'font-family:var(--ff-display);font-weight:600;font-size:13px;padding:9px 16px;border-radius:999px;cursor:pointer;transition:all 160ms var(--ease-out);' +
+      (active ? 'background:var(--ot-teal-ink);color:var(--bp-paper);border:1.5px solid var(--ot-teal-ink)'
+              : 'background:transparent;color:var(--bp-ink-soft);border:1.5px solid var(--bp-line)');
+  }
+
+  chipStyle(active) {
+    return 'font-family:var(--ff-body);font-size:12.5px;padding:9px 14px;border-radius:999px;cursor:pointer;text-align:left;line-height:1.3;' +
+      (active ? 'background:var(--bp-navy);color:var(--bp-paper);border:1px solid var(--bp-navy)'
+              : 'background:var(--bp-paper);color:var(--bp-ink-soft);border:1px solid var(--bp-line)');
+  }
+
+  toggleCompare(id) {
+    this.setState(s => {
+      if (s.compare.indexOf(id) > -1) return {compare: s.compare.filter(x => x !== id)};
+      if (s.compare.length >= 3) return {compare: s.compare.slice(1).concat(id)};
+      return {compare: s.compare.concat(id)};
+    });
+  }
+
+  openAdvisor(topic, planId) {
+    this.setState({advisor: {topic: topic, planId: planId || null}, advisorFollowUp: null});
+  }
+
+  openMenu() {
+    this.setState({advisor: {menu: true}, advisorFollowUp: null});
+  }
+
+  openBooker(planName) {
+    this.setState({bookerPlan: planName || null, booked: null, advisor: null, menuOpen: false});
+  }
+
+  nextOpenDays(n) {
+    const out = [];
+    const d = new Date(TODAY);
+    while (out.length < n) {
+      if (openDay(d)) out.push(new Date(d));
+      d.setDate(d.getDate() + 1);
+    }
+    return out;
+  }
+
+  destinationRow() {
+    const d = this.state.dest;
+    if (!d) return null;
+    const q = d.toLowerCase();
+    for (const entry of DESTS) {
+      if (entry.match.some(m => q.indexOf(m) > -1)) {
+        return {name: d, kind: 'Your destination, near ' + entry.label, time: 'about ' + entry.min + ' min'};
+      }
+    }
+    let h = 0;
+    for (let i = 0; i < q.length; i++) h = (h * 31 + q.charCodeAt(i)) % 1000;
+    return {name: d, kind: 'Your destination, estimated drive', time: 'about ' + (11 + (h % 19)) + ' min'};
+  }
+
+  advisorAnswerFor(topic, planId, budget, budgetTouched) {
+    if (topic === 'pricing') {
+      const p = PLANS.find(x => x.id === '2a');
+      const f = this.featuredPlan();
+      const fees = feeTotal(f);
+      return 'For ' + f.name + ', base rent is ' + money(f.base) + ' and required monthly fees add ' + money(fees) +
+        ', so your all-in cost is ' + money(allIn(f)) + ' per month. That covers water and sewer, trash and recycling, the technology package, and pest control. Electricity and internet stay in your name.' +
+        (budgetTouched ? ' Against the ' + money(budget) + ' budget you set, that leaves ' + money(Math.abs(budget - allIn(f))) + (budget >= allIn(f) ? ' of room.' : ' to close.') : '');
+    }
+    if (topic === 'lease') {
+      const f = this.featuredPlan();
+      const base15 = f.base - 35;
+      return 'On a 15-month term, ' + f.name + ' prices at ' + money(base15) + ' base instead of ' + money(f.base) + ', so your all-in lands at ' +
+        money(base15 + feeTotal(f)) + ' per month. Terms longer than 12 months usually price under the 12-month rate here, and shorter terms price above it. The office confirms term pricing in writing before you sign, and these figures are illustrative for this prototype.';
+    }
+    if (topic === 'deposit') {
+      const f = this.featuredPlan();
+      return 'Deposits are set by plan and lease term and are quoted in writing with your application, not after you sign. For ' + f.name +
+        ', ask for the deposit alongside the ' + money(allIn(f)) + ' all-in figure so you are comparing both. Pets add a monthly pet rent line plus a one-time pet deposit, also stated at application. Nothing here is charged on move-in day without appearing on that quote first.';
+    }
+    if (topic === 'releasing') {
+      return 'Nine homes are open across the six plans right now: three in Design 1A, one in 1B, two in 2A, four in 2B, and two in 3A. Design 2C is fully leased, and homes there typically come back as residents give notice, so the waitlist moves. If a specific layout matters, ask the office to flag it and they will tell you what is coming off notice. Counts in this prototype are placeholders.';
+    }
+    if (topic === 'quietest') {
+      return 'Quiet comes down to orientation more than plan. The homes facing the interior grounds, rather than South Trenton Way, hear the least road noise, and upper floors help further. Among the current layouts, the corner two bedroom and the larger one bedroom tend to sit away from the road. Ask which specific homes in your plan face the interior when you tour.';
+    }
+    if (topic === 'plan') {
+      const p = PLANS.find(x => x.id === planId) || PLANS[2];
+      return p.name + ' is a ' + p.beds + ', ' + p.baths + ' home at ' + p.sqft + ' sq ft. All-in it starts at ' + money(allIn(p)) +
+        ' per month, which is ' + money(p.base) + ' base rent plus ' + money(feeTotal(p)) + ' in required fees. ' +
+        (p.avail === 0 ? 'It is fully leased right now, so ask to join the waitlist for the next release.' : p.avail + (p.avail === 1 ? ' home is' : ' homes are') + ' open now.') +
+        (p.promo ? ' It qualifies for up to two months free.' : '');
+    }
+    if (topic === 'commute') {
+      const row = this.destinationRow();
+      return (row ? 'Your drive to ' + row.name + ' is ' + row.time + ' off-peak. ' : '') +
+        'Nine Mile Station is about eight minutes by car for the R and H light rail lines, and I-225 and Parker Road are both close. Open surface parking is included with your home, and covered or reserved spaces are quoted per month. Expect to use a car for daily errands.';
+    }
+    return 'Oak Trail suits people who want resort-style amenities they will actually use weekly and costs stated up front, with fast access to I-225 and Parker Road. The trade-offs are honest: downtown is about a 20 minute drive, daily life is car-oriented, and reserved parking is limited. If walkability matters more than amenities, this is worth weighing carefully.';
+  }
+
+  featuredPlan() {
+    const s = this.state;
+    if (!s.budgetTouched && s.beds === 'any') return PLANS.find(p => p.id === '2a');
+    const pool = PLANS.filter(p => s.beds === 'any' || p.bedCount === s.beds);
+    if (!pool.length) return PLANS.find(p => p.id === '2a');
+    const fits = pool.filter(p => allIn(p) <= s.budget);
+    if (fits.length) return fits.reduce((a, b) => (allIn(b) > allIn(a) ? b : a));
+    return pool.reduce((a, b) => (allIn(b) < allIn(a) ? b : a));
+  }
+
+  renderVals() {
+    const s = this.state;
+    const showPromo = this.props.showPromoBanner ?? true;
+    const compact = s.vw < 1000;
+    const tiny = s.vw < 620;
+
+    const filterDefs = [
+      {label: 'All plans', beds: null},
+      {label: '1 bedroom', beds: 1},
+      {label: '2 bedrooms', beds: 2},
+      {label: '3 bedrooms', beds: 3}
+    ];
+    const activeFilter = filterDefs[s.filter];
+    let visible = PLANS.filter(p => activeFilter.beds === null || p.bedCount === activeFilter.beds);
+    if (s.budgetFilter) visible = visible.filter(p => allIn(p) <= s.budget);
+    const selected = PLANS.filter(p => s.compare.indexOf(p.id) > -1);
+
+    const f = this.featuredPlan();
+    const fitCount = PLANS.filter(p => allIn(p) <= s.budget && (s.beds === 'any' || p.bedCount === s.beds)).length;
+    const bedPool = PLANS.filter(p => s.beds === 'any' || p.bedCount === s.beds).length;
+    const fitsBudget = allIn(f) <= s.budget;
+    const inRange = PLANS.filter(p => allIn(p) <= s.budget && (s.beds === 'any' || p.bedCount === s.beds)).map(p => p.name);
+    const inRangeNames = inRange.length > 1
+      ? inRange.slice(0, -1).join(', ') + ' and ' + inRange[inRange.length - 1]
+      : inRange.join('');
+
+    const inMenu = !!(s.advisor && s.advisor.menu);
+    const menuCfg = MENUS[s.section] || MENUS.pay;
+    const topic = s.advisor && s.advisor.topic ? s.advisor.topic : 'pricing';
+    const cfg = ADVISOR[topic] || ADVISOR.pricing;
+    const follow = s.advisorFollowUp ? FOLLOWUPS[s.advisorFollowUp] : null;
+
+    const bedLabel = s.beds === 'any' ? null : s.beds + ' bed';
+    const barParts = [];
+    if (s.budgetTouched) barParts.push('your ' + money(s.budget) + ' all-in budget');
+    if (bedLabel) barParts.push(bedLabel);
+    if (s.dest) barParts.push('near ' + s.dest);
+    const personalized = barParts.length > 0;
+
+    const dayList = this.nextOpenDays(5);
+    const activeDayTime = s.bookerDay || dayList[0].getTime();
+    const selectedDate = new Date(activeDayTime);
+    const selectedLabel = DOW[selectedDate.getDay()] + ' ' + MONTHS[selectedDate.getMonth()].slice(0, 3) + ' ' + selectedDate.getDate();
+    const slots = selectedDate.getDay() === 6 ? SLOTS_SAT : SLOTS_WEEK;
+    const pickDay = d => () => this.setState({bookerDay: d.getTime(), bookerTime: null});
+    const dayPillStyle = active => 'font-family:var(--ff-display);font-weight:600;padding:8px 4px;border-radius:10px;cursor:pointer;text-align:center;min-width:0;' +
+      (active ? 'background:var(--bp-navy);color:var(--bp-paper);border:1.5px solid var(--bp-navy)'
+              : 'background:transparent;color:var(--bp-ink-soft);border:1.5px solid var(--bp-line)');
+    const bookerDays = dayList.map(d => ({
+      dow: DOW[d.getDay()],
+      day: String(d.getDate()),
+      style: dayPillStyle(activeDayTime === d.getTime()),
+      onSelect: pickDay(d)
+    }));
+
+    const firstOfMonth = new Date(TODAY.getFullYear(), TODAY.getMonth(), 1);
+    const daysInMonth = new Date(TODAY.getFullYear(), TODAY.getMonth() + 1, 0).getDate();
+    const monthCells = [];
+    for (let i = 0; i < firstOfMonth.getDay(); i++) {
+      monthCells.push({label: '', disabled: true, style: 'border:0;background:transparent;padding:8px 0'});
+    }
+    for (let n = 1; n <= daysInMonth; n++) {
+      const d = new Date(TODAY.getFullYear(), TODAY.getMonth(), n);
+      const avail = openDay(d) && d.getTime() >= TODAY.getTime();
+      const active = activeDayTime === d.getTime();
+      monthCells.push({
+        label: String(n),
+        disabled: !avail,
+        style: 'font-family:var(--ff-body);font-size:13px;padding:8px 0;border-radius:8px;text-align:center;' +
+          (active ? 'background:var(--bp-navy);color:var(--bp-paper);border:1px solid var(--bp-navy);cursor:pointer'
+                  : avail ? 'background:var(--bp-white);color:var(--bp-navy);border:1px solid var(--bp-line);cursor:pointer'
+                          : 'background:transparent;color:var(--bp-ink-muted);border:1px solid transparent;opacity:.45;cursor:default'),
+        onSelect: avail ? pickDay(d) : () => {}
+      });
+    }
+
+    const destRow = this.destinationRow();
+    const places = destRow
+      ? [Object.assign({}, destRow, {highlight: true})].concat(BASE_PLACES.map(p => Object.assign({}, p, {highlight: false})))
+      : BASE_PLACES.map(p => Object.assign({}, p, {highlight: false}));
+
+    const askStyle = 'display:inline-flex;align-items:center;gap:9px;text-align:left;font-family:var(--ff-display);font-weight:600;font-size:13.5px;line-height:1.3;padding:13px 20px;border-radius:999px;background:var(--bp-teal-soft);color:var(--ot-teal-ink);border:1.5px solid var(--bp-teal);cursor:pointer';
+
+    return {
+      menuOpen: s.menuOpen,
+      showPromo: showPromo,
+      askStyle: askStyle,
+      navStyle: 'display:' + (compact ? 'none' : 'flex') + ';gap:clamp(12px,2vw,26px);margin-left:clamp(16px,3vw,40px);font-family:var(--ff-display);font-weight:500;font-size:15px;white-space:nowrap',
+      headerCtaStyle: 'display:' + (compact ? 'none' : 'flex') + ';gap:10px;flex:0 0 auto',
+      menuBtnStyle: 'display:' + (compact ? 'flex' : 'none') + ';align-items:center;gap:9px;font-family:var(--ff-display);font-weight:600;font-size:14px;padding:11px 18px;border-radius:999px;border:1.5px solid var(--bp-navy);background:transparent;color:var(--bp-navy);cursor:pointer;flex:0 0 auto',
+      compactTourStyle: 'display:' + (compact && !tiny ? 'inline-flex' : 'none') + ';font-family:var(--ff-display);font-weight:600;font-size:14px;padding:11px 20px;border-radius:999px;background:var(--bp-orange);color:var(--bp-navy);white-space:nowrap;flex:0 0 auto',
+      onToggleMenu: () => this.setState(st => ({menuOpen: !st.menuOpen})),
+      onCloseMenu: () => this.setState({menuOpen: false}),
+
+      budget: s.budget,
+      budgetLabel: money(s.budget),
+      onBudget: e => this.setState({budget: parseInt(e.target.value, 10), budgetTouched: true}),
+      bedChoices: [
+        {key: 'any', label: 'Any'}, {key: 1, label: '1 bed'}, {key: 2, label: '2 bed'}, {key: 3, label: '3 bed'}
+      ].map(b => ({
+        label: b.label,
+        style: this.smallPillStyle(s.beds === b.key),
+        onSelect: () => this.setState({beds: b.key, bedsTouched: true})
+      })),
+      fitSummary: s.budgetTouched || s.bedsTouched
+        ? fitCount + ' of ' + bedPool + (bedPool === 1 ? ' plan' : ' plans') + ' in that range come in at or under ' + money(s.budget) + ' all-in.'
+        : 'Move the slider and this page will keep working from your number. Everything stays browsable if you skip it.',
+
+      featured: {
+        name: f.name,
+        meta: f.beds + ', ' + f.baths + ', ' + f.sqft + ' sq ft',
+        allIn: money(allIn(f)),
+        tag: s.budgetTouched ? (fitsBudget ? 'Fits your budget' : 'Closest match') : (s.bedsTouched ? 'Closest match' : 'Sample'),
+        tagStyle: 'font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:6px 12px;border-radius:999px;white-space:nowrap;' +
+          (s.budgetTouched
+            ? (fitsBudget ? 'background:var(--bp-teal-soft);color:var(--ot-teal-ink);border:1.5px solid var(--bp-teal)' : 'background:var(--bp-peach-soft);color:var(--bp-ink-soft);border:1.5px solid var(--bp-peach)')
+            : 'background:transparent;color:var(--bp-ink-muted);border:1.5px solid var(--bp-line)'),
+        verdict: s.budgetTouched
+          ? (fitsBudget
+              ? 'That is ' + money(s.budget - allIn(f)) + ' under the budget you set, and it is the largest plan in range.'
+              : 'This is the closest plan to your budget, ' + money(allIn(f) - s.budget) + ' over. The two months free promotion may close part of that gap on eligible homes.')
+          : 'This is the example plan. Set a budget above and this card will follow it.'
+      },
+      breakdown: [
+        {label: 'Base rent', value: money(f.base)},
+        {label: 'Water and sewer', value: money(f.water)},
+        {label: 'Trash and recycling', value: money(FEES.trash)},
+        {label: 'Technology package', value: money(FEES.tech)},
+        {label: 'Pest control', value: money(FEES.pest)}
+      ],
+      askPricing: () => this.openAdvisor('pricing'),
+      askLease: () => this.openAdvisor('lease'),
+      askDeposit: () => this.openAdvisor('deposit'),
+      askReleasing: () => this.openAdvisor('releasing'),
+      askQuietest: () => this.openAdvisor('quietest'),
+      askCommute: () => this.openAdvisor('commute'),
+      askFit: () => this.openAdvisor('fit'),
+      askDotStyle: 'width:7px;height:7px;border-radius:999px;background:var(--ot-teal-ink);flex:0 0 auto',
+
+      rootStyle: 'font-family:var(--ff-body);color:var(--bp-navy);background:var(--bp-paper);min-height:100vh;--ot-anchor-offset:' + (s.barDismissed ? '92px' : '140px'),
+      barVisible: !s.barDismissed,
+      barStyle: 'border-top:1px solid ' + (personalized ? 'rgba(250,246,239,.16)' : 'var(--bp-line)') + ';background:' +
+        (personalized ? 'var(--ot-teal-ink)' : 'var(--bp-paper-deep)') + ';color:' + (personalized ? 'var(--bp-paper)' : 'var(--bp-navy)'),
+      barLine: personalized ? 'Showing everything for ' + barParts.join(' \u00b7 ') : 'Set a budget and this page tailors itself to your number.',
+      barAction: personalized ? 'Adjust' : 'Set a budget',
+      barActionStyle: 'font-family:var(--ff-display);font-weight:600;font-size:13px;padding:7px 15px;border-radius:999px;white-space:nowrap;' +
+        (personalized ? 'border:1.5px solid rgba(250,246,239,.5);color:var(--bp-paper)' : 'border:1.5px solid var(--ot-teal-ink);color:var(--ot-teal-ink)'),
+      onDismissBar: () => this.setState({barDismissed: true, advisor: null}),
+      barAskLabel: tiny ? 'Ask' : 'Ask about Oak Trail',
+      barAskStyle: 'display:inline-flex;align-items:center;gap:8px;font-family:var(--ff-display);font-weight:600;font-size:13px;padding:7px 15px;border-radius:999px;cursor:pointer;white-space:nowrap;' +
+        (personalized
+          ? 'background:var(--bp-paper);color:var(--ot-teal-ink);border:1.5px solid var(--bp-paper)'
+          : 'background:var(--ot-teal-ink);color:var(--bp-paper);border:1.5px solid var(--ot-teal-ink)'),
+      barAskDotStyle: 'width:7px;height:7px;border-radius:999px;flex:0 0 auto;background:' + (personalized ? 'var(--bp-teal-deep)' : 'var(--bp-teal)'),
+      barCloseStyle: 'background:transparent;border:0;font-size:16px;line-height:1;cursor:pointer;padding:4px;color:' + (personalized ? 'rgba(250,246,239,.6)' : 'var(--bp-ink-muted)'),
+
+      homesCountLine: s.budgetTouched
+        ? fitCount + ' of 6 plans fit your ' + money(s.budget) + ' all-in budget.'
+        : 'All six plans, with every required monthly fee already inside the price.',
+      homesCountStyle: 'font-family:var(--ff-display);font-weight:600;font-size:clamp(17px,2vw,21px);line-height:1.35;margin:14px 0 0;color:' +
+        (s.budgetTouched ? 'var(--ot-teal-ink)' : 'var(--bp-ink-soft)'),
+
+      filters: filterDefs.map((fd, i) => ({
+        label: fd.label,
+        style: this.pillStyle(i === s.filter),
+        onSelect: () => this.setState({filter: i})
+      })),
+      budgetFilterStyle: this.pillStyle(s.budgetFilter),
+      budgetFilterLabel: 'Fits ' + money(s.budget) + ' all-in',
+      onToggleBudgetFilter: () => this.setState(st => ({budgetFilter: !st.budgetFilter})),
+      resultCount: visible.length === 1 ? '1 plan' : visible.length + ' plans',
+      noneVisible: visible.length === 0,
+      emptyHint: 'Nothing in that bedroom count comes in at or under ' + money(s.budget) + ' all-in. Raise the budget slider, widen the bedroom filter, or turn off the budget toggle to see everything.',
+      onResetFilters: () => this.setState({filter: 0, budgetFilter: false}),
+
+      visiblePlans: (s.budgetTouched
+        ? visible.slice().sort((a, b) => (allIn(a) <= s.budget ? 0 : 1) - (allIn(b) <= s.budget ? 0 : 1))
+        : visible).map(p => {
+        const within = allIn(p) <= s.budget;
+        return {
+          name: p.name, tier: p.tier, beds: p.beds, baths: p.baths, sqft: p.sqft, img: p.img,
+          imgAlt: p.name + ' floor plan',
+          thumbStyle: 'width:100%;height:190px;background:url(' + p.img + ') center center / contain no-repeat;mix-blend-mode:multiply',
+          allIn: money(allIn(p)),
+          promo: p.promo && showPromo,
+          avail: p.avail === 0 ? 'Waitlist' : p.avail + ' available',
+          availStyle: 'position:absolute;top:14px;left:14px;font-family:var(--ff-display);font-weight:600;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:6px 11px;border-radius:999px;' +
+            (p.avail === 0 ? 'background:var(--bp-paper);color:var(--bp-ink-muted);border:1.5px solid var(--bp-line)' : 'background:var(--bp-navy);color:var(--bp-paper)'),
+          fitNote: s.budgetTouched
+            ? (within ? money(s.budget - allIn(p)) + ' under your budget' : money(allIn(p) - s.budget) + ' over your budget')
+            : 'Includes all required monthly fees',
+          fitStyle: 'font-family:var(--ff-body);font-size:12.5px;margin:6px 0 0;color:' +
+            (s.budgetTouched ? (within ? 'var(--ot-teal-ink)' : 'var(--bp-ink-muted)') : 'var(--bp-ink-muted)'),
+          selected: s.compare.indexOf(p.id) > -1,
+          cardStyle: 'display:flex;flex-direction:column;background:var(--bp-white);border-radius:12px;overflow:hidden;transition:opacity 220ms var(--ease-out),box-shadow 220ms var(--ease-out);' +
+            (s.budgetTouched && !within ? 'opacity:.52;' : '') + 'border:' +
+            (s.compare.indexOf(p.id) > -1 ? '1.5px solid var(--bp-teal)' : '1px solid var(--bp-line)') +
+            ';box-shadow:0 1px 2px rgba(26,39,68,.06),0 8px 24px rgba(26,39,68,.08)',
+          onToggle: () => this.toggleCompare(p.id),
+          onTour: () => this.openBooker(p.name),
+          onAsk: () => this.openAdvisor('plan', p.id)
+        };
+      }),
+
+      hasCompare: s.compare.length > 0,
+      compareOpen: s.compareOpen,
+      compareCount: s.compare.length === 1 ? '1 plan. Select one more to see them side by side.' : s.compare.length + ' plans side by side',
+      compareToggleLabel: s.compareOpen ? 'Hide comparison' : 'Show comparison',
+      onExpandCompare: () => this.setState(st => ({compareOpen: !st.compareOpen})),
+      onClearCompare: () => this.setState({compare: []}),
+      compareCols: selected.map(p => ({
+        name: p.name,
+        onRemove: () => this.toggleCompare(p.id),
+        onTour: () => this.openBooker(p.name),
+        rows: [
+          {label: 'Layout', value: p.beds + ', ' + p.baths},
+          {label: 'Square feet', value: p.sqft},
+          {label: 'Base rent from', value: money(p.base)},
+          {label: 'All-in from', value: money(allIn(p)) + '/mo'},
+          {label: 'Available now', value: p.avail === 0 ? 'Waitlist' : String(p.avail)},
+          {label: 'Vs your budget', value: allIn(p) <= s.budget ? money(s.budget - allIn(p)) + ' under' : money(allIn(p) - s.budget) + ' over'},
+          {label: 'Two months free', value: p.promo ? 'Eligible' : 'Not on this plan'},
+          {label: 'Notable', value: p.note}
+        ]
+      })),
+
+      destDraft: s.destDraft,
+      onDestChange: e => this.setState({destDraft: e.target.value}),
+      onDestApply: () => this.setState(st => ({dest: st.destDraft.trim() ? st.destDraft.trim() : null})),
+      destChips: ['Downtown Denver', 'Denver Tech Center', 'Anschutz Medical Campus'].map(d => ({
+        label: d,
+        style: this.chipStyle(s.dest === d),
+        onSelect: () => this.setState({dest: d, destDraft: d})
+      })),
+      places: places.map(p => ({
+        name: p.name, kind: p.kind, time: p.time,
+        rowStyle: 'display:flex;gap:16px;align-items:baseline;justify-content:space-between;padding:16px 0;border-bottom:1px solid var(--bp-line);' +
+          (p.highlight ? 'border-left:2px solid var(--bp-teal);padding-left:14px;background:rgba(0,188,212,.06)' : '')
+      })),
+
+      amenities: AMENITIES.map(a => ({title: a.title, body: a.body, icon: svg(a.icon, 24)})),
+      fitFor: FIT_FOR,
+      fitAgainst: FIT_AGAINST,
+      fitVerdict: s.budgetTouched
+        ? (inRangeNames.length
+            ? 'At your ' + money(s.budget) + ' budget, ' + inRangeNames + ' ' + (fitCount === 1 ? 'is' : 'are') + ' in range. Bring that number to your tour and ask what changes it.'
+            : 'At your ' + money(s.budget) + ' budget, nothing is in range yet. The closest plan is ' + f.name + ' at ' + money(allIn(f)) + ' all-in, and the two months free promotion may close part of that gap.')
+        : 'Still deciding? Set a budget in the pricing section and this page will tell you which plans are in range.',
+
+      faqs: FAQS.map((q, i) => ({
+        q: q.q, a: q.a,
+        open: s.faq === i,
+        onToggle: () => this.setState(st => ({faq: st.faq === i ? -1 : i})),
+        iconStyle: 'font-family:var(--ff-body);font-size:22px;color:var(--ot-teal-ink);transition:transform 220ms var(--ease-out);flex:0 0 auto;transform:rotate(' + (s.faq === i ? '45deg' : '0deg') + ')'
+      })),
+      badges: [
+        {label: 'Equal Housing Opportunity', icon: svg(['M3 21h18','M5 21V8l7-5 7 5v13','M9 21v-6h6v6'], 20)},
+        {label: 'Pet friendly community', icon: svg(['M11 5.5c0 1.38-.67 2.5-1.5 2.5S8 6.88 8 5.5 8.67 3 9.5 3 11 4.12 11 5.5z','M16 5.5c0 1.38-.67 2.5-1.5 2.5S13 6.88 13 5.5 13.67 3 14.5 3s1.5 1.12 1.5 2.5z','M6 11c0 1.1-.67 2-1.5 2S3 12.1 3 11s.67-2 1.5-2S6 9.9 6 11z','M21 11c0 1.1-.67 2-1.5 2s-1.5-.9-1.5-2 .67-2 1.5-2 1.5.9 1.5 2z','M12 10c2.8 0 5 2.4 5 5.4 0 2.2-1.4 3.6-3.3 3.6h-3.4C8.4 19 7 17.6 7 15.4 7 12.4 9.2 10 12 10z'], 20)},
+        {label: 'Smoke free throughout', icon: svg(['M2 12h20','M18 8v8','M4 4l16 16'], 20)}
+      ],
+
+      bookerCardStyle: 'width:100%;max-width:640px;justify-self:end;background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;padding:clamp(18px,2vw,22px);box-shadow:0 1px 2px rgba(26,39,68,.06),0 8px 24px rgba(26,39,68,.08)',
+      bookerPicking: !s.booked,
+      bookerConfirmed: !!s.booked,
+      bookerSubhead: s.bookerPlan ? 'For ' + s.bookerPlan + '. About 20 minutes.' : 'About 20 minutes, with a leasing agent.',
+      onOpenBooker: () => this.openBooker(null),
+      onOpenBookerFromMenu: () => this.openBooker(null),
+      onBookFromAdvisor: () => this.openBooker(null),
+      onToggleAllDates: () => this.setState(st => ({allDates: !st.allDates})),
+      allDatesLabel: s.allDates ? 'Hide full calendar' : 'See all dates',
+      allDatesOpen: s.allDates,
+      monthLabel: MONTHS[TODAY.getMonth()] + ' ' + TODAY.getFullYear(),
+      monthGrid: monthCells,
+      bookerDays: bookerDays,
+      slotsLabel: 'Times on ' + selectedLabel,
+      slotGridStyle: 'display:grid;grid-template-columns:repeat(4,1fr);gap:6px',
+      allTimesLabel: s.allTimes ? 'Show fewer times' : 'See all times',
+      onToggleAllTimes: () => this.setState(st => ({allTimes: !st.allTimes})),
+      bookerSlots: (s.allTimes ? slots : slots.slice(0, 4)).map(t => ({
+        label: t,
+        style: 'font-family:var(--ff-display);font-weight:600;font-size:13px;padding:9px 2px;border-radius:999px;cursor:pointer;white-space:nowrap;' +
+          (s.bookerTime === t
+            ? 'background:var(--ot-teal-ink);color:var(--bp-paper);border:1.5px solid var(--ot-teal-ink)'
+            : 'background:transparent;color:var(--bp-ink-soft);border:1.5px solid var(--bp-line)'),
+        onSelect: () => this.setState({bookerTime: t})
+      })),
+      confirmDisabled: !s.bookerTime,
+      confirmLabel: s.bookerTime ? 'Confirm ' + selectedLabel + ' at ' + s.bookerTime : 'Pick a time above',
+      confirmStyle: 'font-family:var(--ff-display);font-weight:600;font-size:14px;padding:12px 22px;border-radius:999px;border:0;' +
+        (s.bookerTime
+          ? 'background:var(--bp-orange);color:var(--bp-navy);cursor:pointer'
+          : 'background:var(--bp-paper-deep);color:var(--bp-ink-muted);cursor:not-allowed'),
+      onConfirmBooker: () => {
+        if (!s.bookerTime) return;
+        this.setState({booked: {label: selectedLabel, time: s.bookerTime, plan: s.bookerPlan}});
+      },
+      confirmedLine: s.booked
+        ? (s.booked.plan ? s.booked.plan + ', ' : '') + s.booked.label + ' at ' + s.booked.time + '.'
+        : '',
+
+      advisorOpen: !!s.advisor,
+      advisorMenu: inMenu,
+      advisorAnswering: !!s.advisor && !inMenu,
+      onToggleAdvisor: () => this.setState(st => (st.advisor ? {advisor: null, advisorFollowUp: null} : {advisor: {menu: true}, advisorFollowUp: null})),
+      onBackToMenu: () => this.openMenu(),
+      menuLabel: menuCfg.label,
+      menuItems: menuCfg.items.map(pair => ({
+        label: pair[0] === 'topic' ? ADVISOR[pair[1]].question : FOLLOWUPS[pair[1]].label,
+        onSelect: pair[0] === 'topic'
+          ? () => this.openAdvisor(pair[1])
+          : () => this.setState({advisor: {topic: 'pricing'}, advisorFollowUp: pair[1]})
+      })),
+      drawerStyle: 'position:absolute;left:0;right:0;top:100%;z-index:70;padding:0 clamp(8px,3vw,40px);display:flex;justify-content:flex-end;pointer-events:none',
+      drawerCardStyle: 'pointer-events:auto;margin-top:' + (compact ? '8px' : '14px') + ';width:' + (compact ? '100%' : 'min(392px,100%)') +
+        ';background:var(--bp-white);border:1px solid var(--bp-line);border-radius:12px;box-shadow:0 18px 40px rgba(26,39,68,.16);overflow:hidden;animation:otRise 200ms var(--ease-out) both',
+      advisorTitle: inMenu ? 'Ask about Oak Trail' : cfg.title,
+      advisorQuestion: follow ? follow.label : cfg.question,
+      advisorAnswer: follow ? follow.answer : this.advisorAnswerFor(topic, s.advisor ? s.advisor.planId : null, s.budget, s.budgetTouched),
+      onCloseAdvisor: () => this.setState({advisor: null, advisorFollowUp: null}),
+      chips: cfg.chips.map(k => ({
+        label: FOLLOWUPS[k].label,
+        style: this.chipStyle(s.advisorFollowUp === k),
+        onSelect: () => this.setState({advisorFollowUp: k})
+      }))
+    };
+  }
+}
+
+</script>
+</body>
+</html>

@@ -67,7 +67,7 @@ Weight limits at Greenville communities that impose them typically fall between 
 
 ### Downtown Greenville and the West End
 
-Downtown offers the highest walkability of any area in Greenville. <a href="https://www.fallspark.com/" target="_blank" rel="noopener">Falls Park on the Reedy</a> permits leashed dogs along its paved paths, and the <a href="https://www.greenvillerec.com/swamp-rabbit-trail/" target="_blank" rel="noopener">Swamp Rabbit Trail</a> is accessible directly from the West End. The tradeoff: Class A buildings downtown tend to carry stricter breed policies and higher pet fees. This area works well for active dog owners who walk daily and do not rely on a car.
+Downtown offers the highest walkability of any area in Greenville. <a href="https://www.fallspark.com/" target="_blank" rel="noopener">Falls Park on the Reedy</a> permits leashed dogs along its paved paths, and the <a href="https://www.greenvillerec.com/" target="_blank" rel="noopener">Swamp Rabbit Trail</a> is accessible directly from the West End. The tradeoff: Class A buildings downtown tend to carry stricter breed policies and higher pet fees. This area works well for active dog owners who walk daily and do not rely on a car.
 
 ### North Main Street Corridor
 

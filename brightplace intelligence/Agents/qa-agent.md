@@ -293,16 +293,20 @@ Skip this section entirely if content_type is "knowledgebase".
 
 ### 5.1 Internal Links
 - List every internal link (brightplace.ai URLs) in the article body.
-- Check that each points to a real page on the brightplace sitemap (https://www.brightplace.ai/sitemap.xml).
+- **CRITICAL: Verify EVERY internal link against the live sitemap at https://www.brightplace.ai/sitemap.xml.** Fetch the sitemap and confirm the exact URL exists. If not in sitemap, REJECT.
+- **Do NOT swap /guides/ and /resources/ paths.** These are separate CMS collections. A page at /guides/your-true-monthly-cost does NOT exist at /resources/your-true-monthly-cost. Always use the path shown in the sitemap.
 - Check that no link points to the article's own URL.
 - Check for `[INTERNAL LINK: topic]` placeholders and count them.
-- **REJECT** any link using the legacy `/knowledgebase/` path. All articles live at `/resources/[slug]`.
+- **REJECT** any link using the legacy `/knowledgebase/` path.
 - **REJECT** any link to these known non-existent URLs:
   - `/resources/studio-apartments` (does not exist)
   - `/resources/pet-friendly-houses-for-rent` (does not exist)
   - `/resources/1-bedroom-apartments-near-me` (does not exist)
   - `/guides/studio-apartments` (does not exist)
+  - Any `/resources/` URL for a page that lives under `/guides/` (check sitemap)
 - **Report:** List all internal links with VALID/INVALID/PLACEHOLDER status.
+
+<!-- Updated August 2026: Added mandatory sitemap verification rule after broken links were created by incorrectly swapping /guides/ to /resources/ paths. -->
 
 ### 5.2 External Links
 - List every external link (non-brightplace URLs) in the article body.

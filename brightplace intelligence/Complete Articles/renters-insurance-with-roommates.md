@@ -1,13 +1,14 @@
 ---
 title: "How Renters Insurance Works When You Have Roommates"
+seo_title: "Renters Insurance With Roommates | brightplace"
 meta_description: "Your roommate's stuff is not covered by your policy unless they are named on it. Here is what to know about renters insurance with roommates."
 slug: renters-insurance-with-roommates
 primary_keyword: "renters insurance with roommates"
 schema_types: ["Article", "FAQPage", "WebPage"]
 word_count_target: 1100-1300
-last_reviewed: "June 2026"
+last_reviewed: "August 2026"
 date_published: 2026-06-16
-date_modified: 2026-06-16
+date_modified: 2026-08-20
 author: brightplace
 ---
 
@@ -15,7 +16,7 @@ author: brightplace
 
 ## Does Renters Insurance Cover Your Roommate?
 
-Renters insurance does not automatically cover your roommate. A standard policy covers only the named insured, which is the person or persons listed by name on the policy declarations page whose belongings and liability are protected. If your roommate is not listed on the policy, their belongings and liability are not covered. The average renters insurance policy costs approximately $15 per month (as of Q1 2026, per [NAIC](https://content.naic.org/cipr-topics/homeowners-insurance) data), making separate policies affordable for most roommates.
+Renters insurance does not automatically cover your roommate. A standard policy covers only the named insured, which is the person or persons listed by name on the policy declarations page whose belongings and liability are protected. If your roommate is not listed on the policy, their belongings and liability are not covered. The average renters insurance policy costs approximately $18-$25 per month (as of Q3 2026, per [NAIC](https://content.naic.org/cipr-topics/homeowners-insurance) data), making separate policies affordable for most roommates.
 
 Your landlord's insurance covers the building structure only. It does not cover any tenant's belongings or liability. Every renter in the unit needs their own coverage, either through a shared policy or individual policies. Renters exploring [pet-friendly apartments](https://brightplace.ai/resources/pet-friendly-apartments-greenville-sc) should pay particular attention to liability coverage, since pet-related incidents are a common source of claims.
 
@@ -39,7 +40,7 @@ Here is how the two options compare:
 
 **When roommate moves out:** Shared policy must be updated. Separate policies require no change for you.
 
-**Monthly cost:** Shared policy runs $8-13 each (split). Separate policies run $13-18 each (as of Q1 2026).
+**Monthly cost:** Shared policy runs $10-15 each (split). Separate policies run $18-25 each (as of Q3 2026).
 
 **Availability:** Shared policies vary by insurer and state. Separate policies are available everywhere.
 
@@ -49,7 +50,7 @@ Here is how the two options compare:
 
 Any claim filed by a roommate on a shared policy is recorded against all named insureds in the CLUE database. The CLUE report (Comprehensive Loss Underwriting Exchange) is a database administered by LexisNexis that records insurance claims and is checked by insurers when pricing renters, auto, and homeowners policies. The [FTC provides guidance](https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/) on how to evaluate insurance policies and avoid common pitfalls. Claims history records typically follow a policyholder for five to seven years. A claim on your insurance record can raise future premiums by 20% or more, according to insurance industry analysis.
 
-Shared coverage limits are frequently misunderstood. A $30,000 personal property limit covers both people's belongings combined, not $30,000 per person. Most renters insurance policies also have per-category limits, often capping electronics at $1,500-$2,500 per claim, which is shared across all named insureds on a joint policy (as of Q1 2026).
+Shared coverage limits are frequently misunderstood. A $30,000 personal property limit covers both people's belongings combined, not $30,000 per person. Most renters insurance policies also have per-category limits, often capping electronics at $1,500-$2,500 per claim, which is shared across all named insureds on a joint policy (as of Q3 2026).
 
 When a claim is paid out, the check is issued to all named insureds. All parties must endorse it. This becomes complicated if the relationship sours. Every time a roommate moves in or out, the policy must be updated or replaced.
 
@@ -59,7 +60,7 @@ Shared policies are not always the wrong choice. Domestic partners or couples wi
 
 ## How Much Does Renters Insurance Cost With a Roommate?
 
-Renters insurance costs approximately $15 per month on average (as of Q1 2026, per NAIC data on HO-4 policies), though rates vary by city and neighborhood as outlined in brightplace's [Brooklyn neighborhood guide](https://brightplace.ai/guides/brooklyn-neighborhood-guide) and similar metro-level resources. On a shared policy, two roommates might split one premium of $15-25/month, paying $8-13 each. On separate policies, each roommate pays approximately $13-18/month individually.
+Renters insurance costs approximately $15 per month on average (as of Q3 2026, per NAIC data on HO-4 policies), though rates vary by city and neighborhood as outlined in brightplace's [Brooklyn neighborhood guide](https://brightplace.ai/guides/brooklyn-neighborhood-guide) and similar metro-level resources. On a shared policy, two roommates might split one premium of $15-25/month, paying $8-13 each. On separate policies, each roommate pays approximately $13-18/month individually.
 
 The cost difference between sharing and going separate is typically $5-10 per month per person. The savings are real but modest. Adding a roommate to an existing policy may require raising coverage limits to account for more belongings in the unit, which increases the premium beyond what splitting saves. For a complete look at what renters pay beyond base rent, see [your true monthly cost as a renter](https://brightplace.ai/guides/your-true-monthly-cost).
 

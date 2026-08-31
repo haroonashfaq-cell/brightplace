@@ -94,7 +94,7 @@ Vilano Beach welcomes dogs on leash at all times, including in the water. Cleanu
 
 ### Off-Leash Dog Parks
 
-For off-leash exercise, <a href="https://www.sjcfl.us/Parks/TreatyPark" target="_blank" rel="noopener">Treaty Park</a> is the closest option for stays in the western or downtown areas. It has two fenced areas separating small and large dogs. Ron Parker Park near St. Augustine Beach is the closest off-leash option for beach-area rental stays. If you are also exploring [apartments with dog parks](https://brightplace.ai/resources/apartments-with-dog-parks) for a permanent move, brightplace covers on-site amenities across major markets.
+For off-leash exercise, <a href="https://www.sjcfl.us/Beaches" target="_blank" rel="noopener">Treaty Park</a> is the closest option for stays in the western or downtown areas. It has two fenced areas separating small and large dogs. Ron Parker Park near St. Augustine Beach is the closest off-leash option for beach-area rental stays. If you are also exploring [apartments with dog parks](https://brightplace.ai/resources/apartments-with-dog-parks) for a permanent move, brightplace covers on-site amenities across major markets.
 
 ## Comparing Rental Types: Houses vs. Condos for Pet Owners
 

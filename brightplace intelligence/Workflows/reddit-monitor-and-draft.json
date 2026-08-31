@@ -1,0 +1,459 @@
+{
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes",
+              "minutesInterval": 15
+            }
+          ]
+        }
+      },
+      "id": "09b51c19-c838-493b-9248-061dd85ffb0a",
+      "name": "Every 15 Minutes",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [-700, 928]
+    },
+    {
+      "parameters": {
+        "jsCode": "const feeds = [\n  // Tier 1: High Priority\n  { feed_url: 'https://www.reddit.com/r/ApartmentHunting/new.rss', subreddit: 'ApartmentHunting', tier: 'high' },\n  { feed_url: 'https://www.reddit.com/r/renting/new.rss', subreddit: 'renting', tier: 'high' },\n  { feed_url: 'https://www.reddit.com/r/personalfinance/new.rss', subreddit: 'personalfinance', tier: 'high' },\n  { feed_url: 'https://www.reddit.com/r/FirstTimeRenter/new.rss', subreddit: 'FirstTimeRenter', tier: 'high' },\n  { feed_url: 'https://www.reddit.com/r/Frugal/new.rss', subreddit: 'Frugal', tier: 'high' },\n  // Tier 2: City-Specific\n  { feed_url: 'https://www.reddit.com/r/AskNYC/new.rss', subreddit: 'AskNYC', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/askdfw/new.rss', subreddit: 'askdfw', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Denver/new.rss', subreddit: 'Denver', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Charlotte/new.rss', subreddit: 'Charlotte', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Austin/new.rss', subreddit: 'Austin', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/phoenix/new.rss', subreddit: 'phoenix', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Philadelphia/new.rss', subreddit: 'Philadelphia', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/nashville/new.rss', subreddit: 'nashville', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/SanDiego/new.rss', subreddit: 'SanDiego', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/houston/new.rss', subreddit: 'houston', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Tampa/new.rss', subreddit: 'Tampa', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Chicago/new.rss', subreddit: 'Chicago', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Atlanta/new.rss', subreddit: 'Atlanta', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Seattle/new.rss', subreddit: 'Seattle', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/MinneapolisMN/new.rss', subreddit: 'MinneapolisMN', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/SaltLakeCity/new.rss', subreddit: 'SaltLakeCity', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/kansascity/new.rss', subreddit: 'kansascity', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Columbus/new.rss', subreddit: 'Columbus', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/Knoxville/new.rss', subreddit: 'Knoxville', tier: 'city' },\n  { feed_url: 'https://www.reddit.com/r/raleigh/new.rss', subreddit: 'raleigh', tier: 'city' },\n  // Tier 3: Topical\n  { feed_url: 'https://www.reddit.com/r/dogs/new.rss', subreddit: 'dogs', tier: 'topical' },\n  { feed_url: 'https://www.reddit.com/r/RemoteWork/new.rss', subreddit: 'RemoteWork', tier: 'topical' },\n  { feed_url: 'https://www.reddit.com/r/RealEstate/new.rss', subreddit: 'RealEstate', tier: 'topical' }\n];\n\nreturn feeds.map(f => ({ json: f }));"
+      },
+      "id": "ca9922da-af32-42c6-a5cb-3a7e693d862c",
+      "name": "Subreddit List",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [-500, 928]
+    },
+    {
+      "parameters": {
+        "options": {
+          "reset": false
+        }
+      },
+      "id": "loop-feeds",
+      "name": "Loop Over Feeds",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [-300, 928]
+    },
+    {
+      "parameters": {
+        "url": "={{ $json.feed_url }}",
+        "options": {}
+      },
+      "id": "94523d89-4f90-42c1-9ee1-930199c9c0d4",
+      "name": "Fetch RSS Feed",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1,
+      "position": [-100, 928],
+      "onError": "continueRegularOutput",
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Carry subreddit name and tier from the feed loop into each RSS post item\nconst feedItem = $('Loop Over Feeds').first().json;\nconst subreddit = feedItem.subreddit || 'unknown';\nconst tier = feedItem.tier || 'unknown';\n\nconst items = $input.all();\nconst output = [];\n\nfor (const item of items) {\n  // Skip error items from failed RSS fetch\n  if (item.json.error || !item.json.title) continue;\n  \n  output.push({\n    json: {\n      ...item.json,\n      subreddit: subreddit,\n      tier: tier\n    }\n  });\n}\n\n// If no valid items, return empty to avoid breaking the chain\nif (output.length === 0) {\n  return [{ json: { _empty: true, subreddit: subreddit } }];\n}\n\nreturn output;"
+      },
+      "id": "add-subreddit-name",
+      "name": "Add Subreddit Name",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [100, 928]
+    },
+    {
+      "parameters": {
+        "options": {
+          "reset": false
+        }
+      },
+      "id": "loop-posts",
+      "name": "Loop Over Posts",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [300, 928]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "loose",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "id": "not-empty",
+              "leftValue": "={{ $json._empty }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "notTrue"
+              }
+            },
+            {
+              "id": "keyword-match",
+              "leftValue": "={{ ($json.title || '') + ' ' + ($json.contentSnippet || $json.content || '') }}",
+              "rightValue": "apartment hunt|finding an apartment|apartment search|how to find an apartment|apartment tour|touring apartment|what to ask|leasing office|leasing agent|move.in cost|move.in fee|security deposit|pet friendly|pet.friendly|pet deposit|pet rent|breed restriction|dog friendly|cat friendly|renters insurance|renter.s insurance|roommate insurance|sublet|subletting|sublease|short.term lease|month.to.month|lease break|break my lease|early termination|no credit check|bad credit apartment|second chance apartment|first apartment|first time renter|how much rent|afford rent|rent.to.income|30. rule|40x rule|rent budget|rent afford|cheap apartment|affordable apartment|under .1.000|under .1.500|under .2.000|one bedroom|1 bedroom|two bedroom|2 bedroom|studio apartment|furnished apartment|apartment with garage|attached garage|apartment dog park|apartment with pool|in.unit laundry|washer dryer|apartment parking|apartment amenities|apartment fees|application fee|broker fee|no.fee apartment|rent stabiliz|rent control|apartment scam|rental scam|moving to|relocating to|where should I live|neighborhood for|best area for|cost of living|apartment near|apartments in|renting in|rent in|looking for apartment|apartment advice|apartment tip|apartment question|apartment recommend|apartment suggestion|renters rights|tenant rights|landlord won.t|landlord refuse|security deposit return|utility cost|utilities included|master.metered|apartment checklist|apartment comparison|apartment vs|house vs apartment|renting vs buying",
+              "operator": {
+                "type": "string",
+                "operation": "regex"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {
+          "looseTypeValidation": true
+        }
+      },
+      "id": "75c3a82f-d0b7-4dc9-ab37-bfaa933c1058",
+      "name": "Keyword Filter",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [500, 928],
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "loose",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "id": "negative-filter",
+              "leftValue": "={{ ($json.title || '') + ' ' + ($json.contentSnippet || $json.content || '') }}",
+              "rightValue": "eviction notice|eviction process|being evicted|lawsuit|suing|legal advice|legal action|attorney|lawyer|mold lawsuit|bed bug|cockroach|roach infestation|harassment|retaliation|discrimination complaint|fair housing complaint|restraining order|domestic violence|sex offender|registered offender|illegal activity|drug bust|police report|code violation|health department|condemn",
+              "operator": {
+                "type": "string",
+                "operation": "notRegex"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {
+          "looseTypeValidation": true
+        }
+      },
+      "id": "77161718-e4aa-41ae-baae-76f6ccfd201a",
+      "name": "Skip Legal/Dispute Posts",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [700, 928],
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "claude-sonnet-5",
+          "mode": "list",
+          "cachedResultName": "claude-sonnet-5"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "You are a renter education expert who helps people find apartments. You are NOT a brand representative. You sound like a real person who rents apartments and knows the market well.\n\nA Reddit user posted the following in r/{{ $json.subreddit }}:\n\nTitle: {{ $json.title }}\nBody: {{ $json.contentSnippet || $json.content || '(no body text)' }}\nPost URL: {{ $json.link }}\n\n---\n\nDo these 4 things:\n\n1. RELEVANCE — Rate this post:\n   - HIGH: Directly asks about finding, renting, or affording an apartment\n   - MEDIUM: Related to housing but not a direct apartment question\n   - LOW: Only tangentially related\n   - SKIP: Not relevant, do not draft an answer\n\n2. LINK_OPPORTUNITY — Would a brightplace article genuinely help this person?\n   - HIGH: A brightplace article directly answers their exact question\n   - MEDIUM: A brightplace article covers useful related context\n   - LOW: Weak match, better to just answer without a link\n   - NONE: No link needed\n\n3. DRAFT AN ANSWER following these strict rules:\n   - 100-200 words maximum\n   - First sentence directly answers the question\n   - Include at least one specific number or dollar figure\n   - Sound like a real Reddit user, NOT a brand or company\n   - Do NOT say \"brightplace\" anywhere in the answer body\n   - Be honest about tradeoffs and downsides\n   - If including a link, place it at the very END with casual framing like:\n     \"There's a solid breakdown of this here: [URL]\"\n     \"Someone put together a walkthrough that covers this: [URL]\"\n     \"This goes into more detail: [URL]\"\n   - Do NOT use marketing language (\"check out\", \"our platform\", \"we offer\")\n   - Do NOT link if LINK_OPPORTUNITY is LOW or NONE\n   - Maximum ONE link per answer\n\n4. SELECT THE BEST matching brightplace link (or NONE):\n\n   GUIDES:\n   - How to rent: https://www.brightplace.ai/guides/how-to-rent-an-apartment\n   - True monthly cost: https://www.brightplace.ai/guides/your-true-monthly-cost\n   - Austin: https://www.brightplace.ai/guides/austin-young-professionals\n   - Relocating Austin: https://www.brightplace.ai/guides/relocating-to-austin\n   - Brooklyn: https://www.brightplace.ai/guides/brooklyn-neighborhood-guide\n   - Charlotte: https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods\n   - Chicago pets: https://www.brightplace.ai/guides/chicago-pet-owners\n   - Dallas families: https://www.brightplace.ai/guides/dallas-families\n   - DC empty nesters: https://www.brightplace.ai/guides/dc-empty-nesters\n   - Denver: https://www.brightplace.ai/guides/denver-city-orientation\n   - San Diego dogs: https://www.brightplace.ai/guides/dog-friendly-neighborhoods-san-diego\n   - Fort Collins: https://www.brightplace.ai/guides/fort-collins-outdoor-renters\n   - Greensboro: https://www.brightplace.ai/guides/greensboro-renters-orientation\n   - Houston: https://www.brightplace.ai/guides/houston-city-orientation\n   - Huntsville: https://www.brightplace.ai/guides/huntsville-renters-orientation\n   - Kansas City: https://www.brightplace.ai/guides/kansas-city-young-professionals\n   - Knoxville: https://www.brightplace.ai/guides/knoxville-young-professionals\n   - Miami: https://www.brightplace.ai/guides/miami-city-orientation\n   - Minneapolis: https://www.brightplace.ai/guides/minneapolis-city-orientation\n   - Nashville: https://www.brightplace.ai/guides/nashville-corporate-relocation-neighborhoods\n   - Philadelphia: https://www.brightplace.ai/guides/philadelphia-city-orientation\n   - Phoenix: https://www.brightplace.ai/guides/phoenix-renters-orientation\n   - Raleigh: https://www.brightplace.ai/guides/raleigh-durham-young-professionals\n   - Salt Lake City: https://www.brightplace.ai/guides/salt-lake-city-renters-orientation\n   - Tampa: https://www.brightplace.ai/guides/tampa-renters-orientation\n   - UT Austin: https://www.brightplace.ai/guides/ut-austin-student-housing\n\n   RESOURCES:\n   - Pet-friendly: https://www.brightplace.ai/resources/pet-friendly-apartments-greenville-sc\n   - Renters insurance: https://www.brightplace.ai/resources/renters-insurance-with-roommates\n   - Short-term lease: https://www.brightplace.ai/resources/short-term-lease-agreement\n   - Sublet NYC: https://www.brightplace.ai/resources/sublet-apartments-nyc\n   - Tour questions: https://www.brightplace.ai/resources/questions-to-ask-when-touring-an-apartment\n   - Dog parks: https://www.brightplace.ai/resources/apartments-with-dog-parks\n   - Attached garages: https://www.brightplace.ai/resources/apartments-with-attached-garages\n   - 1BR NYC: https://www.brightplace.ai/resources/one-bedroom-apartment-nyc\n   - Mission Beach: https://www.brightplace.ai/resources/renting-mission-beach-san-diego\n   - Bloomington: https://www.brightplace.ai/resources/one-bedroom-apartments-bloomington-normal-il\n   - Venice Lofts: https://www.brightplace.ai/resources/venice-lofts-apartments-philadelphia-pa\n   - Century Charlotte: https://www.brightplace.ai/resources/century-university-city-apartments-charlotte\n   - Redstone Ranch: https://www.brightplace.ai/resources/redstone-ranch-denver\n   - No deposit: https://www.brightplace.ai/resources/homes-for-rent-no-deposit\n   - Parkside Plano: https://www.brightplace.ai/resources/parkside-at-legacy-plano\n\n   APP: https://app.brightplace.ai\n\n---\n\nRespond in this EXACT format:\n\nRELEVANCE: [HIGH/MEDIUM/LOW/SKIP]\nLINK_OPPORTUNITY: [HIGH/MEDIUM/LOW/NONE]\nSUGGESTED_LINK: [full URL or NONE]\n\nDRAFTED_ANSWER:\n[Your Reddit answer here, ready to copy-paste]"
+            }
+          ]
+        },
+        "options": {
+          "temperature": 0.7
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.anthropic",
+      "typeVersion": 1,
+      "position": [900, 928],
+      "id": "c8858e9d-078a-47ab-8e6f-d8f7c41ee817",
+      "name": "Claude: Draft Answer",
+      "credentials": {
+        "anthropicApi": {
+          "id": "Z8KFDX7AtmT6s0gj",
+          "name": "Anthropic account"
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": false,
+            "leftValue": "",
+            "typeValidation": "loose",
+            "version": 1
+          },
+          "conditions": [
+            {
+              "id": "skip-filter",
+              "leftValue": "={{ $json.text || '' }}",
+              "rightValue": "RELEVANCE: SKIP",
+              "operator": {
+                "type": "string",
+                "operation": "notContains"
+              }
+            },
+            {
+              "id": "has-content",
+              "leftValue": "={{ ($json.text || '').length }}",
+              "rightValue": 10,
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {
+          "looseTypeValidation": true
+        }
+      },
+      "id": "32a9bb7f-33ad-4580-b953-538fbd659c7f",
+      "name": "Skip if IRRELEVANT",
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2,
+      "position": [1100, 928],
+      "onError": "continueRegularOutput"
+    },
+    {
+      "parameters": {
+        "authentication": "oAuth2",
+        "select": "channel",
+        "channelId": {
+          "__rl": true,
+          "mode": "list",
+          "value": ""
+        },
+        "text": "🔔 *Reddit Opportunity*\n\n*Subreddit:* r/{{ $('Loop Over Posts').item.json.subreddit || 'unknown' }}\n*Post:* {{ $('Loop Over Posts').item.json.title || 'No title' }}\n*Link:* {{ $('Loop Over Posts').item.json.link || 'No link' }}\n*Tier:* {{ $('Loop Over Posts').item.json.tier || 'unknown' }}\n\n---\n\n{{ $json.text || $('Claude: Draft Answer').item.json.text || 'No draft generated' }}\n\n---\n\n_Review the drafted answer. If good, copy-paste into the Reddit post manually._",
+        "otherOptions": {}
+      },
+      "id": "3568cabc-5823-45d3-8fa1-b2fe2b4082bd",
+      "name": "Slack: Send Opportunity",
+      "type": "n8n-nodes-base.slack",
+      "typeVersion": 2.2,
+      "position": [1300, 928],
+      "webhookId": "b700736a-c600-41d9-8c5b-5ef1ebe1ee84",
+      "credentials": {
+        "slackOAuth2Api": {
+          "id": "Ei7qonO9LNAmzA5p",
+          "name": "Slack OAuth2 API"
+        }
+      },
+      "disabled": true
+    },
+    {
+      "parameters": {},
+      "id": "no-op-keyword",
+      "name": "No Match (skip)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [500, 1200]
+    },
+    {
+      "parameters": {},
+      "id": "no-op-legal",
+      "name": "Legal Post (skip)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [700, 1200]
+    },
+    {
+      "parameters": {},
+      "id": "no-op-irrelevant",
+      "name": "Irrelevant (skip)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [1100, 1200]
+    }
+  ],
+  "connections": {
+    "Every 15 Minutes": {
+      "main": [
+        [
+          {
+            "node": "Subreddit List",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Subreddit List": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Feeds",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Feeds": {
+      "main": [
+        [
+          {
+            "node": "Fetch RSS Feed",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch RSS Feed": {
+      "main": [
+        [
+          {
+            "node": "Add Subreddit Name",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Add Subreddit Name": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Posts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Posts": {
+      "main": [
+        [
+          {
+            "node": "Keyword Filter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Keyword Filter": {
+      "main": [
+        [
+          {
+            "node": "Skip Legal/Dispute Posts",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "No Match (skip)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "No Match (skip)": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Posts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Skip Legal/Dispute Posts": {
+      "main": [
+        [
+          {
+            "node": "Claude: Draft Answer",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Legal Post (skip)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Legal Post (skip)": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Posts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude: Draft Answer": {
+      "main": [
+        [
+          {
+            "node": "Skip if IRRELEVANT",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Skip if IRRELEVANT": {
+      "main": [
+        [
+          {
+            "node": "Slack: Send Opportunity",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Irrelevant (skip)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Slack: Send Opportunity": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Posts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Irrelevant (skip)": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Posts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "pinData": {},
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "0a869b562dcd874f267c955b18aa4f522491a48821afe86c6fdb1a950be0c3a0"
+  }
+}
