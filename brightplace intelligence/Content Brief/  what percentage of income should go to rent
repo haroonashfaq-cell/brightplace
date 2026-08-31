@@ -1,0 +1,421 @@
+# CONTENT BRIEF: What Percentage of Income Should Go to Rent
+
+**For:** brightplace.ai/knowledgebase/
+**Keyword:** what percentage of income should go to rent
+**Brief Version:** 1.0
+
+---
+
+## 1. SERP Intent Analysis
+
+### 1a. Dominant Content Format
+
+The top results are uniformly **how-to/explainer guides** with embedded comparison tables and FAQ sections. Every competitor (NerdWallet, SoFi, American Express, Rocket Mortgage, Experian, Chase, NerdWallet) follows the same pattern: open with the 30% rule answer, explain alternatives, add a table, close with tips. The article must match this format: a direct-answer how-to guide with structured comparison, not a listicle and not a pure definition page.
+
+### 1b. Content Depth Benchmark
+
+Top competitor word counts range from approximately 900 words (AAA, Chase) to 2,500+ words (SoFi, Rocket Mortgage, NerdWallet). The majority cluster between 1,100 and 1,500 words. For this keyword cluster, the intent is satisfied by a focused, structured 1,100-1,300 word piece. Going longer without adding genuine information gain will not improve ranking. Target: **1,100-1,300 words**.
+
+### 1c. SERP Features Present
+
+- **People Also Ask box:** Present (13 questions listed in Data Source 2). Structure 5-8 H3 questions to target these directly using question-format headings with concise 40-60 word answers.
+- **AI Overview:** Likely present given that both Claude and ChatGPT have clear, structured answers to this query. The opening paragraph must be optimized for AI extraction: direct answer + specific number + context.
+- **No featured snippet currently claimed:** This is an opportunity. The first H2 answer paragraph should be written at exactly 40-60 words, starting with a direct declarative statement, to compete for the featured snippet position.
+- **No local pack, no video carousel, no knowledge panel:** Not applicable to this keyword.
+
+### 1d. Intent Match Validation
+
+**Searcher intent (one sentence):** The searcher wants a specific, actionable percentage guideline so they can determine whether a specific apartment is within their budget before signing a lease or submitting an application.
+
+**Primary intent:** Informational with a transactional undertone. The searcher is likely mid-search for an apartment and needs a number to work with right now.
+
+**Secondary intent:** Some searchers are landlords or property managers looking for screening thresholds (the rent-to-income ratio application).
+
+**This brief targets:** Primary intent. The article speaks to a renter making a real decision, not to a landlord screening tenants.
+
+**Format confirmed:** The how-to/explainer guide with embedded calculations, comparison table, and FAQ matches this intent.
+
+---
+
+## 2. Recommended Titles (3 Options)
+
+**Option A:**
+What Percentage of Income Should Go to Rent?
+
+**Option B:**
+How Much of Your Income Should Go to Rent?
+
+**Option C:**
+A Practical Look at What to Spend on Rent
+
+**Recommended: Option A** — matches the exact keyword query, performs as both a Google search title and an AI citation anchor.
+
+**Meta description (under 155 characters):**
+The 30% rule is the starting point, but your actual number depends on income, debt, and city. Here is how to find yours.
+
+**Recommended URL slug:**
+`brightplace.ai/knowledgebase/what-percentage-of-income-should-go-to-rent`
+
+---
+
+## 3. Target Audience & Searcher Profile
+
+The primary searcher is a **young professional or first-time renter**, most likely between 23 and 35, who is actively apartment hunting and has found a listing they are considering. They have a specific rent number in front of them and want to know if it is reasonable for their income before committing. They may also be building their first budget or relocating to a new city where cost of living differs from what they know.
+
+This person is in the **comparison and decision stage** of the renter journey. They are not browsing options; they are stress-testing a real financial choice.
+
+The problem they are trying to solve: "I make $X per month. Is $Y per month in rent too much? What is the rule, and does it apply to me?"
+
+Based on the SERP analysis, they expect a direct answer with a percentage, a calculation method, and honest acknowledgment that the standard rule does not always apply.
+
+---
+
+## 4. Keywords & Entities
+
+**Primary keyword:**
+what percentage of income should go to rent
+
+**Secondary keywords (10-15):**
+- how much should i spend on rent
+- rent to income ratio
+- 30 percent rule rent
+- 30% rule housing
+- rent affordability
+- how much rent can i afford
+- 50/30/20 rule rent
+- gross income rent calculation
+- rent budget guideline
+- what is a good rent to income ratio
+- rent to income calculator
+- monthly rent budget
+- rent percentage of income
+- how much of paycheck for rent
+- cost burdened renter
+
+**Entities to mention (5-10):**
+- Brooke Amendment (historical origin of the 30% standard)
+- U.S. Census Bureau (source on cost-burdened renters)
+- U.S. Department of Housing and Urban Development (HUD)
+- Gross income vs. net income (definitional distinction)
+- 3x rent rule (landlord screening threshold)
+- 40x annual income rule (New York City standard)
+- 50/30/20 budget framework
+- Cost-burdened household (defined as spending more than 30% on housing)
+- Security deposit (upfront cost factor)
+- Renters insurance (additional housing cost)
+
+**Terms to avoid:**
+- "Best," "top," "ultimate," "everything you need to know," "#1"
+- "Dive into," "deep dive," "navigate," "landscape," "unlock," "leverage"
+- "Whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably"
+- "Hidden gem," "best-kept secret," "vibrant," "bustling," "thriving"
+- Signal (any form): use "indicator," "suggests," "points to," "reflects"
+- Em dashes (use commas, periods, semicolons, colons, or parentheses)
+- ILS brand names (Apartments.com, Zillow, Trulia, Zumper, etc.)
+
+---
+
+## 5. Content Outline
+
+### H1: What Percentage of Income Should Go to Rent?
+
+---
+
+### H2: The Short Answer: Aim for 30% of Gross Income
+
+**Writing instruction:** Open with a direct, 40-60 word answer that defines the 30% rule using gross income, gives a quick calculation example, and states that this is a starting point, not a hard rule. This section targets the featured snippet and AI extraction. Do not contextualize before answering. The answer must be the first sentence.
+
+**Data to include:** The Brooke Amendment origin (1969, updated 1981 to 30%). HUD's definition of cost-burdened (spending more than 30% on housing). One quick example: "$5,000 gross monthly income = maximum $1,500 in rent."
+
+---
+
+### H2: Gross Income vs. Net Income: Which Number to Use
+
+**Writing instruction:** Clarify the single most common source of confusion in this topic. The 30% rule uses gross (pre-tax) income, but the 50/30/20 rule uses net (take-home) income. Explain why this matters using a concrete example. A person earning $60,000 per year has a gross monthly income of $5,000 but a net monthly income of approximately $3,700-$3,900 after federal taxes, depending on filing status and state. Rent that is "30% of gross" is actually closer to 38-41% of take-home pay.
+
+**[CONTENT GAP]:** No top competitor clearly explains the gross-to-net distortion at a practical level. NerdWallet and SoFi mention both figures but do not show how dramatically the real burden shifts when you account for taxes. This calculation gap is a direct citation opportunity.
+
+**Data to include:** Example showing the gross-to-net gap for a $60,000/year earner at a 22% effective federal tax rate (plus a moderate state rate). Show that "30% of gross" and "30% of net" produce very different affordable rent ceilings.
+
+---
+
+### H2: Two Budgeting Frameworks and When to Use Each
+
+**Writing instruction:** Present the 30% rule and the 50/30/20 rule side by side. Explain which one to use and when, with honest tradeoffs. Include a comparison table. Write one paragraph per framework before the table, then summarize in a brief recommendation.
+
+**Include this comparison table:**
+
+| Framework | Based On | Rent Allocation | Best For |
+|---|---|---|---|
+| 30% Rule | Gross income | Up to 30% for rent alone | Quick calculation, landlord qualification threshold |
+| 50/30/20 Rule | Net (take-home) income | Rent is part of 50% for all needs | Full budget picture, includes utilities, debt, groceries |
+
+**Writing instruction for table:** The 50/30/20 table column must note that rent typically consumes 25-35% of the 50% needs allocation, depending on other fixed costs (utilities, transportation, minimum debt payments). If rent alone takes the full 50%, the budget collapses.
+
+---
+
+### H2: What the 3x Rent Rule Means for Renters
+
+**Writing instruction:** Explain the 3x rent rule from the renter's perspective. Most landlords require gross monthly income of at least 3 times the monthly rent. This is a screening threshold, not a spending recommendation. Many landlords in high-cost cities (particularly New York City) use a 40x annual income standard instead. Walk through both calculations. Clarify that meeting a landlord's income requirement does not necessarily mean the rent is affordable for the renter's actual budget.
+
+**[CONTENT GAP]:** Competitors either skip the 3x/40x rule entirely or cover it from the landlord perspective. No top competitor addresses the gap between what a landlord requires and what is actually financially healthy for the renter. This is a practical distinction that AI engines do not currently flag in their responses.
+
+**Data to include:** Formula for 3x rule (monthly rent × 3 = minimum monthly gross income required). Formula for 40x rule (monthly rent × 40 = minimum annual gross income required). Example: $2,200/month rent requires $6,600/month gross (3x) or $88,000/year gross (40x).
+
+---
+
+### H2: When Spending More Than 30% Makes Sense
+
+**Writing instruction:** Give honest, specific conditions under which going above 30% is a reasonable trade. Do not moralize. The goal is to help the reader make an informed decision, not to scare them into under-renting. Each condition must be concrete, not vague.
+
+**Conditions to cover:**
+- High-cost cities where 30% is structurally impossible at median income (reference the gap between median rent and median renter income in cities like San Francisco and New York without making neighborhood quality claims)
+- Rapid income growth (signed job offer, promotion timeline under 6 months)
+- Minimal other debt (no car payment, low student loan burden, no dependents)
+- Location-offset savings (walking to work eliminates transportation costs; building with included utilities offsets higher base rent)
+
+**Writing instruction:** Keep this section under 200 words. Honesty is the value here. Do not pad it with generic advice.
+
+---
+
+### H2: When to Stick Below 30%
+
+**Writing instruction:** Mirror the previous section. List specific conditions where the renter should target 25% or lower. Be direct and specific.
+
+**Conditions to cover:**
+- Carrying student loan, auto, or credit card debt above $500/month in minimum payments
+- Variable or freelance income (use lowest-earning month over the past 12 months as the baseline, not the average)
+- Saving for a down payment or another large near-term goal
+- Planning a major life expense within the lease period (relocation, family change, medical costs)
+
+---
+
+### H2: Other Costs That Affect Your Real Rent Budget
+
+**Writing instruction:** List the costs that commonly fall outside base rent but are part of the true housing cost. Present as a brief, scannable list with one-sentence explanations. This section targets the PAA question "What percentage of income should go to rent and utilities."
+
+**Costs to cover:**
+- Utilities (electricity, gas, water, internet): typically $150-$350/month depending on unit size and location (as of Q2 2026). Always ask the landlord for the average monthly utility total before signing.
+- Renters insurance: typically $15-$30/month. Many landlords require it.
+- Parking: varies widely; in urban markets can add $100-$300/month
+- Pet fees: where applicable, adds deposit plus monthly fees
+- Security deposit: typically 1-2 months rent upfront, which affects cash needed at move-in, not monthly budget
+
+**Writing instruction:** Note that the 30% rule covers base rent only. The 50/30/20 rule's 50% bucket is meant to absorb rent plus these additional housing-related costs. This framing resolves the frequent reader confusion about which rule to use and why.
+
+---
+
+### H2: How to Calculate Your Own Rent Ceiling
+
+**Writing instruction:** Give the reader two calculations they can do in under 60 seconds with any calculator. Present as numbered steps, not prose. Keep it clean. This section targets the PAA question "What percentage of income should go to rent calculator."
+
+**Step 1 (30% rule on gross):**
+1. Find your gross monthly income (pre-tax pay on your paycheck or annual salary divided by 12)
+2. Multiply by 0.30
+3. That number is the maximum rent ceiling under the 30% rule
+
+**Step 2 (50/30/20 on net):**
+1. Find your monthly take-home pay (net, after taxes and deductions)
+2. Multiply by 0.50 (your total needs budget)
+3. Add up your other fixed monthly needs: groceries, utilities, transportation, minimum debt payments
+4. Subtract those from your needs budget
+5. The remainder is the maximum rent that keeps you within the 50/30/20 framework
+
+**Writing instruction:** After the steps, include one sentence noting that the 50/30/20 calculation often produces a lower rent ceiling than the 30% gross rule, which is why both are worth running before committing.
+
+---
+
+### H2: Frequently Asked Questions
+
+**Writing instruction:** Write 6 FAQ pairs. Each answer must be 40-60 words. Use plain, direct language. These become FAQPage schema entries. Mark each question's source.
+
+**Questions for the FAQ section:**
+
+1. **Is 40% of income on rent too much?** (Source: PAA)
+2. **How much should I make to afford $2,500 rent?** (Source: PAA)
+3. **Does the 30% rule apply to gross or net income?** (Source: AI engine gap + competitor confusion)
+4. **Should utilities be included in the rent percentage?** (Source: PAA variation + AI gap)
+5. **Is the 50/30/20 rule realistic for rent in expensive cities?** (Source: PAA + AI engine)
+6. **What happens if my rent exceeds these guidelines?** (Source: Competitor gap; most competitors bury this)
+
+---
+
+## 6. E-E-A-T & Google Core Update Compliance
+
+### 6a. Experience Signals
+
+1. **brightplace search data framing:** Reference what brightplace observes across renter searches on its platform: "Renters using brightplace frequently filter by price before location, which reflects how central the budget question is before the search begins." This positions brightplace as a data-informed observer, not just an aggregator of existing advice.
+
+2. **Honest tradeoff framing:** The article should name specific tensions that only someone with real exposure to renters would know. For example: the gap between what a landlord's 3x rule approves and what is actually comfortable month-to-month. This is an experience claim, not a data claim.
+
+3. **Avoid false precision:** Do not cite exact market average rents as if they apply uniformly. Instead, note ranges and flag regional variation. This reflects the kind of nuanced understanding that comes from dealing with actual renters across multiple markets.
+
+### 6b. Expertise Signals
+
+- Cite the Brooke Amendment (1969) and its 1981 update to 30% as the origin of the standard. This is a specific, verifiable claim that reflects genuine topic knowledge.
+- Show the gross-to-net calculation explicitly (the content gap identified in Section 5). This is the kind of precise, practical calculation that only a source genuinely knowledgeable on renter finances would include.
+- Define "cost-burdened" using the HUD standard (spending more than 30% of gross income on housing). Use the U.S. Census Bureau figure that nearly half of renter households (approximately 49.7% as of the most recent Census data) qualify as cost-burdened. Do not round this or omit the source attribution.
+
+### 6c. Freshness & Date-Stamping
+
+- Every dollar figure (utility ranges, renters insurance estimates, security deposit norms) must include "(as of Q2 2026)" adjacent to the claim.
+- Include "Last reviewed: [Month] 2026" in the article byline or footer area.
+- **Claims most likely to go stale within 12 months:**
+  - Average utility cost ranges (energy prices fluctuate)
+  - Percentage of renters classified as cost-burdened (Census updates this periodically)
+  - City-specific rent figures (if included in examples)
+  - Renters insurance average cost (insurance rates shift annually)
+
+### 6d. Information Gain
+
+**Gap 1: The Gross-to-Net Distortion**
+No top competitor clearly shows how dramatically the "30% of gross" rule understates the real rent burden when converted to take-home pay. This article should include the worked example: a $60,000/year earner ($5,000 gross/month) may take home only $3,750-$3,900/month after federal income tax, resulting in a 30%-of-gross rent ceiling ($1,500) that actually represents 38-40% of real take-home pay. This is information gain because it directly corrects a widely repeated but practically misleading framing.
+
+**Gap 2: The 3x Rule vs. Actual Affordability Gap**
+Competitors either target landlords with the 3x/40x rule or skip it for renters. No competitor explains to a renter that meeting the landlord's income requirement (3x rent) is the floor for application approval, not a guarantee that the rent is financially comfortable. The article should state explicitly: a renter who earns exactly 3x the monthly rent is spending exactly 33.3% of gross income on rent, which is already above the 30% guideline. This is a practical insight no top competitor delivers for the renter perspective.
+
+**Gap 3: Variable Income Baseline**
+No competitor gives specific, actionable guidance on how freelancers or variable-income earners should calculate their rent ceiling. The AI engines flagged this. The article should specify: use the lowest-earning month of the past 12 as your baseline, not the average or the peak. This is a concrete rule that currently does not appear in any top-ranking result.
+
+### 6e. Helpful Content Checklist
+
+- **Clear, specific audience:** Young professionals and first-time renters in the decision stage of apartment search who need a budget calculation tool, not general financial philosophy. Confirmed.
+- **First-hand expertise:** The article demonstrates expertise through specific calculations, named policy origins (Brooke Amendment), and practical distinctions (3x approval threshold vs. actual affordability) that reflect real knowledge of how renters navigate this question.
+- **Reader achieves their goal:** After reading, the reader can calculate two different rent ceilings (30% of gross, 50/30/20 of net), understand which to trust more, know when to go above or below, and have a checklist of additional costs to fold in. Goal: "I can now tell if this apartment is within my budget."
+- **brightplace brand standards:** No banned phrases used. No ILS links. No ranking language. No em dashes. No neighborhood quality claims. Format matches SERP intent. Confirmed.
+
+---
+
+## 7. AEO/GEO Optimization Strategy
+
+### 7a. Current AI Citation Landscape
+
+**ChatGPT:** Data Source 3 does not include a ChatGPT citation list for this keyword (response section shows structural analysis but no specific source list was retrieved). Based on the competitor content indexed and the AI response structure, ChatGPT is most likely citing NerdWallet, Experian, and SoFi for this keyword, as these are the authoritative personal finance sources with structured, citable content on the 30% rule.
+
+**Claude:** Claude's response (provided in Data Source 3) cites its own synthesized analysis across multiple frameworks. The response references the Brooke Amendment, HUD's cost-burdened definition, and city-level rent data. Claude is drawing from authoritative personal finance and housing data sources. The response does not credit a single dominant source, which means this keyword is an open citation opportunity for a well-structured, data-specific article.
+
+**brightplace cited by either engine:** No. brightplace is not currently cited by ChatGPT or Claude for this keyword.
+
+### 7b. Citation Gap Analysis
+
+**What cited sources have that brightplace lacks:**
+- Long publication history and domain authority (NerdWallet, Experian, SoFi)
+- Defined financial expertise signals (bylined authors, editorial standards disclosures)
+- Explicit numerical claims with sourced data (Census Bureau, HUD figures)
+- FAQ schema implementation with structured Q&A pairs
+
+**Information gaps both AI engines identified:**
+1. The gross-to-net distortion: AI engines mention gross income as the base but do not correct for how the effective tax burden shifts the real affordability ratio.
+2. Variable income calculation methodology: Both AI responses acknowledge fluctuating income as a factor but neither provides a specific calculation rule.
+3. The distinction between landlord screening thresholds (3x rent) and actual budget health for the renter.
+4. Total housing cost calculation (rent plus utilities, insurance, parking) vs. base rent only.
+5. City-specific affordability context without making the 30% rule seem universally achievable.
+
+### 7c. Citability Rules for the Writing Agent
+
+**Rule 1: First-paragraph rule**
+The opening 100 words must contain: (a) a direct answer stating the percentage ("The standard guideline is 30% of gross monthly income"), (b) who this applies to ("for most renters calculating housing affordability"), and (c) at least one specific data point ("Nearly half of U.S. renter households spend more than 30% of their income on housing, according to U.S. Census Bureau data, which reflects how difficult the standard has become to meet in many markets").
+
+**Rule 2: Structured data rule**
+Include one comparison table in the "Two Budgeting Frameworks" section with these exact column headers: Framework | Based On | Rent Allocation | Best For. Include a second structured element (numbered steps) in the "How to Calculate Your Own Rent Ceiling" section. Tables must use simple Markdown table formatting that renders cleanly in HTML. No merged cells, no complex formatting. AI engines parse clean tables reliably.
+
+**Rule 3: Definition rule**
+The following terms must be explicitly defined in a single clear sentence the first time they appear:
+
+- **Gross income:** "Gross income is your total earnings before taxes and deductions are taken out."
+- **Net income:** "Net income, also called take-home pay, is what actually arrives in your bank account after taxes and payroll deductions."
+- **Cost-burdened:** "The U.S. Department of Housing and Urban Development defines a household as cost-burdened when it spends more than 30% of gross income on housing."
+- **Rent-to-income ratio:** "The rent-to-income ratio is the percentage of your gross monthly income that goes toward monthly rent, calculated by dividing monthly rent by gross monthly income and multiplying by 100."
+- **3x rent rule:** "The 3x rent rule is a landlord screening standard requiring an applicant's gross monthly income to be at least three times the monthly rent."
+
+**Rule 4: Proof point rule**
+The article must include these specific numerical claims, each with a date tag:
+
+1. "According to U.S. Census Bureau data, approximately 49.7% of renter households spend more than 30% of their income on housing (as of the most recent reporting period)."
+2. "The 30% threshold was established in 1981 when Congress updated the Brooke Amendment, which had set the limit at 25% in 1969."
+3. "Utilities for a typical one- to two-bedroom apartment range from $150 to $350 per month depending on unit size, building age, and climate (as of Q2 2026)."
+4. "Renters insurance typically costs between $15 and $30 per month for standard coverage (as of Q2 2026)."
+5. "A renter earning exactly 3 times the monthly rent in gross income is allocating exactly 33.3% of gross income to rent, which is already above the standard 30% guideline."
+
+**Rule 5: FAQ rule**
+The 6 FAQ questions and their required source:
+
+| Question | Source |
+|---|---|
+| Is 40% of income on rent too much? | PAA (Data Source 2) |
+| How much should I make to afford $2,500 rent? | PAA (Data Source 2) |
+| Does the 30% rule apply to gross or net income? | AI engine gap (Data Source 3) + competitor confusion |
+| Should utilities be included in the rent percentage? | PAA variation + AI gap |
+| Is the 50/30/20 rule realistic for rent in expensive cities? | PAA + AI engine (Data Source 3) |
+| What happens if my rent exceeds these guidelines? | Competitor gap (buried or absent in top results) |
+
+Each FAQ answer must be 40-60 words. Each must start with a direct declarative answer (not "It depends"). The FAQ section must use FAQ schema markup (FAQPage + Question + Answer).
+
+---
+
+## 8. CTA & Funnel Strategy
+
+**Primary CTA:**
+After the "How to Calculate Your Own Rent Ceiling" H2 section, insert a natural transition CTA: "Once you have your number, search apartments by price on brightplace to see what is available within your budget." Link to brightplace.ai. Repeat a softer version at the end of the article: "brightplace lets you filter apartments by monthly budget across cities nationwide."
+
+Place the CTA in three locations: after the first H2 answer (for readers who already have context), after the calculation section (for readers who just ran the math and are ready to search), and at the close of the article (for readers who read through).
+
+**Secondary CTA:**
+If brightplace has a published guide on how to choose a city for renting or a rent affordability guide by city, link to it as a "go deeper" resource after the comparison table section. The writing agent should check the sitemap for any brightplace guide covering city-level rent data or apartment search strategy. If no such guide exists, omit the secondary CTA rather than linking to an irrelevant page.
+
+**CTA language rules:**
+- Use: "See apartments within your budget on brightplace" or "brightplace tracks rent across [City] neighborhoods."
+- Do not use: "Check out," "Discover," "Unlock," "Leverage."
+- The CTA must feel like a natural next step, not a promotion. It should appear after the reader has done something useful (calculated their ceiling) and is ready for a concrete action.
+
+---
+
+## 9. Writer Rules (Reproduce for Writing Agent)
+
+### BRAND RULES (NON-NEGOTIABLE)
+
+**NAMING:** brightplace is ALWAYS lowercase. No exceptions. Even at the start of a sentence.
+
+**PUNCTUATION:** NEVER use em dashes (-- or the unicode character —). Use commas, periods, semicolons, colons, or parentheses.
+
+**BANNED WORD:** NEVER use the word "signal" in any form. Alternatives: "indicator," "suggests," "points to," "reflects."
+
+**BANNED PHRASES:** "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage" (verb), "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
+
+**TITLE FRAMING:** Never rank or use superlatives in titles. No "Top X," "Best," "Ultimate Guide," "#1," or "Everything You Need to Know." Use curation framing: present options, inform, guide.
+
+**VOICE:** Like a knowledgeable friend giving honest advice. Confident, specific, never promotional. Short declarative sentences. Lead with strengths, include honest tradeoffs. Name actual places, numbers, and specifics rather than vague claims.
+
+**FAIR HOUSING (if content involves neighborhoods or cities):** Never describe neighborhoods by who lives there. No crime statistics or safety language. No "gentrification" language. Describe by lifestyle infrastructure only (walkability, dining, transit, parks, grocery, coffee, fitness).
+
+**SOURCING:** Never cite or link to ILS platforms (Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com), review aggregators (ApartmentRatings, Yelp, Google Reviews as citation, Niche, AreaVibes), score sites (Walk Score, Bike Score, Transit Score), or forums (Reddit, City-Data, BiggerPockets) in published content.
+
+---
+
+### ADDITIONAL PRODUCTION RULES
+
+**Target word count:** 1,100-1,300 words. Do not pad. Do not truncate before covering all outline sections.
+
+**Tone:** Knowledgeable friend giving practical advice. Not academic, not promotional, not listicle-style.
+
+**Sentence structure:** Short declarative sentences. Two short sentences over one compound sentence. Avoid dependent clause chains.
+
+**Paragraph length:** 2-4 sentences maximum. Dense paragraphs lose mobile readers and reduce dwell time. Break early.
+
+**No filler introductions:** The first sentence of the article must contain the primary keyword and begin answering the query. Do not open with rhetorical questions, scene-setting, or "Many people wonder."
+
+**Every H2 section opens with its answer:** Not with context, not with background, not with "In this section we will cover." The answer is the first sentence of every section.
+
+**Schema to implement:**
+- Article schema: always
+- FAQPage schema: always (applied to the entire FAQ H2 section, with each Q&A pair as a Question and Answer entity)
+- Speakable schema: apply to the opening summary paragraph (under the first H2) and to each FAQ answer (these are conversational and will surface in voice search)
+- HowTo schema: apply to the "How to Calculate Your Own Rent Ceiling" section
+
+**Date policy:** Every dollar figure, percentage claim, statistic, or factual assertion that could change over time must include "(as of Q2 2026)" immediately following the claim. Include "Last reviewed: [Month] 2026" in the article metadata.
+
+**Internal linking:** If brightplace has published content on any of the following topics, link to it once, naturally, within the body of the article: apartment search by budget, cost of living by city, first apartment checklist, how to read a lease. Do not force internal links where they do not fit.
+
+**No ILS references:** Do not name, link to, or describe Zillow, Apartments.com, Trulia, Zumper, Apartment List, HotPads, RentCafe, or any other ILS or aggregator platform under any circumstances.
+
+**No Reddit references:** Reddit research informed this brief's understanding of authentic renter language and real pain points. Reddit must not be cited, linked, named, or quoted in the published article.
