@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a sprawling garden-style apartment campus in Seminary Hill, Alexandria, Virginia in early September. Two-story and three-story tan and brown brick buildings with colonial-style pitched roofs and wooden balconies set far apart from each other, connected by winding asphalt pathways. The buildings are scattered among towering mature oak and maple trees with thick green canopy and hints of early fall gold at the edges. Manicured lawns between buildings with occasional park benches. A glimpse of a tennis court fence in the mid-ground and a turquoise swimming pool reflecting sunlight in the distance between two buildings. The composition emphasizes the unusual spaciousness and park-like scale of the community, showing multiple buildings spread across a vast wooded landscape rather than clustered tightly. Morning golden hour light filtering through the Virginia tree canopy. The scene looks like a small college campus surrounded by forest, not a typical apartment complex. No people, no cars, no text, no logos, no watermarks. Professional real estate editorial photography with warm natural color grading.",
+  "revised_prompt": "",
+  "alt_text": "Foxchase Apartments 88-acre wooded campus in Alexandria VA with garden-style brick buildings among mature trees",
+  "dimensions": "1200x628",
+  "size_kb": 195.0,
+  "quality": 55,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

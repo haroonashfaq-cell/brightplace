@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Editorial photograph of a winding paved walkway through a dense, mature deciduous forest canopy on a large apartment community campus in early fall. Tall oaks and maples with leaves just beginning to turn from deep green to amber and burnt orange at the edges. Dappled early morning sunlight filtering through the canopy, casting long warm shadows across the path. Garden-style three-story brick apartment buildings partially visible through the trees in the soft background, set far back from the path. Virginia mid-Atlantic woodland setting. Warm golden-green color palette. The scene conveys scale, privacy, and an unusually park-like residential environment. Clean editorial architectural photography. No people visible, no text, no logos, no watermarks.",
+  "revised_prompt": "",
+  "alt_text": "Wooded walkway through 88-acre Foxchase Apartments campus in Alexandria VA with brick buildings visible through trees",
+  "dimensions": "1200x628",
+  "size_kb": 199.1,
+  "quality": 60,
+  "format": "webp",
+  "model": "gpt-image-2"
+}
