@@ -61,10 +61,25 @@
 
 ---
 
+### September 9, 2026 (continued)
+- [x] Wrote first article for ALL 10 communities (10 articles total, full pipeline: brief + draft + image prompts)
+  1. 3400 AotA: "580 Anton Costa Mesa" (KD 13, Vol 880) — competitor comparison
+  2. One Boynton: "Sealofts at Boynton Village" (KD 13, Vol 1,000) — competitor comparison
+  3. Sorrel: "Peppertree Lane Jacksonville" (KD 12, Vol 720) — competitor comparison
+  4. Indigo West: "Apartments Near Valencia College Orlando" (KD 12) — location guide
+  5. Foxchase: "Cameron Court Apartments Alexandria" (KD 13, Vol 1,600) — competitor comparison
+  6. Verdant: "Trestle Tree Atlanta" (KD 13, Vol 720) — competitor comparison
+  7. Citigate: "Apartments by Town Center Jacksonville" (KD 15, Vol 880) — location guide
+  8. Villages: "Inexpensive Apartments Raleigh NC" (KD 20, Vol 1,000) — value guide
+  9. One Canal: "2 Bedroom Apartments Boston" (KD 15, Vol 1,000) — city guide
+  10. Citi Lakes: "2 Bedroom Apartments Orlando" (KD 23, Vol 1,000) — city guide
+
+---
+
 ## In Progress
 
 - [ ] Deep keyword research for new 5 communities (target: 200+ per community — currently at 50-85)
-- [ ] Competitor organic research via Semrush (organic_research on top 3 competitor domains per market)
+- [ ] Competitor organic research via Semrush
 
 ---
 
@@ -108,16 +123,16 @@
 
 | Community | Context | Research | Keywords | Keywords Count | Blog Content | Social | GBP |
 |---|---|---|---|---|---|---|---|
-| Foxchase | Done | Done | Done | 364 | 1 article (proof) | Not started | Not started |
-| Citi Lakes | Done | Done | Done | 348 | Not started | Not started | Not started |
-| Sorrel LUX at Sorrel | Done | Done | Done | 658 | Not started | Not started | Not started |
-| Verdant Peachtree Creek | Done | Done | Done | 410 | Not started | Not started | Not started |
-| Villages at Raleigh Beach | Done | Done | Done | 313 | Not started | Not started | Not started |
-| One Canal | Done | Done | Done | 85 | Not started | Not started | Not started |
-| Indigo West | Done | Done | Done | 50 | Not started | Not started | Not started |
-| One Boynton | Done | Done | Done | 58 | Not started | Not started | Not started |
-| 3400 Avenue of the Arts | Done | Done | Done | 63 | Not started | Not started | Not started |
-| Citigate | Done | Done | Done | 70 | Not started | Not started | Not started |
+| Foxchase | Done | Done | Done | 364 | 2 articles | Not started | Not started |
+| Citi Lakes | Done | Done | Done | 348 | 1 article | Not started | Not started |
+| Sorrel LUX at Sorrel | Done | Done | Done | 658 | 1 article | Not started | Not started |
+| Verdant Peachtree Creek | Done | Done | Done | 410 | 1 article | Not started | Not started |
+| Villages at Raleigh Beach | Done | Done | Done | 313 | 1 article | Not started | Not started |
+| One Canal | Done | Done | Done | 85 | 1 article | Not started | Not started |
+| Indigo West | Done | Done | Done | 50 | 1 article | Not started | Not started |
+| One Boynton | Done | Done | Done | 58 | 1 article | Not started | Not started |
+| 3400 Avenue of the Arts | Done | Done | Done | 63 | 1 article | Not started | Not started |
+| Citigate | Done | Done | Done | 70 | 1 article | Not started | Not started |
 
 ---
 

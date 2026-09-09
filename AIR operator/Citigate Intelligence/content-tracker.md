@@ -13,7 +13,7 @@
 | 1 | citigate apartments jacksonville | 720 | 22 | Not started | |
 | 2 | apartments near mayo clinic jacksonville | — | 17 | Not started | |
 | 3 | apartments near st johns town center | — | 18 | Not started | |
-| 4 | apartments by town center | 880 | 15 | Not started | |
+| 4 | apartments by town center | 880 | 15 | ✅ Complete | apartments-by-town-center-jacksonville-guide |
 | 5 | 3 bedroom apartments jacksonville fl | 720 | 16 | Not started | |
 
 ## Completed Articles

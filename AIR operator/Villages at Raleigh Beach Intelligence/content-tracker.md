@@ -10,7 +10,7 @@
 
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
-| 1 | inexpensive apartments in raleigh nc | 1,000 | 20 | Not started | |
+| 1 | inexpensive apartments in raleigh nc | 1,000 | 20 | ✅ Complete | inexpensive-apartments-raleigh-nc-value-guide |
 | 2 | villages at raleigh beach | 1,300 | 27 | Not started | |
 | 3 | 1 bedroom apartments raleigh nc | 590 | 24 | Not started | |
 | 4 | 2 bedroom apartments raleigh nc | 590 | 24 | Not started | |

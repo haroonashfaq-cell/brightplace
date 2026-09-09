@@ -10,7 +10,7 @@
 
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
-| 1 | 2 bedroom apartments orlando | 1,000 | 23 | Not started | |
+| 1 | 2 bedroom apartments orlando | 1,000 | 23 | ✅ Complete | 2-bedroom-apartments-orlando-best-value |
 | 2 | 3 bedroom apartments orlando | 880 | 24 | Not started | |
 | 3 | apartments near seaworld orlando | 210+ | 22 | Not started | |
 | 4 | citi lakes apartments orlando | 880 | 26 | Not started | |

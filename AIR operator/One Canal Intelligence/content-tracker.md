@@ -11,7 +11,7 @@
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
 | 1 | one canal apartments boston | 1,300 | 27 | Not started | |
-| 2 | 2 bedroom apartments boston | 1,000 | 15 | Not started | |
+| 2 | 2 bedroom apartments boston | 1,000 | 15 | ✅ Complete | 2-bedroom-apartments-boston-where-to-find-value |
 | 3 | 2 bedroom apt boston | 1,000 | 15 | Not started | |
 | 4 | kenmore apartments boston | 1,000 | 15 | Not started | |
 | 5 | student housing boston | 590 | 15 | Not started | |
