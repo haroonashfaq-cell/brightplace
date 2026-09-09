@@ -1,23 +1,10 @@
-# Developer CMS Requirement Document — AIR Operator Blog System
+# PART 3: Blog CMS Requirement Specification
 
-**Version:** 1.0
-**Date:** September 2026
-**For:** Development team building the blog CMS on Vercel for AIR operator community websites
-**From:** Content/SEO team (Claude Code pipeline)
+What the CMS needs to accept, how the API works, and how published pages must render.
 
 ---
 
-## 1. What This Document Is
-
-We have an AI-powered content pipeline that produces publish-ready blog articles for each AIR operator community website. The pipeline outputs a markdown file with frontmatter, article body, FAQ section, JSON-LD schemas, and a compressed WebP featured image.
-
-**We need your team to build a CMS on Vercel with a REST API endpoint so we can push finished articles directly from our pipeline to the live website.**
-
-This document specifies exactly what the CMS needs to accept, how the API should work, and what the published page should render.
-
----
-
-## 2. The 5 Community Websites
+## The 5 Community Websites
 
 Each community gets its own blog section. Same CMS architecture, deployed per site.
 
@@ -29,17 +16,15 @@ Each community gets its own blog section. Same CMS architecture, deployed per si
 | Verdant Peachtree Creek | verdantpeachtreecreekapts.com | /blog/[slug] |
 | Villages at Raleigh Beach | thevillagesatraleighbeach.com | /blog/[slug] |
 
-If these sites are being rebuilt on Vercel, the blog lives at `[domain]/blog/[slug]`. If you add a subdomain approach, `blog.[domain]/[slug]` works too. Just keep the pattern consistent.
-
 ---
 
-## 3. What We Send You (The Payload)
+## What We Send You (The Payload)
 
 Every article from our pipeline produces two files:
 
 ### File 1: Article Markdown (`09-[slug]-final-enriched.md`)
 
-A markdown file with YAML frontmatter at the top, article body in the middle, and JSON-LD schema blocks at the end. Here is the exact structure:
+A markdown file with YAML frontmatter at the top, article body in the middle, and JSON-LD schema blocks at the end:
 
 ```
 ---
@@ -68,19 +53,16 @@ Article body in markdown...
 ---
 
 ## FAQ Schema (JSON-LD)
-
 ```json
 { "@context": "https://schema.org", "@type": "FAQPage", ... }
 ```
 
 ## Article Schema (JSON-LD)
-
 ```json
 { "@context": "https://schema.org", "@type": "Article", ... }
 ```
 
 ## WebPage Schema (JSON-LD)
-
 ```json
 { "@context": "https://schema.org", "@type": "WebPage", ... }
 ```
@@ -95,9 +77,7 @@ Article body in markdown...
 
 ---
 
-## 4. CMS Database Schema
-
-The blog CMS needs one main table for articles. Here are the fields your CMS must support:
+## CMS Database Schema
 
 ### Blog Posts Table
 
@@ -167,9 +147,7 @@ create index idx_blog_published on blog_posts(date_published desc);
 
 ---
 
-## 5. API Endpoints Required
-
-We need these REST API endpoints to push content from Claude Code.
+## API Endpoints Required
 
 ### Base URL
 ```
@@ -364,7 +342,7 @@ Used when we need to upload an image separately (e.g., replacing a featured imag
 
 ---
 
-## 6. How the Published Blog Page Must Render
+## How the Published Blog Page Must Render
 
 ### Page URL
 ```
@@ -434,7 +412,7 @@ https://foxchaseofalexandriaapts.com/blog/foxchase-apartments-alexandria-va-what
 
 ### Markdown to HTML Conversion Rules
 
-Your CMS must convert markdown to HTML. Use a standard library (marked, remark, markdown-it). Important rules:
+Use a standard library (marked, remark, markdown-it). Important rules:
 
 | Markdown | HTML Output | Notes |
 |---|---|---|
@@ -461,7 +439,7 @@ Internal links (to the same community site) should NOT have `target="_blank"`.
 
 ---
 
-## 7. Blog Index Page
+## Blog Index Page
 
 ### URL
 ```
@@ -481,7 +459,7 @@ https://foxchaseofalexandriaapts.com/blog
 
 ---
 
-## 8. Sitemap Integration
+## Sitemap Integration
 
 Every published blog post must be included in the site's XML sitemap.
 
@@ -498,7 +476,7 @@ The sitemap must auto-update when posts are published or updated. This is critic
 
 ---
 
-## 9. Image Handling
+## Image Handling
 
 ### Upload Flow
 1. We send the WebP image as part of the `POST /api/blog/posts` multipart request
@@ -519,24 +497,14 @@ Example: `blog/foxchase-apartments-alexandria-va-what-renters-should-know-featur
 
 ---
 
-## 10. Performance Requirements
-
-| Metric | Target | Why |
-|---|---|---|
-| Time to First Byte | Under 200ms | Vercel edge should handle this |
-| Largest Contentful Paint | Under 2.5s | Featured image must be optimized |
-| Cumulative Layout Shift | Under 0.1 | Set width/height on all images |
-| First Input Delay | Under 100ms | Minimal JavaScript on blog pages |
-| Page size | Under 500KB total | Light pages rank better |
-
-### Caching Strategy
+## Caching Strategy
 - Blog pages: ISR (Incremental Static Regeneration) with 60-second revalidation
 - Images: CDN with immutable caching (1 year)
 - API responses: no cache (always fresh for our pipeline)
 
 ---
 
-## 11. RSS Feed
+## RSS Feed
 
 Generate an RSS feed at:
 ```
@@ -547,7 +515,7 @@ Include: title, description, link, pubDate, featured image for each published po
 
 ---
 
-## 12. What We Handle vs What You Handle
+## What We Handle vs What You Handle
 
 ### We handle (content team / Claude Code pipeline):
 - Keyword research and content strategy
@@ -572,7 +540,7 @@ Include: title, description, link, pubDate, featured image for each published po
 
 ---
 
-## 13. Deployment Plan
+## Deployment Plan
 
 ### Phase 1: Foxchase (first site)
 1. Build CMS + API on Vercel
@@ -594,7 +562,7 @@ Same CMS codebase, different `community_id` and domain config:
 
 ---
 
-## 14. Testing Checklist (for dev team)
+## Testing Checklist (for dev team)
 
 Before handing off, verify:
 
@@ -603,6 +571,7 @@ Before handing off, verify:
 - [ ] `PATCH /api/blog/posts/[id]/status` publishes a draft
 - [ ] `GET /api/blog/posts/[id]` returns full post data
 - [ ] `GET /api/blog/posts?community_id=foxchase` returns list
+- [ ] `curl [page-url]` shows ALL text content (zero JS dependency)
 - [ ] Blog page renders at `/blog/[slug]` with correct HTML
 - [ ] `<title>` tag uses `seo_title` (NOT `title`)
 - [ ] `<meta description>` renders correctly
@@ -618,18 +587,17 @@ Before handing off, verify:
 - [ ] Slug uniqueness enforced (duplicate slug returns error, not 500)
 - [ ] Draft posts are NOT visible to public (require `?preview=true` token)
 - [ ] API returns proper error codes (400, 401, 404, 409, 500)
+- [ ] `robots.txt` allows GPTBot, ClaudeBot, PerplexityBot
+- [ ] `llms.txt` exists at site root
+- [ ] Page weight under 500KB total
 
 ---
 
-## 15. Example: Full API Call from Claude Code
+## Example: Full API Call from Claude Code
 
 This is exactly what we will run from our pipeline to push a finished article:
 
 ```bash
-# Parse the final enriched markdown file
-# Extract frontmatter, body, and schemas
-# Send to the CMS API
-
 curl -X POST https://foxchaseofalexandriaapts.com/api/blog/posts \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -F 'data={
@@ -657,7 +625,7 @@ curl -X POST https://foxchaseofalexandriaapts.com/api/blog/posts \
 
 ---
 
-## 16. Questions for Dev Team
+## Questions for Dev Team
 
 Please confirm or discuss:
 
@@ -670,4 +638,4 @@ Please confirm or discuss:
 
 ---
 
-*This document is the contract between the content team and the dev team. If the API matches this spec, we can push content from our pipeline to any community site with zero manual steps.*
+*This document is the contract between the content team and the dev team. If the system matches this spec, we can push content from our pipeline to any community site with zero manual steps. Social media connector and content dashboard specs will be added as a separate document.*
