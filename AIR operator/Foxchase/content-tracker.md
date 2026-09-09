@@ -11,7 +11,7 @@
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
 | 1 | cameron court apartments | 1,600 | 13 | ✅ Complete | cameron-court-apartments-alexandria-what-renters-should-know |
-| 2 | townhomes for rent alexandria va | 720 | 15 | Not started | |
+| 2 | townhomes for rent alexandria va | 720 | 15 | ✅ Complete | townhomes-for-rent-alexandria-va-guide |
 | 3 | sinclaire on seminary | 1,000 | 24 | Not started | |
 | 4 | seminary towers apartments in alexandria va | 590 | 20 | Not started | |
 | 5 | notch 8 apartments alexandria | 880 | 21 | Not started | |
