@@ -13,8 +13,8 @@
 | 1 | wimbledon apartments costa mesa | 880 | 30 | ✅ Complete | wimbledon-apartments-costa-mesa-what-renters-should-know |
 | 2 | 580 anton costa mesa | 880 | 13 | ✅ Complete | 580-anton-costa-mesa-apartments-what-renters-should-know |
 | 3 | blue sol costa mesa | 720 | 12 | ✅ Complete | blue-sol-costa-mesa-apartments-what-renters-should-know |
-| 4 | apartments for rent in costa mesa ca | 880 | 18 | Not started | |
-| 5 | costa mesa rentals | 590 | 15 | Not started | |
+| 4 | apartments for rent in costa mesa ca | 880 | 18 | ✅ Complete | apartments-for-rent-costa-mesa-ca-renters-guide |
+| 5 | costa mesa rentals | 590 | 15 | ✅ Complete | costa-mesa-rentals-true-cost-guide-2026 |
 
 ## Completed Articles
 
