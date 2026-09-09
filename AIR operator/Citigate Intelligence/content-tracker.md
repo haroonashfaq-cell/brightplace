@@ -11,7 +11,7 @@
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
 | 1 | citigate apartments jacksonville | 720 | 22 | ✅ Complete | citigate-apartments-jacksonville-what-renters-should-know |
-| 2 | apartments near mayo clinic jacksonville | — | 17 | Not started | |
+| 2 | apartments near mayo clinic jacksonville | — | 17 | ✅ Complete | apartments-near-mayo-clinic-jacksonville-guide |
 | 3 | apartments near st johns town center | — | 18 | Not started | |
 | 4 | apartments by town center | 880 | 15 | ✅ Complete | apartments-by-town-center-jacksonville-guide |
 | 5 | 3 bedroom apartments jacksonville fl | 720 | 16 | Not started | |
