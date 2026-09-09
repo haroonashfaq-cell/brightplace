@@ -10,7 +10,7 @@
 
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
-| 1 | costa verde village apartments | 1,600 | 10 | Not started | |
+| 1 | wimbledon apartments costa mesa | 880 | 30 | ✅ Complete | wimbledon-apartments-costa-mesa-what-renters-should-know |
 | 2 | 580 anton costa mesa | 880 | 13 | ✅ Complete | 580-anton-costa-mesa-apartments-what-renters-should-know |
 | 3 | blue sol costa mesa | 720 | 12 | Not started | |
 | 4 | apartments for rent in costa mesa ca | 880 | 18 | Not started | |
@@ -18,19 +18,21 @@
 
 ## Completed Articles
 
-None yet.
+| # | Keyword | Slug | Date | Pipeline |
+|---|---|---|---|---|
+| 1 | 580 anton costa mesa | 580-anton-costa-mesa-apartments-what-renters-should-know | Sep 9, 2026 | Full pipeline 01-09 ✅ |
 
 ## Pipeline Folder Structure
 ```
 3400 Avenue of the Arts Intelligence/
 ├── 3400aota-intelligence/
-│   ├── costa-verde-village-apartments/            ⬜ Not started
-│   ├── 580-anton-costa-mesa/                      ⬜ Not started
-│   ├── blue-sol-costa-mesa/                       ⬜ Not started
-│   ├── apartments-for-rent-costa-mesa-ca/         ⬜ Not started
-│   └── costa-mesa-rentals/                        ⬜ Not started
-├── context.md                                     ✅
-├── research.md                                    ✅
-├── keywords.csv                                   ✅
-└── content-tracker.md                             ✅ (this file)
+│   ├── 580-anton-costa-mesa/              ✅ Complete (01-09)
+│   ├── wimbledon-apartments-costa-mesa/   ⬜ Not started
+│   ├── blue-sol-costa-mesa/               ⬜ Not started
+│   ├── apartments-for-rent-costa-mesa-ca/ ⬜ Not started
+│   └── costa-mesa-rentals/                ⬜ Not started
+├── context.md                             ✅
+├── research.md                            ✅
+├── keywords.csv                           ✅
+└── content-tracker.md                     ✅ (this file)
 ```
