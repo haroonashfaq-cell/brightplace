@@ -11,7 +11,7 @@
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
 | 1 | indigo west apartments orlando | 1,300 | 28 | Not started | |
-| 2 | apartments near valencia college orlando | — | 12 | Not started | |
+| 2 | apartments near valencia college orlando | — | 12 | ✅ Complete | apartments-near-valencia-college-orlando-renters-guide |
 | 3 | 2 bedroom apartments orlando fl | 720 | 15 | Not started | |
 | 4 | 3 bedroom apartments orlando fl | 590 | 15 | Not started | |
 | 5 | cheap apartments orlando | 1,300 | 20 | Not started | |
