@@ -14,7 +14,7 @@
 | 2 | 2 bedroom apartments jacksonville fl | 720 | 13 | Not started | |
 | 3 | 3 bedroom apartments jacksonville fl | 720 | 16 | Not started | |
 | 4 | jacksonville apartments with parking | 590 | 17 | Not started | |
-| 5 | peppertree lane apartments jacksonville | 720 | 12 | Not started | |
+| 5 | peppertree lane apartments jacksonville | 720 | 12 | ✅ Complete | peppertree-lane-apartments-jacksonville-what-renters-should-know |
 
 ## Completed Articles
 
