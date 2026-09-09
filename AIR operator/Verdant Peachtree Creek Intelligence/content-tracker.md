@@ -14,7 +14,7 @@
 | 2 | 1 bedroom apartments atlanta | 1,000 | 21 | Not started | |
 | 3 | apartments chamblee ga | 720 | 17 | Not started | |
 | 4 | apartments in chamblee | 720 | 17 | Not started | |
-| 5 | trestle tree atlanta | 720 | 13 | Not started | |
+| 5 | trestle tree atlanta | 720 | 13 | ✅ Complete | trestle-tree-atlanta-apartments-what-renters-should-know |
 
 ## Completed Articles
 
