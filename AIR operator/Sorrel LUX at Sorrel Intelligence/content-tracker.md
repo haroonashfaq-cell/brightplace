@@ -10,27 +10,18 @@
 
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
-| 1 | sorrel apartments | 880 | 24 | Not started | |
-| 2 | 2 bedroom apartments jacksonville fl | 720 | 13 | Not started | |
-| 3 | 3 bedroom apartments jacksonville fl | 720 | 16 | Not started | |
-| 4 | jacksonville apartments with parking | 590 | 17 | Not started | |
+| 1 | sorrel apartments | 880 | 24 | ✅ Complete | sorrel-apartments-jacksonville-what-renters-should-know |
+| 2 | 2 bedroom apartments jacksonville fl | 720 | 13 | ✅ Complete | 2-bedroom-apartments-jacksonville-fl-value-guide |
+| 3 | 3 bedroom apartments jacksonville fl | 720 | 16 | ✅ Complete | 3-bedroom-apartments-jacksonville-fl-east-arlington |
+| 4 | jacksonville apartments with parking | 590 | 17 | ✅ Complete | jacksonville-apartments-with-parking-guide |
 | 5 | peppertree lane apartments jacksonville | 720 | 12 | ✅ Complete | peppertree-lane-apartments-jacksonville-what-renters-should-know |
 
-## Completed Articles
+## Completed Articles (5)
 
-None yet.
-
-## Pipeline Folder Structure
-```
-Sorrel LUX at Sorrel Intelligence/
-├── sorrel-intelligence/
-│   ├── sorrel-apartments/                         ⬜ Not started
-│   ├── 2-bedroom-apartments-jacksonville/         ⬜ Not started
-│   ├── 3-bedroom-apartments-jacksonville/         ⬜ Not started
-│   ├── jacksonville-apartments-with-parking/      ⬜ Not started
-│   └── peppertree-lane-apartments-jacksonville/   ⬜ Not started
-├── context.md                                     ✅
-├── research.md                                    ✅
-├── keywords.csv                                   ✅
-└── content-tracker.md                             ✅ (this file)
-```
+| # | Keyword | Slug | Date | Type |
+|---|---|---|---|---|
+| 1 | sorrel apartments | sorrel-apartments-jacksonville | Sep 10, 2026 | Branded deep-dive (dual amenity) |
+| 2 | peppertree lane apartments | peppertree-lane-apartments-jacksonville | Sep 9, 2026 | Competitor comparison |
+| 3 | 2 bedroom apartments jacksonville fl | 2-bedroom-apartments-jacksonville-fl | Sep 10, 2026 | City/bedroom guide |
+| 4 | jacksonville apartments with parking | jacksonville-apartments-with-parking | Sep 10, 2026 | Practical concern guide |
+| 5 | 3 bedroom apartments jacksonville fl | 3-bedroom-apartments-jacksonville-fl-east-arlington | Sep 10, 2026 | Beach proximity + family guide |
