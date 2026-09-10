@@ -6,31 +6,12 @@
 
 ---
 
-## Target Keywords (5)
+## Target Keywords (5) — Updated
 
 | # | Keyword | Vol | KD | Status | Article Slug |
 |---|---|---|---|---|---|
-| 1 | 2 bedroom apartments orlando | 1,000 | 23 | ✅ Complete | 2-bedroom-apartments-orlando-best-value |
-| 2 | 3 bedroom apartments orlando | 880 | 24 | Not started | |
-| 3 | apartments near seaworld orlando | 210+ | 22 | Not started | |
-| 4 | citi lakes apartments orlando | 880 | 26 | Not started | |
-| 5 | 2 bed apartment orlando | 1,000 | 23 | Not started | |
-
-## Completed Articles
-
-None yet.
-
-## Pipeline Folder Structure
-```
-Citi Lakes Intelligence/
-├── citilakes-intelligence/
-│   ├── 2-bedroom-apartments-orlando/      ⬜ Not started
-│   ├── 3-bedroom-apartments-orlando/      ⬜ Not started
-│   ├── apartments-near-seaworld-orlando/  ⬜ Not started
-│   ├── citi-lakes-apartments-orlando/     ⬜ Not started
-│   └── 2-bed-apartment-orlando/           ⬜ Not started
-├── context.md                             ✅
-├── research.md                            ✅
-├── keywords.csv                           ✅
-└── content-tracker.md                     ✅ (this file)
-```
+| 1 | citi lakes apartments orlando | 880 | 26 | ✅ Complete | citi-lakes-apartments-orlando-what-renters-should-know |
+| 2 | 2 bedroom apartments orlando | 1,000 | 23 | ✅ Complete (fixed) | 2-bedroom-apartments-orlando-best-value |
+| 3 | 3 bedroom apartments orlando | 880 | 24 | Stages 01-04 done, needs 05-09 |  |
+| 4 | apartments near seaworld orlando | 210 | 22 | Stages 01-04 done, needs 05-09 |  |
+| 5 | pet friendly apartments orlando | 590 | 20 | Stages 01-04 done, needs 05-09 |  |
