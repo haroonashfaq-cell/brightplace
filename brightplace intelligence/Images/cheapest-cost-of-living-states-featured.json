@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a tree-lined residential street in a small Midwestern city at golden hour. Modest two-story brick and siding apartment buildings and duplexes line both sides of the street. Mature oak and maple trees with deep green canopies showing the first golden-amber hints of early fall arch over the sidewalks. A front porch with potted plants on one building. Clean, well-maintained streetscape with a visible crosswalk and quiet atmosphere. Flat terrain and wide sky characteristic of the central United States. Warm, inviting, affordable small-city character. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Tree-lined residential street with affordable apartment buildings in a Midwestern city",
+  "dimensions": "1200x628",
+  "size_kb": 193.1,
+  "quality": 70,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

@@ -8,11 +8,47 @@
 
 ## Overview
 
-The workflow has 8 stages. Every article passes through all 8 before it is considered complete.
+The workflow has 9 stages. Every article passes through all stages before it is considered complete.
 
 ```
-1. Pull Brief → 2. Brief Check → 2.5 Reddit Research → 3. Writing Agent → 4. QA Agent → 5. Image Prompt → 6. Webflow CMS Push → 7. GitHub Commit
+0. Content Brief Agent → 1. Pull Brief → 2. Brief Check → 2.5 Reddit Research → 3. Writing Agent → 4. QA Agent → 5. Image Prompt → 6. Webflow CMS Push → 7. GitHub Commit
 ```
+
+**Stage 0 is optional when a brief already exists.** If the user provides a keyword without a brief, run Stage 0 first. If the user provides a pre-written brief, skip to Stage 1.
+
+---
+
+## Stage 0: Content Brief Agent (Auto-Generate Brief from Keyword)
+
+**Trigger:** User provides a keyword without a pre-written brief (e.g., "write about foxchase apartments alexandria va" or "keyword: pet friendly apartments greenville sc")
+
+**Agent file:** `brightplace intelligence/Agents/content-brief-agent.md`
+
+**Process:**
+1. Hit DataForSEO API with the primary keyword to get live SERP data (organic results, PAA, featured snippets, AI Overview, related searches)
+2. Run variant keyword searches (reviews, pet policy, amenities, parking for property keywords)
+3. Analyze what AI engines are currently answering for this keyword
+4. Fetch and analyze top 5 competitor pages (word count, headings, gaps)
+5. Fetch brightplace sitemap for internal link targets (7+)
+6. Find and verify external authority links (3-5 .gov/.edu)
+7. Compile everything into a structured content brief
+
+**DataForSEO API call:**
+```bash
+curl -X POST "https://api.dataforseo.com/v3/serp/google/organic/live/advanced" \
+  -H "Authorization: Basic YmVuQGJhc2VvcGVyYXRpb25zLmNvbTo5YjFmZTRiNzU0MjA2NDBj" \
+  -H "Content-Type: application/json" \
+  -d '[{"location_name": "United States", "language_code": "en", "keyword": "[KEYWORD]", "device": "desktop", "depth": 100, "parse": true}]'
+```
+
+**Output:** Save brief to `brightplace intelligence/Content Brief/[keyword-slug]-brief.md`
+
+**Decision rule:**
+- Brief generated → proceed to Stage 1 (or skip Stage 1 since brief is already local)
+- API fails → fall back to web search for SERP data, then build brief manually
+- SERP shows listings/tools instead of articles → STOP, tell user this keyword won't work for blog content, suggest alternative angle
+
+**Property detection:** If the keyword contains a specific apartment community name, the brief agent automatically includes the 4 mandatory property sections (pet policy, amenities, parking, walkability) in the outline.
 
 ---
 
@@ -222,22 +258,44 @@ All checks: [X passed, Y failed]
 
 ---
 
-## Stage 5: Image Prompt
+## Stage 5: Image Generation
 
-**Purpose:** Generate a featured image prompt for the article.
+**Purpose:** Generate a featured image prompt AND automatically generate the actual image.
 
 **Reference file:** `brightplace intelligence/Agents/blog-image-prompts.md`
 
-**Rules:**
+**Process (2 steps):**
+
+### Step 1: Generate Prompts
+- Build Visual Identity Brief from article content and research files
+- Write 3 prompt options (A recommended, B and C alternatives)
+- Include alt text and filename
+- Save prompts to `brightplace intelligence/Images/[batch]-image-prompts.md`
+
+### Step 2: Generate Image (AUTOMATED)
+Run the `generate-image.py` script with Prompt Option A:
+
+```bash
+python3 "SUPER SEO Agents/generate-image.py" \
+  --prompt "[Prompt Option A]" \
+  --output "brightplace intelligence/Images/[keyword-slug]-featured.webp" \
+  --alt "[Alt text]"
+```
+
+**Requirements:** `OPENAI_API_KEY` in `.env` (already configured), `openai` + `Pillow` packages (already installed).
+
+**Image specs:**
 - 1200 x 628 pixels, 16:9 aspect ratio
 - WebP format, under 200KB
 - No people visible (Fair Housing)
 - No text, logos, or watermarks
 - Warm editorial photography style
-- 3 prompt options (A recommended, B and C alternatives)
-- Include alt text and file name
+- Uses GPT Image 2 model
 
-**Output:** Provide 3 prompt options with alt text and filename.
+**Output:**
+- Image file: `brightplace intelligence/Images/[keyword-slug]-featured.webp`
+- Metadata: `brightplace intelligence/Images/[keyword-slug]-featured.json`
+- Prompts: `brightplace intelligence/Images/[batch]-image-prompts.md`
 
 ---
 
@@ -264,6 +322,23 @@ All checks: [X passed, Y failed]
 | focus-keyword | Primary keyword from brief |
 | post-summary | First paragraph, plain text, under 300 chars |
 | post-body | Full HTML body (exclude frontmatter and schema blocks) |
+| author-2 | Katie Mikles (ID: `69dcd70089c4135f7a4158bc`) — ALWAYS set |
+| category-2 | Set based on content type (see category IDs below) |
+| main-image | User uploads manually from `Images/` folder |
+
+**Author ID (always use):**
+- Katie Mikles: `69dcd70089c4135f7a4158bc`
+
+**Category IDs (choose one per article):**
+| Category | ID | Use When |
+|---|---|---|
+| Top Apartments | `69df6fa543a7bf3d08de2528` | Property-specific articles |
+| Renter Advice | `69df6feb55f0f6d5f4e0d20d` | How-to guides, affordability, data articles |
+| Neighborhood Guides | `69df6ef62355bc3a757acebe` | City/neighborhood comparison articles |
+| Renters Corner | `6a1852a0e900a98e33e475b2` | Katie interview-style pieces |
+| Lifestyle | `6a0223968011f8b2c9af166e` | Lifestyle/culture content |
+| Property | `6a022353abefb2d114e7b04a` | General property content |
+| News | `6a33e903e1454372f37cf6e8` | News articles |
 
 **If Webflow MCP is unavailable:**
 - Save the HTML and JSON files locally
@@ -305,9 +380,27 @@ Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
 |---|---|---|---|
 | Knowledgebase (Resources) | content-writing-guidelines.md + seo-writing-agent.md | 3rd person, brightplace | /resources/[slug] |
 | Renter's Corner | renters-corner-guidelines.md | 1st person, Katie | /resources/[slug] |
-| Property Guide | Same as knowledgebase | 3rd person, brightplace | /resources/[slug] |
+| Property Article | seo-writing-agent.md (Property Template section) | 3rd person, brightplace | /resources/[slug] |
 | Guest Posts | Manual guidelines | 3rd person, editorial | External sites |
 | News | LinkedIn announcements as source | 3rd person, brightplace | News CMS collection |
+
+---
+
+## Property Article Workflow Notes
+
+Property articles follow the same 8-stage workflow as all other content, with these stage-specific differences:
+
+**Stage 1 (Pull Brief):** The brief should target a specific apartment community. The primary keyword includes the property name + modifiers (pet policy, amenities, parking, walkability).
+
+**Stage 2 (Brief Check):** Run the standard brief check PLUS Section 5c (Property Article Completeness Check). The brief must include data on pet policy, amenities, parking, and nearby essentials. FAIL if 2+ of these are missing.
+
+**Stage 2.5 (Reddit Research):** Run Step 1b (Property-Specific Research) IN ADDITION to the standard search. Search for property-name reviews, pet complaints, parking frustrations, amenity feedback, and walkability reports from actual residents. Extract all 12 categories (standard 8 + property-specific 4).
+
+**Stage 3 (Writing):** Use the Property-Specific Article Template in seo-writing-agent.md. The article MUST include all 4 mandatory H2 sections: Pet Policy, Amenities, Parking, and Walkability/Nearby Essentials. All distances must be specific (miles + walk times). All costs must be date-stamped.
+
+**Stage 4 (QA):** Run all 6 standard QA sections PLUS the 6 property-specific self-review checks (items 25-30 in the writing agent checklist). Verify that pet, amenity, parking, and walkability sections contain specific data, not vague claims.
+
+**Stages 5-7:** No changes. Same image prompt, CMS push, and commit process.
 
 ---
 
@@ -359,13 +452,24 @@ Any .gov or .edu link NOT on this list should be flagged as a WARNING for manual
 
 ---
 
-## Quick Reference: The 7-Stage Flow
+## Quick Reference: The Full Flow
 
-When the user gives you a content brief, run this exact sequence:
+**When the user gives you a KEYWORD (no brief):**
+
+0. **Brief Agent** → Hit DataForSEO API, analyze SERP + AI engines + competitors, generate brief → save to `Content Brief/[slug]-brief.md`
+1. **Brief Check** → Validate the auto-generated brief (keyword gaps, AEO, property completeness)
+1.5. **Reddit Research** → Search Reddit/Quora for real renter questions, pain points, language
+2. **Write** → Draft article using brief + Reddit research report
+3. **QA** → Run FULL qa-agent.md (ALL 6 sections including link audit)
+4. **Image** → Generate 3 image prompts with alt text
+5. **Webflow** → Convert to HTML, push to CMS as draft
+6. **Commit** → Only when user says "push to GitHub"
+
+**When the user gives you a PRE-WRITTEN BRIEF:**
 
 1. **Pull** → `git pull origin main`
 2. **Brief Check** → Run brief-check-agent.md (keyword gaps, AEO, links)
-2.5. **Reddit Research** → Run reddit-research-agent.md (search Reddit for real renter questions, pain points, language)
+2.5. **Reddit Research** → Run reddit-research-agent.md
 3. **Write** → Draft article using brief + Reddit research report
 4. **QA** → Run FULL qa-agent.md (ALL 6 sections including link audit)
 5. **Image** → Generate 3 image prompts with alt text

@@ -1,11 +1,64 @@
 # brightplace Blog Featured Image Prompts
 
-**Generated:** May 2026
-**Image Spec:** 1200 x 628px | WebP format | Under 200KB | 3:2 aspect ratio
+**Generated:** May 2026 | **Updated:** September 2026
+**Image Spec:** 1200 x 628px | WebP format | Under 200KB | 16:9 aspect ratio
 
 ---
 
-## Image Style Guidelines (Based on Research)
+## VISUAL RESEARCH PROTOCOL (MANDATORY — read before writing any prompt)
+
+**DO NOT write generic prompts.** Every image must look like it belongs to the ACTUAL property, city, or topic the article covers. Before writing any prompt, you MUST complete the Visual Identity Brief below.
+
+### Step 1: Build a Visual Identity Brief
+
+Read the article content, research files, and any community research report. Extract:
+
+1. **Subject type:** Property exterior? Neighborhood street? Interior detail? Conceptual flat-lay?
+2. **Building style (if property):** Garden-style, mid-rise, high-rise, townhome? How many stories?
+3. **Exterior materials and colors:** Brick (what color?), siding, stucco, concrete? Mixed materials?
+4. **Architectural details:** Balconies (wood/iron/concrete?), roof style (pitched/flat?), columns, entry style
+5. **Landscape and grounds:** What trees? (oaks, maples, palms, pines?) Mature or young? Grass, mulch, xeriscaping? Compact campus or sprawling grounds?
+6. **Key amenities visible from outside:** Pools, tennis courts, playgrounds, dog parks, gazebos, trails?
+7. **Geographic setting:** What does this region look like? Virginia = deciduous forest, Florida = palms + subtropical, Arizona = desert + saguaro, Indiana = brick + limestone + deciduous, Georgia = magnolias + red clay
+8. **Season:** Match the publication date. September = early fall, March = early spring, etc.
+9. **What residents/renters praise visually:** "wooded grounds," "resort-style pool," "walking trails" — use THEIR language from research
+10. **The #1 unique visual element:** What does this subject have that makes it visually distinct? This becomes the hero of the image.
+
+### Step 2: Identify the #1 Visual Hook
+
+Pick the single most distinctive visual element. This is the hero of the image.
+
+**GOOD visual hooks (specific, unique):**
+- "88 wooded acres with garden-style buildings scattered among mature oaks" (property)
+- "Zero-entry pool overlooking two natural lakes" (amenity)
+- "Limestone-accented brick buildings on a tree-lined college town street" (neighborhood)
+- "Empty restaurant space with exposed brick and stainless steel hood visible through storefront glass" (commercial)
+
+**BAD visual hooks (generic, could be anywhere):**
+- "Nice apartment building with trees"
+- "Pool area at an apartment complex"
+- "Modern apartment exterior"
+- "A beautiful neighborhood"
+
+### Step 3: Write Prompts Using the Prompt Template
+
+Every prompt MUST follow this structure:
+
+```
+[Shot type] editorial photograph of [specific architectural/subject description with materials and colors] in/at [specific location/setting]. [Specific landscape details with tree species and season]. [Lighting description with time of day]. [One or two specific details that prove this is a real, specific place — amenity glimpses, architectural quirks, regional character]. [Scale/composition note]. [Color palette]. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.
+```
+
+**Good prompt example (specific):**
+"Wide editorial photograph of a two-story tan and brown brick garden-style apartment building on a tree-lined residential street in Bloomington, Indiana. Mature deciduous trees with full green leaves arching over the sidewalk. A bicycle parked against an iron railing near the entrance. Limestone accents on the facade characteristic of southern Indiana. Warm late afternoon sunlight. Indiana small-town character. No people, no text, no logos, no watermarks. Professional architectural photography. 1200x628 pixels, 16:9 aspect ratio."
+
+**Bad prompt example (generic):**
+"Editorial photograph of an apartment building with trees nearby. Nice sunny day. No people."
+
+The difference: the good prompt produces an image that looks like Bloomington. The bad prompt produces generic stock.
+
+---
+
+## Image Style Guidelines
 
 ### What Works for Rental/Real Estate Blogs
 - **Custom branded visuals > stock photos.** Original images build trust and credibility, which is critical in housing decisions.
@@ -24,14 +77,86 @@
 - AI-generated images that look obviously synthetic (uncanny hands, warped text, impossible architecture)
 
 ### Recommended AI Image Generators
+- **GPT Image 2 / DALL-E 3** (default — use `generate-image.py` in SUPER SEO Agents folder)
 - **Midjourney v6+** (best photorealism)
-- **GPT Image / DALL-E 3** (good for editorial style)
 - **Ideogram 2.0** (if text-free compositions needed)
 - **Adobe Firefly** (commercially safe licensing)
 
 ---
 
-## Article 6: Las Brisas Apartments California
+## AUTOMATED IMAGE GENERATION (Stage 5 in Workflow)
+
+After generating the 3 prompt options, **automatically generate the recommended image (Option A)** using the `generate-image.py` script. Do NOT wait for human approval of the prompt.
+
+### How to Generate
+
+Run the script from the project root:
+
+```bash
+python3 "SUPER SEO Agents/generate-image.py" \
+  --prompt "[Prompt Option A text]" \
+  --output "brightplace intelligence/Images/[keyword-slug]-featured.webp" \
+  --alt "[Alt text]"
+```
+
+**Requirements:**
+- `OPENAI_API_KEY` must be in the `.env` file at project root (already configured)
+- Python packages: `openai`, `Pillow` (already installed)
+- The script uses GPT Image 2, generates at 1536x1024, crops to 1200x628, compresses to WebP under 200KB
+
+### What the Script Does
+1. Calls OpenAI GPT Image 2 API with the prompt
+2. Downloads the generated image
+3. Crops to 16:9 aspect ratio (1200x628)
+4. Compresses to WebP under 200KB (iterates quality from 85 down to 20)
+5. Saves the image + a metadata JSON file alongside it
+
+### Output Files
+- `brightplace intelligence/Images/[keyword-slug]-featured.webp` — the image
+- `brightplace intelligence/Images/[keyword-slug]-featured.json` — metadata (prompt, alt text, size, quality)
+
+### After Generation
+The image file is saved locally. During Stage 6 (Webflow CMS Push), the user uploads the image manually to the Webflow draft as the "Main Image" field. The Webflow asset upload API requires a public URL, so local files must be uploaded through the Webflow Designer UI.
+
+---
+
+## Prompt Output Format
+
+For every article, output the Visual Identity Brief first, then 3 prompt options:
+
+```
+# IMAGE PROMPTS: [Article Title]
+**Keyword:** [primary keyword]
+
+## Visual Identity Brief
+- Subject type: [property / neighborhood / conceptual]
+- Building style: [specific]
+- Exterior: [material + color]
+- Landscape: [tree types, season, grounds]
+- Geographic setting: [region-specific details]
+- Visual hook: [the #1 unique visual element]
+
+## Prompt Option A (Recommended):
+[Full prompt following the template — this should feature the #1 visual hook]
+
+**Why this works:** [One sentence on why this captures the subject specifically]
+
+## Prompt Option B:
+[Alternative angle, same subject accuracy]
+
+## Prompt Option C:
+[Third option, different concept, still subject-specific]
+
+## SEO Metadata
+- **Alt text:** [Descriptive, includes keyword and location, under 125 chars]
+- **File name:** [keyword-slug-featured.webp]
+```
+
+---
+
+## Example Prompts (Reference Library)
+
+### Article 6: Las Brisas Apartments California
 
 **Keyword:** las brisas apartments california
 **Article Theme:** Disambiguation guide covering 8+ properties sharing the same name across California

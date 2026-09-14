@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a classic Chicago two-flat brick walk-up apartment building on a tree-lined residential street on the South Side. Red-brown brick facade with a flat roof, bay windows on both floors, and an external wooden staircase with iron railing leading to the second-floor entrance. Mature honey locust trees along the parkway strip with full green canopies showing the faintest early fall gold. A quiet residential block with similar brick buildings visible on both sides of the street. Warm late afternoon light casting long shadows on the sidewalk. Chicago neighborhood character with no downtown skyline visible. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Classic brick walk-up apartment buildings on a tree-lined Chicago residential street",
+  "dimensions": "1200x628",
+  "size_kb": 195.8,
+  "quality": 75,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

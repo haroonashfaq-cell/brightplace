@@ -126,28 +126,116 @@ Run every check below. Output a structured report with PASS/FAIL/IMPROVE for eac
 
 ---
 
-## 5. COMPETITIVE DEPTH CHECK
+## 5. STRUCTURAL COMPLETENESS CHECK
 
-### 5a. Competitor Analysis Quality
+Verify the brief contains every element the writing agent needs. A brief missing structural elements produces an article with gaps.
+
+### 5a. Required Elements Checklist
+Check each element. FAIL if 3+ are missing. IMPROVE if 1-2 are missing.
+
+- [ ] H1 title containing primary keyword
+- [ ] SEO title (different from H1, under 60 chars)
+- [ ] Meta description (under 155 chars, contains keyword)
+- [ ] H2/H3 outline with all planned sections
+- [ ] FAQ section planned (10+ pairs specified or question list provided)
+- [ ] Internal link targets identified (7+ from sitemap)
+- [ ] External authority link targets identified (3-5 .gov/.edu/official)
+- [ ] CTA strategy defined (3 placements with specific copy direction)
+- [ ] Schema requirements noted (Article, FAQPage, WebPage at minimum)
+- [ ] Word count target set (calibrated against top competitors)
+- [ ] Keyword placement map (which H2s contain the keyword, target density)
+- [ ] Featured snippet paragraph instruction (49-55 words, standalone answer)
+
+**Report:** List every missing element. PASS if all present. IMPROVE if 1-2 missing. FAIL if 3+ missing.
+
+### 5b. Link Targets Validation
+- Does the brief list specific internal link URLs (not just topic suggestions)?
+- Are all listed URLs verified against the brightplace sitemap?
+- Are external authority links specific URLs (not just "link to a .gov site")?
+- **Report:** PASS or IMPROVE. List any vague or unverified link targets.
+
+---
+
+## 5c. PROPERTY ARTICLE COMPLETENESS CHECK (property articles ONLY)
+
+If the brief targets a specific apartment community or property, run these additional checks. **FAIL** if 2+ are missing. **IMPROVE** if 1 is missing.
+
+### Pet Policy Data
+- [ ] Brief specifies pet types allowed (dogs, cats, other)
+- [ ] Brief includes breed restrictions or weight limits (or notes "confirm with leasing office")
+- [ ] Brief includes pet deposit, pet fee, and monthly pet rent amounts (or notes they need sourcing)
+- [ ] Brief identifies on-site pet amenities (dog park, pet wash, waste stations)
+- [ ] Brief identifies nearest off-leash park or pet-friendly green space
+
+**Report:** PASS if all present. FAIL if pet section is entirely missing. IMPROVE if partial.
+
+### Amenity Data
+- [ ] Brief lists community amenities (pool, gym, clubhouse, etc.)
+- [ ] Brief lists in-unit amenities (W/D, appliances, countertops, etc.)
+- [ ] Brief identifies standout or unique amenities that differentiate the property
+- [ ] Amenity data goes beyond a bare list (includes context like gym equipment types, pool season)
+
+**Report:** PASS if detailed. FAIL if no amenity section. IMPROVE if list-only with no context.
+
+### Parking Data
+- [ ] Brief specifies parking types (surface, covered, garage)
+- [ ] Brief includes parking costs per type
+- [ ] Brief notes guest/visitor parking availability
+- [ ] Brief notes EV charging availability
+
+**Report:** PASS if all present. FAIL if parking section is entirely missing. IMPROVE if partial.
+
+### Walkability and Nearby Essentials Data
+- [ ] Brief identifies specific grocery stores within walking distance (name + distance)
+- [ ] Brief identifies 3-5 nearby restaurants or coffee shops (name + distance)
+- [ ] Brief identifies nearest pharmacy or medical facility
+- [ ] Brief identifies nearest transit stop (bus/train) with route info
+- [ ] Brief includes commute times to downtown or major employers
+- [ ] All distances use miles and walk times in minutes (no vague "nearby" or "close to")
+
+**Report:** PASS if all present with specific data. FAIL if walkability section is entirely missing. IMPROVE if vague or incomplete.
+
+### Property Brief Overall Verdict
+- If 0 sections FAIL → property brief APPROVED
+- If 1 section FAIL → NEEDS IMPROVEMENT (can proceed, but writer must source the missing data)
+- If 2+ sections FAIL → NEEDS REVISION (brief must be enriched before going to writing)
+
+---
+
+## 6. COMPETITIVE DEPTH CHECK
+
+### 6a. Competitor Analysis Quality
 - Did the brief analyze enough competitors (minimum 5)?
 - Is the word count target calibrated correctly against competitor depth?
 - **Report:** PASS or IMPROVE.
 
-### 5b. Differentiation Strategy
+### 6b. Differentiation Strategy
 - Can you clearly articulate what this article will provide that no current top-ranking result does?
 - Is the differentiation strong enough to justify publishing?
 - **Report:** PASS or FAIL. If FAIL, the brief needs more work before going to writing.
 
 ---
 
-## 6. INDEPENDENT KEYWORD RESEARCH
+## 7. INDEPENDENT RESEARCH (MANDATORY)
 
-### 6a. Related Keywords Check
-- Using your own knowledge, identify 5-10 additional keywords or search queries related to this topic that the brief may have missed.
+### 7a. SERP Reality Check (REQUIRED — do not skip)
+**Web search the primary keyword yourself.** This is not optional. The brief may be based on stale SERP data.
+
+1. Search the primary keyword and list the top 5 results (URL, title, approximate word count)
+2. Note the content type that dominates (guide, listicle, tool, local pack, video)
+3. Check if the brief's proposed format matches what's actually ranking
+4. List all PAA questions shown in the SERP — compare against the brief's FAQ/H2 plan
+5. Check if an AI Overview appears and what sources it cites
+6. Note anything the top results cover that the brief does NOT address
+
+**Report:** PASS if brief aligns with SERP reality. IMPROVE with specific gaps. FAIL if SERP shows a fundamentally different content type than what the brief proposes.
+
+### 7b. Related Keywords Check
+- Identify 5-10 additional keywords or search queries related to this topic that the brief may have missed.
 - Check for: seasonal variants, demographic-specific queries, comparison queries, "reddit" or "review" modifiers that indicate unmet informational need.
 - **Report:** List additional keywords with estimated relevance.
 
-### 6b. Topical Authority Considerations
+### 7c. Topical Authority Considerations
 - Does this article fit within brightplace's existing content clusters?
 - Will it strengthen topical authority when cross-linked with existing articles?
 - Are there prerequisite articles that should exist before this one?

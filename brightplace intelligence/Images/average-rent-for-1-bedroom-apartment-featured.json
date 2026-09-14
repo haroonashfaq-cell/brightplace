@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Editorial photograph of a bright one-bedroom apartment living area viewed from the hallway entrance. A large window floods the room with warm morning sunlight. Neutral walls, hardwood floors, a simple couch, and a small dining table with two chairs. A kitchen pass-through or galley kitchen is partially visible to one side with white cabinets and stainless steel appliances. A few personal touches: a potted plant on the windowsill, a folded throw blanket on the couch, a mug on the counter. Clean, livable, realistic mid-range apartment. Not luxury, not sparse. Early fall light streaming through the window with a hint of amber-toned tree canopy visible outside. No people, no text, no logos, no watermarks. Professional editorial interior photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Bright one-bedroom apartment interior with sunlit living area and hardwood floors",
+  "dimensions": "1200x628",
+  "size_kb": 88.1,
+  "quality": 85,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

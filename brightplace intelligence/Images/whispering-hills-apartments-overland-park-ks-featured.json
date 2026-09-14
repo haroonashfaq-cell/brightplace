@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a two-story tan and brown garden-style apartment building in a Kansas City suburb, set behind a broad green lawn with mature deciduous trees showing the earliest hints of gold at the leaf edges in early September. A swimming pool area with a low clubhouse building is partially visible to one side, its glass windows reflecting warm late afternoon sunlight. Surface parking lot with a few covered carport spaces in the foreground. Flat Midwest terrain, wide sky with scattered clouds. Clean residential suburban atmosphere. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Garden-style apartment buildings with pool area at Whispering Hills in Overland Park, Kansas",
+  "dimensions": "1200x628",
+  "size_kb": 173.6,
+  "quality": 80,
+  "format": "webp",
+  "model": "gpt-image-2"
+}
