@@ -1,17 +1,17 @@
 # brightplace Content Production Workflow
 
-**Version:** 1.0
-**Last Updated:** July 2026
+**Version:** 1.1
+**Last Updated:** September 2026
 **Purpose:** This document defines the exact steps Claude Code follows when producing content for brightplace. Follow every step in order. Do not skip steps. Do not improvise the process.
 
 ---
 
 ## Overview
 
-The workflow has 9 stages. Every article passes through all stages before it is considered complete.
+The workflow has 10 stages. Every article passes through all stages before it is considered complete.
 
 ```
-0. Content Brief Agent → 1. Pull Brief → 2. Brief Check → 2.5 Reddit Research → 3. Writing Agent → 4. QA Agent → 5. Image Prompt → 6. Webflow CMS Push → 7. GitHub Commit
+0. Content Brief Agent → 1. Pull Brief → 2. Brief Check → 2.5 Reddit Research → 3. Writing Agent → 4. QA Agent → 5. Image Prompt → 5.5 HTML Generation → 6. Webflow CMS Push → 7. GitHub Commit
 ```
 
 **Stage 0 is optional when a brief already exists.** If the user provides a keyword without a brief, run Stage 0 first. If the user provides a pre-written brief, skip to Stage 1.
@@ -299,6 +299,61 @@ python3 "SUPER SEO Agents/generate-image.py" \
 
 ---
 
+## Stage 5.5: HTML Generation (Production-Ready File)
+
+**Purpose:** Convert the final enriched markdown article (stage 09) into a standalone, production-ready HTML file that can be deployed directly to a site. This is the "ready to go live" artifact.
+
+**Script:** `AIR operator/generate-html.py`
+
+**Process:**
+1. Read the stage-09 final-enriched markdown file
+2. Parse YAML frontmatter (title, seo_title, meta_description, slug, dates, keywords)
+3. Extract all JSON-LD schemas (FAQPage, Article, WebPage) from the markdown
+4. Extract canonical URL from the WebPage schema
+5. Convert markdown body to semantic HTML (no external dependencies)
+6. Build complete HTML document with all SEO requirements
+7. Save as `10-[slug].html` in the same article folder
+
+**Run for all completed articles:**
+```bash
+cd "AIR operator" && python3 generate-html.py
+```
+
+**What the HTML includes (full SEO checklist):**
+
+Head section:
+- SEO title (distinct from H1) in `<title>` tag
+- `<meta name="description">` with meta description
+- `<meta name="keywords">` with primary + all secondary keywords
+- `<meta name="robots">` with `max-snippet:-1, max-image-preview:large, max-video-preview:-1`
+- `<link rel="canonical">` populated from WebPage schema URL
+- `<link rel="alternate" hreflang="en-US">` for language targeting
+- Open Graph tags: `og:type`, `og:title`, `og:description`, `og:url`, `og:image` (placeholder), `og:locale`, `article:published_time`, `article:modified_time`, `article:author`
+- Twitter Card tags: `summary_large_image`, title, description, image placeholder
+- All 3 JSON-LD schemas embedded as `<script type="application/ld+json">`
+
+Body section:
+- `<article itemscope itemtype="https://schema.org/Article">` wrapper with microdata
+- Author and date in `<header>` with `itemprop` attributes
+- First paragraph tagged with `class="article-intro"` (AEO citability + speakable spec target)
+- FAQ section wrapped in `<section class="faq-section" aria-label="Frequently Asked Questions">` (speakable spec target)
+- "Last reviewed: [Month Year]" in `<footer class="article-footer">`
+- Word count in HTML comment for reference
+- No `<ul>/<li>` tags (Webflow-safe)
+- Single H1 only
+- All external links use `target="_blank" rel="noopener"`
+- Mobile-responsive CSS (breakpoint at 640px)
+
+**Before publishing (manual steps):**
+- Add featured image URL to `og:image` and `twitter:image` (marked with `TODO` comments in the HTML)
+- Verify canonical URL matches the actual deployment URL
+
+**Output:** `10-[slug].html` in the same folder as the source article
+
+**For AIR Operator pipeline:** This is Stage 10 in the numbered file convention (after 09-final-enriched.md). The `generate-html.py` script processes ALL stage-09 files across all community folders in one run.
+
+---
+
 ## Stage 6: Webflow CMS Push
 
 **Purpose:** Create or update the article as a draft in Webflow CMS.
@@ -462,7 +517,8 @@ Any .gov or .edu link NOT on this list should be flagged as a WARNING for manual
 2. **Write** → Draft article using brief + Reddit research report
 3. **QA** → Run FULL qa-agent.md (ALL 6 sections including link audit)
 4. **Image** → Generate 3 image prompts with alt text
-5. **Webflow** → Convert to HTML, push to CMS as draft
+4.5. **HTML** → Run `generate-html.py` to create production-ready HTML (stage 10 file)
+5. **Webflow** → Push to CMS as draft
 6. **Commit** → Only when user says "push to GitHub"
 
 **When the user gives you a PRE-WRITTEN BRIEF:**
@@ -473,7 +529,8 @@ Any .gov or .edu link NOT on this list should be flagged as a WARNING for manual
 3. **Write** → Draft article using brief + Reddit research report
 4. **QA** → Run FULL qa-agent.md (ALL 6 sections including link audit)
 5. **Image** → Generate 3 image prompts with alt text
-6. **Webflow** → Convert to HTML, push to CMS as draft
+5.5. **HTML** → Run `generate-html.py` to create production-ready HTML (stage 10 file)
+6. **Webflow** → Push to CMS as draft
 7. **Commit** → Only when user says "push to GitHub"
 
 If any stage fails, fix and re-run that stage before proceeding. Never skip a stage.
