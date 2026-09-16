@@ -107,6 +107,66 @@ Website, phone
 ]}]}
 ```
 
+### Google Analytics (GA4) — REQUIRED on all 10 community sites
+
+**Measurement ID:** `G-DK6QHHS88K` (brightplace shared property — tracks all subdomains in one dashboard)
+
+**Next.js implementation (`app/layout.tsx`):**
+```tsx
+import Script from 'next/script'
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <head>
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-DK6QHHS88K"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-DK6QHHS88K');
+          `}
+        </Script>
+      </head>
+      <body>{children}</body>
+    </html>
+  )
+}
+```
+
+**If NOT using Next.js `<Script>` component, raw HTML for `<head>`:**
+```html
+<!-- Google Analytics (GA4) - brightplace - DO NOT REMOVE -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DK6QHHS88K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-DK6QHHS88K');
+</script>
+```
+
+**Rules:**
+- Same tag on ALL 10 community subdomains — one GA4 property tracks everything
+- Use `next/script` with `strategy="afterInteractive"` in Next.js (do NOT put raw `<script>` in Next.js `<head>` — it won't work correctly)
+- Cross-domain measurement is configured on the GA4 side (brightplace handles this, not dev)
+- Filter by hostname in GA4 reports to see per-community data (e.g. `citi-lakes.brightplace.ai`)
+- This tag must load on EVERY page: blog posts, property pages, homepage, floor plans, contact — everything
+
+### Google Search Console
+
+GSC is handled via DNS domain property (`sc-domain:brightplace.ai`) — no verification code needed on community sites. Developer's only GSC responsibility:
+
+1. **Build `/sitemap.xml`** on each subdomain (dynamic, auto-updates when content is published — see §2.3 MCP tools)
+2. **Build `/robots.txt`** on each subdomain (see template above)
+3. brightplace submits sitemaps to GSC manually after deployment
+
+No GSC meta tags or verification snippets needed in `<head>`.
+
 ### Semantic HTML template
 ```html
 <html lang="en">
