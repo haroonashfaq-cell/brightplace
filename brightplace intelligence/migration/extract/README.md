@@ -9,10 +9,31 @@ Every piece of CMS content on `www.brightplace.ai`, pulled straight from Webflow
 named by slug. Three files per item:
 
 ```
-<slug>.md      text with YAML frontmatter (title, URL, SEO fields, category, author, dates)
-<slug>.html    the published body, verbatim from the Webflow CMS
-<slug>.<ext>   the featured image, original resolution
+<slug>.md          text with YAML frontmatter (title, URL, SEO fields, category, author, dates)
+<slug>.html        the published body, verbatim from the Webflow CMS
+<slug>.page.html   standalone rendered page — full SEO head, OG, JSON-LD, inline styles
+<slug>.<ext>       the featured image, original resolution
 ```
+
+### `.page.html` — the full-page render
+
+Built to match the AIR operator Stage-10 article template
+(`AIR operator/*/…/10-*.html`), so it is the same shape the team already works with.
+127 pages, one per Guide, Resource and News item. Each carries:
+
+- SEO `<title>`, meta description, keywords, author, robots
+- **Filled** `rel="canonical"` and `og:url` — the AIR template leaves these empty
+- **Filled** `og:image` from the CMS featured image — the AIR template has a TODO here
+- Open Graph + Twitter Card, `article:published_time` / `article:modified_time`
+- **3 JSON-LD blocks server-rendered**: Article, BreadcrumbList, WebPage (with `speakable`)
+- schema.org microdata on `<article>`, `<time>`, `articleBody`
+- The AIR template's inline stylesheet, unchanged
+
+All 381 JSON-LD blocks parse as valid JSON. 3 pages have an empty `og:image` — those are the
+3 items with no `main-image` in the CMS.
+
+**This is what the live site does not have.** Today's Webflow pages ship **zero** JSON-LD in the
+server HTML, no canonical, and no real OG tags. These files show the target state.
 
 ## Contents
 
@@ -56,6 +77,10 @@ Rendering them as-is in Next.js injects stray `<head>`/`<style>` into the page �
 and the CSS leaks. Decide per pattern: sanitise into components, or preserve as scoped raw HTML.
 The content is captured faithfully; this is a build decision, not an extraction gap.
 
+The `.page.html` files show one workable answer: document-level tags (`<html>`, `<head>`,
+`<body>`, `<title>`, `<meta>`, `<link>`) are stripped while **everything else is kept, including
+`<style>`**, so the page renders and validates. `<slug>.html` remains the untouched payload.
+
 ### 3. The sitemap is not a complete URL inventory
 
 148 URLs are listed, but ~18 more are live and unlisted: 4 published resources, 3 `/author/`
@@ -80,9 +105,7 @@ miss them. Detail in `indexing/notes.md`.
 
 ## Not included yet
 
-- HTML design templates (how Guides/Resources pages are laid out)
-- Per-item rendered `page.html` — **capture before Webflow is cancelled**; it is the only record
-  of how pages rendered
+- HTML design templates (how the Guides/Resources *listing* pages are laid out)
 - GA4 (`G-DK6QHHS88K`) and the Search Console verification token — **must be carried across before
   DNS moves**
 - In-body image binaries beyond the News inline images
