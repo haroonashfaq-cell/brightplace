@@ -1,0 +1,41 @@
+[
+  {
+    "id": "69dcd70089c4135f7a4158bc",
+    "name": "Katie Mikles",
+    "slug": "katie-mikles",
+    "email": "katie.mikles@brightplace.com",
+    "bio_summary": "Katie Mikles is a neighborhood expert specializing in renter advice and market insights.",
+    "picture": "https://cdn.prod.website-files.com/69dccfea9e664732ba632bed/6a998ccd9581a270aee583ef_Katie.jpg",
+    "instagram": "https://www.instagram.com/katiemikles",
+    "linkedin": "https://www.linkedign.com/in/katiemikles",
+    "created_on": "2026-04-13T11:44:00.070Z",
+    "last_updated": "2026-09-03T18:30:57.845Z",
+    "last_published": "2026-09-11T20:44:16.217Z"
+  },
+  {
+    "id": "6a44236ee39b257a0c3b8dbf",
+    "name": "Haroon Ashfaq",
+    "slug": "haroon-ashfaq",
+    "email": "haroon.ashfaq@brightplace.ai",
+    "bio_summary": "Haroon Ashfaq is the founding GTM engineer at brightplace, building the agentic content and distribution systems behind the platform's AI citation growth.",
+    "picture": null,
+    "instagram": null,
+    "linkedin": null,
+    "created_on": "2026-06-30T20:13:34.306Z",
+    "last_updated": "2026-06-30T20:14:32.205Z",
+    "last_published": "2026-07-02T15:46:54.216Z"
+  },
+  {
+    "id": "6a3d4a227ccdeee561f1166b",
+    "name": "Tom Sharp",
+    "slug": "tom-sharp",
+    "email": "tom.sharp@brightplace.ai",
+    "bio_summary": "Tom Sharp is the founding AI developer at brightplace, leading engineering on the AI Rental Advisor and brightplace Connect MCP server.",
+    "picture": null,
+    "instagram": null,
+    "linkedin": null,
+    "created_on": "2026-06-25T15:32:50.233Z",
+    "last_updated": "2026-06-25T15:46:04.924Z",
+    "last_published": "2026-06-25T15:50:18.755Z"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "categories": {
+    "6a33e903e1454372f37cf6e8": {"name": "News", "slug": "news"},
+    "6a1852a0e900a98e33e475b2": {"name": "Renters Corner", "slug": "renter-corner"},
+    "6a0223968011f8b2c9af166e": {"name": "Lifestyle", "slug": "lifestyle"},
+    "6a022353abefb2d114e7b04a": {"name": "Property", "slug": "property"},
+    "69df6feb55f0f6d5f4e0d20d": {"name": "Renter Advice", "slug": "renter-advice"},
+    "69df6fa543a7bf3d08de2528": {"name": "Top Apartments", "slug": "top-apartments"},
+    "69df6ef62355bc3a757acebe": {"name": "Neighborhood Guides", "slug": "neighborhood-guides"}
+  },
+  "authors": {
+    "6a44236ee39b257a0c3b8dbf": {"name": "Haroon Ashfaq", "slug": "haroon-ashfaq"},
+    "6a3d4a227ccdeee561f1166b": {"name": "Tom Sharp", "slug": "tom-sharp"},
+    "69dcd70089c4135f7a4158bc": {"name": "Katie Mikles", "slug": "katie-mikles"}
+  },
+  "_notes": [
+    "Authors field slug 'facebook-profile-link' is LABELLED 'Instagram Profile Link' and Katie's value is an instagram.com URL. Map by label, not slug.",
+    "Katie's linkedin-profile has a typo in the live data: www.linkedign.com (should be linkedin.com)."
+  ]
+}

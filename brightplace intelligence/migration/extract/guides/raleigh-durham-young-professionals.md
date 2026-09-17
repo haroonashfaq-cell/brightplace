@@ -1,0 +1,765 @@
+---
+title: "Where Young Professionals Are Renting in Raleigh-Durham, NC"
+seo_title: "Where Young Pros Rent in Raleigh-Durham NC | brightplace"
+meta_description: "Neighborhoods in the Research Triangle for renters in their 20s and 30s. Rent ranges, commute times, nightlife, and which areas match your pace."
+slug: "raleigh-durham-young-professionals"
+focus_keyword: "best neighborhoods raleigh durham young professionals"
+status: "published"
+last_published: "2026-04-27"
+last_updated: "2026-04-27"
+collection: "guides"
+url: "https://www.brightplace.ai/guides/raleigh-durham-young-professionals"
+---
+
+# Where Young Professionals Are Renting in Raleigh-Durham, NC
+
+**Summary:** A brightplace neighborhood guide for young professionals relocating to the Research Triangle
+
+---
+
+## Post Body (HTML from CMS)
+
+<h2><strong>Where to land when you're chasing opportunity without paying big-city rent</strong></h2><p><em>A brightplace neighborhood guide for young professionals relocating to the Research Triangle</em></p><div data-rt-embed-type='true'><head>
+    <style>
+        
+        .card-container {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        
+        .info-card {
+            background: #fafafa;
+            border-radius: 12px;
+            padding: 20px 24px;
+            min-width: 180px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+            border-top: 3px solid #f5a623;
+        }
+        
+        .card-label {
+            color: #00bcd4;
+            font-size: 14px;
+            font-weight: 500;
+            margin-bottom: 8px;
+            letter-spacing: 0.3px;
+        }
+        
+        .card-value {
+            color: #333;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+    <div class="card-container">
+        <div class="info-card">
+            <div class="card-label">Market</div>
+            <div class="card-value">Raleigh-Durham, NC</div>
+        </div>
+        
+        <div class="info-card">
+            <div class="card-label">Lifestyle</div>
+            <div class="card-value">Young Professionals</div>
+        </div>
+        
+        <div class="info-card">
+            <div class="card-label">Price Range</div>
+            <div class="card-value">$989 - $1,690/mo</div>
+        </div>
+        
+        <div class="info-card">
+            <div class="card-label">Last Reviewed</div>
+            <div class="card-value">March 2026</div>
+        </div>
+    </div>
+</body></div><p>‍</p><p>The Research Triangle has become one of the most appealing metros in the country for young professionals in their 20s and 30s. Tech companies like Apple and Meta have planted flags in the area. Duke, NC State, and UNC Chapel Hill feed a steady stream of smart, ambitious residents who choose to stay. And compared to the markets many of them relocated from, the math is almost impossible to argue with.</p><p>The question is no longer whether Raleigh-Durham is a good move. It's where to live once you get here.</p><p>This guide focuses on five neighborhoods that consistently come up in local conversations among new arrivals: the Village District in Raleigh, the Ninth Street District in Durham, North Hills in Midtown Raleigh, West Raleigh's Wade neighborhood, and Morrisville for those tied to the airport or Research Triangle Park. We highlight properties from operators with strong resident track records, all priced well below what you'd pay in comparable metros.</p><div data-rt-embed-type='true'><head>
+<style>
+table {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Header row */
+thead tr {
+    background-color: #00bcd4;
+    color: white;
+}
+
+th {
+    padding: 15px 20px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+/* Body rows */
+tbody tr {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+tbody tr:last-child {
+    border-bottom: none;
+}
+
+td {
+    padding: 20px;
+    font-size: 14px;
+    color: #333;
+    line-height: 1.5;
+    vertical-align: top;
+}
+
+/* Icon in header */
+.icon {
+    text-align: right;
+}
+
+.icon svg {
+    width: 24px;
+    height: 24px;
+    fill: white;
+}
+</style>
+</head>
+<body>
+<table>
+    <thead>
+        <tr>
+            <th>Neighborhood</th>
+            <th>Operator /<br>Property</th>
+            <th>Starting<br>Rent</th>
+            <th>Best For</th>
+            <th>Key Draw</th>
+            <th class="icon">
+                <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                    <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" fill="none"/>
+                    <circle cx="12" cy="9" r="2.5" fill="white"/>
+                </svg>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Village District,<br>Raleigh</td>
+            <td>Berkshire<br>Residential</td>
+            <td>Studios<br>~$1,246</td>
+            <td>Walkability,<br>neighborhood feel</td>
+            <td>80+ shops and<br>restaurants on foot</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Ninth Street, Durham</td>
+            <td>Berkshire<br>Residential</td>
+            <td>Studios<br>~$1,690</td>
+            <td>Food, culture, texture</td>
+            <td>Duke adjacency,<br>independent retail</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>North Hills, Midtown<br>Raleigh</td>
+            <td>Rangewater</td>
+            <td>1BR ~$989</td>
+            <td>Value, commute to<br>RTP</td>
+            <td>All-inclusive rent option</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>West Raleigh / Wade</td>
+            <td>MAA</td>
+            <td>Studios<br>~$1,147</td>
+            <td>Practical location, I-<br>440 access</td>
+            <td>953-unit community,<br>smart home tech</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Morrisville</td>
+            <td>Rangewater</td>
+            <td>Contact for<br>pricing</td>
+            <td>Lowest cost, airport<br>proximity</td>
+            <td>Microsoft, Lenovo<br>corridor</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+</body></div><p>‍</p><h2>In this guide</h2><ul><li><a href="https://brightplace.ai/guides/raleigh-durham-young-professionals#village-district">Village District | Raleigh</a></li><li><a href="https://brightplace.ai/guides/raleigh-durham-young-professionals#ninth-street-district">Ninth Street District | Durham</a></li><li><a href="https://brightplace.ai/guides/raleigh-durham-young-professionals#north-hills">North Hills | Midtown Raleigh</a></li><li><a href="https://brightplace.ai/guides/raleigh-durham-young-professionals#west-raleigh-wade">West Raleigh / Wade</a></li><li><a href="https://brightplace.ai/guides/raleigh-durham-young-professionals#morrisville">Morrisville | Airport Corridor</a></li></ul><p>‍</p><h2>Village District | Raleigh</h2><p>Village District is the neighborhood that comes up first in almost every local conversation about walkable Raleigh. Built in 1947 as North Carolina's first mixed-use development, it remains the most neighborhood-feeling part of the city: a Harris Teeter and Fresh Market within walking distance, coffee shops and restaurants lining Clark Avenue, and greenway access that lets you cover serious ground without a car.</p><p>For young professionals, the appeal is the mix of energy and ease. Glenwood South is close enough for nights out. NC State's campus is nearby. But the Village District itself feels like somewhere you actually live, not just crash. Renters who prioritize walkability and a lively but not chaotic block consistently put this neighborhood at the top.</p><div data-rt-embed-type='true'><head>
+    <style>
+      
+        
+        .property-card {
+            background-color: #fffbf5;
+            border: 1px solid #f0e6d6;
+            border-radius: 16px;
+            padding: 28px 32px;
+            max-width: 700px;
+            width: 100%;
+        }
+        
+        .property-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+        
+        .property-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        
+        .property-details {
+            font-size: 15px;
+            color: #888;
+            margin-bottom: 18px;
+            line-height: 1.6;
+        }
+        
+        .property-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #444;
+            margin-bottom: 24px;
+        }
+
+        .property-description ul {
+            padding-left: 18px;
+        }
+
+        .property-description li {
+            margin-bottom: 10px;
+        }
+        
+        .view-property-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #f5a623;
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+        
+        .view-property-btn:hover {
+            background-color: #e09513;
+        }
+        
+        .view-property-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="property-card">
+        <div class="property-label">WORTH LOOKING AT</div>
+
+        <h3 class="property-name">Berkshire Village District</h3>
+
+        <div class="property-details">
+            2128 Clark Ave, Raleigh, NC 27605<br>
+            Managed by: Berkshire Residential | Starting from: Studios from ~$1,246/mo; one-bedrooms from ~$1,268/mo
+        </div>
+
+        <div class="property-description">
+            <ul>
+                <li>Located directly in the Village District shopping and dining corridor</li>
+                <li>80+ shops, restaurants, and boutiques within walking distance including Fresh Market and Harris Teeter</li>
+                <li>Saltwater pool, high-endurance fitness center, wine cellar, and dog park</li>
+                <li>In-unit washer/dryer, granite countertops, hardwood-style flooring</li>
+                <li>5 parks within 2 miles including Pullen Park and WRAL Azalea Gardens</li>
+                <li>Consistently strong resident reviews</li>
+            </ul>
+        </div>
+
+        <a href="https://berkshirevillagedistrict.com/" target="_blank" class="view-property-btn">
+            View property
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+        </a>
+    </div>
+</body></div><p>‍</p><h2>Ninth Street District | Durham</h2><p>Durham's Ninth Street District is where you end up if you care as much about where you eat and drink as where you work. The neighborhood runs along Ninth Street near Duke University and is defined by independent coffee shops, farm-to-table restaurants, locally owned boutiques, and a character that's distinctly Durham rather than generic Sun Belt. Bull City Burger, Brightleaf Square, and the American Tobacco Historic District are minutes away.</p><p>The renter profile here skews toward people in healthcare, research, and tech who want a neighborhood with texture. It draws Duke affiliates but isn't defined by them. If Raleigh's Village District feels like a polished mixed-use development, Ninth Street feels like a neighborhood that happened organically, which is exactly what makes it appealing to people who've lived in real cities before.</p><div data-rt-embed-type='true'><head>
+    <style>
+        
+        .property-card {
+            background-color: #fffbf5;
+            border: 1px solid #f0e6d6;
+            border-radius: 16px;
+            padding: 28px 32px;
+            max-width: 700px;
+            width: 100%;
+        }
+        
+        .property-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+        
+        .property-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        
+        .property-details {
+            font-size: 15px;
+            color: #888;
+            margin-bottom: 18px;
+            line-height: 1.6;
+        }
+        
+        .property-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #444;
+            margin-bottom: 24px;
+        }
+
+        .property-description ul {
+            padding-left: 18px;
+        }
+
+        .property-description li {
+            margin-bottom: 10px;
+        }
+        
+        .view-property-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #f5a623;
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+        
+        .view-property-btn:hover {
+            background-color: #e09513;
+        }
+        
+        .view-property-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="property-card">
+        <div class="property-label">WORTH LOOKING AT</div>
+
+        <h3 class="property-name">Berkshire Ninth Street</h3>
+
+        <div class="property-details">
+            749 9th St, Durham, NC 27705<br>
+            Managed by: Berkshire Residential | Starting from: Studios from ~$1,690/mo; one-bedrooms available
+        </div>
+
+        <div class="property-description">
+            <ul>
+                <li>Steps from Ninth Street's restaurants, coffee shops, and independent retail</li>
+                <li>1.1 miles from Duke University and Duke Medical Center</li>
+                <li>Resort-style saltwater pool, fitness zone with rock climbing wall, dog spa</li>
+                <li>Studio, one, two, and three-bedroom floor plans available</li>
+                <li>In-unit washer/dryer, granite countertops, stainless appliances</li>
+                <li>Consistently strong resident reputation in the Durham market</li>
+            </ul>
+        </div>
+
+        <a href="https://www.berkshireninthstreet.com/" target="_blank" class="view-property-btn">
+            View property
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+        </a>
+    </div>
+</body></div><p>‍</p><h2>North Hills | Midtown Raleigh</h2><p>North Hills is Raleigh's most practical neighborhood for young professionals who commute into Research Triangle Park or need quick access to I-440. Midtown Exchange and the North Hills Innovation District anchor a dense retail and dining corridor, and the area has grown significantly over the past five years as tech and financial services firms have expanded their Triangle presence.</p><p>The affordability story here is compelling. North Hills offers a genuine urban feel at prices that sit well below the Raleigh average, particularly for one-bedroom renters. For someone relocating from a higher-cost market and carrying some sticker shock from coastal rents, this neighborhood recalibrates expectations fast.</p><div data-rt-embed-type='true'><head>
+    <style>
+  
+        .property-card {
+            background-color: #fffbf5;
+            border: 1px solid #f0e6d6;
+            border-radius: 16px;
+            padding: 28px 32px;
+            max-width: 700px;
+            width: 100%;
+        }
+        
+        .property-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+        
+        .property-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        
+        .property-details {
+            font-size: 15px;
+            color: #888;
+            margin-bottom: 18px;
+            line-height: 1.6;
+        }
+        
+        .property-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #444;
+            margin-bottom: 24px;
+        }
+
+        .property-description ul {
+            padding-left: 18px;
+        }
+
+        .property-description li {
+            margin-bottom: 10px;
+        }
+        
+        .view-property-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #f5a623;
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+        
+        .view-property-btn:hover {
+            background-color: #e09513;
+        }
+        
+        .view-property-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="property-card">
+        <div class="property-label">WORTH LOOKING AT</div>
+
+        <h3 class="property-name">1105 Flats at North Hills</h3>
+
+        <div class="property-details">
+            1105 Navaho Dr, Raleigh, NC 27609<br>
+            Managed by: Rangewater Residential | Starting from: One-bedrooms from ~$989/mo (all-inclusive package available)
+        </div>
+
+        <div class="property-description">
+            <ul>
+                <li>All-inclusive rent option covers internet, cable, utilities, and parking</li>
+                <li>Priced significantly below the Midtown Raleigh market average for comparable units</li>
+                <li>Resort-style pool, fitness center, coworking spaces, and game room</li>
+                <li>Newly renovated interiors with upgraded kitchens and vinyl plank flooring</li>
+                <li>Minutes from North Hills Innovation District dining and retail</li>
+                <li>Consistently strong resident reviews and responsive management team</li>
+            </ul>
+        </div>
+
+        <a href="https://www.1105flats.com/" target="_blank" class="view-property-btn">
+            View property
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+        </a>
+    </div>
+</body></div><p>‍</p><h2>West Raleigh / Wade | Raleigh</h2><p>West Raleigh's Wade neighborhood sits at a useful intersection: close enough to downtown to feel connected, close enough to NCSU and PNC Arena to feel like the middle of something, and on the I-440 Beltline for easy access anywhere in the Triangle. It's a neighborhood that reads as practical rather than trendy, which tends to mean better value per dollar and a more mixed, professionally oriented renter base.</p><p>PNC Arena is steps away, which matters for Hurricanes fans and concert-goers but also means parking and traffic on event nights. The JC Raulston Arboretum and the NC Museum of Art are both within a short drive, giving the area more outdoor and cultural depth than its suburban-adjacent feel might suggest. Residents consistently note feeling safe and well-served, and the community size here is substantial enough that amenities stay well-maintained.</p><div data-rt-embed-type='true'><head>
+
+    <style>
+        
+        .property-card {
+            background-color: #fffbf5;
+            border: 1px solid #f0e6d6;
+            border-radius: 16px;
+            padding: 28px 32px;
+            max-width: 700px;
+            width: 100%;
+        }
+        
+        .property-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+        
+        .property-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        
+        .property-details {
+            font-size: 15px;
+            color: #888;
+            margin-bottom: 18px;
+            line-height: 1.6;
+        }
+        
+        .property-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #444;
+            margin-bottom: 24px;
+        }
+
+        .property-description ul {
+            padding-left: 18px;
+        }
+
+        .property-description li {
+            margin-bottom: 10px;
+        }
+        
+        .view-property-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #f5a623;
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+        
+        .view-property-btn:hover {
+            background-color: #e09513;
+        }
+        
+        .view-property-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="property-card">
+        <div class="property-label">WORTH LOOKING AT</div>
+
+        <h3 class="property-name">MAA Wade Park</h3>
+
+        <div class="property-details">
+            5443 Wade Park Blvd, Raleigh, NC 27607<br>
+            Managed by: MAA (Mid-America Apartment Communities) | Starting from: Studios from ~$1,147/mo; one-bedrooms from ~$1,497/mo
+        </div>
+
+        <div class="property-description">
+            <ul>
+                <li>953-unit community with two resort-style pools and two 24-hour fitness centers</li>
+                <li>Smart home technology and EV charging stations in all homes</li>
+                <li>In-unit washer/dryer, granite countertops, nine-foot ceilings</li>
+                <li>Urban vegetable garden, bark park, basketball court, and yoga studio on site</li>
+                <li>Steps from PNC Arena; 12 minutes to downtown Raleigh</li>
+                <li>Quick I-440 access to Research Triangle Park, RDU Airport, and Durham</li>
+            </ul>
+        </div>
+
+        <a href="https://www.maac.com/north-carolina/raleigh-cary/maa-wade-park/" target="_blank" class="view-property-btn">
+            View property
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+        </a>
+    </div>
+</body></div><p>‍</p><h2>Morrisville | Airport Corridor</h2><p>Morrisville sits at the intersection of the Research Triangle's major employment corridors. Microsoft and Lenovo both have a significant presence here. RDU International Airport is minutes away. And the town's location in Wake County near Cary gives residents access to top-rated schools, well-maintained parks, and a suburban pace that appeals to young professionals who value a quieter environment without sacrificing career access.</p><p>It's not the neighborhood for someone chasing nightlife, but it's a strong pick for the renter whose priority is keeping rent low, commute short, and financial runway intact during the early career years. Morrisville consistently comes up as the area where smart first-movers to the Triangle get the best value per dollar.</p><div data-rt-embed-type='true'><head>
+    <style>
+        .property-card {
+            background-color: #fffbf5;
+            border: 1px solid #f0e6d6;
+            border-radius: 16px;
+            padding: 28px 32px;
+            max-width: 700px;
+            width: 100%;
+        }
+        
+        .property-label {
+            font-size: 12px;
+            font-weight: 600;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+        }
+        
+        .property-name {
+            font-size: 24px;
+            font-weight: 700;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+        }
+        
+        .property-details {
+            font-size: 15px;
+            color: #888;
+            margin-bottom: 18px;
+            line-height: 1.6;
+        }
+        
+        .property-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: #444;
+            margin-bottom: 24px;
+        }
+
+        .property-description ul {
+            padding-left: 18px;
+        }
+
+        .property-description li {
+            margin-bottom: 10px;
+        }
+        
+        .view-property-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background-color: #f5a623;
+            color: white;
+            text-decoration: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.2s ease;
+        }
+        
+        .view-property-btn:hover {
+            background-color: #e09513;
+        }
+        
+        .view-property-btn svg {
+            width: 16px;
+            height: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="property-card">
+        <div class="property-label">WORTH LOOKING AT</div>
+
+        <h3 class="property-name">ABODE at Arringdon</h3>
+
+        <div class="property-details">
+            5761 Arringdon Park Dr, Morrisville, NC 27560<br>
+            Managed by: Rangewater Residential | Starting from: Contact for current availability
+        </div>
+
+        <div class="property-description">
+            <ul>
+                <li>Build-to-rent community in Morrisville's Arringdon corridor near RTP and RDU</li>
+                <li>Access to Microsoft, Lenovo, and other major Triangle employers nearby</li>
+                <li>Resident reviews among the highest in the Morrisville market</li>
+                <li>Quiet suburban setting with Wake County parks and trails accessible</li>
+                <li>Managed by Rangewater, a nationally recognized operator in the Sun Belt</li>
+            </ul>
+        </div>
+
+        <a href="https://liverangewater.com/city/raleigh-durham" target="_blank" class="view-property-btn">
+            View property
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+                <polyline points="15 3 21 3 21 9"/>
+                <line x1="10" y1="14" x2="21" y2="3"/>
+            </svg>
+        </a>
+    </div>
+</body></div><p>‍</p><h2>The Raleigh-Durham case in one number</h2><p>The median one-bedroom rent in Raleigh runs roughly 40 to 50 percent below comparable apartments in Washington DC, Boston, and New York. The job market has closed much of the gap. Apple's campus. Meta's regional expansion. A healthcare and research ecosystem anchored by three major universities. The Triangle is not a compromise destination. For the young professional willing to look past coastal inertia, it's one of the better financial decisions available right now.</p><div data-rt-embed-type='true'><div class="cta-box">
+  <p class="cta-text">
+    Trying to figure out which of these actually fits how you want to live?<br>
+    brightplace is building a better way to find your next apartment.
+  </p>
+
+  <p class="cta-link">
+    Explore more neighborhoods at 
+    <a href="https://brightplace.ai" target="_blank">brightplace.ai</a>
+  </p>
+</div>
+
+<style>
+.cta-box {
+  background: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 30px;
+  max-width: 900px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.cta-text {
+  font-size: 18px;
+  color: #444;
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.cta-link {
+  font-size: 18px;
+  color: #444;
+}
+
+.cta-link a {
+  color: #00a0b0;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cta-link a:hover {
+  text-decoration: underline;
+}
+</style></div><p>‍</p><p><em>Rent data reflects market estimates as of early 2026 and is subject to change. Verify current availability directly with each community.</em></p><p><em>brightplace neighborhood guide | raleigh-durham, nc | 2026</em></p>

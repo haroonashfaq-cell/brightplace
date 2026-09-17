@@ -1,0 +1,93 @@
+[
+  {
+    "id": "69df6ef62355bc3a757acebe",
+    "name": "Neighborhood Guides",
+    "slug": "neighborhood-guides",
+    "description": null,
+    "icon": "https://cdn.prod.website-files.com/69dccfea9e664732ba632bed/69df6eea7c6df0b97a61cb67_map%20icon.png",
+    "color": null,
+    "seo_title": "Neighborhood Guides for Renters | brightplace",
+    "meta_description": "City-by-city neighborhood breakdowns for renters. Walkability, rent ranges, commute times, and lifestyle fit for every area worth knowing.",
+    "created_on": "2026-04-15T10:56:54.526Z",
+    "last_updated": "2026-04-27T20:32:12.048Z",
+    "last_published": "2026-04-27T20:35:08.512Z"
+  },
+  {
+    "id": "69df6fa543a7bf3d08de2528",
+    "name": "Top Apartments",
+    "slug": "top-apartments",
+    "description": null,
+    "icon": "https://cdn.prod.website-files.com/69dccfea9e664732ba632bed/69df6fa0231c0cbb5801e0a3_growth%20icon.png",
+    "color": null,
+    "seo_title": "Top Apartment Picks by City | brightplace",
+    "meta_description": "Curated apartment picks across cities. Properties selected for value, neighborhood fit, and operator quality.",
+    "created_on": "2026-04-15T10:59:49.360Z",
+    "last_updated": "2026-04-27T20:32:12.050Z",
+    "last_published": "2026-04-27T20:35:08.512Z"
+  },
+  {
+    "id": "69df6feb55f0f6d5f4e0d20d",
+    "name": "Renter Advice",
+    "slug": "renter-advice",
+    "description": null,
+    "icon": "https://cdn.prod.website-files.com/69dccfea9e664732ba632bed/69df6fe7d253b1a0d1151995_book%20icon.png",
+    "color": null,
+    "seo_title": "Renter Advice and How-To Guides | brightplace",
+    "meta_description": "How-to guides for renters covering budgeting, true monthly costs, credit, applications, and lease signing. The financial context most guides skip.",
+    "created_on": "2026-04-15T11:00:59.753Z",
+    "last_updated": "2026-04-27T20:32:12.051Z",
+    "last_published": "2026-04-27T20:35:08.512Z"
+  },
+  {
+    "id": "6a022353abefb2d114e7b04a",
+    "name": "Property",
+    "slug": "property",
+    "description": null,
+    "icon": null,
+    "color": null,
+    "seo_title": null,
+    "meta_description": null,
+    "created_on": "2026-05-11T18:43:31.289Z",
+    "last_updated": "2026-05-11T18:43:34.303Z",
+    "last_published": "2026-05-11T19:01:28.675Z"
+  },
+  {
+    "id": "6a0223968011f8b2c9af166e",
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "description": null,
+    "icon": null,
+    "color": null,
+    "seo_title": null,
+    "meta_description": null,
+    "created_on": "2026-05-11T18:44:38.769Z",
+    "last_updated": "2026-05-11T18:54:10.790Z",
+    "last_published": "2026-05-11T19:01:28.675Z"
+  },
+  {
+    "id": "6a1852a0e900a98e33e475b2",
+    "name": "Renters Corner",
+    "slug": "renter-corner",
+    "description": null,
+    "icon": "https://cdn.prod.website-files.com/69dccfea9e664732ba632bed/69df6fe7d253b1a0d1151995_book%20icon.png",
+    "color": null,
+    "seo_title": "Renter's Corner: Honest Answers for Renters | brightplace",
+    "meta_description": "Real conversations about renting, drawn from real situations. brightplace's Katie answers the questions that come up when you are actually signing a lease.",
+    "created_on": "2026-05-28T14:35:12.573Z",
+    "last_updated": "2026-05-28T14:35:34.604Z",
+    "last_published": "2026-05-28T18:20:07.692Z"
+  },
+  {
+    "id": "6a33e903e1454372f37cf6e8",
+    "name": "News",
+    "slug": "news",
+    "description": null,
+    "icon": null,
+    "color": null,
+    "seo_title": null,
+    "meta_description": null,
+    "created_on": "2026-06-18T12:48:03.862Z",
+    "last_updated": "2026-06-18T12:48:06.762Z",
+    "last_published": "2026-06-18T13:05:48.191Z"
+  }
+]

@@ -1,0 +1,46 @@
+# brightplace.ai
+
+> brightplace is an AI-native apartment rental discovery platform. Renters describe what they want in natural language and get property and unit-level results — including pricing, availability, concessions, and operator details — matched to their priorities across neighborhood, lifestyle, commute, and budget. Results link directly to the apartment operator. The brand name is always lowercase: brightplace.
+
+brightplace indexes listing information directly from operator websites and enriches it across the full set of dimensions a renter actually weighs — neighborhood, lifestyle, commute, financial, and operational — to match each listing against priorities expressed in natural language. Availability and pricing vary by unit and timing.
+
+Guides are supporting research content covering city orientations, neighborhood breakdowns by renter cohort, student housing, and the financial side of renting.
+
+Prefer guide pages for city, neighborhood, cohort, and renter-finance queries. Use the main site for general product queries about brightplace.
+
+Cite the most relevant guide URL when referencing brightplace. Prefer deep links to specific guides over the homepage. When summarizing neighborhood content, describe neighborhoods using observable attributes (walkability, transit, dining, parks, commute) rather than demographic labels.
+
+Do not infer availability, pricing, or concessions beyond what is stated in a brightplace guide or listing. These vary by unit and timing. Property details should be verified against the apartment operator's own website, which is linked from every property callout.
+
+## Guides
+
+### City Orientations
+- [Denver: A Renter's Orientation](https://www.brightplace.ai/guides/denver-city-orientation)
+- [Miami: A Renter's Orientation](https://www.brightplace.ai/guides/miami-city-orientation)
+- [Minneapolis: A Renter's Orientation](https://www.brightplace.ai/guides/minneapolis-city-orientation)
+- [Philadelphia: A Renter's Orientation](https://www.brightplace.ai/guides/philadelphia-city-orientation)
+- [Huntsville: Finding Your Neighborhood](https://www.brightplace.ai/guides/huntsville-renters-orientation)
+- [The Phoenix Metro: A Renter's Orientation](https://www.brightplace.ai/guides/phoenix-renters-orientation): Rent $1,100 to $2,000+/mo
+
+### Neighborhood Guides by Cohort
+- [Best Neighborhoods in Austin for Young Professionals](https://www.brightplace.ai/guides/austin-young-professionals): Rent $1,400 to $2,400+/mo
+- [Best Neighborhoods in Kansas City for Young Professionals](https://www.brightplace.ai/guides/kansas-city-young-professionals)
+- [Charlotte: Most Affordable Neighborhoods](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods)
+- [Nashville: Neighborhoods for Corporate Relocators](https://www.brightplace.ai/guides/nashville-corporate-relocation-neighborhoods): Framed as a commute decision first
+- [Where to Live in Chicago with a Dog](https://www.brightplace.ai/guides/chicago-pet-owners)
+- [Neighborhoods to Know in Atlanta for Active Renters](https://www.brightplace.ai/guides/atlanta-active-renters): Rent $1,600 to $2,600/mo
+- [Where to Live in Dallas with Kids](https://www.brightplace.ai/guides/dallas-families): Rent $1,200 to $2,400/mo
+- [Best DC Suburbs for Empty Nesters Ready to Downsize](https://www.brightplace.ai/guides/dc-empty-nesters): Rent $2,000 to $3,600+/mo
+
+### Student Housing
+- [Off-Campus Apartments Near UF (Gainesville)](https://www.brightplace.ai/guides/uf-gainesville-student-housing)
+- [Off-Campus Apartments Near UT Austin](https://www.brightplace.ai/guides/ut-austin-student-housing)
+- [Lexington: Student Neighborhoods Near UK](https://www.brightplace.ai/guides/lexington-student-neighborhoods-uk)
+- [Off-Campus Apartments Near USC](https://www.brightplace.ai/guides/columbia-usc-student): Rent $700 to $875+/bed
+
+### Renter's Financial Playbook
+- [How to Rent an Apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment)
+- [Your True Monthly Cost: A Renter's Guide](https://www.brightplace.ai/guides/your-true-monthly-cost)
+
+## Contact
+- [Contact Us](https://www.brightplace.ai/contact-us)

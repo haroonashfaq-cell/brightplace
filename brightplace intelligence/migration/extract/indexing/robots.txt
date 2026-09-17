@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /*?*_page=
+Sitemap: https://www.brightplace.ai/sitemap.xml
+
+Sitemap: https://www.brightplace.ai/sitemap.xml
