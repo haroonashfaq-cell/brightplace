@@ -4,6 +4,16 @@
 
 ---
 
+## Memory References
+
+Paths are relative to `brightplace intelligence/`, not the `Agents/` directory.
+Read these files before this agent runs; missing memory must be reported, not guessed.
+- `memory/semantic/brand-rules.md`
+- `memory/semantic/cms-config.md`
+- `memory/semantic/link-registry.md`
+Canonical memory takes precedence over legacy examples. Follow the memory contract
+in `Agents/WORKFLOW.md`; no permanent rule changes without explicit user approval.
+
 ## How to Run
 
 Tell Claude Code:
@@ -110,24 +120,14 @@ Schema match: [OK / MISMATCH]
 
 ### Section 4: Brand Compliance
 
-For each article, check for violations of brand rules:
-
-1. **brightplace casing** -- Must always be lowercase. Search for "Brightplace", "BrightPlace", "BRIGHTPLACE".
-2. **Em dashes** -- Search for `—` (unicode) and `--` (double hyphen used as em dash). None allowed.
-3. **Banned word "signal"** -- Search for any form. Alternatives: "indicator," "suggests," "points to."
-4. **Banned phrases** -- Search for: "deep dive," "dive into," "navigate," "landscape," "unlock," "leverage," "whether you're X or Y," "from X to Y," "it's worth noting," "interestingly," "notably," "hidden gem," "best-kept secret," "vibrant," "bustling," "thriving."
-5. **Title superlatives** -- No "Top X," "Best," "Ultimate Guide," "#1" in titles.
-6. **ILS citations** -- No links to or mentions of Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com.
-7. **Review platform citations** -- No links to ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes.
-8. **Score sites** -- No Walk Score, Bike Score, Transit Score mentions.
-9. **Markdown tables** -- None allowed in article content (use bold-label bullet points).
-10. **Fair Housing** -- No descriptions of neighborhoods by demographics, crime stats, or safety language.
+For each article, run every applicable check in `memory/semantic/brand-rules.md`
+and the formatting checks in `memory/semantic/cms-config.md`. Report each separately.
 
 **Output format:**
 ```
 BRAND AUDIT: [article-slug]
 brightplace casing: [OK / VIOLATION at line X]
-Em dashes: [OK / FOUND at line X]
+Canonical punctuation check: [OK / FOUND at line X]
 Banned phrases: [OK / FOUND "phrase" at line X]
 ILS/review citations: [OK / FOUND at line X]
 Markdown tables: [OK / FOUND at line X]

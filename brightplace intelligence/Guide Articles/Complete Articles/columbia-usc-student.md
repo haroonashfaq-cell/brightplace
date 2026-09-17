@@ -1,0 +1,288 @@
+---
+title: "Off-Campus Apartments Near USC"
+seo_title: "Off-Campus Apartments Near USC Columbia SC | brightplace"
+meta_description: "Student housing near the University of South Carolina. Rent from $700 to $875+/bed, with neighborhoods ranked by campus distance and walkability."
+slug: "columbia-usc-student"
+focus_keyword: "off-campus apartments near USC columbia"
+status: "published"
+last_published: "2026-04-27"
+last_updated: "2026-04-27"
+collection: "guides"
+url: "https://www.brightplace.ai/guides/columbia-usc-student"
+---
+
+# Off-Campus Apartments Near USC
+
+**Summary:** A brightplace student housing guide for USC renters navigating Columbia's off-campus market
+
+---
+
+## Post Body (HTML from CMS)
+
+<h2><strong>Where to Live After Freshman Year at the University of South Carolina</strong></h2><p><em>A brightplace student housing guide for USC renters navigating Columbia's off-campus market</em></p><div data-rt-embed-type='true'><head>
+<meta charset="UTF-8">
+<title>Cards UI</title>
+<style>
+  body {
+    margin: 0;
+    padding: 40px;
+    background: #e9e9e9; /* page background like image */
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    display: flex;
+    gap: 24px;
+  }
+
+  .card {
+    background: #f6f6f6;
+    border-radius: 20px;
+    padding: 20px 24px;
+    width: 260px;
+    position: relative;
+
+    border: 1px solid #dddddd;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+  }
+
+  /* curved orange top border */
+  .card::before {
+    content: "";
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    right: -1px;
+    height: 6px;
+    background: #f59e0b;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+
+  .title {
+    color: #00a7c6;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+
+  .value {
+    font-size: 18px;
+    color: #111;
+    font-weight: 500;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="card">
+    <div class="title">Market</div>
+    <div class="value">Columbia, SC</div>
+  </div>
+
+  <div class="card">
+    <div class="title">Lifestyle</div>
+    <div class="value">Student Housing</div>
+  </div>
+
+  <div class="card">
+    <div class="title">Price Range</div>
+    <div class="value">$700 - $875+/bed</div>
+  </div>
+
+  <div class="card">
+    <div class="title">Last Reviewed</div>
+    <div class="value">March 2026</div>
+  </div>
+</div>
+
+</body></div><p>‍</p><p>You survived freshman year. Now comes the decision every USC sophomore faces: where to live next. Columbia's off-campus market has more options than it probably seems at first, ranging from historic loft buildings a few minutes' walk from the Horseshoe to newer cottage-style communities and modern high-rises near Greek Village.</p><p>This guide covers four of the most-discussed neighborhoods among USC renters, along with specific properties worth touring. Rent ranges reflect general market conditions rather than a specific lease term, since student housing often prices by the bed.</p><h2>In this guide</h2><ul><li><a href="https://brightplace.ai/guides/columbia-usc-student#greek-village-and-the-stadium-corridor">Greek Village and the Stadium Corridor</a></li><li><a href="https://brightplace.ai/guides/columbia-usc-student#downtown-edge-main-street-and-the-vista">Downtown Edge: Main Street and The Vista</a></li><li><a href="https://brightplace.ai/guides/columbia-usc-student#south-campus-whaley-street-and-campus-village-corridor">South Campus: Whaley Street and Campus Village Corridor</a></li><li><a href="https://brightplace.ai/guides/columbia-usc-student#five-points-and-the-neighborhoods-around-it">Five Points and the Neighborhoods Around It</a></li><li><a href="https://brightplace.ai/guides/columbia-usc-student#what-columbia-renters-actually-say">What Columbia Renters Actually Say</a></li></ul><h2>Greek Village and the Stadium Corridor</h2><p>The area surrounding Eugene E. Stone III Stadium and Greek Village sits within easy striking distance of campus and has become one of the most active off-campus corridors for upperclassmen. Most USC shuttle lines have stops nearby, which reduces the need to drive to class. Sawyer on Lincoln anchors this part of the market.</p><div data-rt-embed-type='true'><head><style>
+  body {
+    margin: 0;
+    padding: 40px;
+    background: #e9e9e9;
+    font-family: Arial, sans-serif;
+  }
+
+  .cards {
+    background: #f5f3f0;
+    border-radius: 20px;
+    padding: 28px 32px;
+    max-width: 100%;
+    border: 1px solid #e2c9a6;
+  }
+
+  .label {
+    color: #7a7a7a;
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    margin: 0 0 8px 0;
+    font-size: 26px;
+    color: #111;
+  }
+
+  .subtext {
+    color: #6b7280;
+    font-size: 16px;
+    margin-bottom: 18px;
+  }
+
+  .description {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+
+  .note {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+
+  .note strong {
+    font-weight: bold;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #f7931e;
+    color: #fff;
+    padding: 12px 18px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  .btn:hover {
+    background: #e67e0f;
+  }
+</style>
+</head>
+<body>
+
+<div class="cards">
+  <div class="label">WORTH LOOKING AT</div>
+
+  <h3>Sawyer on Lincoln</h3>
+
+  <div class="subtext">
+    919 Catawba St, Columbia, SC 29201 | University Partners
+  </div>
+
+  <div class="description">
+    Opened 2023; 278 units, 673 beds across 1BR, 2BR, and 3BR floor plans. Fully furnished interiors with designer finishes and modern appliances. Amenities include fitness center, social lounge, outdoor courtyard, iMac study station, and private/group study areas. USC Shuttle stop within walking distance, running every 20 minutes. 0.6 miles from campus; walking distance to the Stadium and Greek Village.
+  </div>
+
+  <div class="note">
+    <strong>brightplace note:</strong> The leasing team is widely noted for professionalism, and the property's staff consistency sets it apart from older competitors in the corridor. Good fit for students who want a newer build without the downtown premium.
+  </div>
+
+  <a href="https://www.sawyeronlincoln.com/" target="_blank" class="btn">
+    View property ↗
+  </a>
+</div>
+
+</body></div><p>‍</p><h2>Downtown Edge: Main Street and The Vista</h2><p>The stretch of Main Street running south from Five Points toward Williams-Brice Stadium puts you close to Columbia's restaurant and bar scene as well as the east side of campus. The Vista sits just to the west, along the Congaree River. Students who prefer city living over a traditional apartment complex tend to gravitate here.</p><p>Rent in this corridor varies widely by building age and included utilities. Older buildings sometimes bundle water, trash, cable, and internet into the monthly rate, which can make a higher-sticker unit competitive once you net out utilities.</p><div data-rt-embed-type='true'><body>
+
+<div class="cards">
+  <div class="label">WORTH LOOKING AT</div>
+
+  <h3>Yugo Columbia Lofts (The Lofts at USC)</h3>
+
+  <div class="subtext">
+    211 Main St, Columbia, SC 29201 | Yugo
+  </div>
+
+  <div class="description">
+    1-, 2-, 3-, and 4-bedroom floor plans in a converted 1895 cotton mill on the National Register of Historic Places. High vaulted ceilings, exposed brick, arched windows, and loft-style layouts in select units. Most 2BR+ units include utilities: water, sewer, trash, cable, and internet. Resort-style pool, outdoor BBQ area, study room, and coffee bar. 0.4 miles from campus; USC shuttle stops steps from the front door. Renovations underway on leasing office, amenity areas, and communal spaces.
+  </div>
+
+  <div class="note">
+    <strong>brightplace note:</strong> Location and price-per-bed are the main draws here. The architecture is genuinely distinctive. As a historic building, mechanical systems are older than you'd find in newer properties, so touring in person before signing is worth the time.
+  </div>
+
+  <a href="https://yugocolumbialofts.prospectportal.com/" target="_blank" class="btn">
+    View property ↗
+  </a>
+</div>
+
+</body></div><p>‍</p><h2>South Campus: Whaley Street and Campus Village Corridor</h2><p>Whaley Street runs along the south end of campus, connecting the engineering quad to the business school and Williams-Brice Stadium. USC's Campus Village, the $240 million on-campus housing development built in partnership with Greystar, opened in 2023 on this corridor and brought new pedestrian infrastructure and shuttle connections to the area. The private off-campus market nearby has benefited from the same momentum.</p><p>Saga Columbia sits at the center of this zone and represents one of the better-rounded student housing options in the Columbia market.</p><div data-rt-embed-type='true'><body>
+
+<div class="cards">
+  <div class="label">WORTH LOOKING AT</div>
+
+  <h3>Saga Columbia</h3>
+
+  <div class="subtext">
+    1000 Whaley St, Columbia, SC 29201 | Aspen Heights Partners (managed by Cardinal Group)
+  </div>
+
+  <div class="description">
+    Studio, 1BR, 2BR, and 3BR floor plans with 9-foot ceilings and private bedroom locks. Fully furnished with private bathrooms per bedroom and ENERGY STAR appliances. Five courtyard areas, resort-style pool with poolside pavilion, and 24-hour fitness studio. Quiet study zones, computer lab with free printing, and a recreational clubhouse. 2 minutes by car or 5 minutes by bike from the main USC campus. Adjacent to Williams-Brice Stadium and within a few minutes of the Darla Moore School of Business.
+  </div>
+
+  <div class="note">
+    <strong>brightplace note:</strong> The five separate courtyard areas give Saga a campus-within-a-campus feel that students tend to appreciate once they are settled. Good option for those who want proximity to south campus without being in on-campus housing.
+  </div>
+
+  <a href="https://www.sagacolumbia.com/" target="_blank" class="btn">
+    View property ↗
+  </a>
+</div>
+
+</body></div><p>‍</p><h2>Five Points and the Neighborhoods Around It</h2><p>Five Points is Columbia's primary college bar and restaurant district, a compact strip of bars, coffee shops, and casual dining that sits about a 10-minute walk east of campus. The surrounding neighborhoods, including Rosewood to the south and the blocks closer to Devine Street, offer a mix of rental houses, smaller apartment buildings, and a handful of larger complexes.</p><p>Students who want more of a neighborhood feel rather than a purpose-built student housing complex often end up here. Greene Street, Pickens Street, and Confederate Avenue all have rental inventory that circulates informally through Facebook groups and USC's housing boards. Prices in this corridor can run lower per bedroom than the Stadium or Main Street options, though unit quality varies considerably.</p><p>The tradeoffs: some buildings in this area are older and maintenance response can be slower than at purpose-built student communities. But for juniors and seniors who want off-campus social proximity without paying a student housing premium, Five Points is a legitimate option worth walking before deciding.</p><p>‍</p><h2>What Columbia Renters Actually Say</h2><p><strong>On price.</strong> Per-bed pricing in the $700 to $875 range is realistic for shared 3BR or 4BR units in most neighborhoods. Studios and 1BRs run higher. Utilities-included properties can pencil out favorably even if the sticker rate looks higher than houses nearby. Spring-semester sublets are common because a significant share of undergrads study abroad. If your timing is flexible, subletting through spring and then signing a standard lease for the following year is a way to try a neighborhood before committing.</p><p><strong>On neighborhoods.</strong> Walk-to-campus convenience is highest in the Main Street corridor and around Whaley and Greene Streets. Greek Village is shuttle-dependent for most class buildings. Five Points is the social center of Columbia's college scene. If nightlife proximity matters, it is worth the slightly longer walk to the main academic quad. Canalside Lofts gets mentioned by residents as a reasonable value for students who want something less purpose-built than the major student housing complexes.</p><p><strong>On timing.</strong> The most desirable units in purpose-built communities lease fast. If you are targeting a specific property for fall, touring in late fall or early spring of the prior year is not premature. Facebook groups like USC off-campus housing boards remain active sources of sublet and roommate listings; they are often faster than formal listing sites for semester-to-semester availability. Properties with individual lease structures, where each resident signs their own agreement rather than sharing a master lease, reduce risk if a roommate backs out.</p><div data-rt-embed-type='true'><div class="cta-box">
+  <p class="cta-text">
+    Trying to figure out which of these actually fits how you want to live?<br>
+    brightplace is building a better way to find your next apartment.
+  </p>
+
+  <p class="cta-link">
+    Explore more neighborhoods at 
+    <a href="https://brightplace.ai" target="_blank">brightplace.ai</a>
+  </p>
+</div>
+
+<style>
+.cta-box {
+  background: #f2f2f2;
+  border: 1px solid #ddd;
+  border-radius: 16px;
+  padding: 30px;
+  max-width: 900px;
+  margin: 20px auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.cta-text {
+  font-size: 18px;
+  color: #444;
+  font-style: italic;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.cta-link {
+  font-size: 18px;
+  color: #444;
+}
+
+.cta-link a {
+  color: #00a0b0;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.cta-link a:hover {
+  text-decoration: underline;
+}
+</style></div><p>‍</p><p><em>Rent data reflects market estimates as of early 2026 and is subject to change. Verify current availability directly with each community.</em></p><p><em>brightplace neighborhood guide | columbia, sc | 2026</em></p>

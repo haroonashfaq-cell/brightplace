@@ -6,7 +6,23 @@
 
 ---
 
+## Memory References
+
+Paths are relative to `brightplace intelligence/`, not the `Agents/` directory.
+Read these files before this agent runs; missing memory must be reported, not guessed.
+- `memory/semantic/brand-rules.md`
+- `memory/semantic/cms-config.md`
+- `memory/semantic/link-registry.md`
+- `memory/semantic/ranking-rules.md`
+- `memory/episodic/trend-intelligence.md`
+- `memory/procedural/workflow-reference.md`
+Canonical memory takes precedence over legacy examples. Follow the memory contract
+in `Agents/WORKFLOW.md`; no permanent rule changes without explicit user approval.
+
 ## Overview
+
+At every entry point, run Session Start and Master Writer Pre-Flight before Stage 0
+or 1. After production, run Master Writer Teaching to persist memory and report it.
 
 The workflow has 10 stages. Every article passes through all stages before it is considered complete.
 
@@ -15,6 +31,55 @@ The workflow has 10 stages. Every article passes through all stages before it is
 ```
 
 **Stage 0 is optional when a brief already exists.** If the user provides a keyword without a brief, run Stage 0 first. If the user provides a pre-written brief, skip to Stage 1.
+
+---
+
+## Memory Contract and Session Start
+
+Scope is `brightplace intelligence/` only. All `memory/...` paths below resolve
+from that directory. This workflow owns the procedure; the procedural memory file
+only points here. Memory is read and written by agents during a run, not a background
+service. No database, automatic crawler, or new workflow stage is introduced.
+
+### Session Start
+1. Read `memory/procedural/workflow-reference.md` and this contract.
+2. Read `memory/episodic/candidate-rules.md`; present PENDING entries with 3+ distinct
+   occurrences for user approval/rejection. Do not block unrelated writing on them.
+3. Read `memory/episodic/trend-intelligence.md`; flag unknown or >30-day verification
+   dates for Pre-Flight. Only supported, in-scope, fresh ACTIVE trends are enforceable.
+4. Retrieve required semantic files, then relevant ACTIVE QA patterns and topic-specific
+   research episodes. Never import another property's numbers or policies by similarity.
+
+### Read / Write Integration (existing stages)
+| Stage | Reads | Writes |
+|---|---|---|
+| Pre-Flight (Master Writer) | `episodic/trend-intelligence.md`, `episodic/candidate-rules.md` | `episodic/trend-intelligence.md` with source evidence |
+| 0 Brief | `semantic/keyword-strategy.md`, `semantic/link-registry.md`, `episodic/trend-intelligence.md` | None |
+| 2 Brief Check | `semantic/brand-rules.md`, `semantic/link-registry.md`, `episodic/qa-patterns.md`, `episodic/trend-intelligence.md` | `episodic/candidate-rules.md` for new evidenced gaps |
+| 2.5 Reddit | `episodic/reddit-patterns.md` | New themes; merge distinct source IDs into matching themes |
+| 3 Writing | All six `semantic/` files; `episodic/qa-patterns.md`, `episodic/trend-intelligence.md` | None |
+| 4 QA | `semantic/brand-rules.md`, `semantic/link-registry.md`, `episodic/qa-patterns.md`, `episodic/trend-intelligence.md` | `episodic/qa-patterns.md`, `episodic/link-failures.md`, `episodic/corrections.md` |
+| Teaching (Master Writer) | `episodic/trend-intelligence.md`, QA report | `episodic/trend-intelligence.md`, `episodic/content-log.md`, `episodic/candidate-rules.md` |
+
+### Record and retrieval rules
+- Required semantic files are never skipped to save context. For growing episodic
+  logs, search by ID/topic/scope first, then load at most 10 relevant records plus all
+  applicable active trends. Expand when needed; record exclusions, not silent omission.
+- Record date precision honestly, source/report path, article/revision/run ID, scope,
+  and observed vs inferred status. A migration timestamp is not a verification date.
+- Dedup by stable record/evidence IDs. Count distinct articles/events, not retries or
+  repeated mentions. Read the current file immediately before appending; preserve
+  concurrent edits and report conflicts rather than overwriting someone else's work.
+- Existing semantic rules outrank episodes and trends; current user instructions
+  outrank stored policy. No memory record grants tool, publication, or commit permission.
+- New permanent rules remain PENDING candidates until explicit user promotion. Store
+  decision provenance, changed target and rollback reference. Rejecting preserves history.
+- Do not copy credentials, private user details, or unverified renter assertions into
+  reusable facts. Verify prices, dates and policies against appropriate current sources.
+- Never replace missing evidence with an invented metric, date, attribution, or outcome.
+- Record memory IDs read/applied/written in QA/Teaching artifacts. If memory access fails,
+  report blocked reads or pending writes explicitly; never claim learning was persisted.
+- Keep original reports as evidence. Corrections and expiry retain prior history.
 
 ---
 
@@ -149,13 +214,13 @@ Verdict: [Proceed or revise]
 - Self-contained sections (each works if extracted independently)
 - Bold-label bullet points for comparisons (NO markdown tables, NO `<ul><li>` — Webflow strips them)
 - **10+ FAQ pairs preferred** (minimum 6-8), each 40-60 words, standalone answers
-- **Entity density:** repeat primary entity 8+ times, key landmarks/locations 3-5x each throughout the article
+- **Entity density:** use `memory/semantic/ranking-rules.md` targets naturally
 
 ### Ranking Optimization (apply to every article)
 - **7+ internal links** per article (aggressive cross-linking builds topical authority)
 - **Target correct search intent** — only target keywords where Google shows article/guide content, NOT listings or templates
 - **Fill genuine content gaps** — include data, comparisons, and tradeoffs NO competitor covers
-- **Question-format H2s** get 3x higher featured snippet capture than label-format
+- **Question-format H2s** are an editorial target per `memory/semantic/ranking-rules.md`
 
 ### Links
 - `brightplace.ai` for brand mentions
@@ -163,19 +228,10 @@ Verdict: [Proceed or revise]
 - 3 CTAs: after first H2, mid-article, end of article
 - Internal links use `https://www.brightplace.ai/resources/[slug]` or `https://www.brightplace.ai/guides/[slug]`
 - NEVER use `/knowledgebase/` path (legacy, causes 404s)
-- NEVER link to known non-existent URLs:
-  - `/resources/studio-apartments`
-  - `/resources/pet-friendly-houses-for-rent`
-  - `/resources/1-bedroom-apartments-near-me`
-  - `/guides/studio-apartments`
+- Reject known non-existent targets in `memory/semantic/link-registry.md`.
 
 ### Brand Rules (zero tolerance)
-- brightplace ALWAYS lowercase
-- NO em dashes (use commas, periods, semicolons, colons, parentheses)
-- NO word "signal" (use "indicator", "suggests", "points to", "reflects")
-- NO banned phrases (deep dive, navigate, landscape, unlock, leverage, vibrant, bustling, thriving, hidden gem, etc.)
-- NO banned sources in body (Zillow, Apartments.com, Reddit, Yelp, Walk Score, etc.)
-- Fair Housing: describe neighborhoods by infrastructure only
+- Read and enforce all rules in `memory/semantic/brand-rules.md`.
 
 ### Schema
 - All schema URLs use `/resources/` path, NOT `/knowledgebase/`
@@ -201,13 +257,7 @@ Verdict: [Proceed or revise]
 **YOU MUST RUN ALL 6 SECTIONS. DO NOT SKIP ANY.**
 
 ### Section 1: Brand Compliance
-- brightplace lowercase
-- Em dashes (body only, ignore HTML comments)
-- Banned word "signal" (literal "cell signal" is OK)
-- Banned phrases
-- Banned sources
-- Title rules
-- Fair Housing
+- Run each canonical check in `memory/semantic/brand-rules.md`.
 
 ### Section 2: SEO Structure (knowledgebase only)
 - First sentence contains keyword
@@ -358,7 +408,7 @@ Body section:
 
 **Purpose:** Create or update the article as a draft in Webflow CMS.
 
-**Collection:** Resources (`69fcfcef26d35b66ba874f9d`)
+**Collection:** Resources, per `memory/semantic/cms-config.md`.
 
 **Process:**
 1. Convert markdown to HTML using Python markdown module
@@ -367,33 +417,8 @@ Body section:
 4. Push to Webflow CMS via MCP as draft (isDraft: true)
 5. If post-body doesn't go through on create, update the item with full HTML in a second call
 
-**CMS Field Mapping:**
-| Field | Source |
-|---|---|
-| name | Article title (H1) |
-| slug | URL slug from frontmatter |
-| seo-title | SEO title (must differ from H1, under 60 chars, ends with "\| brightplace") |
-| meta-description | Under 155 chars, contains primary keyword |
-| focus-keyword | Primary keyword from brief |
-| post-summary | First paragraph, plain text, under 300 chars |
-| post-body | Full HTML body (exclude frontmatter and schema blocks) |
-| author-2 | Katie Mikles (ID: `69dcd70089c4135f7a4158bc`) — ALWAYS set |
-| category-2 | Set based on content type (see category IDs below) |
-| main-image | User uploads manually from `Images/` folder |
-
-**Author ID (always use):**
-- Katie Mikles: `69dcd70089c4135f7a4158bc`
-
-**Category IDs (choose one per article):**
-| Category | ID | Use When |
-|---|---|---|
-| Top Apartments | `69df6fa543a7bf3d08de2528` | Property-specific articles |
-| Renter Advice | `69df6feb55f0f6d5f4e0d20d` | How-to guides, affordability, data articles |
-| Neighborhood Guides | `69df6ef62355bc3a757acebe` | City/neighborhood comparison articles |
-| Renters Corner | `6a1852a0e900a98e33e475b2` | Katie interview-style pieces |
-| Lifestyle | `6a0223968011f8b2c9af166e` | Lifestyle/culture content |
-| Property | `6a022353abefb2d114e7b04a` | General property content |
-| News | `6a33e903e1454372f37cf6e8` | News articles |
+**CMS configuration:** Read `memory/semantic/cms-config.md` for field mapping,
+author/category IDs, HTML rules, and draft-only policy. Never copy configuration into prompts.
 
 **If Webflow MCP is unavailable:**
 - Save the HTML and JSON files locally
@@ -459,51 +484,10 @@ Property articles follow the same 8-stage workflow as all other content, with th
 
 ---
 
-## Known Non-Existent URLs (DO NOT LINK TO THESE)
+## URL Registry
 
-These URLs return 404. Never use them in any article:
-- `/resources/studio-apartments`
-- `/resources/pet-friendly-houses-for-rent`
-- `/resources/1-bedroom-apartments-near-me`
-- `/guides/studio-apartments`
-
----
-
-## Known Broken External URLs (DO NOT LINK TO THESE)
-
-These external URLs return 403 or 404. Use the replacement URL instead:
-
-| Broken URL | Replacement |
-|---|---|
-| `consumerfinance.gov/consumer-tools/renting/` | `consumerfinance.gov/housing/housing-insecurity/help-for-renters/` |
-| `consumer.ftc.gov/articles/renting-home` | `consumerfinance.gov/housing/housing-insecurity/help-for-renters/` |
-| `hud.gov/program_offices/comm_planning/affordablehousing/` | `hud.gov/topics/rental_assistance` |
-| `sandiego.gov/park-and-recreation/parks/regional/mission-bay` | `sandiego.gov/parks-and-recreation` |
-| `ridetransit.org` | `charlottenc.gov/cats/home/` |
-| Any `nyc.gov/site/hpd/...` deep link | `nyc.gov/hpd` (deep links return 403 to bots) |
-| `hcr.ny.gov/tenant-protection` | `hcr.ny.gov/` |
-| `hcr.ny.gov/system/files/documents/2020/11/fact-sheet-07-09-2020.pdf` | `hcr.ny.gov/` |
-| `nyc.gov/site/dca/about/about-dca.page` | `nyc.gov/site/dca/` |
-| `greenvillerec.com/swamp-rabbit-trail/` | `greenvillerec.com/` |
-| `sjcfl.us/Parks/TreatyPark` | `sjcfl.us/Beaches` |
-| `redstone.army.mil` | Remove link, keep text (domain dead) |
-| `tdhca.texas.gov` | `texas.gov` (domain dead) |
-| `texasattorneygeneral.gov/.../renters-rights` | `texas.gov` (domain dead) |
-| `trec.texas.gov` | `texas.gov` (domain dead) |
-| `scps.k12.fl.us` | `scps.us` (domain moved) |
-
----
-
-## Approved External URLs (confirmed working July 2026)
-
-- `hud.gov/topics/rental_assistance`
-- `hud.gov/program_offices/fair_housing_equal_opp`
-- `consumerfinance.gov/housing/housing-insecurity/help-for-renters/`
-- `floodsmart.gov`
-- `annualcreditreport.com`
-- `rentguidelinesboard.cityofnewyork.us/`
-
-Any .gov or .edu link NOT on this list should be flagged as a WARNING for manual verification.
+See `memory/semantic/link-registry.md` for all URL inventories, replacements,
+and validation rules. Check `memory/episodic/link-failures.md` for newer evidence.
 
 ---
 

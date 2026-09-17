@@ -8,6 +8,16 @@ How brightplace writes the conversational, expertise-driven content pieces that 
 
 ---
 
+## Memory References
+
+Paths are relative to `brightplace intelligence/`, not the `Agents/` directory.
+Read these files before this agent runs; missing memory must be reported, not guessed.
+- `memory/semantic/brand-rules.md`
+- `memory/semantic/content-standards.md`
+- `memory/semantic/cms-config.md`
+Canonical memory takes precedence over legacy examples. Follow the memory contract
+in `Agents/WORKFLOW.md`; no permanent rule changes without explicit user approval.
+
 ## What changed in v1.1
 
 Three additions, based on editorial review of the first three published drafts:
@@ -294,47 +304,8 @@ Every Renter's Corner piece puts words in a real person's mouth. Katie must revi
 
 ## The brand rules (non-negotiable)
 
-A single violation of any rule below blocks publication. These are not preferences. They are gates.
-
-### Em dashes
-
-Zero tolerance. Never use — anywhere in body content. Also avoid `--` double hyphens. Use commas, periods, semicolons, colons, or parentheses depending on what the sentence actually needs.
-
-### brightplace capitalization
-
-Always lowercase. Even at the start of a sentence. Never "Brightplace," "BRIGHTPLACE," or "BRIGHTplace."
-
-### Banned phrases
-
-These never appear in body content:
-
-| Banned | Use instead |
-|---|---|
-| signal (verb or noun) | indicator, suggests, points to, reflects |
-| deep dive | walk-through, breakdown, closer look |
-| navigate (metaphor) | work through, figure out, handle |
-| landscape (metaphor) | market, environment, situation |
-| unlock | open up, make possible |
-| leverage (as verb) | use, draw on, take advantage of |
-| whether you're X or Y | (rewrite the sentence entirely) |
-| it's worth noting | (delete; the note still works) |
-| arguably | (state the claim or do not) |
-| hidden gem | (delete; describe the actual quality) |
-| most underrated | (same; show, do not tell) |
-
-### Banned sources
-
-Never name or link to these in body content. They may appear in Research Notes for internal verification context.
-
-- **ILS and marketplaces:** Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Padmapper, Realtor.com, ForRent.com
-- **Review platforms:** ApartmentRatings, Yelp, Google Reviews, Niche, AreaVibes, Crime Grade, Openigloo
-- **Score aggregators:** Walk Score, Bike Score, Transit Score, GreatSchools
-- **User forums:** Reddit, City-Data, BiggerPockets
-- **Ranking sources:** NMHC rankings (any reference)
-
-### Commercial vendors
-
-Avoid naming specific commercial vendors in body content. Describe the category instead. Specific names may appear in Research Notes for verification only.
+Read `memory/semantic/brand-rules.md`, including the Renter's Corner scoped additions.
+Run all canonical checks; a violation blocks publication.
 
 ---
 
@@ -416,7 +387,7 @@ Run through this list on every draft:
 - [ ] "What happened" section uses only what the source confirms
 - [ ] FAQ has 4 to 6 question-format H3s
 - [ ] Light conversion section is soft, useful, topic-appropriate
-- [ ] Zero em dashes
+- [ ] Canonical punctuation check passes (`memory/semantic/brand-rules.md`)
 - [ ] brightplace lowercase throughout
 - [ ] Zero banned phrases in body
 - [ ] Zero banned sources in body
@@ -472,7 +443,7 @@ These are the recurring failure modes when this format is executed without the f
 6. **Inventing source details.** Stay at the level of generality the source supports.
 7. **Missing Katie sign-off flag.** Flag in Research Notes every time.
 8. **Wrong URL path.** /resources/[slug], not /guides/[slug].
-9. **Em dashes that slip through.** Single most common compliance failure.
+9. **Canonical punctuation violations.** Run the full brand checklist before handoff.
 10. **Fair Housing complacency.** When in doubt, ask.
 11. **(New in v1.1) Missing cohort in the title.** Every piece needs "A [Cohort]'s Guide" in the H1.
 12. **(New in v1.1) Generic narrative section heading.** "How [renter] came to brightplace" alone is no longer enough; the heading should include cohort and location.

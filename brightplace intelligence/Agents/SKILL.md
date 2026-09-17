@@ -3,6 +3,16 @@ name: renters-corner
 description: "Use this skill whenever turning a renter interview transcript into a published-ready Renter's Corner article for brightplace, or when reviewing, editing, or formatting interview-format content where a real renter answers questions and Katie provides expert synthesis. Triggers include: any mention of 'Renter's Corner', 'renter interview', 'interview transcript', 'PoE content', 'proof of experience', 'Katie interview', turning a transcript into a blog/article, or producing conversational Q&A content for SEO/AEO. This skill governs the transcript-to-node transformation, the Proof-of-Experience reality gate, the Fair Housing reframe pattern, and the SEO/AEO node structure. For the full banned-word list, Fair Housing checklist, Webflow embed components, and CMS publishing workflow, defer to the guide-publishing and neighborhood-guide skills, which remain authoritative."
 ---
 
+## Memory Integration
+
+Before production, read `brightplace intelligence/Agents/WORKFLOW.md` Session Start
+and the memory read/write contract. Brand rules and CMS configuration are in
+`brightplace intelligence/memory/semantic/brand-rules.md` and `cms-config.md`.
+Preserve this skill's interview/source, consent, and Katie sign-off gates. After QA,
+record scoped outcomes through the workflow's Teaching step; propose permanent
+changes in candidate-rules.md instead of editing this skill automatically.
+
+
 # brightplace Renter's Corner Production
 
 This skill turns a real renter interview transcript into a brand-compliant, SEO/AEO-optimized Renter's Corner article. The output is a draft for human sign-off, never an auto-publish.
@@ -57,7 +67,7 @@ The brief's research fields are inputs. The Renter's Corner format, voice, exper
 - The brief's "brightplace as first-hand data observer" framing yields to the renter's lived experience as the experience signal; Katie carries the analysis.
 - The brief's `/knowledgebase/` slug becomes a `/resources/` slug.
 
-Where brief and Renter's Corner voice agree (banned words, em dashes, Fair Housing, lowercase brand, date-stamps), they reinforce. Apply both.
+Where brief and Renter's Corner voice agree, apply both. Canonical brand restrictions live in `memory/semantic/brand-rules.md`.
 
 ## Hard gates (pass/fail, block the build)
 
@@ -92,7 +102,7 @@ Rewrite to **amenity-only, renter-led** language: the specific stores, foods, se
 Rule citation for internal notes: neighborhood-guide skill, no demographic-composition framing, no religious-density references, no neighborhood identity by resident group.
 
 ### Gate 3 — Compliance scan
-Run the scan in the Compliance Scan section below over the final text. Any em dash, banned word, capitalized "Brightplace," banned source, or surviving Fair Housing term blocks the build until fixed. ("cell signal" -> "cell reception": the literal token "signal" is banned.)
+Run the Compliance Scan below using the canonical brand rules. Any applicable failure blocks the draft until fixed.
 
 ## The node (the core unit)
 
@@ -134,43 +144,15 @@ Place each renter quote in a teal info box and each "promise me / hard rule" mom
 
 ## Compliance Scan
 
-Run after the text is final, before declaring the gate passed. Works on extracted `.docx` text or the source markdown.
+Load `brightplace intelligence/memory/semantic/brand-rules.md` and run the seven
+brand checks in `brightplace intelligence/Agents/qa-agent.md` Section 1 against
+published text only. Record PASS/FAIL, line references, and fixes for each check.
+Keep internal Research Notes separate from publishable content. Apply the
+Renter's Corner scoped additions and source/consent gates above.
 
-```python
-import re, html, sys
-
-# Pull text: for .docx, run the docx skill's unpack then read word/document.xml;
-# for markdown, read the file directly. `txt` should be the plain visible text.
-txt = html.unescape(re.sub(r'<[^>]+>', '', open(sys.argv[1], encoding='utf-8').read()))
-low = txt.lower()
-
-blockers = {
-    'em dash (U+2014)':            '\u2014' in txt,
-    '"Brightplace" capitalized':   ('Brightplace' in txt or 'BRIGHTPLACE' in txt),
-    'banned word: signal':         'signal' in low,
-    'banned word: navigate':       'navigate' in low,
-    'banned word: landscape':      'landscape' in low,
-    'banned word: deep dive':      'deep dive' in low,
-    'banned word: unlock':         'unlock' in low,
-    'banned word: leverage':       'leverage' in low,
-    'banned: whether you\'re':     "whether you're" in low,
-    'banned: hidden gem':          'hidden gem' in low,
-    'banned: most underrated':     'most underrated' in low,
-    'FH: demographic/national-origin framing':
-        any(p in low for p in ['indian families', 'south asian community', 'popular with', 'large community of']),
-    'FH: religious-density framing':
-        any(p in low for p in ['temple', 'mosque', 'church density', 'synagogue']),
-    'banned source: ILS/forum/review platform':
-        any(s in low for s in ['apartments.com','zillow','trulia','zumper','apartment list','rentcafe',
-                               'hotpads','realtor.com','reddit','city-data','biggerpockets','niche',
-                               'areavibes','yelp','google reviews','apartmentratings','walk score',
-                               'bike score','transit score','greatschools','nmhc']),
-}
-hits = [k for k, v in blockers.items() if v]
-print('SCAN:', 'PASS — no blockers' if not hits else 'FAIL — ' + '; '.join(hits))
-```
-
-Note: this is a literal-token scan and the banned-source list is not exhaustive. The `guide-publishing` skill holds the full list. A flagged term inside the internal-notes section (which is not published) is acceptable, but prefer not to enumerate banned words verbatim there so the scan stays clean.
+The canonical file owns all prohibited tokens, punctuation, sources, and exceptions;
+do not retain a second token list in this skill. A literal scan alone cannot assess
+contextual Fair Housing issues or establish source authenticity.
 
 ## Quality bar
 

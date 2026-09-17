@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a clean modern desk near a window with soft morning light. On the desk: a laptop showing a credit report dashboard (screen slightly blurred, no readable text), a small stack of neatly organized documents, a pen, and a set of apartment keys resting on top of a lease folder. A modern apartment building is visible through the window in the soft-focus background, with early fall trees showing hints of gold and green. Warm natural light, clean composition, practical and reassuring mood. No people visible, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Laptop showing a credit report on a desk with apartment keys and documents in morning light",
+  "dimensions": "1200x628",
+  "size_kb": 68.6,
+  "quality": 85,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

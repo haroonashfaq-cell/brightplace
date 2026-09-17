@@ -9,6 +9,16 @@
 
 ---
 
+## Memory References
+
+Paths are relative to `brightplace intelligence/`, not the `Agents/` directory.
+Read these files before this agent runs; missing memory must be reported, not guessed.
+- `memory/semantic/keyword-strategy.md`
+- `memory/semantic/link-registry.md`
+- `memory/episodic/trend-intelligence.md`
+Canonical memory takes precedence over legacy examples. Follow the memory contract
+in `Agents/WORKFLOW.md`; no permanent rule changes without explicit user approval.
+
 ## When This Agent Runs
 
 This agent runs at **Stage 0** — before the existing workflow begins. It replaces the manual brief creation process.
@@ -36,6 +46,15 @@ This agent runs at **Stage 0** — before the existing workflow begins. It repla
 - **SERP Competitors:** `https://api.dataforseo.com/v3/dataforseo_labs/google/competitors_domain/live`
 
 ---
+
+## Memory-Aware Brief Setup
+
+Before SERP research, load keyword intent policy and exact-path link rules. Read
+eligible ACTIVE trends and incorporate their scoped writing requirements into the
+outline. Record trend IDs applied/skipped and why. UNVERIFIED or stale trends require
+source verification, not blind enforcement. If run independently, first run Session
+Start and Pre-Flight from `Agents/WORKFLOW.md`. Do not duplicate brand rules in the
+brief; reference canonical memory. New memories do not change API authorization.
 
 ## Process
 

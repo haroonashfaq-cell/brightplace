@@ -86,7 +86,7 @@ Five lease details matter more in the UTSA student rental market than in general
 
 1. **Individual liability vs. joint lease.** An **individual liability lease** is a lease in which each resident is responsible only for their own rent installment, not their roommates' portion. This is standard in purpose-built student housing. Market-rate apartments typically use joint leases, where all tenants share responsibility for the full rent. Know which type you are signing.
 
-2. **Lease start date.** Most UTSA-area student leases start in August, aligned with the fall semester. If you need a different start date, ask early. Mid-year availability is limited.
+2. **Lease start date.** Most UTSA-area student leases start in August, aligned with the fall semester. If you need a different start date, ask early. Mid-year availability is limited. Signing windows vary by campus; brightplace's breakdown of [when to sign a UW-Madison off-campus lease](https://www.brightplace.ai/resources/the-frances-apartments-madison) shows how compressed the calendar gets in a tight campus market.
 
 3. **Utilities bundled or separate.** Student housing communities often bundle utilities into rent. Market-rate apartments usually do not. Confirm what is included before comparing prices.
 

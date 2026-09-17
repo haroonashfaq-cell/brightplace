@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Editorial photograph of a spacious apartment terrace with a small bistro table, two chairs, and potted plants overlooking a city skyline at golden hour. Warm wood-look flooring on the terrace, glass railing providing an unobstructed view. A cup of coffee on the table. Modern apartment sliding glass doors partially visible to the left. Warm sunset light casting long shadows. Clean, aspirational outdoor living space. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Spacious apartment terrace with bistro furniture overlooking a city skyline at sunset",
+  "dimensions": "1200x628",
+  "size_kb": 130.0,
+  "quality": 85,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

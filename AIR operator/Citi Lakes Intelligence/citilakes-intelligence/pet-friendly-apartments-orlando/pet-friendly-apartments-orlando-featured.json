@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Professional editorial real estate photograph. The image MUST prominently feature a fenced dog park with green grass as the MAIN FOCAL POINT occupying the center-foreground of the frame. Include a small friendly dog (golden retriever or similar) exploring the park \u2014 no people. A pet washing station or pet amenity area should be visible nearby. Apartment buildings are in the background, secondary to the dog park. The community features: fenced dog park with open grass, pet washing station, lakefront with calm water reflections, scenic jogging trail along the water, children's playground. Its unique differentiator is a two-lake waterfront campus with trails circling both lakes. Setting: Central Florida with tall palm trees, subtropical plants, and warm humid atmosphere. a visible lake with reflections on the water surface in the scene. Style: high-end real estate editorial photography, natural lighting at golden hour, rich saturated colors, shot with a wide-angle lens at eye level. 16:9 landscape aspect ratio. STRICT: No people visible anywhere (Fair Housing compliance). No text, no logos, no watermarks, no graphic overlays.",
+  "revised_prompt": "",
+  "alt_text": "Fenced dog park with golden retriever at Citi Lakes pet-friendly apartments Orlando",
+  "dimensions": "1200x628",
+  "size_kb": 170.7,
+  "quality": 80,
+  "format": "webp",
+  "model": "gpt-image-1"
+}

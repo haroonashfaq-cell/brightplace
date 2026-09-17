@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Professional editorial real estate photograph. Show the apartment community from an elevated angle that reveals the surrounding neighborhood and area context. The buildings should be in the mid-ground with the surrounding area (roads, nearby landmarks, greenery) visible, conveying a sense of convenient location. Include the community's best amenity in the foreground. The community features: fenced dog park with open grass, pet washing station, resort pool with gradual beach-style entry, private poolside cabanas, lakefront with calm water reflections. Its unique differentiator is a two-lake waterfront campus with trails circling both lakes. Setting: Central Florida with tall palm trees, subtropical plants, and warm humid atmosphere. a visible lake with reflections on the water surface in the scene. near an entertainment and tourism corridor. Style: high-end real estate editorial photography, natural lighting at golden hour, rich saturated colors, shot with a wide-angle lens at eye level. 16:9 landscape aspect ratio. STRICT: No people visible anywhere (Fair Housing compliance). No text, no logos, no watermarks, no graphic overlays.",
+  "revised_prompt": "",
+  "alt_text": "Apartments near SeaWorld Orlando elevated view showing neighborhood and entertainment corridor",
+  "dimensions": "1200x628",
+  "size_kb": 164.5,
+  "quality": 80,
+  "format": "webp",
+  "model": "gpt-image-1"
+}

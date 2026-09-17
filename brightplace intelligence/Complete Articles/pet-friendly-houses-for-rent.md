@@ -44,7 +44,7 @@ Dani had been cross-referencing operator websites with satellite maps to check f
 
 ## What does "pet-friendly" actually mean for rental houses?
 
-"Pet-friendly" on a listing tells you almost nothing about cost or restrictions. The term is not regulated or standardized in any state I work in. Most renters discover the real policy only after they contact the property.
+"Pet-friendly" on a listing tells you almost nothing about cost or restrictions. The term is not regulated or standardized in any state I work in. Most renters discover the real policy only after they contact the property. In a townhome, the policy has two layers, because the HOA can be stricter than the landlord. brightplace covers that in [townhouse vs apartment renting](https://www.brightplace.ai/resources/3-bedroom-townhomes-for-rent-near-me).
 
 Here is what a typical pet-friendly house charges on top of base rent (as of Q2 2026):
 

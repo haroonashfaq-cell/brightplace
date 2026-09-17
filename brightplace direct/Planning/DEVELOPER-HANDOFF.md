@@ -632,3 +632,4 @@ These are the target design. New CMS-published articles should render with the s
 3. Do you need the property data JSONs in a specific format?
 4. How should we handle image uploads — Supabase Storage or Vercel Blob?
 5. Should we use one shared Supabase project or one per operator?
+

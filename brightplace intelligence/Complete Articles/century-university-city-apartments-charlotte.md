@@ -82,7 +82,7 @@ The honest tradeoff: University City is a car-friendly area with improving trans
 
 **Student resources:** The property has a dedicated student program and is positioned to serve renters attending UNC Charlotte. Ask about student-specific lease terms or move-in timing options.
 
-**Academic lease cycle:** The University City rental market follows an academic lease cycle, which is the pattern of availability and pricing that follows UNC Charlotte's enrollment calendar. Availability increases in late spring and summer as students complete leases. Renters not tied to the academic calendar often find more options and negotiating room between May and August. Fall and spring create the highest competition.
+**Academic lease cycle:** The University City rental market follows an academic lease cycle, which is the pattern of availability and pricing that follows UNC Charlotte's enrollment calendar. Availability increases in late spring and summer as students complete leases. Renters not tied to the academic calendar often find more options and negotiating room between May and August. Fall and spring create the highest competition. For a worked example of how early a campus market commits, see brightplace's guide to [when to sign a UW-Madison off-campus lease](https://www.brightplace.ai/resources/the-frances-apartments-madison).
 
 **Starting rent** at Century University City refers to the lowest advertised price for a unit in a given floor plan category, before any upgrades, higher floors, or premium views that may increase the monthly cost.
 

@@ -1,22 +1,49 @@
 ---
-title: "the Frances Apartments Madison: Location, Rents, and What Renters Should Know"
-meta_description: "the Frances Apartments at 215 N Frances St in Madison, WI offers furnished 1 and 2BR units near UW-Madison and State Street. Rents, amenities, and honest tradeoffs."
+title: "When to Sign a UW-Madison Off-Campus Lease (and What the Frances Costs)"
+meta_description: "UW-Madison lease signing opens in October for the following August. The real timeline, what waiting costs, and a below-market example near campus."
 slug: the-frances-apartments-madison
-seo_title: "the Frances Apartments Madison WI | Rent, Amenities, Tradeoffs"
-primary_keyword: "the frances apartments madison"
+seo_title: "UW-Madison Off-Campus Lease Timing | brightplace"
+primary_keyword: "when to sign uw madison off campus housing lease"
+secondary_keywords: ["uw madison off campus housing timeline", "madison lease signing season", "the frances apartments madison", "apartments near kohl center", "uw madison student apartment rent"]
 schema_types: ["Article", "FAQPage", "WebPage"]
-word_count_target: 1400-1700
-last_reviewed: "August 2026"
+word_count_target: 1800-2000
+last_reviewed: "September 2026"
 date_published: 2026-08-13
-date_modified: 2026-08-28
+date_modified: 2026-09-17
 author: brightplace
 ---
 
-# the Frances Apartments Madison: Location, Rents, and What Renters Should Know
+# When to Sign a UW-Madison Off-Campus Lease (and What the Frances Costs)
 
-the Frances Apartments at 215 N Frances St in Madison, WI is a 140-unit furnished building directly across from the Kohl Center, managed by Mullins Apartments, with one-bedroom rents starting at $930 per month and heat and water included (as of Q3 2026).
+Lease signing for UW-Madison off-campus housing opens in October for units that do not become available until the following August. UW's Campus Area Housing office points renters to the October through January window as the period with the widest selection, and some campus-area landlords set renewal deadlines for current tenants as early as the first week of October.
 
-*Last reviewed: August 2026. Pricing reflects the most recently available data and should be verified directly with the property manager.*
+*Last reviewed: September 2026. Pricing reflects the most recently available data and should be verified directly with the property manager.*
+
+## The Actual UW-Madison Leasing Calendar
+
+**October to January: peak selection.** This is when the largest share of campus-area inventory is advertised for the following academic year. If you want a choice between buildings rather than whatever is left, this is the window.
+
+**Early October: renewal deadlines.** Current tenants in many buildings must decide whether to re-sign. Units they release hit the market immediately after, which is why inventory appears in waves rather than all at once.
+
+**February to May: thinner inventory, less pressure.** You can still sign, and you will face less competition, but the selection narrows considerably. Buildings with the best location-to-price ratio are usually gone.
+
+**March to May: the sublet window.** Summer sublets and mid-year vacancies surface here. Useful if your timeline shifted or you are arriving mid-year.
+
+The compressed calendar is the part that catches first-year students off guard. You are asked to commit to a lease roughly ten months before you move in, often before you know who your roommates will be or which part of campus your classes are in.
+
+### What Signing Early Actually Costs You
+
+Signing in October buys selection. It also commits you to a 12-month lease before you know your spring schedule, your roommate situation, or whether you want to be on the Frances Street corridor at all.
+
+Two things worth doing before you sign anything in October. Walk the route from the building to your most frequent classroom building at the time of day you will actually walk it. And read the sublet clause, because a lease signed in October that you cannot sublet is the expensive version of a mistake.
+
+Do not sign a lease you have not read in full. It is legally binding, and for most students it is the first entry on their rental history.
+
+**Compare campus-area apartments with pricing context at [app.brightplace.ai](https://app.brightplace.ai).**
+
+## A Below-Market Example: the Frances Apartments
+
+The rest of this page works through one specific building on the corridor, the Frances Apartments at 215 N Frances St, as a concrete reference point for what campus-area rent, utilities, and tradeoffs actually look like.
 
 ## What Is the Frances Apartments in Madison?
 
@@ -82,15 +109,23 @@ If you need a pet-friendly building, modern finishes, or more square footage, th
 
 ## How Can You Check Availability at the Frances Apartments?
 
-Based on the most recently available data (as of Q3 2026), all advertised units at the Frances Apartments in Madison are marked as rented on third-party sites. This reflects the building's high occupancy rate in a competitive corridor near UW-Madison and the Kohl Center. the Frances is currently rented for the 2026-2027 lease cycle.
+The 2026-2027 cycle is fully leased at the Frances, which is normal for this corridor rather than a reason to write the building off. The relevant cycle for anyone reading this in the October to January window is 2027-2028, and those units are released as current tenants pass their renewal deadlines in early October.
 
 Do not rely on third-party pages for availability at the Frances Apartments. Contact Mullins Apartments directly at (608) 257-2127. Units at 215 N Frances St in Madison turn over on a lease-cycle basis and fill quickly given the location. Calling the property manager is the most reliable way to learn about upcoming openings for the next academic year.
 
-For a broader view of what is available in the campus area, brightplace's guide to [how to rent an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) walks through the full process. And if you are looking at options across different price points near campus, brightplace covers [cheap one-bedroom apartments](https://www.brightplace.ai/resources/cheap-one-bedroom-apartments) with context on what those lower rents typically include. Renters considering the broader Madison market can also explore [one-bedroom apartments in NYC](https://www.brightplace.ai/resources/one-bedroom-apartment-nyc) for a cost-of-living comparison.
+For a broader view of what is available in the campus area, brightplace's guide to [how to rent an apartment](https://www.brightplace.ai/guides/how-to-rent-an-apartment) walks through the full process. And if you are looking at options across different price points near campus, brightplace covers [cheap one-bedroom apartments](https://www.brightplace.ai/resources/cheap-one-bedroom-apartments) with context on what those lower rents typically include.
 
 **Searching near campus or downtown Madison? brightplace shows current available apartments across the city with pricing context. See what is available at [app.brightplace.ai](https://app.brightplace.ai).**
 
-## Frequently Asked Questions About the Frances Apartments in Madison
+## Frequently Asked Questions About UW-Madison Leases and the Frances
+
+### When should I sign an off-campus lease at UW-Madison?
+
+October through January is the window with the widest selection for the following August. Many campus-area landlords set renewal deadlines for current tenants in early October, and the units those tenants release come to market right after. You can still sign in February through May with less competition, but the best-located buildings are usually gone by then.
+
+### How far in advance do UW-Madison students sign leases?
+
+Roughly ten months. Leases signed in October typically start the following August. This compressed calendar means most students commit before they know their spring schedule or their roommate arrangements, which is why reading the sublet clause before signing matters more here than in most markets.
 
 ### Where exactly are the Frances Apartments located in Madison?
 
@@ -149,6 +184,8 @@ the Frances Apartments rents run approximately 35 to 45% below Madison's citywid
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
+    {"@type": "Question", "name": "When should I sign an off-campus lease at UW-Madison?", "acceptedAnswer": {"@type": "Answer", "text": "October through January is the window with the widest selection for the following August. Many campus-area landlords set renewal deadlines for current tenants in early October, and the units those tenants release come to market right after. You can still sign in February through May with less competition, but the best-located buildings are usually gone by then."}},
+    {"@type": "Question", "name": "How far in advance do UW-Madison students sign leases?", "acceptedAnswer": {"@type": "Answer", "text": "Roughly ten months. Leases signed in October typically start the following August. This compressed calendar means most students commit before they know their spring schedule or their roommate arrangements, which is why reading the sublet clause before signing matters more here than in most markets."}},
     {"@type": "Question", "name": "Where exactly are the Frances Apartments located in Madison?", "acceptedAnswer": {"@type": "Answer", "text": "the Frances Apartments is at 215 N Frances St, Madison, WI 53703. The building sits directly across from the Kohl Center at the corner of N. Frances Street and W. Dayton Street. State Street and the main UW-Madison campus are within a few blocks' walking distance. Capitol Square is roughly 10 minutes on foot from the Frances."}},
     {"@type": "Question", "name": "What are the rent ranges at the Frances Apartments in Madison?", "acceptedAnswer": {"@type": "Answer", "text": "One-bedroom apartments at the Frances range from $930 to $1,025 per month. Two-bedroom units are listed at $1,310 per month (as of Q3 2026). Heat and water are included in the rent. These figures may reflect prior lease cycles, so contact Mullins Apartments at (608) 257-2127 for current pricing and availability at the Frances in Madison."}},
     {"@type": "Question", "name": "What utilities are included at the Frances Apartments?", "acceptedAnswer": {"@type": "Answer", "text": "Heat and water are included in the monthly rent at the Frances Apartments in Madison. Tenants pay a flat rent without separate utility billing for those services. Electricity, internet, and cable are likely separate costs. Confirm the full utility breakdown with Mullins Apartments before signing a lease at the Frances."}},

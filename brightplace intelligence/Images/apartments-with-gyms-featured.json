@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Editorial photograph of a modern apartment fitness center with floor-to-ceiling windows overlooking a courtyard. Cardio machines (treadmills, ellipticals) in the foreground, free weight rack and cable machine in the background. Clean rubber flooring, bright overhead lighting, early morning sunlight streaming through the glass. Sleek, well-maintained gym space typical of a Class A apartment community. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Modern apartment fitness center with cardio equipment and floor-to-ceiling windows",
+  "dimensions": "1200x628",
+  "size_kb": 171.3,
+  "quality": 85,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

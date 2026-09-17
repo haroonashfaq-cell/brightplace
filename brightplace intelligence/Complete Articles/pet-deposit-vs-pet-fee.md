@@ -102,6 +102,8 @@ Five items to verify in the lease before you sign:
 4. **Is the pet addendum signed separately?** It should be a standalone document with its own terms, not buried in a paragraph.
 5. **Does the lease specify the deposit return timeline?** Most states require 14-30 days. If your lease says 60 days, that may not be enforceable.
 
+In a townhome, the HOA sets a second pet policy on top of the landlord's, and the stricter of the two controls. brightplace covers that split in [townhouse vs apartment renting](https://www.brightplace.ai/resources/3-bedroom-townhomes-for-rent-near-me).
+
 Many landlords now use digital pet screening platforms like PetScreening during the application process. These services verify pet details, vaccination records, and ESA documentation. Ask whether the property uses third-party pet screening and what the process involves before applying. For a full walkthrough of the rental application process, see brightplace's [guide to renting an apartment](https://brightplace.ai/guides/how-to-rent-an-apartment).
 
 ## Frequently Asked Questions

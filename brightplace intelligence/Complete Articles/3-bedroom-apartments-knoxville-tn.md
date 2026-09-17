@@ -66,7 +66,7 @@ Here is a quick comparison across all six neighborhoods:
 
 Most renters search for "3 bedroom apartments" but end up renting a house or duplex. In Knoxville, a significant share of the 3-bedroom rental inventory sits outside traditional apartment complexes. Standard apartment search filters on listing platforms often miss these properties entirely.
 
-This matters for your search strategy. Expand beyond apartment-only filters. Look for single-family rentals, duplexes, and converted homes in the neighborhoods listed above. Many landlords in Knoxville manage only a few properties and list on local platforms or yard signs rather than national aggregators.
+This matters for your search strategy. Expand beyond apartment-only filters. Look for single-family rentals, duplexes, and converted homes in the neighborhoods listed above. Townhomes are part of that hidden inventory, and brightplace's guide to [townhouse vs apartment renting](https://www.brightplace.ai/resources/3-bedroom-townhomes-for-rent-near-me) covers what the HOA adds to your lease. Many landlords in Knoxville manage only a few properties and list on local platforms or yard signs rather than national aggregators.
 
 House rentals often come with more lease flexibility than apartment complexes. Month-to-month arrangements or shorter lease terms are more common with individual landlords. For renters who need flexibility, brightplace covers what to expect in a [short-term lease agreement](https://www.brightplace.ai/resources/short-term-lease-agreement).
 
@@ -76,7 +76,7 @@ Before signing any house rental lease, confirm four things: maintenance responsi
 
 The [University of Tennessee](https://www.utk.edu/) academic calendar drives Knoxville's rental cycle more than any other factor. Peak competition for 3-bedroom rentals runs from January through April, when students and roommate groups lock down leases for August move-in dates. Landlords near campus often have units spoken for months in advance.
 
-The best selection typically opens between May and August, after the initial wave of lease signings and as turnover units become available. Renters who can be flexible on move-in date will find more options during this window.
+The best selection typically opens between May and August, after the initial wave of lease signings and as turnover units become available. Campus markets differ sharply on this; brightplace's guide to [when to sign a UW-Madison off-campus lease](https://www.brightplace.ai/resources/the-frances-apartments-madison) describes a market where the window opens in October. Renters who can be flexible on move-in date will find more options during this window.
 
 Here is a practical timeline: start searching by February if you need an August move-in. If you are looking outside the UT corridor (West Knoxville, North Knoxville, South Knoxville), the cycle is less rigid, and year-round availability is more common. Still, summer months tend to have the widest selection across the entire metro.
 

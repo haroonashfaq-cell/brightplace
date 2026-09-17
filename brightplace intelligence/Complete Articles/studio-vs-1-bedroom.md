@@ -87,7 +87,7 @@ If you earn under $45,000 per year and rent alone, a studio keeps you within the
 
 If you work from home 3 or more days per week, choose the one-bedroom. The cost premium pays for itself in sustained focus and reduced burnout over a full lease term.
 
-If you are a couple sharing an apartment, the one-bedroom is almost always the right call. Two people in a studio means zero personal space during conflict, overlapping schedules, or sick days.
+If you are a couple sharing an apartment, the one-bedroom is almost always the right call. Two people in a studio means zero personal space during conflict, overlapping schedules, or sick days. If you are weighing more space against more rules, brightplace's comparison of [townhouse vs apartment renting](https://www.brightplace.ai/resources/3-bedroom-townhomes-for-rent-near-me) covers how HOA governance and split maintenance responsibility change the lease.
 
 If you travel frequently and treat the apartment as a place to sleep, the studio makes financial sense. You are paying for less space you will rarely use fully.
 

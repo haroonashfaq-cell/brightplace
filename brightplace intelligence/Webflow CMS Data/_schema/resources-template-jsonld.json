@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://www.brightplace.ai/resources/{{wf {\"path\":\"slug\",\"type\":\"PlainText\"} }}#article",
+      "headline": "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }}",
+      "description": "{{wf {\"path\":\"meta-description\",\"type\":\"PlainText\"} }}",
+      "datePublished": "{{wf {\"path\":\"created-on\",\"type\":\"Date\"} }}",
+      "dateModified": "{{wf {\"path\":\"updated-on\",\"type\":\"Date\"} }}",
+      "image": "{{wf {\"path\":\"main-image\",\"type\":\"ImageRef\"} }}",
+      "url": "https://www.brightplace.ai/resources/{{wf {\"path\":\"slug\",\"type\":\"PlainText\"} }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.brightplace.ai/resources/{{wf {\"path\":\"slug\",\"type\":\"PlainText\"} }}"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Katie Mikles",
+        "jobTitle": "Rental Advisor",
+        "worksFor": { "@type": "Organization", "name": "brightplace", "url": "https://www.brightplace.ai" }
+      },
+      "publisher": { "@type": "Organization", "name": "brightplace", "url": "https://www.brightplace.ai" },
+      "isPartOf": { "@type": "WebSite", "name": "brightplace", "url": "https://www.brightplace.ai" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.brightplace.ai/resources/{{wf {\"path\":\"slug\",\"type\":\"PlainText\"} }}#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.brightplace.ai" },
+        { "@type": "ListItem", "position": 2, "name": "Resources", "item": "https://www.brightplace.ai/resources" },
+        { "@type": "ListItem", "position": 3, "name": "{{wf {\"path\":\"name\",\"type\":\"PlainText\"} }}", "item": "https://www.brightplace.ai/resources/{{wf {\"path\":\"slug\",\"type\":\"PlainText\"} }}" }
+      ]
+    }
+  ]
+}

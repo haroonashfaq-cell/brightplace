@@ -1,22 +1,47 @@
 ---
-title: "How Apartment Move-In Specials Work in 2026 and Where to Find Them"
-seo_title: "Apartment Move-In Specials 2026: Find Deals | brightplace"
-meta_description: "Move-in specials can cut your upfront rental costs by $500 to $2,000. Here is what they include, when they are most common, and how to find them near you."
+title: "What a $99 Move-In Special Actually Means"
+meta_description: "A $99 move-in special caps your upfront cost, not your rent. What the $99 covers, the clawback clause to check, and how each special type compares."
 slug: move-in-specials-apartments
-primary_keyword: "move in specials near me"
+seo_title: "$99 Move-In Special: What It Means | brightplace"
+primary_keyword: "what does a $99 move in special mean"
+secondary_keywords: ["$99 move in special", "total move in special", "look and lease special", "move in specials explained", "apartment concession clawback"]
 schema_types: ["Article", "FAQPage", "WebPage"]
-word_count_target: "1,100-1,300"
+word_count_target: "1,300-1,500"
 last_reviewed: "September 2026"
 date_published: 2026-07-02
-date_modified: 2026-09-14
+date_modified: 2026-09-17
 author: brightplace
 ---
 
-# How Apartment Move-In Specials Work in 2026 and Where to Find Them
+# What a $99 Move-In Special Actually Means
 
 *Last reviewed: September 2026*
 
-## What a Move-In Special Actually Is
+A $99 move-in special means you pay $99 to take possession of the apartment, and that flat fee replaces your security deposit and first month's rent combined. It does not reduce your monthly rent. Full rent begins in month two, and nearly every $99 offer requires a 12-month lease, clean rental history, and verifiable income.
+
+The headline number is real. The part that costs renters money is the concession addendum attached to the lease, which most people sign without reading.
+
+## What the $99 Actually Covers
+
+The dollar amount caps your total upfront cost at signing, not your ongoing rent. A $99, $299, or $500 special works the same way: the number is what you hand over on move-in day, and it typically absorbs the security deposit and first month's rent together.
+
+What it usually does not absorb: the application fee (charged before you are approved, so it is rarely included), the administrative or admin fee, pet deposits and pet rent, renters insurance, and utility activation or account setup charges. Leasing offices quote these separately, which is how a "$99 move-in" turns into $400 at the counter.
+
+Ask for the number in writing before you apply. The question that gets a straight answer: "What is my total out-of-pocket on move-in day, including every fee?"
+
+### The Clawback Clause to Check Before You Sign
+
+Concession addenda commonly include a repayment provision. If you break the lease or leave before the term ends, you owe back some or all of the discount you received, on top of any early termination fee. A $1,500 concession can reappear as a $1,500 debt in month seven.
+
+Before signing, find the addendum and read the repayment terms. Two things to confirm: whether the clawback is prorated or full, and what counts as triggering it. Some are written to trigger on any early departure, including a job relocation.
+
+### Where $99 Specials Show Up
+
+These are most common at Class B and C properties in mid-size metros such as Memphis, San Antonio, and Indianapolis (as of Q3 2026). They are rare at luxury and new-construction communities, which tend to offer free-rent months instead because a free month protects the face rent on paper while a flat move-in fee does not.
+
+brightplace shows current move-in specials in your target city. Start your search at [brightplace.ai](https://app.brightplace.ai).
+
+## The Five Types of Move-In Special
 
 A move-in special is a temporary incentive from a landlord or property manager that reduces your upfront or ongoing lease cost, typically saving renters $500 to $2,000 (as of Q3 2026). Moving specials for apartments include free rent months, waived deposits, reduced fees, and flat-rate total move-in packages. Five types cover nearly every special you will encounter.
 
@@ -50,7 +75,7 @@ brightplace shows move-in specials in your target city. Start your search at [br
 
 October through February has traditionally been peak concession season. However, in 2026, concessions have become a year-round phenomenon in oversupplied markets. As of Q3 2026, 41.2% of multifamily properties nationwide offer rent concessions (a 9.9 percentage point increase over 2025), and the average concession discount hit 11.1%, the deepest in over 25 years. In Sun Belt markets with oversupply, concessions run continuously regardless of season: Austin has 73% of apartment units offering some type of concession, and Phoenix has 54% of listings offering free rent.
 
-New construction lease-ups run specials year-round until reaching stabilized occupancy. The top five concession markets as of Q3 2026 are Sarasota FL, Austin TX, Phoenix AZ, Charlotte NC, and San Antonio TX. These cities have seen elevated apartment deliveries through 2025 and 2026, keeping concession rates high (as of Q3 2026). brightplace's city guides for [Austin](https://www.brightplace.ai/guides/relocating-to-austin), [Phoenix](https://www.brightplace.ai/guides/phoenix-renters-orientation), and [Charlotte](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods) cover pricing in these markets. Supply-constrained cities like New York and Boston offer fewer specials outside luxury inventory.
+New construction lease-ups run specials year-round until reaching stabilized occupancy. The top five concession markets as of Q3 2026 are Sarasota FL, Austin TX, Phoenix AZ, Charlotte NC, and San Antonio TX. These cities have seen high apartment delivery volume through 2025 and 2026, keeping concession rates high (as of Q3 2026). brightplace's city guides for [Austin](https://www.brightplace.ai/guides/relocating-to-austin), [Phoenix](https://www.brightplace.ai/guides/phoenix-renters-orientation), and [Charlotte](https://www.brightplace.ai/guides/charlotte-affordable-neighborhoods) cover pricing in these markets. Supply-constrained cities like New York and Boston offer fewer specials outside luxury inventory.
 
 ## How to Find Move-In Specials in Your Area
 
@@ -70,11 +95,11 @@ Renters who ask directly secure discounts that passive searchers miss. Try: "Are
 
 Target units listed 30 or more days, since vacancy costs the property $50 to $100 per day (as of Q3 2026). Proposing a 14- to 18-month lease reduces turnover costs and justifies requesting one month free. Mid-month, mid-week applications face less competition.
 
-## What $99, $299, and $500 Move-In Specials Mean
+## How to Compare Two Specials Against Each Other
 
-These dollar amounts cap your total upfront cost, not your monthly rent. A $99 special means you pay $99 to move in, covering deposit and first month combined (as of Q3 2026). Full rent starts in month two, and a 12-month lease with clean rental history is almost always required.
+Specials are not interchangeable, and the biggest headline number is often the worse deal. Convert both offers to a single figure: total cost over the full lease term.
 
-Most common at Class B and C properties in metros like Memphis, San Antonio, and Indianapolis (as of Q3 2026). Not available at luxury or new-construction communities. Before signing, confirm in writing what the flat fee covers.
+A $99 total move-in special on a $1,400/month unit costs $99 plus eleven months of rent, or $15,499 across a 12-month term. One month free on the same unit costs a $1,400 deposit plus eleven months of rent, or $16,800, but the $1,400 deposit is refundable. Run both numbers before deciding which special is worth more to you, and weigh the refundable portion separately from money you will never see again.
 
 ## Move-In Specials for Renters with Low Income or No Credit
 
@@ -90,9 +115,9 @@ Ask upfront: What documentation do you accept? Is there a minimum income require
 
 A $99 move-in special caps your total upfront cost at $99, covering deposit and first month's rent. Full rent begins in month two. These require a 12-month lease, clean rental history, and verifiable income. Most common at Class B and C communities in mid-size markets (as of Q3 2026).
 
-### Are move-in specials available near me right now?
+### Does a $99 move-in special mean my rent is $99?
 
-Move-in specials are most available between October and February and in markets with high new apartment supply. Austin, Nashville, Phoenix, Charlotte, and Denver offer more concessions than supply-constrained cities like New York or Boston (as of Q3 2026). Search your city on brightplace to see current availability.
+No. The $99 covers your upfront move-in cost only, usually the security deposit and first month's rent combined. Your contracted monthly rent is unchanged and full payments begin in month two. The lease will state your actual rent amount separately from the concession.
 
 ### What is a look and lease special?
 
@@ -145,10 +170,10 @@ brightplace helps renters find apartments with current move-in specials and flex
         },
         {
           "@type": "Question",
-          "name": "Are move-in specials available near me right now?",
+          "name": "Does a $99 move-in special mean my rent is $99?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Move-in specials are most available between October and February and in markets with high new apartment supply. Austin, Nashville, Phoenix, Charlotte, and Denver offer more concessions than supply-constrained cities like New York or Boston (as of Q3 2026). Search your city on brightplace to see current availability."
+            "text": "No. The $99 covers your upfront move-in cost only, usually the security deposit and first month's rent combined. Your contracted monthly rent is unchanged and full payments begin in month two. The lease will state your actual rent amount separately from the concession."
           }
         },
         {

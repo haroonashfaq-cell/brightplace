@@ -6,61 +6,23 @@
 
 ---
 
+## Memory References
+
+Paths are relative to `brightplace intelligence/`, not the `Agents/` directory.
+Read these files before this agent runs; missing memory must be reported, not guessed.
+- `memory/semantic/brand-rules.md`
+- `memory/semantic/content-standards.md`
+- `memory/semantic/ranking-rules.md`
+- `memory/semantic/cms-config.md`
+- `memory/semantic/link-registry.md`
+- `memory/episodic/trend-intelligence.md`
+Canonical memory takes precedence over legacy examples. Follow the memory contract
+in `Agents/WORKFLOW.md`; no permanent rule changes without explicit user approval.
+
 ## 1. Brand Rules (Zero Tolerance)
 
-These rules are non-negotiable. Violating any of them makes a draft unpublishable.
-
-### 1.1 Naming
-- **brightplace is ALWAYS lowercase.** Even at the start of a sentence. Even in headings. No exceptions.
-
-### 1.2 Punctuation
-- **NEVER use em dashes.** Not as `--` and not as the unicode character `—`.
-- Replace with commas, periods, semicolons, colons, or parentheses.
-  - Wrong: "The neighborhood is walkable -- something rare in Texas."
-  - Right: "The neighborhood is walkable, something rare in Texas."
-
-### 1.3 Banned Word
-- **NEVER use the word "signal"** in any form (signal, signals, signaling, signaled).
-- Alternatives: "indicator," "suggests," "points to," "reflects."
-
-### 1.4 Banned Phrases
-Never use any of the following:
-- "deep dive" / "dive into"
-- "navigate" (as metaphor)
-- "landscape" (as metaphor)
-- "unlock" / "leverage" (as verbs)
-- "whether you're X or Y"
-- "from X to Y" (as a range framing device)
-- "it's worth noting that"
-- "it should be mentioned"
-- "interestingly" / "notably" / "arguably"
-- "hidden gem" / "best-kept secret"
-- "vibrant" / "bustling" / "thriving"
-- "In this article, we will cover..."
-- "Let's take a look at..."
-- "Without further ado"
-- "In today's [anything]"
-
-### 1.5 Title and Heading Rules
-- Never use ranking language: no "Top X," "Best," "Ultimate Guide," "#1," "Everything You Need to Know."
-- Use curation framing: inform, present options, guide.
-- Good: "What to Know About Renting in Austin"
-- Bad: "The Ultimate Guide to Austin's Best Apartments"
-
-### 1.6 Sourcing (Never Cite or Link To)
-**ILS Platforms:** Apartments.com, Zillow, Trulia, Rent.com, Zumper, Apartment List, HotPads, RentCafe, Realtor.com, ForRent.com, Padmapper
-
-**Review Aggregators:** ApartmentRatings, Yelp, Google Reviews (as citation source), Niche, AreaVibes, Crime Grade, Openigloo
-
-**Score Sites:** Walk Score, Bike Score, Transit Score, GreatSchools (as primary citation)
-
-**Forums:** Reddit, City-Data, BiggerPockets
-
-### 1.7 Fair Housing Compliance
-- Never describe neighborhoods by who lives there (race, ethnicity, religion, national origin, familial status, sex, disability, sexual orientation)
-- Never include crime statistics, safety ratings, or safety-adjacent language ("safe area," "low crime," "avoid after dark")
-- Never use "gentrification" language. Use market dynamics framing instead.
-- Describe neighborhoods by lifestyle infrastructure only: walkability, dining, nightlife, transit, parks, grocery, coffee, fitness, coworking, schools (for family content), pet infrastructure (for pet content)
+See `memory/semantic/brand-rules.md` for all brand restrictions.
+Active, verified trends: `memory/episodic/trend-intelligence.md`.
 
 ---
 
@@ -170,8 +132,8 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 **Rules:**
 - All external links must open in a new tab: `target="_blank" rel="noopener"`
 - Link only to authoritative sources: `.gov`, `.edu`, official transit authorities, official property management sites, state/county government pages
-- **NEVER link to competitors or send traffic to competing platforms.** This includes all ILS platforms, review aggregators, score sites, forums, and vacation rental platforms listed in Section 1.6. We do not badmouth competitors, but we do not give them our audience either.
-- Never link to banned sources (see Section 1.6)
+- **NEVER link to competitors or send traffic to competing platforms.** This includes all ILS platforms, review aggregators, score sites, forums, and vacation rental platforms listed in `memory/semantic/brand-rules.md`. We do not badmouth competitors, but we do not give them our audience either.
+- Never link to banned sources (see `memory/semantic/brand-rules.md`)
 - Prioritize:
   - Government sites (.gov, .edu)
   - Official transit authorities (MBTA, WMATA, DART, CATS, etc.)
@@ -202,10 +164,10 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 - Include practical guidance that reflects real-world knowledge (what to ask during a tour, what to check before signing)
 - Use "what renters ask" framing to reflect genuine engagement with searcher behavior
 - Include at least one honest tradeoff or limitation per article
-- **Named expert attribution:** Include "Reviewed by [Name], [Role] at brightplace" in the article footer or frontmatter. Google's May 2026 AI Overviews "Expert Advice" block pulls first-hand perspectives with attribution; a named reviewer strengthens the Experience signal for AI citation.
+- **Named expert attribution:** Credit only an actual reviewer; never invent review or credentials.
 
-### 5.1.1 Information Gain (March 2026 Core Update)
-- Every article must include at least one data point, comparison, or insight not available on competing pages. Google's Information Gain ranking factor (re-weighted in the March 2026 core update) rewards content that adds genuinely new knowledge.
+### 5.1.1 Original Contribution
+- Every article must include at least one data point, comparison, or insight not available on competing pages.
 - Prioritize: proprietary brightplace data, original rent comparisons, first-hand market observations, worked cost examples, and specific local details competitors omit.
 
 ### 5.2 Expertise Indicators
@@ -217,7 +179,7 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 ### 5.3 Authoritativeness Indicators
 - Use external links to authoritative sources (government, transit, official)
 - Reference specific named entities (property names, addresses, management companies)
-- Include comparison tables with verifiable data
+- Include structured comparisons with verifiable data
 - Cite California/Texas/state-specific laws by name and number when relevant (AB 1482, AB 12)
 
 ### 5.4 Trustworthiness Indicators
@@ -246,11 +208,9 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 - Never use bullets as a substitute for prose explanation.
 - Numbered lists for sequential steps only.
 
-### 6.4 Table Rules
-- Use markdown tables for comparison sections.
-- Keep table cells to short phrases, not full sentences.
-- Always include a header row.
-- Tables should be scannable in under 10 seconds.
+### 6.4 Comparison Format
+- Use bold-label paragraphs; follow `memory/semantic/cms-config.md` for CMS HTML.
+- Do not use Markdown tables in published bodies.
 
 ---
 
@@ -262,7 +222,7 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 - Write each answer as a **complete, standalone response**
 - Do not reference other sections of the article
 - Lead each answer with the direct response in the first sentence
-- Target: **6-8 FAQ questions per article**
+- Target: see `memory/semantic/ranking-rules.md` (10+ preferred, minimum 6–8 with brief justification)
 
 ---
 
@@ -271,7 +231,7 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 ### 8.1 FAQPage Schema (JSON-LD)
 - Include every Q&A pair from the FAQ section
 - Answers must match the article's FAQ answers word-for-word
-- **Note (May 2026):** Google deprecated FAQ rich results on May 7, 2026. FAQPage schema still validates and does not cause problems, but no longer generates rich results in Google SERPs. Keep the schema: it still helps AI systems (ChatGPT, Perplexity, Google AI Overviews) extract and cite Q&A content, and remains valuable for AEO. Remove any expectation of SERP rich result lift.
+- Search-engine claims and verification state live in `memory/episodic/trend-intelligence.md`.
 
 ### 8.2 Article Schema (JSON-LD)
 - `headline`: Article title
@@ -281,7 +241,7 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 - `datePublished` and `dateModified`: YYYY-MM-DD format
 
 ### 8.3 WebPage Schema (JSON-LD)
-- Include breadcrumb (Home > Knowledgebase > Article Title)
+- Include breadcrumb (Home > Resources > Article Title)
 - Include speakable specification targeting `.article-intro` and `.faq-section`
 - Include canonical URL
 
@@ -333,7 +293,7 @@ author: brightplace
 ### [Question 2]
 [40-60 word standalone answer]
 
-[...6-8 FAQ pairs...]
+[...FAQ pairs per ranking-rules.md...]
 
 ---
 
@@ -354,12 +314,7 @@ author: brightplace
 Run every check before submitting. If any check fails, fix it before outputting.
 
 ### Brand Compliance
-- [ ] brightplace is lowercase everywhere (including sentence starts and headings)
-- [ ] Zero em dashes in the entire document (search for `—` and `--`)
-- [ ] The word "signal" does not appear anywhere
-- [ ] No banned phrases from Section 1.4 appear anywhere
-- [ ] No ILS platforms, review aggregators, score sites, or forums cited or linked
-- [ ] No Fair Housing violations (neighborhoods described by infrastructure only)
+- [ ] All checks in `memory/semantic/brand-rules.md` pass.
 
 ### SEO/AEO Compliance
 - [ ] First sentence contains the primary keyword and begins answering the query
@@ -372,7 +327,7 @@ Run every check before submitting. If any check fails, fix it before outputting.
 - [ ] Only one H1 in the document
 - [ ] H2/H3 structure matches the content brief outline exactly
 - [ ] Word count is within the target range from the brief
-- [ ] FAQ section has 6-8 Q&A pairs, each answer 40-60 words
+- [ ] FAQ section meets `memory/semantic/ranking-rules.md` targets, each answer 40-60 words
 
 ### Linking Compliance
 - [ ] 8-12 internal links to brightplace.ai/guides/ pages (real URLs from sitemap)
@@ -390,7 +345,7 @@ Run every check before submitting. If any check fails, fix it before outputting.
 - [ ] Article demonstrates first-hand experience (brightplace data framing)
 - [ ] At least one honest tradeoff or limitation included
 - [ ] Technical terms defined at first use
-- [ ] Comparison table included where relevant
+- [ ] Structured comparison included where relevant
 - [ ] No symmetric AI-pattern structures (varied section lengths)
 - [ ] No filler introductions or conclusion that restates the intro
 
@@ -398,68 +353,11 @@ Run every check before submitting. If any check fails, fix it before outputting.
 
 ## 12. Webflow CMS Field Mapping
 
-When drafting to the Webflow CMS **Resources** collection:
-
-| Markdown Field | CMS Field | Notes |
-|---|---|---|
-| `title` | `name` | Article title, max 256 chars |
-| `slug` | `slug` | URL slug, no spaces or special chars |
-| `meta_description` | `meta-description` | Under 160 chars |
-| Article title | `seo-title` | Format: [Short Title] \| brightplace, max 60 chars |
-| `primary_keyword` | `focus-keyword` | Exact keyword from brief |
-| First paragraph (plain text) | `post-summary` | Summary for grid display |
-| Article body (HTML) | `post-body` | Rich text, exclude schema blocks |
-
-**Collection ID:** `69fcfcef26d35b66ba874f9d`
-**Site ID:** `69d6907887b739e09622100f`
+See `memory/semantic/cms-config.md` for IDs, routing, fields, HTML, and draft-only policy.
 
 ---
 
 ## 13. brightplace Sitemap (Internal Link Reference)
 
-### Guide Pages (for internal linking)
-- `/guides/how-to-rent-an-apartment`
-- `/guides/your-true-monthly-cost`
-- `/guides/atlanta-active-renters`
-- `/guides/austin-young-professionals`
-- `/guides/brooklyn-neighborhood-guide`
-- `/guides/charlotte-affordable-neighborhoods`
-- `/guides/chicago-pet-owners`
-- `/guides/columbia-usc-student`
-- `/guides/dallas-families`
-- `/guides/dc-empty-nesters`
-- `/guides/denver-city-orientation`
-- `/guides/dog-friendly-neighborhoods-san-diego`
-- `/guides/fort-collins-outdoor-renters`
-- `/guides/greensboro-renters-orientation`
-- `/guides/houston-city-orientation`
-- `/guides/huntsville-renters-orientation`
-- `/guides/kansas-city-young-professionals`
-- `/guides/knoxville-young-professionals`
-- `/guides/lexington-student-neighborhoods-uk`
-- `/guides/miami-city-orientation`
-- `/guides/minneapolis-city-orientation`
-- `/guides/nashville-corporate-relocation-neighborhoods`
-- `/guides/philadelphia-city-orientation`
-- `/guides/phoenix-renters-orientation`
-- `/guides/raleigh-durham-young-professionals`
-- `/guides/relocating-to-austin`
-- `/guides/salt-lake-city-renters-orientation`
-- `/guides/tampa-renters-orientation`
-- `/guides/ut-austin-student-housing`
-
-*Last sitemap pull: May 2026. Re-pull before each content batch to capture new pages.*
-
----
-
-## Sources
-
-This document incorporates requirements from:
-- [Google's Creating Helpful, Reliable, People-First Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content)
-- [Google E-E-A-T Guidelines 2026 Playbook](https://keywordseverywhere.com/blog/google-e-e-a-t-guidelines-an-overview/)
-- [Google 2026 Helpful Content Update Guide](https://orbitinfotech.com/blog/google-2026-helpful-content-update/)
-- [Internal Linking Best Practices 2026](https://www.link-assistant.com/news/internal-linking-strategies.html)
-- [How Many Internal Links Per Page](https://inblog.ai/blog/how-many-internal-links-per-page-seo)
-- [How Many External Links Should Content Have](https://www.copypress.com/kb/content-marketing/how-many-external-links/)
-- [Understanding Google's Helpful Content Principles 2026](https://www.mightyroar.com/blog/helpful-content-update)
-- [Google SEO Ranking Factors 2026](https://www.clickrank.ai/seo-ranking-factors/)
+See `memory/semantic/link-registry.md` for inventories and exact-path checks.
+Consult `memory/episodic/link-failures.md` for newer observations.

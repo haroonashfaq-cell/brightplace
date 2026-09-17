@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a bright modern apartment laundry closet with a stacked washer and dryer in white, set into an alcove next to a clean kitchen with quartz countertops. Warm morning light from a nearby window. A small basket of folded towels sits on the dryer. Clean, practical, livable mid-range apartment interior. No people, no text, no logos, no watermarks. Professional editorial interior photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "In-unit washer and dryer in a modern apartment laundry closet",
+  "dimensions": "1200x628",
+  "size_kb": 48.9,
+  "quality": 85,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

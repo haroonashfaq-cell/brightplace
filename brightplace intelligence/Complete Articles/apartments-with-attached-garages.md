@@ -35,7 +35,7 @@ Before scheduling a tour, ask the leasing office one question: "Does the garage 
 
 Attached garages require a specific structural configuration. The garage must sit at ground level and share a wall with the living space. That rules out most traditional apartment buildings. Here is where this amenity actually exists (as of Q3 2026):
 
-**Townhouse / rowhouse:** High availability. $1,400-$2,500/mo. Ground-floor garage with living space above. Most common format for attached garages in the rental market.
+**Townhouse / rowhouse:** High availability. $1,400-$2,500/mo. Ground-floor garage with living space above. Most common format for attached garages in the rental market. Before choosing this route, read what changes when you rent inside an HOA in brightplace's guide to [townhouse vs apartment renting](https://www.brightplace.ai/resources/3-bedroom-townhomes-for-rent-near-me).
 
 **Single-family rental home:** High availability. $1,800-$3,500/mo. Usually one or two car garage. Higher price point but the most space.
 

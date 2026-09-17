@@ -1,0 +1,718 @@
+<!-- brightplace Community Voice — Custom HTML Form for Webflow Embed -->
+<!-- Paste this entire block into a Webflow Custom Code Embed element -->
+
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700&family=Lato:wght@400;700&display=swap");
+
+  .cv-form * { box-sizing: border-box; margin: 0; padding: 0; }
+  .cv-form {
+    font-family: "Lato", system-ui, -apple-system, sans-serif;
+    max-width: 740px;
+    margin: 0 auto;
+    padding: 48px 24px 72px;
+    color: #1A2744;
+    line-height: 1.45;
+    background: #FAF6EF;
+  }
+
+  /* ---- Header ---- */
+  .cv-form .cv-header {
+    text-align: center;
+    margin-bottom: 48px;
+  }
+  .cv-form .cv-logo {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+  }
+  .cv-form .cv-header h1 {
+    font-family: "Urbanist", system-ui, sans-serif;
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin-bottom: 8px;
+    color: #1A2744;
+  }
+  .cv-form .cv-header h1 span {
+    color: #F5A623;
+  }
+  .cv-form .cv-header p {
+    font-size: 16px;
+    color: #5C6580;
+    max-width: 520px;
+    margin: 0 auto;
+  }
+
+  /* ---- Intro box ---- */
+  .cv-form .cv-intro {
+    background: #FFFFFF;
+    border: 1px solid #E3DDCF;
+    border-left: 4px solid #F5A623;
+    border-radius: 12px;
+    padding: 28px;
+    margin-bottom: 44px;
+    font-size: 15px;
+    color: #2B3655;
+    box-shadow: 0 1px 2px rgba(26,39,68,.06), 0 8px 24px rgba(26,39,68,.08);
+  }
+  .cv-form .cv-intro strong {
+    font-family: "Urbanist", sans-serif;
+    font-weight: 600;
+    color: #1A2744;
+  }
+  .cv-form .cv-intro ul {
+    margin: 14px 0 0 20px;
+    list-style: disc;
+    color: #5C6580;
+  }
+  .cv-form .cv-intro li { margin-bottom: 6px; }
+
+  /* ---- Sections ---- */
+  .cv-form .cv-section {
+    background: #FFFFFF;
+    border: 1px solid #E3DDCF;
+    border-radius: 12px;
+    padding: 32px 28px;
+    margin-bottom: 24px;
+    box-shadow: 0 1px 2px rgba(26,39,68,.06), 0 8px 24px rgba(26,39,68,.08);
+  }
+  .cv-form .cv-section-title {
+    font-family: "Urbanist", system-ui, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    margin-bottom: 4px;
+    color: #1A2744;
+  }
+  .cv-form .cv-section-subtitle {
+    font-size: 14px;
+    color: #5C6580;
+    margin-bottom: 28px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #E3DDCF;
+  }
+
+  /* ---- Fields ---- */
+  .cv-form .cv-field {
+    margin-bottom: 24px;
+  }
+  .cv-form .cv-field:last-child { margin-bottom: 0; }
+  .cv-form .cv-field label {
+    display: block;
+    font-size: 15px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #1A2744;
+  }
+  .cv-form .cv-field label .cv-num {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #F5A623;
+    color: #1A2744;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    font-family: "Urbanist", sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    margin-right: 10px;
+    flex-shrink: 0;
+    vertical-align: middle;
+  }
+  .cv-form input[type="text"],
+  .cv-form input[type="email"],
+  .cv-form input[type="number"],
+  .cv-form textarea,
+  .cv-form select {
+    width: 100%;
+    padding: 12px 16px;
+    border: 1px solid #E3DDCF;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: "Lato", system-ui, sans-serif;
+    color: #1A2744;
+    background: #FAF6EF;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .cv-form input[type="text"]::placeholder,
+  .cv-form input[type="email"]::placeholder,
+  .cv-form textarea::placeholder {
+    color: #5C6580;
+    opacity: 0.6;
+  }
+  .cv-form input:focus,
+  .cv-form textarea:focus,
+  .cv-form select:focus {
+    outline: none;
+    border-color: #F5A623;
+    box-shadow: 0 0 0 3px rgba(245,166,35,0.15);
+    background: #FFFFFF;
+  }
+  .cv-form textarea { min-height: 100px; resize: vertical; }
+
+  /* ---- Checkboxes & Radios ---- */
+  .cv-form .cv-checkbox-group,
+  .cv-form .cv-radio-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    margin-top: 4px;
+  }
+  .cv-form .cv-checkbox-group label,
+  .cv-form .cv-radio-group label {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 15px;
+    cursor: pointer;
+    gap: 6px;
+    color: #2B3655;
+  }
+  .cv-form .cv-checkbox-group input,
+  .cv-form .cv-radio-group input {
+    width: 18px;
+    height: 18px;
+    accent-color: #F5A623;
+  }
+
+  /* ---- Layout helpers ---- */
+  .cv-form .cv-inline-group {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .cv-form .cv-inline-group .cv-field { flex: 1; min-width: 200px; }
+  .cv-form .cv-sub {
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 2px solid #FBD9A3;
+    margin-top: 16px;
+  }
+
+  /* ---- Submit button ---- */
+  .cv-form .cv-submit-btn {
+    display: block;
+    width: 100%;
+    padding: 16px;
+    background: #F5A623;
+    color: #1A2744;
+    font-family: "Urbanist", system-ui, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background 0.22s cubic-bezier(.2,.7,.2,1), transform 0.12s;
+    margin-top: 32px;
+    box-shadow: 0 2px 6px rgba(26,39,68,.08), 0 18px 40px rgba(26,39,68,.14);
+  }
+  .cv-form .cv-submit-btn:hover {
+    background: #D48510;
+    transform: translateY(-1px);
+  }
+  .cv-form .cv-submit-btn:active { transform: translateY(0); }
+
+  /* ---- Footer ---- */
+  .cv-form .cv-footer {
+    text-align: center;
+    margin-top: 16px;
+    font-size: 13px;
+    color: #5C6580;
+  }
+
+  /* ---- Progress indicator ---- */
+  .cv-form .cv-progress {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 32px;
+  }
+  .cv-form .cv-progress-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #E3DDCF;
+  }
+  .cv-form .cv-progress-dot.active { background: #F5A623; }
+
+  /* ---- Thank-you state ---- */
+  .cv-form .cv-thankyou {
+    text-align: center;
+    padding: 80px 20px;
+  }
+  .cv-form .cv-thankyou h2 {
+    font-family: "Urbanist", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    color: #1A2744;
+    margin-bottom: 12px;
+  }
+  .cv-form .cv-thankyou p {
+    font-size: 17px;
+    color: #5C6580;
+    max-width: 440px;
+    margin: 0 auto;
+  }
+  .cv-form .cv-thankyou .cv-check {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 64px;
+    height: 64px;
+    background: #F5A623;
+    border-radius: 50%;
+    margin-bottom: 24px;
+  }
+  .cv-form .cv-thankyou .cv-check svg {
+    width: 32px;
+    height: 32px;
+    stroke: #1A2744;
+    stroke-width: 3;
+    fill: none;
+  }
+
+  /* ---- Responsive ---- */
+  @media (max-width: 600px) {
+    .cv-form { padding: 32px 16px 48px; }
+    .cv-form .cv-header h1 { font-size: 28px; }
+    .cv-form .cv-section { padding: 24px 20px; }
+    .cv-form .cv-inline-group { flex-direction: column; gap: 0; }
+  }
+</style>
+
+<div class="cv-form">
+
+  <!-- HEADER -->
+  <div class="cv-header">
+    <img src="https://cdn.prod.website-files.com/69d6907887b739e09622100f/69d8ee7eec57a817edf46fe6_Bright%20place%20logo%20256x256.png" alt="brightplace" class="cv-logo">
+    <h1>AIR Operator Community <span>Voice</span></h1>
+    <p>A quick Q&A for the on-site team to power the community page with real, authentic content.</p>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="cv-progress">
+    <div class="cv-progress-dot active"></div>
+    <div class="cv-progress-dot active"></div>
+    <div class="cv-progress-dot active"></div>
+    <div class="cv-progress-dot active"></div>
+    <div class="cv-progress-dot active"></div>
+    <div class="cv-progress-dot"></div>
+  </div>
+
+  <!-- INTRO -->
+  <div class="cv-intro">
+    <strong>Before you start</strong> — this takes about 10-15 minutes. There are no wrong answers. You know things about this community that no website or AI can generate.
+    <ul>
+      <li>Talk like you are telling a friend. Specific beats generic.</li>
+      <li>Use real names — "the Publix on Main Street" not "grocery stores nearby."</li>
+      <li>Skip anything that does not apply. Write "N/A" and move on.</li>
+      <li>Keep answers about the place, never about who lives here (Fair Housing).</li>
+      <li>Honesty about trade-offs is welcome. Candor builds trust.</li>
+    </ul>
+  </div>
+
+  <!-- FORM -->
+  <form action="https://formsubmit.co/YOUR_MARKETING_EMAIL@example.com" method="POST">
+
+    <!-- FormSubmit config -->
+    <input type="hidden" name="_subject" value="New Community Voice Submission">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_captcha" value="true">
+    <input type="hidden" name="_next" value="https://www.brightplace.ai/community-voice-air?submitted=true">
+    <input type="text" name="_honey" style="display:none">
+
+    <!-- ========== SECTION: YOUR INFO ========== -->
+    <div class="cv-section">
+      <div class="cv-section-title">Your Info</div>
+      <div class="cv-section-subtitle">So we know who filled this out.</div>
+
+      <div class="cv-field">
+        <label>Community Name</label>
+        <input type="text" name="community_name" required placeholder="e.g. Sorrel Apartments">
+      </div>
+      <div class="cv-inline-group">
+        <div class="cv-field">
+          <label>Your Name</label>
+          <input type="text" name="your_name" required placeholder="Full name">
+        </div>
+        <div class="cv-field">
+          <label>Your Title</label>
+          <input type="text" name="your_title" required placeholder="e.g. Community Manager">
+        </div>
+      </div>
+      <div class="cv-field">
+        <label>Email</label>
+        <input type="email" name="email" placeholder="your@email.com">
+      </div>
+    </div>
+
+    <!-- ========== SECTION: THE BIG PICTURE ========== -->
+    <div class="cv-section">
+      <div class="cv-section-title">The Big Picture</div>
+      <div class="cv-section-subtitle">~5 min. Answer in your own words. A few sentences each is perfect.</div>
+
+      <div class="cv-field">
+        <label><span class="cv-num">1</span>What is it actually like to live here, day to day?</label>
+        <textarea name="q1_day_to_day" placeholder="Describe the everyday experience..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">2</span>What do residents say they love most after moving in?</label>
+        <textarea name="q2_love_most" placeholder="What comes up again and again..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">3</span>What is the most common pleasant surprise for new residents?</label>
+        <textarea name="q3_pleasant_surprise" placeholder="Something they didn't expect..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">4</span>What should someone know before signing that the photos do not show?</label>
+        <textarea name="q4_before_signing" placeholder="The stuff the tour doesn't cover..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">5</span>If your best friend was considering this community, what would you honestly tell them?</label>
+        <textarea name="q5_honest_take" placeholder="Be real..."></textarea>
+      </div>
+    </div>
+
+    <!-- ========== SECTION: QUICK HITS ========== -->
+    <div class="cv-section">
+      <div class="cv-section-title">Quick Hits</div>
+      <div class="cv-section-subtitle">~5 min. Short answers are fine — even a few words or a number.</div>
+
+      <!-- Pets -->
+      <div class="cv-field">
+        <label><span class="cv-num">6</span>Pet-friendly?</label>
+        <div class="cv-radio-group">
+          <label><input type="radio" name="q6_pet_friendly" value="Yes"> Yes</label>
+          <label><input type="radio" name="q6_pet_friendly" value="No"> No</label>
+        </div>
+        <div class="cv-sub">
+          <div class="cv-field">
+            <label>Breed or weight restrictions?</label>
+            <input type="text" name="q6_breed_restrictions" placeholder="e.g. No aggressive breeds, 75lb max">
+          </div>
+          <div class="cv-inline-group">
+            <div class="cv-field">
+              <label>Max pets per unit</label>
+              <input type="text" name="q6_max_pets" placeholder="e.g. 2">
+            </div>
+            <div class="cv-field">
+              <label>Monthly pet rent</label>
+              <input type="text" name="q6_pet_rent" placeholder="e.g. $25/month">
+            </div>
+          </div>
+          <div class="cv-field">
+            <label>One-time pet fee or deposit</label>
+            <input type="text" name="q6_pet_deposit" placeholder="e.g. $300 non-refundable">
+          </div>
+          <div class="cv-field">
+            <label>Pet amenities on-site</label>
+            <div class="cv-checkbox-group">
+              <label><input type="checkbox" name="q6_pet_amenities" value="Dog park"> Dog park</label>
+              <label><input type="checkbox" name="q6_pet_amenities" value="Pet wash station"> Pet wash station</label>
+              <label><input type="checkbox" name="q6_pet_amenities" value="Waste stations"> Waste stations</label>
+              <label><input type="checkbox" name="q6_pet_amenities" value="Designated relief area"> Designated relief area</label>
+            </div>
+          </div>
+          <div class="cv-field">
+            <label>Nearest vet or emergency vet?</label>
+            <input type="text" name="q6_nearest_vet" placeholder="Name and approx. distance">
+          </div>
+        </div>
+      </div>
+
+      <!-- Parking -->
+      <div class="cv-field">
+        <label><span class="cv-num">7</span>Parking</label>
+        <div class="cv-field">
+          <label>Parking type</label>
+          <div class="cv-checkbox-group">
+            <label><input type="checkbox" name="q7_parking_type" value="Garage"> Garage</label>
+            <label><input type="checkbox" name="q7_parking_type" value="Covered"> Covered</label>
+            <label><input type="checkbox" name="q7_parking_type" value="Open lot"> Open lot</label>
+            <label><input type="checkbox" name="q7_parking_type" value="Street"> Street</label>
+          </div>
+        </div>
+        <div class="cv-inline-group">
+          <div class="cv-field">
+            <label>Included in rent?</label>
+            <div class="cv-radio-group">
+              <label><input type="radio" name="q7_parking_included" value="Yes"> Yes</label>
+              <label><input type="radio" name="q7_parking_included" value="No"> No</label>
+            </div>
+          </div>
+          <div class="cv-field">
+            <label>If extra, monthly cost</label>
+            <input type="text" name="q7_parking_cost" placeholder="e.g. $75/month">
+          </div>
+        </div>
+        <div class="cv-inline-group">
+          <div class="cv-field">
+            <label>Spots per unit</label>
+            <input type="text" name="q7_spots_per_unit" placeholder="e.g. 1">
+          </div>
+          <div class="cv-field">
+            <label>Second spot available?</label>
+            <div class="cv-radio-group">
+              <label><input type="radio" name="q7_second_spot" value="Yes"> Yes</label>
+              <label><input type="radio" name="q7_second_spot" value="No"> No</label>
+            </div>
+          </div>
+        </div>
+        <div class="cv-field">
+          <label>Guest parking?</label>
+          <div class="cv-radio-group">
+            <label><input type="radio" name="q7_guest_parking" value="Yes"> Yes</label>
+            <label><input type="radio" name="q7_guest_parking" value="No"> No</label>
+          </div>
+        </div>
+        <div class="cv-field">
+          <label>Guest parking rules</label>
+          <input type="text" name="q7_guest_rules" placeholder="Pass needed, time limits, overnight policy">
+        </div>
+        <div class="cv-inline-group">
+          <div class="cv-field">
+            <label>EV charging on-site?</label>
+            <div class="cv-radio-group">
+              <label><input type="radio" name="q7_ev_charging" value="Yes"> Yes</label>
+              <label><input type="radio" name="q7_ev_charging" value="No"> No</label>
+            </div>
+          </div>
+          <div class="cv-field">
+            <label>EV stations / charging cost</label>
+            <input type="text" name="q7_ev_details" placeholder="e.g. 4 stations, free for residents">
+          </div>
+        </div>
+        <div class="cv-field">
+          <label>Bike storage?</label>
+          <div class="cv-radio-group">
+            <label><input type="radio" name="q7_bike_storage" value="Yes"> Yes</label>
+            <label><input type="radio" name="q7_bike_storage" value="No"> No</label>
+          </div>
+        </div>
+      </div>
+
+      <!-- Included in rent -->
+      <div class="cv-field">
+        <label><span class="cv-num">8</span>What is bundled into rent or covered by a flat fee?</label>
+        <div class="cv-checkbox-group">
+          <label><input type="checkbox" name="q8_included" value="Water/sewer"> Water/sewer</label>
+          <label><input type="checkbox" name="q8_included" value="Trash"> Trash</label>
+          <label><input type="checkbox" name="q8_included" value="Internet/WiFi"> Internet/WiFi</label>
+          <label><input type="checkbox" name="q8_included" value="Cable/streaming"> Cable/streaming</label>
+          <label><input type="checkbox" name="q8_included" value="Pest control"> Pest control</label>
+        </div>
+        <div class="cv-field" style="margin-top: 12px;">
+          <label>Other / amounts</label>
+          <input type="text" name="q8_other" placeholder="e.g. Water $35/mo, Trash included">
+        </div>
+      </div>
+
+      <div class="cv-field">
+        <label><span class="cv-num">9</span>What other monthly fees should someone budget for beyond rent?</label>
+        <textarea name="q9_other_fees" placeholder="Valet trash, amenity fee, tech fee, etc. with amounts"></textarea>
+      </div>
+
+      <!-- Move-in -->
+      <div class="cv-field">
+        <label><span class="cv-num">10</span>Application fee</label>
+        <input type="text" name="q10_app_fee" placeholder="e.g. $75">
+      </div>
+      <div class="cv-field">
+        <label>Other move-in fees?</label>
+        <input type="text" name="q10_other_fees" placeholder="e.g. Admin fee $250, security deposit 1 month">
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">11</span>Lease lengths available</label>
+        <input type="text" name="q11_lease_lengths" placeholder="e.g. 6, 9, 12, 14 months">
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">12</span>Current move-in specials?</label>
+        <input type="text" name="q12_specials" placeholder="e.g. First month free on 13-month lease">
+      </div>
+    </div>
+
+    <!-- ========== SECTION: THE NEIGHBORHOOD ========== -->
+    <div class="cv-section">
+      <div class="cv-section-title">The Neighborhood</div>
+      <div class="cv-section-subtitle">~3 min. Name actual places. That is the whole point.</div>
+
+      <div class="cv-field">
+        <label><span class="cv-num">13</span>What grocery stores are closest? Can any be reached on foot?</label>
+        <textarea name="q13_grocery" placeholder="Name the stores and approximate distance..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">14</span>Name 3-5 restaurants, coffee shops, or hangouts residents go to regularly.</label>
+        <textarea name="q14_restaurants" placeholder="Real names, real places..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">15</span>Nearest public transit? (Bus stop, rail station, name and walking distance)</label>
+        <textarea name="q15_transit" placeholder="e.g. MARTA Midtown station, 10-min walk"></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">16</span>What parks or outdoor spots are nearby?</label>
+        <textarea name="q16_parks" placeholder="Name them and say how close..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">17</span>Major employers or job centers nearby and typical commute time?</label>
+        <textarea name="q17_employers" placeholder="e.g. Downtown is about 20 minutes by car, 35 by bus"></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">18</span>Overall vibe of the area?</label>
+        <textarea name="q18_vibe" placeholder="Quiet suburban, walkable urban, highway-convenient. Describe it like you would to a friend."></textarea>
+      </div>
+    </div>
+
+    <!-- ========== SECTION: THE DETAILS ========== -->
+    <div class="cv-section">
+      <div class="cv-section-title">The Details</div>
+      <div class="cv-section-subtitle">~3 min. These are the questions renters ask on Reddit after the tour but before signing. Answer what you can.</div>
+
+      <!-- Amenities -->
+      <div class="cv-field">
+        <label><span class="cv-num">19</span>In-unit washer/dryer in every unit?</label>
+        <div class="cv-radio-group">
+          <label><input type="radio" name="q19_washer_dryer" value="Yes"> Yes</label>
+          <label><input type="radio" name="q19_washer_dryer" value="No"> No</label>
+          <label><input type="radio" name="q19_washer_dryer" value="Select units only"> Select units only</label>
+        </div>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">20</span>Fitness center: is it a real gym or bare-bones? Hours?</label>
+        <textarea name="q20_fitness" placeholder="What equipment? 24/7 or limited hours?"></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">21</span>Pool: what kind? Seasonal or year-round?</label>
+        <textarea name="q21_pool" placeholder="Resort, lap, splash pad? When is it open?"></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">22</span>Package system</label>
+        <div class="cv-checkbox-group">
+          <label><input type="checkbox" name="q22_packages" value="Lockers (Amazon Hub, Luxer, etc.)"> Lockers (Amazon Hub, Luxer, etc.)</label>
+          <label><input type="checkbox" name="q22_packages" value="Parcel room"> Parcel room</label>
+          <label><input type="checkbox" name="q22_packages" value="Front desk"> Front desk</label>
+          <label><input type="checkbox" name="q22_packages" value="Door delivery"> Door delivery</label>
+        </div>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">23</span>Co-working or lounge space? Do people actually use it?</label>
+        <textarea name="q23_coworking" placeholder="Describe the space and how residents use it..."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">24</span>Outdoor hangout areas? (Grills, fire pit, courtyard, rooftop)</label>
+        <textarea name="q24_outdoor" placeholder="What's out there and does it get used?"></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">25</span>Internet: providers available? Fiber? Building WiFi?</label>
+        <textarea name="q25_internet" placeholder="e.g. AT&T Fiber available, building-wide WiFi in common areas"></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">26</span>Smart-home features in units?</label>
+        <textarea name="q26_smart_home" placeholder="Smart lock, thermostat, USB outlets, etc."></textarea>
+      </div>
+
+      <!-- The Units -->
+      <div class="cv-field">
+        <label><span class="cv-num">27</span>Noise between units: can you hear neighbors?</label>
+        <textarea name="q27_noise" placeholder="Wood frame, concrete, etc. Be honest."></textarea>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">28</span>Cell reception inside units?</label>
+        <div class="cv-radio-group">
+          <label><input type="radio" name="q28_cell" value="Strong"> Strong</label>
+          <label><input type="radio" name="q28_cell" value="Spotty"> Spotty</label>
+          <label><input type="radio" name="q28_cell" value="Dead zone"> Dead zone</label>
+        </div>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">29</span>Which floor plans go first, and why?</label>
+        <textarea name="q29_floor_plans" placeholder="e.g. The corner 2BR goes first because of the extra windows"></textarea>
+      </div>
+
+      <!-- Safety -->
+      <div class="cv-field">
+        <label><span class="cv-num">30</span>Security features</label>
+        <div class="cv-checkbox-group">
+          <label><input type="checkbox" name="q30_security" value="Gated entry"> Gated entry</label>
+          <label><input type="checkbox" name="q30_security" value="Key fob access"> Key fob access</label>
+          <label><input type="checkbox" name="q30_security" value="Security cameras"> Security cameras</label>
+          <label><input type="checkbox" name="q30_security" value="On-site security/patrol"> On-site security/patrol</label>
+          <label><input type="checkbox" name="q30_security" value="Smart locks"> Smart locks</label>
+          <label><input type="checkbox" name="q30_security" value="Well-lit walkways/parking"> Well-lit walkways/parking</label>
+        </div>
+        <div class="cv-field" style="margin-top: 12px;">
+          <label>Anything else?</label>
+          <input type="text" name="q30_security_other" placeholder="e.g. Courtesy officer lives on-site">
+        </div>
+      </div>
+
+      <!-- Maintenance -->
+      <div class="cv-field">
+        <label><span class="cv-num">31</span>Typical maintenance response time</label>
+        <div class="cv-radio-group">
+          <label><input type="radio" name="q31_maintenance_time" value="Same day"> Same day</label>
+          <label><input type="radio" name="q31_maintenance_time" value="Within 24 hours"> Within 24 hours</label>
+          <label><input type="radio" name="q31_maintenance_time" value="2-3 days"> 2-3 days</label>
+          <label><input type="radio" name="q31_maintenance_time" value="Varies"> Varies</label>
+        </div>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">32</span>24/7 emergency maintenance line?</label>
+        <div class="cv-radio-group">
+          <label><input type="radio" name="q32_emergency" value="Yes"> Yes</label>
+          <label><input type="radio" name="q32_emergency" value="No"> No</label>
+        </div>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">33</span>How do residents submit requests?</label>
+        <div class="cv-checkbox-group">
+          <label><input type="checkbox" name="q33_requests" value="App"> App</label>
+          <label><input type="checkbox" name="q33_requests" value="Online portal"> Online portal</label>
+          <label><input type="checkbox" name="q33_requests" value="Phone"> Phone</label>
+          <label><input type="checkbox" name="q33_requests" value="Walk-in"> Walk-in</label>
+        </div>
+      </div>
+      <div class="cv-field">
+        <label><span class="cv-num">34</span>Pest control included?</label>
+        <div class="cv-radio-group">
+          <label><input type="radio" name="q34_pest" value="Yes"> Yes</label>
+          <label><input type="radio" name="q34_pest" value="No"> No</label>
+        </div>
+        <div class="cv-field" style="margin-top: 8px;">
+          <label>Frequency</label>
+          <input type="text" name="q34_pest_frequency" placeholder="e.g. Monthly, quarterly, on request">
+        </div>
+      </div>
+    </div>
+
+    <!-- ========== SECTION: ONE LAST THING ========== -->
+    <div class="cv-section">
+      <div class="cv-section-title">One Last Thing</div>
+      <div class="cv-section-subtitle">Almost done.</div>
+
+      <div class="cv-field">
+        <label><span class="cv-num">35</span>What is the one question prospects always ask on tours that is not answered anywhere on the website?</label>
+        <textarea name="q35_tour_question" placeholder="The one thing everyone wants to know..."></textarea>
+      </div>
+    </div>
+
+    <!-- SUBMIT -->
+    <button type="submit" class="cv-submit-btn">Submit Your Answers</button>
+    <p class="cv-footer">Your answers go directly into the community page content — real insights from the person who knows this place best.</p>
+
+  </form>
+</div>
+
+<script>
+  // Show thank-you message if redirected back after submission
+  if (window.location.search.includes('submitted=true')) {
+    var formEl = document.querySelector('.cv-form form');
+    var progressEl = document.querySelector('.cv-progress');
+    var introEl = document.querySelector('.cv-intro');
+    if (progressEl) progressEl.style.display = 'none';
+    if (introEl) introEl.style.display = 'none';
+    if (formEl) formEl.innerHTML = '<div class="cv-thankyou"><div class="cv-check"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg></div><h2>Thank you!</h2><p>Your Community Voice submission has been received. Our team will use your answers to build authentic content for the community page.</p></div>';
+  }
+</script>

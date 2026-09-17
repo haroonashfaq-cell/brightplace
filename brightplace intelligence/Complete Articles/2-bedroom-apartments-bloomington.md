@@ -35,7 +35,7 @@ brightplace tracks current 2 bedroom listings in Bloomington, IN. See what is av
 
 ## How Bloomington's Rental Market Actually Works
 
-Most apartment leases in Bloomington run from August 1 to July 31, aligned to Indiana University's **academic lease cycle**. This means the search window is compressed. Renters targeting an August move-in should begin actively looking in January. By March, most desirable 2 bedroom units near campus are already committed for the following year.
+Most apartment leases in Bloomington run from August 1 to July 31, aligned to Indiana University's **academic lease cycle**. This means the search window is compressed. Renters targeting an August move-in should begin actively looking in January. By March, most desirable 2 bedroom units near campus are already committed for the following year. Other Big Ten markets run even earlier; brightplace's guide to [when to sign a UW-Madison off-campus lease](https://www.brightplace.ai/resources/the-frances-apartments-madison) covers a campus where signing opens in October.
 
 ### Lease Timing and Mid-Year Availability
 
@@ -81,7 +81,7 @@ Renters comparing these configurations should factor in utility costs. Older 2 b
 
 ## 2 Bedroom Apartments Bloomington vs. Renting a House
 
-Bloomington has a meaningful inventory of 2 bedroom detached houses and duplexes available as rentals, mostly managed by local landlords. These units differ from apartment stock in several practical ways that renters should understand before touring.
+Bloomington has a meaningful inventory of 2 bedroom detached houses and duplexes available as rentals, mostly managed by local landlords. These units differ from apartment stock in several practical ways that renters should understand before touring. Townhomes sit between the two, and brightplace's guide to [townhouse vs apartment renting](https://www.brightplace.ai/resources/3-bedroom-townhomes-for-rent-near-me) explains who pays HOA fees and who handles which repairs.
 
 House rentals in Bloomington generally price between $1,100 and $1,600 per month (as of Q2 2026). In exchange for the higher base rent, renters typically get more square footage, a private yard, dedicated parking, and greater flexibility on pet policies. The tradeoff is that renters usually cover all utilities (electric, gas, water, trash, internet) and may be responsible for lawn maintenance and snow removal. Confirm these expectations with the landlord before signing. For renters relocating from another state, brightplace's [Huntsville renters orientation](https://brightplace.ai/guides/huntsville-renters-orientation) covers similar house-vs-apartment dynamics in another midsize college-adjacent market.
 

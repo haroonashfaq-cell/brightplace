@@ -6,6 +6,15 @@
 
 ---
 
+## Memory References
+
+Paths are relative to `brightplace intelligence/`, not the `Agents/` directory.
+Read these files before this agent runs; missing memory must be reported, not guessed.
+- `memory/episodic/reddit-patterns.md`
+- `memory/semantic/brand-rules.md`
+Canonical memory takes precedence over legacy examples. Follow the memory contract
+in `Agents/WORKFLOW.md`; no permanent rule changes without explicit user approval.
+
 ## When This Agent Runs
 
 This agent runs **after Brief Check (Stage 2) and before Writing (Stage 3)**. It is Stage 2.5 in the workflow.
@@ -24,6 +33,17 @@ The agent receives:
 - **Target audience** from the brief (if specified)
 
 ---
+
+## Dedup Check
+
+Before searching, read `memory/episodic/reddit-patterns.md`. Match theme AND topic,
+property/geography scope. Skip redundant theme searches only when the matching record
+has 3+ distinct traceable, sufficiently fresh sources. Unknown counts or subreddit
+names alone never qualify. Always recheck current prices/policies and research new
+angles; old property facts are not reusable current evidence.
+After research append only genuinely new themes. For existing themes merge new
+source IDs/last-seen evidence without duplicate records or inflated counts. Record
+reused/new IDs in the research report; if writes fail, list pending writes.
 
 ## Process
 

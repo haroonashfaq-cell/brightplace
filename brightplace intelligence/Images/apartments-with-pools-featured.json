@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a resort-style apartment swimming pool surrounded by lounge chairs and tropical landscaping. Clear turquoise water reflecting afternoon sunlight. Modern four-story apartment buildings in warm earth tones visible in the background. Palm trees and ornamental grasses line the pool deck. A cabana with white curtains at the far end. Warm late afternoon golden hour light. No people, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Resort-style swimming pool at an apartment community with lounge chairs and palm trees",
+  "dimensions": "1200x628",
+  "size_kb": 173.8,
+  "quality": 80,
+  "format": "webp",
+  "model": "gpt-image-2"
+}

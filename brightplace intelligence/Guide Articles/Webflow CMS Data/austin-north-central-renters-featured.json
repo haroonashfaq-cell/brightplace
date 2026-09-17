@@ -1,0 +1,10 @@
+{
+  "original_prompt": "Wide editorial photograph of a tree-lined residential street in north-central Austin, Texas in early September. Two-story apartment buildings with tan and warm gray siding set back from the sidewalk behind mature live oak trees with thick green canopy. A neighborhood coffee shop with an outdoor patio visible on the corner. Warm late-afternoon golden hour light filtering through the oak canopy creating dappled shadows on the sidewalk. A bicycle locked to a post near the coffee shop. The Burnet Road corridor character of Austin: walkable, established, lived-in, not flashy. No people visible, no text, no logos, no watermarks. Professional editorial photography with warm natural color grading. 1200x628 pixels, 16:9 aspect ratio.",
+  "revised_prompt": "",
+  "alt_text": "Tree-lined residential street with apartment buildings and a neighborhood coffee shop in north-central Austin, Texas",
+  "dimensions": "1200x628",
+  "size_kb": 192.8,
+  "quality": 80,
+  "format": "webp",
+  "model": "gpt-image-2"
+}
