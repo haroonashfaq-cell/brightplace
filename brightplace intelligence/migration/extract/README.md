@@ -15,6 +15,25 @@ named by slug. Three files per item:
 <slug>.<ext>       the featured image, original resolution
 ```
 
+### `_listing.page.html` — the collection index pages
+
+One per collection: `guides/_listing.page.html`, `resources/_listing.page.html`,
+`news/_listing.page.html`. Same visual language as the article pages, mirroring the live Webflow
+cards (featured image, category badge, date, title) and adding the summary.
+
+| Listing | Cards | Notes |
+|---|---|---|
+| `guides` | 31 | all live |
+| `resources` | 80 | 6 drafts excluded |
+| `news` | 9 | 1 draft excluded |
+
+Each carries `CollectionPage` + `ItemList` JSON-LD listing every article URL in order, plus
+`BreadcrumbList`, a filled canonical, and Open Graph. Card images reference the local files by
+relative path, so the listings render offline straight from the folder.
+
+Cards are sorted newest-first. Items with no featured image get a labelled placeholder rather
+than a broken image. Excluded drafts are named in an HTML comment at the top of each file.
+
 ### `.page.html` — the full-page render
 
 Built to match the AIR operator Stage-10 article template
@@ -105,7 +124,6 @@ miss them. Detail in `indexing/notes.md`.
 
 ## Not included yet
 
-- HTML design templates (how the Guides/Resources *listing* pages are laid out)
 - GA4 (`G-DK6QHHS88K`) and the Search Console verification token — **must be carried across before
   DNS moves**
 - In-body image binaries beyond the News inline images
