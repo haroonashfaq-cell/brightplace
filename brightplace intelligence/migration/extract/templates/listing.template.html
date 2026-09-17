@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>{{COLLECTION_NAME}} | brightplace</title>
+
+    <meta name="description" content="{{COLLECTION_DESCRIPTION}}">
+    <meta name="robots" content="index, follow, max-image-preview:large">
+    <link rel="canonical" href="{{COLLECTION_URL}}">
+    <link rel="alternate" hreflang="en-US" href="{{COLLECTION_URL}}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="brightplace">
+    <meta property="og:title" content="{{COLLECTION_NAME}} | brightplace">
+    <meta property="og:description" content="{{COLLECTION_DESCRIPTION}}">
+    <meta property="og:url" content="{{COLLECTION_URL}}">
+    <meta property="og:locale" content="en_US">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{COLLECTION_NAME}} | brightplace">
+    <meta name="twitter:description" content="{{COLLECTION_DESCRIPTION}}">
+
+    <!-- JSON-LD: CollectionPage wrapping an ItemList of every article.
+         Repeat the ListItem block once per article, position starting at 1. -->
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{COLLECTION_URL}}",
+  "url": "{{COLLECTION_URL}}",
+  "name": "{{COLLECTION_NAME}}",
+  "description": "{{COLLECTION_DESCRIPTION}}",
+  "isPartOf": { "@type": "Organization", "name": "brightplace", "url": "https://www.brightplace.ai" },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ITEM_COUNT}},
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "url": "{{ARTICLE_URL}}", "name": "{{ARTICLE_TITLE}}" }
+      /* repeat per article */
+    ]
+  }
+}
+    </script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.brightplace.ai" },
+    { "@type": "ListItem", "position": 2, "name": "{{COLLECTION_NAME}}", "item": "{{COLLECTION_URL}}" }
+  ]
+}
+    </script>
+
+    <style>
+        *,*::before,*::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.75;
+            color: #1a1a1a;
+            max-width: 780px;
+            margin: 0 auto;
+            padding: 48px 24px;
+            background: #ffffff;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        article { position: relative; }
+
+        /* Article meta bar */
+        .article-meta {
+            color: #6b7280;
+            font-size: 0.875rem;
+            margin-bottom: 32px;
+            padding-bottom: 16px;
+            border-bottom: 1px solid #e5e7eb;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+            align-items: center;
+        }
+
+        /* Headings */
+        h1 {
+            font-size: 2.1rem;
+            line-height: 1.2;
+            margin-bottom: 24px;
+            color: #0f172a;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+        }
+        h2 {
+            font-size: 1.5rem;
+            line-height: 1.3;
+            margin-top: 48px;
+            margin-bottom: 16px;
+            color: #0f172a;
+            font-weight: 600;
+        }
+        h3 {
+            font-size: 1.2rem;
+            line-height: 1.4;
+            margin-top: 32px;
+            margin-bottom: 12px;
+            color: #1e293b;
+            font-weight: 600;
+        }
+
+        /* Body text */
+        p {
+            margin-bottom: 18px;
+            font-size: 1.05rem;
+            color: #374151;
+        }
+
+        /* Article intro — AEO citability target */
+        .article-intro {
+            font-size: 1.125rem;
+            line-height: 1.8;
+            color: #1a1a1a;
+            margin-bottom: 24px;
+        }
+
+        /* Links */
+        a {
+            color: #2563eb;
+            text-decoration: underline;
+            text-decoration-thickness: 1px;
+            text-underline-offset: 2px;
+            transition: color 0.15s ease;
+        }
+        a:hover {
+            color: #1d4ed8;
+        }
+
+        /* Horizontal rules */
+        hr {
+            border: none;
+            border-top: 1px solid #e5e7eb;
+            margin: 40px 0;
+        }
+
+        strong { font-weight: 600; color: #1e293b; }
+
+        /* FAQ section */
+        .faq-section {
+            margin-top: 48px;
+            padding-top: 32px;
+            border-top: 2px solid #e5e7eb;
+        }
+        .faq-section h3 {
+            color: #0f172a;
+            margin-top: 28px;
+        }
+        .faq-section p {
+            color: #4b5563;
+        }
+
+        /* Article footer */
+        .article-footer {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 1px solid #e5e7eb;
+            color: #9ca3af;
+            font-size: 0.8rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            body { padding: 24px 16px; }
+            h1 { font-size: 1.75rem; }
+            h2 { font-size: 1.3rem; margin-top: 36px; }
+            h3 { font-size: 1.1rem; }
+        }
+    </style>
+    <style>
+        body { max-width: 1120px; }
+        .listing-header { margin-bottom: 48px; padding-bottom: 24px; border-bottom: 1px solid #e5e7eb; }
+        .listing-header p { color: #4b5563; font-size: 1.0625rem; max-width: 60ch; }
+        .listing-count { color: #6b7280; font-size: 0.875rem; margin-top: 12px; }
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 32px 28px;
+            list-style: none;
+        }
+        .card { display: flex; flex-direction: column; }
+        .card-image-link { display: block; border-radius: 10px; overflow: hidden; background: #f3f4f6; aspect-ratio: 16 / 9; }
+        .card-image { width: 100%; height: 100%; object-fit: cover; display: block; }
+        .card-image-placeholder {
+            width: 100%; height: 100%; display: flex; align-items: center; justify-content: center;
+            color: #9ca3af; font-size: 0.8125rem; letter-spacing: .02em;
+        }
+        .card-meta { display: flex; align-items: center; gap: 10px; margin: 16px 0 8px; font-size: 0.8125rem; color: #6b7280; }
+        .card-category {
+            background: #eef2ff; color: #4338ca; padding: 3px 10px; border-radius: 999px;
+            font-weight: 600; font-size: 0.75rem; letter-spacing: .01em;
+        }
+        .card h2 { font-size: 1.125rem; line-height: 1.4; margin: 0 0 8px; }
+        .card h2 a { color: #111827; text-decoration: none; }
+        .card h2 a:hover { text-decoration: underline; }
+        .card p { font-size: 0.9375rem; color: #4b5563; line-height: 1.6; margin: 0; }
+        @media (max-width: 600px) {
+            body { padding: 32px 16px; }
+            .card-grid { grid-template-columns: 1fr; gap: 28px; }
+        }
+    </style>
+</head>
+<body>
+    <header class="listing-header">
+        <h1>{{COLLECTION_NAME}}</h1>
+        <p>{{COLLECTION_DESCRIPTION}}</p>
+        <div class="listing-count">{{ITEM_COUNT}} articles</div>
+    </header>
+
+    <main>
+        <ul class="card-grid">
+
+            <!-- ============ CARD - repeat once per article, newest first ============ -->
+            <li class="card">
+                <a class="card-image-link" href="{{ARTICLE_URL}}">
+                    <img class="card-image" src="{{FEATURED_IMAGE_URL}}" alt="{{IMAGE_ALT}}" loading="lazy">
+                </a>
+                <div class="card-meta">
+                    <span class="card-category">{{CATEGORY_NAME}}</span>
+                    <time datetime="{{DATE_PUBLISHED}}">{{DATE_PUBLISHED_READABLE}}</time>
+                </div>
+                <h2><a href="{{ARTICLE_URL}}">{{ARTICLE_TITLE}}</a></h2>
+                <p>{{ARTICLE_SUMMARY}}</p>
+            </li>
+
+            <!-- Variant: article with no featured image.
+                 4 live items have main-image = null in the CMS. Use a labelled
+                 placeholder rather than rendering a broken <img>. -->
+            <li class="card">
+                <a class="card-image-link" href="{{ARTICLE_URL}}">
+                    <div class="card-image-placeholder">No featured image</div>
+                </a>
+                <div class="card-meta">
+                    <span class="card-category">{{CATEGORY_NAME}}</span>
+                    <time datetime="{{DATE_PUBLISHED}}">{{DATE_PUBLISHED_READABLE}}</time>
+                </div>
+                <h2><a href="{{ARTICLE_URL}}">{{ARTICLE_TITLE}}</a></h2>
+                <p>{{ARTICLE_SUMMARY}}</p>
+            </li>
+            <!-- ===================================================================== -->
+
+        </ul>
+    </main>
+</body>
+</html>

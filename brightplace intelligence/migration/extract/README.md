@@ -15,6 +15,13 @@ named by slug. Three files per item:
 <slug>.<ext>       the featured image, original resolution
 ```
 
+### `templates/` — blank templates for the developer
+
+`templates/resource.page.template.html` · `templates/guide.page.template.html` ·
+`templates/listing.template.html`, with every field as a `{{PLACEHOLDER}}` and a `README.md`
+mapping each one to its CMS source field. The filled examples below are the same templates with
+real data in them.
+
 ### `_listing.page.html` — the collection index pages
 
 One per collection: `guides/_listing.page.html`, `resources/_listing.page.html`,
