@@ -1,6 +1,6 @@
 # Migration Docs — Index and Reading Order
 
-**Updated 2026-09-18.** Six documents by two authors. This index says which to read, in what
+**Updated 2026-09-18.** Working docs live in this folder; superseded and one-time material is in `archive/` (see its README). This index says which to read, in what
 order, and records where they disagree.
 
 ## Reading order for the developer
@@ -9,6 +9,8 @@ order, and records where they disagree.
 |---|---|---|
 | 1 | `DEVELOPER-GUIDE-VERCEL-CMS.md` | **Start here.** The system: two-repo split, content schema, routes, SEO files, redirects, validation, verification |
 | 2 | `VERCEL-CONTENT-TEMPLATES.md` | Page rendering: templates, `<head>`, JSON-LD, and the body-HTML embed problem |
+| 2a | `TEMPLATE-blog-page.html` | **Working article template.** Complete design, all five body components styled |
+| 2b | `TEMPLATE-blog-listing-page.html` | **Working archive template.** Card grid, category chips, listing schema |
 | 3 | `DEVELOPER-HANDOVER.md` | Extraction method, the 22,774-URL hostname migration, DNS, cutover sequencing, rollback |
 | 4 | `extract/README.md` | The extracted content itself — what is in the folders |
 | 5 | `extract/templates/README.md` | Placeholder → field mapping for the blank templates |
@@ -37,19 +39,21 @@ groupings and a Fair Housing instruction that must survive verbatim.
 Fixed 2026-09-18. `DEVELOPER-GUIDE-VERCEL-CMS.md` §5 has the authoritative treatment.
 **If anything still says to generate it, that text is stale.**
 
-### ⚠️ Dangling references in `VERCEL-CONTENT-TEMPLATES.md` §2
+### ✅ Resolved — the two rendered samples are now committed
 
-It cites `HTML sample.html` and `Resources-HTML template.html` as the source for the article
-structure. **Neither file is in this repository.** They appear to have been supplied directly
-rather than committed.
+`VERCEL-CONTENT-TEMPLATES.md` §2 cites `HTML sample.html` and `Resources-HTML template.html` as the
+source for the article structure. Both are now committed, together with the archive sample, at
+`archive/`:
 
-The equivalents that *are* committed:
-- `extract/templates/{guide,resource}.page.template.html` — blank templates
-- `extract/{collection}/<slug>.page.html` — 127 filled examples
-- `extract/{collection}/_listing.page.html` — 3 filled archives
+- `archive/HTML sample.html` — rendered Webflow guide page
+- `archive/Resources-HTML template.html` — rendered Webflow resource page
+- `archive/Resources Archive Page Sample HTML.html` — rendered Webflow archive page
 
-Either commit the two originals or re-point those references, or Dennis will look for files that
-do not exist.
+These are the **only records of how the site looked on Webflow** — the 127 `.page.html` files in
+`extract/` were generated from the blank templates and carry generic styling, not the Webflow
+design. They are also the source the design tokens in `TEMPLATE-blog-page.html` were sampled from.
+
+Resolved 2026-09-18.
 
 ### Note — the 23-key schema includes extraction artifacts
 
