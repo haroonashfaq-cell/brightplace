@@ -1,6 +1,6 @@
 # Migration Docs — Index and Reading Order
 
-**Updated 2026-09-18.** Working docs live in this folder; superseded and one-time material is in `archive/` (see its README). This index says which to read, in what
+**Updated 2026-09-18.** Everything needed for the rebuild is in this folder. This index says which to read, in what
 order, and records where they disagree.
 
 ## Reading order for the developer
@@ -20,8 +20,6 @@ order, and records where they disagree.
 | Doc | Why |
 |---|---|
 | `migration-plan-v2.md` | §7 details edits to the content-agent pipeline (`Agents/WORKFLOW.md`, `qa-agent.md`, `SKILL.md`). Per `CLAUDE.md`, the dev team never gets access to that system |
-| `migration-plan-v1.md` | Superseded, and same exposure |
-| `EXTRACTION-PLAN.md` | Internal working doc: local folder layout and extraction mechanics |
 
 These are planning and internal-process records. Everything the developer needs is in the five
 documents above, none of which reference the content pipeline.
@@ -39,21 +37,20 @@ groupings and a Fair Housing instruction that must survive verbatim.
 Fixed 2026-09-18. `DEVELOPER-GUIDE-VERCEL-CMS.md` §5 has the authoritative treatment.
 **If anything still says to generate it, that text is stale.**
 
-### ✅ Resolved — the two rendered samples are now committed
+### Note — the rendered Webflow samples are not in the repo
 
 `VERCEL-CONTENT-TEMPLATES.md` §2 cites `HTML sample.html` and `Resources-HTML template.html` as the
-source for the article structure. Both are now committed, together with the archive sample, at
-`archive/`:
+source for the article structure. They were supplied directly rather than committed, and are not in
+this folder.
 
-- `archive/HTML sample.html` — rendered Webflow guide page
-- `archive/Resources-HTML template.html` — rendered Webflow resource page
-- `archive/Resources Archive Page Sample HTML.html` — rendered Webflow archive page
+They are not needed to build: the design tokens sampled from them are already baked into
+`TEMPLATE-blog-page.html` and `TEMPLATE-blog-listing-page.html`, and the structure they showed is
+documented in `VERCEL-CONTENT-TEMPLATES.md` §2.
 
-These are the **only records of how the site looked on Webflow** — the 127 `.page.html` files in
-`extract/` were generated from the blank templates and carry generic styling, not the Webflow
-design. They are also the source the design tokens in `TEMPLATE-blog-page.html` were sampled from.
-
-Resolved 2026-09-18.
+The committed equivalents, showing content in the **new** structure:
+- `extract/templates/{guide,resource}.page.template.html` — blank templates
+- `extract/{collection}/<slug>.page.html` — 127 filled examples
+- `extract/{collection}/_listing.page.html` — 3 filled archives
 
 ### Note — the 23-key schema includes extraction artifacts
 
