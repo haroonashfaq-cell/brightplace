@@ -292,7 +292,10 @@ is broken today.
 - **Visible `<time dateTime>`** in the article header or footer.
 - **`sitemap.ts` and `robots.ts` generated from the content source** — do not hand-maintain a file
   with 148+ URLs in it.
-- Ship a real `llms.txt`. Webflow has none today (`/llm-info` is a human page, not a machine file).
+- **`llms.txt` already exists and is curated — do NOT generate or rewrite it.** The live file is
+  hand-grouped into editorial sections with per-guide annotations, and carries a Fair Housing
+  instruction that must be preserved word for word. Serve it verbatim from the content repo. See
+  `DEVELOPER-GUIDE-VERCEL-CMS.md` §5. (`/llm-info` is a separate human-facing page — keep both.)
 
 Config notes:
 - Keep `trailingSlash: false` (the default) — it matches Webflow's current behaviour exactly.
