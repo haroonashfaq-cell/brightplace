@@ -55,8 +55,8 @@ Read the `09-[slug]-final-enriched.md` file. Extract:
 | CMS Field | Source | Constraint |
 |-----------|--------|------------|
 | `title` | Frontmatter `title` | Max 300 chars |
-| `seo_title` | Frontmatter `seo_title` | **Max 59 chars**, must differ from title |
-| `meta_description` | Frontmatter `meta_description` | **Max 154 chars** |
+| `seo_title` | Frontmatter `seo_title` | **Max 60 chars**, must differ from title |
+| `meta_description` | Frontmatter `meta_description` | **Max 160 chars** |
 | `summary` | Write from article intro | **Max 300 chars** |
 | `slug` | Frontmatter `slug` | Lowercase, hyphenated: `^[a-z0-9]+(-[a-z0-9]+)*$` |
 | `primary_keyword` | Frontmatter `primary_keyword` | Max 128 chars |
@@ -68,17 +68,50 @@ Read the `09-[slug]-final-enriched.md` file. Extract:
 
 ### Body Markdown Formatting Rules (CRITICAL)
 
-The CMS renderer has specific rules. Violating them causes silent `VALIDATION_ERROR`:
+**Verified empirically against renderer `article-v4` on 2026-09-18** by publishing a probe
+revision and reading the rendered HTML. Earlier versions of this document contained two
+incorrect rules; both are corrected below.
 
-| Rule | Details |
-|------|---------|
-| **No H1 headings** | Do NOT include `# Title` in body_markdown. The CMS generates H1 from the `title` field. Use `##` for sections. |
-| **No horizontal rules** | Do NOT use `---` separators. The CMS rejects them (likely confused with YAML frontmatter). |
-| **No frontmatter** | Strip the `---` YAML block before sending. Only send the body content. |
-| **Markdown lists work** | `- item` bullet lists are fine. |
-| **Bold works** | `**text**` is fine. |
-| **Links work** | `[text](url)` is fine. |
-| **Blank lines between sections** | Add a blank line before and after headings and between list groups. |
+| Construct | Status | Renders as |
+|-----------|--------|------------|
+| `## H2`, `### H3` | WORKS | `<h2>` / `<h3>` with auto-generated anchor ids |
+| `**bold**` | WORKS | `<strong>` |
+| `[text](url)` | WORKS | `<a target="_blank" rel="noopener">` |
+| `---` | **WORKS** | `<hr>` |
+| `> blockquote` | WORKS (unstyled) | `<blockquote>` |
+| `- bullet` | **BROKEN** | flattened to separate `<p>`. No `<ul>`/`<li>` |
+| `1. ordered` | **BROKEN** | flattened to `<p>`, AND leaks the literal "1." as text |
+| GFM table | **BROKEN** | renders RAW PIPE CHARACTERS inside a `<p>` |
+| `# H1` | Do not use | CMS generates H1 from the `title` field |
+
+**CORRECTION — `---` horizontal rules.** A previous version of this doc said the CMS rejects
+`---` and that it causes a silent `VALIDATION_ERROR`. That is false for `article-v4`. The
+published Citigate article uses `---` between every section and renders `<hr>` each time.
+(If you hit a genuine failure on `---` under an older renderer, record the renderer version.)
+
+**CORRECTION — bullet lists.** A previous version said "`- item` bullet lists are fine."
+They are not. They flatten into unrelated paragraphs, which destroys list-snippet
+eligibility and breaks the parent/child relationship for AI extraction.
+
+**Tables are worse than bullets.** A broken table ships visible `|` pipe characters to
+readers. Never author one until the renderer supports them.
+
+> **TEMPORARY WORKAROUND — remove when `article-v4` ships list/table support.**
+> Until then, express list-shaped content as either:
+> - a real `### H3` subheading followed by prose, or
+> - `**Label:** value` on its own line (renders as a `<p>` with a bold lead-in).
+> This is a bug accommodation, NOT house style. Do not preserve it after the fix lands.
+
+### Full-Snapshot Semantics (DATA LOSS RISK)
+
+`blog_save_post` saves a **complete snapshot**. Any optional field you omit is cleared or
+reset to default on the new revision — it is NOT inherited from `base_revision_id`
+(that field records lineage only).
+
+**Every save must re-send `faqs`, `secondary_keywords`, `meta_description`, `summary`,
+`seo_title`, `author_name`, `featured_image_asset_id` and `featured_image_alt`** — even
+when you are only changing one word of the body. Omitting them silently drops them and
+the next approval will fail on `REQUIRED_FAQS` or `REQUIRED_SUMMARY`.
 
 ### FAQ Extraction
 
@@ -109,7 +142,10 @@ blog_save_post(
 )
 ```
 
-**Important:** The initial creation works best with a minimal body. Save the full content in a follow-up revision (Step 4).
+**Note:** You can pass the COMPLETE article in `initial_revision` on the first call. A
+previous version of this doc advised creating with a placeholder body and saving the real
+content as a second revision; that is unnecessary and doubles the number of calls. Verified
+2026-09-18: a full 1,575-word body with 10 FAQs succeeded on creation.
 
 Returns: `post_id`, `revision_id`, `etag`
 
@@ -249,16 +285,16 @@ blog_change_status(
 |-------|-------------|
 | REQUIRED_TITLE | Title must be set |
 | REQUIRED_BODY_MARKDOWN | Body must be set |
-| REQUIRED_SEO_TITLE | SEO title must be set (max 59 chars) |
-| REQUIRED_META_DESCRIPTION | Meta description must be set (max 154 chars) |
+| REQUIRED_SEO_TITLE | SEO title must be set (max 60 chars) |
+| REQUIRED_META_DESCRIPTION | Meta description must be set (max 160 chars) |
 | REQUIRED_SUMMARY | Summary must be set (max 300 chars) |
 | REQUIRED_AUTHOR_NAME | Author name must be set |
 | REQUIRED_FEATURED_IMAGE_ALT | Alt text for featured image |
 | REQUIRED_FAQS | At least one FAQ |
 | DISTINCT_TITLE | SEO title must differ from H1 |
-| HEADING_HIERARCHY | No heading level skips in body |
 | FEATURED_IMAGE | Ready 1200x628 hero image required |
 | MEDIA_READY | All referenced assets must be ready |
+| CANONICAL_HOST | Canonical must resolve to a trusted hostname |
 
 ---
 
@@ -348,8 +384,8 @@ Confirm:
 | Field | Max Length | Format |
 |-------|-----------|--------|
 | title | 300 | Free text |
-| seo_title | **59** | Free text, must differ from title |
-| meta_description | **154** | Free text |
+| seo_title | **60** | Free text, must differ from title |
+| meta_description | **160** | Free text |
 | summary | **300** | Free text |
 | slug | 128 | `^[a-z0-9]+(-[a-z0-9]+)*$` |
 | primary_keyword | 128 | Free text |
@@ -358,3 +394,59 @@ Confirm:
 | body_markdown | 200,000 | Markdown (no H1, no `---`) |
 | featured_image | — | 1200x628, WebP/JPEG/PNG, ready status |
 | request_key | — | UUID, unique per call |
+
+---
+
+## Tools This Document Previously Omitted
+
+The MCP exposes **24** tools. The reference table above covers 10. These also exist and
+several are high value:
+
+| Tool | Why it matters |
+|------|----------------|
+| `seo_get` / `seo_save` | **llms.txt** (`llms_intro` + up to 20 `llms_sections`), production robots rules, sitemap additions/exclusions, page overrides. llms.txt is the single largest AEO lever available without dev work and is EMPTY by default. |
+| `author_get` / `author_save` | Real-person author profiles: `name`, `title`, `bio`, `credentials`, `same_as`, `photo_asset_id`. Fixes the weak `author_name`-string byline. `slug` is immutable. **Never invent a person.** |
+| `community_editorial_get` / `community_editorial_save` | `positioning`, `differentiators`, `resident_feedback`, `neighborhood_anchors`, `tour_questions`, `things_we_never_say`, `default_author_id`. Returns NOT_FOUND until created. |
+| `redirect_save` | Same-community 301/302. Rejects loops and conflicts. |
+| `brief_get` / `brief_list` / `brief_save` | Content briefs; `blog_list_posts` can filter by `brief_id`. |
+| `job_get` / `job_retry` | Poll async media processing and publication delivery. |
+| `website_inspect` | Site inspection. |
+
+### llms.txt is not optional
+
+`seo_get(view="discovery", kind="llms.txt")` auto-generates a stub listing published
+articles. Left alone it says only "Community information and published articles." Populate
+`llms_intro` and `llms_sections` via `seo_save` with the facts an answer engine needs:
+pricing, unit sizes, signature amenities, pet policy, commute times, what residents praise,
+**documented complaints**, and who the community suits. The complaints section is the one
+thing no listing aggregator carries — it is the real differentiator for AI answer engines.
+
+---
+
+## Review Workflow — Verified Behavior
+
+- **`draft -> approved` is REJECTED** with `INVALID_STATE`. You must pass through
+  `in_review` first. There is no way to skip it.
+- **Publication validation runs at APPROVAL, not at publish.** An article cannot be
+  approved until its featured image exists and is `ready`. This inverts the usual
+  review-then-artwork order: the hero must be uploaded BEFORE approval.
+- **Self-approval is permitted.** The same identity can submit and approve. The workflow
+  does not enforce two-person review.
+- **ETag target matters.** `blog_change_status` with `target: "revision"` requires the
+  **revision** ETag; `target: "article"` requires the **article** ETag. Sending the wrong
+  one returns `VERSION_CONFLICT` — and the error helpfully includes the correct value in
+  `details.current_etag`. Read it rather than guessing.
+- Every status change bumps the ETag. Always use the value from the immediately preceding
+  response, never one cached from an earlier step.
+- On retry, **reuse the same `request_key`**. A fresh one creates a duplicate rather than
+  retrying.
+
+---
+
+## Alt Text Must Be Written After the Image Exists
+
+Do not pass `--alt` to the image generator describing what you *expect*. The generator's
+subject classifier may pick a different focal point than the article's stated
+differentiator. Generate the image, LOOK at it, then write alt text describing what is
+actually in the frame. Verified failure 2026-09-18: alt said "resort pool with dive-in
+theater screen and fire lounge"; the generated image was a bark park.

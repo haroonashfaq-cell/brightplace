@@ -79,9 +79,12 @@ Before writing, you MUST have:
 **Comparison Data (high citation value):**
 - Pages with 3+ structured comparisons earn 25.7% more AI citations.
 - Include at least one comparison section per article.
-- Format comparisons as bold-label bullet points:
-  - **[Option A]:** $X-$Y (as of Q[N] YYYY). [Key detail]. [Tradeoff].
-  - **[Option B]:** $X-$Y (as of Q[N] YYYY). [Key detail]. [Tradeoff].
+- Format comparisons as bold-label PARAGRAPHS, one per line, each separated by a blank
+  line. Do NOT nest them under a bullet — see "List rules" below.
+
+  **[Option A]:** $X-$Y (as of Q[N] YYYY). [Key detail]. [Tradeoff].
+
+  **[Option B]:** $X-$Y (as of Q[N] YYYY). [Key detail]. [Tradeoff].
 
 **Entity Repetition:**
 - Primary keyword: 7-12 exact instances across the article.
@@ -145,15 +148,12 @@ author: "[Brand or Author Name]"
 
 ---
 
-## FAQ Schema (JSON-LD)
-[FAQPage JSON-LD]
-
-## Article Schema (JSON-LD)
-[Article JSON-LD]
-
-## WebPage Schema (JSON-LD)
-[WebPage JSON-LD with breadcrumb and speakable]
 ```
+
+**DO NOT append JSON-LD schema blocks for AIR operator articles.** The CMS generates
+Article, WebPage, FAQPage and BreadcrumbList itself, and there is no MCP tool to submit
+custom schema — anything you write here is stripped before publish. See `schema-agent.md`.
+(Non-AIR SUPER SEO clients on platforms that accept hand-authored JSON-LD still need them.)
 
 **Heading hierarchy:**
 - One H1 only
@@ -165,11 +165,33 @@ author: "[Brand or Author Name]"
 - 2-4 sentences max per paragraph
 - Vary paragraph length (mix 1, 2, 3-4 sentence paragraphs)
 
-**List rules:**
-- Bullet lists only for genuinely parallel items
-- Never use bullets as prose substitute
-- Numbered lists for sequential steps only
-- No markdown tables (use bold-label bullet points for comparisons)
+**List rules — AIR OPERATOR CMS (renderer `article-v4`, verified 2026-09-18):**
+
+> **TEMPORARY BUG ACCOMMODATION — delete this block when the renderer ships list support.**
+> This is not house style. It exists only because the renderer is broken.
+
+- **Do NOT author `- bullet` lists.** They do not render. The renderer flattens each item
+  into its own `<p>`, emitting no `<ul>` or `<li>` at all. This destroys list-snippet
+  eligibility and breaks the parent/child relationship AI extractors rely on.
+- **Do NOT author `1.` ordered lists.** Same flattening, plus the literal "1." leaks into
+  the rendered text.
+- **Do NOT author markdown tables.** They render as RAW PIPE CHARACTERS visible to readers.
+  A broken table is worse than no table.
+
+Express list-shaped content using constructs that actually render:
+
+| Instead of | Use |
+|------------|-----|
+| A bulleted group of related items | A `### H3` subheading, then prose |
+| A label/value list (costs, specs, policy terms) | `**Label:** value` on its own line, blank line between each |
+| A comparison table | Bold-label paragraphs, one per option |
+| A callout or disclosure | `> blockquote` (renders, but is currently UNSTYLED — displays as a plain browser indent, so do not build a visual pattern on it) |
+
+**Constructs that DO render correctly:** `##`/`###` headings (with auto anchor ids),
+`**bold**`, `[links](url)`, `---` horizontal rules, `>` blockquotes, images.
+
+Note: `---` DOES work. An older version of the publishing doc claimed the CMS rejects it.
+That was false.
 
 ---
 
@@ -225,15 +247,16 @@ Before returning output:
 7. [ ] 3-5 external authority links
 8. [ ] 3 CTAs placed correctly
 9. [ ] No three consecutive sentences start the same way
-10. [ ] Meta description under 155 chars
+10. [ ] Meta description under 160 chars
 11. [ ] SEO title under 60 chars and different from H1
-12. [ ] All schemas present (Article, FAQPage, WebPage)
+12. [ ] NO hand-authored JSON-LD in the file (AIR CMS generates it)
 13. [ ] Word count within target range
-14. [ ] No markdown tables
+14. [ ] No markdown tables, no `-` bullets, no `1.` ordered lists (renderer flattens them)
 15. [ ] Varied section lengths (anti-AI-detection)
 
 ---
 
 ### Output
 
-Return ONLY the markdown file. No commentary, no preamble. Start with frontmatter (---) and end with schema blocks.
+Return ONLY the markdown file. No commentary, no preamble. Start with frontmatter (---).
+For AIR operator articles, END with the final body section — no schema blocks.

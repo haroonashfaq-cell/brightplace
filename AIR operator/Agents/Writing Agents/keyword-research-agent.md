@@ -8,6 +8,100 @@
 
 ---
 
+---
+
+## MANDATORY GATE — SERP Intent Check Before Any Keyword Is Approved
+
+**Run this before writing a single brief. A keyword that fails this gate is rejected no
+matter how good its volume or difficulty score looks.**
+
+Pull the live SERP for the candidate keyword (Semrush `phrase_organic`, or open the SERP
+manually) and classify the top 10-20 results by RESULT TYPE, not by domain strength:
+
+| If the SERP is dominated by | Then | Action |
+|------------------------------|------|--------|
+| Listing aggregators (Apartments.com, Zillow, Redfin, Trulia, ApartmentList, Realtor, RentCafe), the official property site, social profiles, map packs | Google has decided this query wants LISTINGS, not an article | **REJECT for editorial.** No blog post will rank, regardless of quality. |
+| Guides, explainers, "best of" articles, editorial reviews, or OTHER OPERATORS' own blog/neighborhood pages | Editorial intent confirmed | **APPROVE** |
+| Mixed (3+ editorial results in the top 10) | Contestable | Approve only with a clear angle no incumbent covers |
+| Results spanning MULTIPLE CITIES OR STATES | The query has no stable geographic intent | **REJECT — ambiguous geography.** See below. |
+| Operator FLOOR-PLAN or unit-type LANDING pages (URLs like /floorplans/three-bedroom or /3-bedroom-apartments-city/) | Google wants a product page, not an article | **REJECT as a blog post. REDIRECT to a landing page** on the community site. |
+
+### Rejection reason 2: ambiguous geography
+
+If the top 20 spans several metros, the keyword has no stable local intent and its
+search volume is aggregated across all of them. Ranking draws irrelevant
+out-of-market traffic.
+
+WORKED EXAMPLE: `apartments by town center` (vol 880, KD 15) looked cheap and easy.
+The live SERP returned Overland Park KS, Champaign-Urbana IL, Virginia Beach VA,
+Rockville MD, Jacksonville NC *and* Jacksonville FL — because "Town Center" is a
+generic place name in dozens of US cities. Rejected. Always add the city to
+disambiguate, then re-gate the new phrasing.
+
+### Verdict 4: right keyword, wrong FORMAT
+
+A SERP can show clear commercial intent while rejecting articles specifically. When
+operator landing pages rank and blog posts do not, the deliverable is a landing
+page, not a post — hand it to the web team, not the content pipeline.
+
+WORKED EXAMPLE: `3 bedroom apartments jacksonville fl` returns aggregators at #1/#2
+plus TWO operator landing pages — tropialuxury.com/floorplans/three-bedroom (#4) and
+coveatpeninsulajax.com/3-bedroom-apartments-jacksonville-fl/ (#6, URL matching the
+keyword exactly). There is also an AI OVERVIEW at #3, so AEO weight is high.
+Correct output: a /floor-plans/3-bedroom page on the community site.
+
+### Also record from the SERP, not just ranks
+
+- **AI Overview present?** Raises AEO weight; make sure llms.txt covers the topic.
+- **Reddit or forum results ranking?** Read them. For `citigate apartments
+  jacksonville` a negative r/jacksonville thread naming AIR Communities ranks #9 —
+  a reputational signal that never appears in a keyword tool's metrics.
+- **Wrong or stale listings?** The same SERP showed Citigate's Yelp entry marked
+  "CLOSED". Flag NAP errors to the operator; they suppress local performance.
+
+### The rule this encodes
+
+Property-name queries, "near me" queries, and city + unit-type queries are **listing-only**.
+This is recorded in brightplace memory as `brightplace-serp-intent-rule.md` and it is not
+a guideline — it is a hard gate.
+
+### Worked example — why this gate exists
+
+`citigate apartments jacksonville` (vol 720, KD 22) looked like an easy win on the metrics
+and was approved at stage 01. The live SERP, pulled 2026-09-18, returned in the top 20:
+
+- the official site (citigateapartments.com)
+- nine listing aggregators (Apartments.com, Zillow, Redfin, Trulia, ApartmentList,
+  ApartmentSearch, ApartmentFinder, RentDeals, Realtor)
+- Yelp and ApartmentRatings
+- YouTube, Instagram, Facebook, Apple Maps
+- two local news items, a Yardi data page, and one hotel-directory mis-index
+
+**Zero editorial results. Not one guide, review article or blog post in twenty positions.**
+
+A full article was produced and published for that keyword anyway. It cannot rank for the
+head term. The work was not wasted — the page is well built for long-tail question queries
+and AI answer engines — but it was targeted at a term it can never win, and the same
+mistake was replicated across the keyword sets for the other nine communities.
+
+### What to target instead when a head term fails the gate
+
+Redirect the article to the question and long-tail space, where editorial results DO appear
+and where AI answer engines pull from:
+
+- "does [community] have [specific amenity]"
+- "[community] pet policy" / "[community] parking"
+- "what are the downsides of [community]"
+- "[community] vs [named competitor]"
+- "apartments near [major employer/landmark]" — verify this SERP separately; employer and
+  landmark proximity queries often DO return editorial
+
+Record the SERP classification and the decision in `01-keyword-research.md` for every
+candidate, approved or rejected. A rejected keyword with a recorded reason prevents the
+next writer from re-proposing it.
+
+---
+
 ## Input Required
 
 - Business name, URL, and industry (from project-context.md or user)
