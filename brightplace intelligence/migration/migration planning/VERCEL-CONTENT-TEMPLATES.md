@@ -6,18 +6,33 @@
 
 Read the guide's §2 (content schema) and §3 (routes) first — everything here assumes them.
 
-**Working references, all committed:**
+## The templates
+
+**These two files are the reference. Everything in this document describes them.**
+
+| File | Serves |
+|---|---|
+| **`TEMPLATE-blog-page.html`** | `/guides/[slug]`, `/resources/[slug]`, `/news/[slug]` — all 120 articles |
+| **`TEMPLATE-blog-listing-page.html`** | `/guides`, `/resources`, `/news`, `/category/[slug]` |
+
+Both are complete, self-contained pages — full `<head>`, JSON-LD, site chrome, and CSS. Open either in a browser to see the target output.
+
+The three collections are field-identical, so one article template covers all of them. It differs per collection only in the BreadcrumbList `name` and `item` values.
+
+### Placeholder vocabulary
+
+Every `{{PLACEHOLDER}}` maps 1:1 to a key in `extract/reports/<collection>-metadata.json` — `{{MAIN_IMAGE}}` is `main_image`, `{{LAST_PUBLISHED}}` is `last_published`. No translation layer.
+
+⚠️ **`extract/templates/*.template.html` is superseded.** Those earlier blanks use a different vocabulary (`{{ARTICLE_TITLE}}`, `{{FEATURED_IMAGE_URL}}`, `{{DATE_PUBLISHED}}`) that does not match the metadata keys. Build against the two files above.
+
+### Supporting material
 
 | Path | What it gives you |
 |---|---|
-| `extract/templates/guide.page.template.html` | Blank article template with `{{PLACEHOLDER}}` slots |
-| `extract/templates/resource.page.template.html` | Same shape, different breadcrumb |
-| `extract/templates/listing.template.html` | Blank archive template |
-| `extract/templates/README.md` | Placeholder → metadata field mapping |
-| `extract/<collection>/<slug>.page.html` | 127 filled examples — the same templates with real data |
-| `extract/<collection>/_listing.page.html` | 3 filled archive examples |
-
-The two article templates are structurally identical, differing only in the BreadcrumbList `name` and `item` values. News reuses the same shape.
+| `extract/reports/<collection>-metadata.json` | The 23-key record for every item — the source of every placeholder |
+| `extract/<collection>/<slug>.html` | 127 article bodies, verbatim from Webflow. **This is what `{{BODY_HTML}}` receives** |
+| `extract/<collection>/<slug>.page.html` | 127 pages built from the superseded blanks — useful for seeing content in a structure, not for design |
+| `extract/indexing/` | Live `sitemap.xml`, `robots.txt`, `llms.txt` |
 
 ---
 
@@ -36,7 +51,7 @@ Guides, resources and news are field-identical, so one article template serves a
 
 ### Structure
 
-Taken from the supplied rendered samples (`HTML sample.html`, `Resources-HTML template.html`):
+Implemented in `TEMPLATE-blog-page.html` — open it in a browser to see it rendered. Structure derived from the live Webflow pages:
 
 ```
 header
@@ -194,16 +209,18 @@ And `guides/fort-collins-outdoor-renters.html` contains `<base target="_blank">`
 
 223 blocks, but only five recurring patterns:
 
-| Pattern | Count | Suggested component |
-|---|---|---|
-| Property card — "WORTH LOOKING AT" + name + address/operator/price + bullets + CTA button | 74 | `<PropertyCard>` |
-| Callout box — titled tinted box | 39 | `<Callout>` |
-| Comparison table | 33 | `<ComparisonTable>` |
-| Info-card row — Market / Lifestyle / Price Range / Last Reviewed | 31 | `<StatCardRow>` |
-| CTA box — centred italic pitch + link | 25 | `<CTABox>` |
-| Unclassified residue | 21 | variants of the above |
+| Pattern | Count | Component | Markup + CSS in `TEMPLATE-blog-page.html` |
+|---|---|---|---|
+| Property card — "WORTH LOOKING AT" + name + address/operator/price + bullets + CTA button | 74 | `<PropertyCard>` | `.bp-property`, `__flag` `__name` `__meta` `__cta` |
+| Callout box — titled tinted box | 39 | `<Callout>` | `.bp-callout`, `__title` |
+| Comparison table | 33 | `<ComparisonTable>` | `.bp-table` inside `.bp-table-scroll` |
+| Info-card row — Market / Lifestyle / Price Range / Last Reviewed | 31 | `<StatCardRow>` | `.bp-stats` > `.bp-stat`, `__label` `__value` |
+| CTA box — centred italic pitch + link | 25 | `<CTABox>` | `.bp-ctabox` |
+| Unclassified residue | 21 | variants of the above | — |
 
-All 33 `<table>` elements in the corpus are inside embeds. There are no bare rich-text tables.
+Each is rendered with real sample content in the template's body section, so you can see the target and lift the CSS directly.
+
+All 33 `<table>` elements in the corpus are inside embeds. There are no bare rich-text tables — note `.bp-table` is wrapped in `.bp-table-scroll`, which keeps wide tables from breaking the page on mobile.
 
 ### Real examples
 

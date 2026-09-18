@@ -21,7 +21,9 @@ Six documents cover this migration. This one is third — it explains **extracti
 | 2b | `TEMPLATE-blog-listing-page.html` | Working archive template — card grid, category chips, listing schema |
 | 3 | `DEVELOPER-HANDOVER.md` | **This file.** Extraction method, the hostname migration, DNS, cutover, rollback |
 | 4 | `extract/README.md` | The extracted content — what is in each folder |
-| 5 | `extract/templates/README.md` | Placeholder → field mapping for the blank templates |
+| 5 | `extract/reports/*-metadata.json` | The 23-key record per item — the source of every template placeholder |
+
+⚠️ `extract/templates/*.template.html` and the 127 `extract/**/<slug>.page.html` files are **superseded**. They use a placeholder vocabulary that does not match the metadata keys. Build against `TEMPLATE-blog-page.html` and `TEMPLATE-blog-listing-page.html`.
 
 `migration-plan-v2.md` is an internal planning record and is not part of the build instructions.
 

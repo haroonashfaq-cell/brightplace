@@ -359,12 +359,13 @@ Everything below is committed under `brightplace intelligence/migration/`:
 
 | Asset | What it is |
 |---|---|
-| `extract/{guides,resources,news}/<slug>.page.html` | **127 rendered pages** — how every article looks today |
-| `extract/{guides,resources,news}/_listing.page.html` | The three rendered archive pages |
-| `extract/templates/*.template.html` | Blank `{{PLACEHOLDER}}` templates for article and listing |
-| `extract/templates/README.md` | Placeholder → metadata field mapping |
-| `extract/reports/*-metadata.json` | The 23-key records for every item |
+| **`TEMPLATE-blog-page.html`** | **The article template.** Complete page — head, JSON-LD, site chrome, CSS, all five body components styled |
+| **`TEMPLATE-blog-listing-page.html`** | **The archive template.** Card grid, category chips, listing schema |
+| `VERCEL-CONTENT-TEMPLATES.md` | How both templates work: `<head>` mapping, schema, body rendering |
+| `extract/reports/*-metadata.json` | The 23-key records for every item — the source of every placeholder |
+| `extract/{guides,resources,news}/<slug>.html` | 127 article bodies, verbatim from Webflow. This is what `{{BODY_HTML}}` receives |
 | `extract/indexing/` | Live `sitemap.xml`, `robots.txt`, `llms.txt` verbatim |
-| `VERCEL-CONTENT-TEMPLATES.md` | Page rendering: templates, `<head>`, schema, body HTML |
 
-The blank templates and the filled `.page.html` renders are the fastest way to see the target output — a template beside a real example of it.
+Open either template in a browser to see the target output.
+
+⚠️ **Two things in `extract/` are superseded.** `extract/templates/*.template.html` uses a placeholder vocabulary that does not match the metadata keys (`{{ARTICLE_TITLE}}` rather than `{{TITLE}}`, `{{FEATURED_IMAGE_URL}}` rather than `{{MAIN_IMAGE}}`), and the 127 `extract/**/<slug>.page.html` files were generated from those blanks — so they show content in a structure, with generic styling, not the finished design. Build against the two templates above.
