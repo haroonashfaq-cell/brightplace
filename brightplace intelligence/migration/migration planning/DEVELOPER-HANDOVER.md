@@ -9,6 +9,24 @@ Re-verify before cutover if significant time has passed.
 
 ---
 
+## 0. Which document to read, and in what order
+
+Six documents cover this migration. This one is third — it explains **extraction, URLs, DNS and cutover**. If you are starting from scratch, read them in this order:
+
+| # | Document | Covers |
+|---|---|---|
+| 1 | `DEVELOPER-GUIDE-VERCEL-CMS.md` | **Start here.** The system: two-repo split, content schema, routes, SEO files, redirects, validation |
+| 2 | `VERCEL-CONTENT-TEMPLATES.md` | Page rendering: templates, `<head>`, JSON-LD, and the body-HTML embed problem |
+| 2a | `TEMPLATE-blog-page.html` | Working article template — complete design, all five body components styled |
+| 2b | `TEMPLATE-blog-listing-page.html` | Working archive template — card grid, category chips, listing schema |
+| 3 | `DEVELOPER-HANDOVER.md` | **This file.** Extraction method, the hostname migration, DNS, cutover, rollback |
+| 4 | `extract/README.md` | The extracted content — what is in each folder |
+| 5 | `extract/templates/README.md` | Placeholder → field mapping for the blank templates |
+
+`migration-plan-v2.md` is an internal planning record and is not part of the build instructions.
+
+---
+
 ## 1. What we are doing
 
 The marketing site at `www.brightplace.ai` currently runs on Webflow. The product app runs on
@@ -575,3 +593,100 @@ and do not panic-roll-back on week 1 data.
    hostname swap.
 7. **Do the Webflow homepage's marketing sections need to survive** anywhere, or is the app
    homepage a complete replacement? This is currently assumed to be a complete replacement.
+
+---
+
+## 11. Google Analytics — carry the existing property across
+
+GA4 is **already live on the Webflow site**. It is not missing and must not be re-created — a new property would reset all historical data and break year-over-year comparison, which is exactly what you need to judge whether the migration worked.
+
+**Measurement ID: `G-DK6QHHS88K`**
+
+This is a shared property. Filter by hostname in GA4 reports to isolate a site.
+
+### Next.js App Router — the correct implementation
+
+Use `next/script` with `strategy="afterInteractive"`. A raw `<script>` tag in the Next.js `<head>` will not behave correctly.
+
+```tsx
+// app/layout.tsx
+import Script from 'next/script'
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en">
+      <body>
+        {children}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-DK6QHHS88K"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-DK6QHHS88K');
+          `}
+        </Script>
+      </body>
+    </html>
+  )
+}
+```
+
+### Plain HTML equivalent
+
+Only if something is rendered outside the Next.js app. This is the form used in `TEMPLATE-blog-page.html` and `TEMPLATE-blog-listing-page.html`.
+
+```html
+<!-- Google Analytics (GA4) — brightplace — DO NOT REMOVE -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DK6QHHS88K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-DK6QHHS88K');
+</script>
+```
+
+### Rules
+
+- The tag must load on **every** page — articles, archives, category pages, legal pages, homepage
+- It must be live on the new routes **before DNS moves.** Miss this and analytics goes dark at cutover, in the exact window where you most need the data
+- Put it in the root layout so no route can ship without it, rather than per template
+- Verify by `curl`ing a built page and confirming `G-DK6QHHS88K` appears in the raw HTML
+
+### Search Console
+
+Handled by DNS domain property (`sc-domain:brightplace.ai`), so no verification meta tag is needed on the new site.
+
+⚠️ **The Search Console verification token has not yet been captured** from Webflow. It must be carried across before DNS moves or the property loses verification. This is an open item with a hard deadline.
+
+---
+
+## 12. Open items across all documents
+
+Consolidated so nothing sits only in one file.
+
+| Item | Owner | Deadline |
+|---|---|---|
+| **Search Console verification token** | — | **Before DNS moves** |
+| GA4 `G-DK6QHHS88K` live on new routes | Dev | **Before DNS moves** |
+| Content consumption: submodule / package / build-step fetch | Dev | Before build |
+| Asset hosting: Vercel Blob / S3 / `public/` | Dev | Before build |
+| `/author/[slug]` — rebuild, redirect or 410 | Product | Before launch |
+| `/search` — rebuild, empty state, or drop | Product | Before launch |
+| Category page content (`property` covers 41 articles with no metadata of its own) | Content | Before launch |
+| `main_image_alt` backfill — null on 123 of 127 items | Content | Post-launch acceptable |
+| In-body image binaries beyond the 4 news inline images | Dev | **Before Webflow cancellation** |
+
+The two "before DNS moves" rows are the only ones with a hard external deadline.
+
+---
+
+## 13. Correction log
+
+**`llms.txt` is curated — do not generate it.** An earlier version of §5.2 said *"Ship a real llms.txt. Webflow has none today."* That was wrong. `/llms.txt` is live, 4,144 bytes, hand-grouped into editorial sections with per-guide annotations, and carries a Fair Housing instruction that must survive verbatim. Serve it from the content repo unchanged. `DEVELOPER-GUIDE-VERCEL-CMS.md` §5 has the authoritative treatment. *(Corrected 2026-09-18.)*
+
+**The 23-key schema includes three extraction artifacts.** `body_chars` (a length proxy), `inline_images` (populated on 2 news items) and `webflow_item_id` (provenance) are byproducts of the extraction, not content fields. Useful during migration; decide deliberately whether they belong in the long-term schema before freezing `schema/types.ts`.
