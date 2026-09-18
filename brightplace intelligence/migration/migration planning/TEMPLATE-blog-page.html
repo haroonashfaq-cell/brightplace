@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- ============================================================
+     BLOG PAGE TEMPLATE — brightplace.ai
+     Reference for the Vercel rebuild. Serves /guides/<slug>,
+     /resources/<slug> and /news/<slug> — they are field-identical.
+
+     {{PLACEHOLDERS}} map to keys in
+     extract/reports/<collection>-metadata.json
+     ============================================================ -->
+
+<title>{{SEO_TITLE}}</title>
+<meta name="description" content="{{META_DESCRIPTION}}">
+<link rel="canonical" href="https://www.brightplace.ai/{{COLLECTION}}/{{SLUG}}">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{SEO_TITLE}}">
+<meta property="og:description" content="{{META_DESCRIPTION}}">
+<meta property="og:image" content="{{MAIN_IMAGE}}">
+<meta property="og:url" content="https://www.brightplace.ai/{{COLLECTION}}/{{SLUG}}">
+<meta property="og:site_name" content="brightplace">
+<meta property="article:published_time" content="{{LAST_PUBLISHED}}">
+<meta property="article:modified_time" content="{{LAST_UPDATED}}">
+<meta property="article:author" content="{{AUTHOR}}">
+<meta property="article:section" content="{{CATEGORY_NAME}}">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{SEO_TITLE}}">
+<meta name="twitter:description" content="{{META_DESCRIPTION}}">
+<meta name="twitter:image" content="{{MAIN_IMAGE}}">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Google Analytics — carry the existing property across, do not create a new one -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DK6QHHS88K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-DK6QHHS88K');
+</script>
+
+<!-- ===== JSON-LD — all four must be in the SERVER HTML, not JS-injected ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{TITLE}}",
+  "description": "{{META_DESCRIPTION}}",
+  "image": "{{MAIN_IMAGE}}",
+  "datePublished": "{{LAST_PUBLISHED}}",
+  "dateModified": "{{LAST_UPDATED}}",
+  "author": {
+    "@type": "Person",
+    "name": "{{AUTHOR}}",
+    "url": "https://www.brightplace.ai/author/{{AUTHOR_SLUG}}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "brightplace",
+    "url": "https://www.brightplace.ai"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.brightplace.ai/{{COLLECTION}}/{{SLUG}}"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.brightplace.ai" },
+    { "@type": "ListItem", "position": 2, "name": "{{COLLECTION_LABEL}}", "item": "https://www.brightplace.ai/{{COLLECTION}}" },
+    { "@type": "ListItem", "position": 3, "name": "{{TITLE}}" }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{SEO_TITLE}}",
+  "url": "https://www.brightplace.ai/{{COLLECTION}}/{{SLUG}}",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["#article-title", "#article-summary"]
+  }
+}
+</script>
+
+<!-- Include ONLY when the article has FAQs. Omit the block entirely otherwise. -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "{{FAQ_QUESTION}}",
+      "acceptedAnswer": { "@type": "Answer", "text": "{{FAQ_ANSWER}}" }
+    }
+  ]
+}
+</script>
+
+<style>
+/* ============================================================
+   DESIGN TOKENS — sampled from the live brightplace.ai stylesheet.
+   Map these onto your own system; the names are what the rest
+   of this file references.
+   ============================================================ */
+:root {
+  --bp-teal:        #00bcd4;
+  --bp-teal-dark:   #00a0b0;
+  --bp-navy:        #1a2744;
+  --bp-navy-deep:   #101929;
+  --bp-orange:      #f7931e;
+
+  --bp-ink:         #1a1a1a;
+  --bp-ink-muted:   #5c6580;
+  --bp-ink-faint:   #6b7280;
+  --bp-rule:        #e5e7eb;
+  --bp-surface:     #ffffff;
+  --bp-surface-alt: #fafafa;
+  --bp-surface-warm:#f5f2ee;
+
+  --bp-font-display: 'Outfit', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --bp-font-body:    system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  --bp-measure:   720px;   /* article text column */
+  --bp-wide:      1140px;  /* header, footer, hero */
+  --bp-radius:    16px;
+  --bp-gutter:    24px;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: var(--bp-font-body);
+  font-size: 18px;
+  line-height: 1.75;
+  color: var(--bp-ink);
+  background: var(--bp-surface);
+  -webkit-font-smoothing: antialiased;
+}
+img { max-width: 100%; height: auto; display: block; }
+a { color: var(--bp-teal-dark); }
+
+.bp-wrap   { max-width: var(--bp-wide);    margin: 0 auto; padding-inline: var(--bp-gutter); }
+.bp-column { max-width: var(--bp-measure); margin: 0 auto; padding-inline: var(--bp-gutter); }
+
+/* ---------- Site header ---------- */
+.bp-header {
+  border-bottom: 1px solid var(--bp-rule);
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(255,255,255,.92);
+  backdrop-filter: saturate(180%) blur(12px);
+}
+.bp-header__inner { display: flex; align-items: center; gap: 32px; height: 68px; }
+.bp-logo {
+  font-family: var(--bp-font-display); font-weight: 700; font-size: 22px;
+  color: var(--bp-navy); text-decoration: none; letter-spacing: -.02em;
+}
+.bp-nav { display: flex; gap: 26px; margin-left: auto; }
+.bp-nav a {
+  font-size: 15px; font-weight: 500; color: var(--bp-ink-muted);
+  text-decoration: none; padding: 6px 0;
+}
+.bp-nav a:hover, .bp-nav a[aria-current="page"] { color: var(--bp-navy); }
+
+/* ---------- Breadcrumb ---------- */
+.bp-breadcrumb { font-size: 14px; color: var(--bp-ink-faint); padding-top: 28px; }
+.bp-breadcrumb ol { list-style: none; display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; }
+.bp-breadcrumb li + li::before { content: "/"; margin-right: 8px; color: var(--bp-rule); }
+.bp-breadcrumb a { color: var(--bp-ink-faint); text-decoration: none; }
+.bp-breadcrumb a:hover { color: var(--bp-teal-dark); text-decoration: underline; }
+
+/* ---------- Article header ---------- */
+.bp-article-head { padding-block: 20px 8px; }
+.bp-eyebrow {
+  display: inline-block; font-family: var(--bp-font-display);
+  font-size: 12px; font-weight: 600; letter-spacing: .09em; text-transform: uppercase;
+  color: var(--bp-teal-dark); text-decoration: none; margin-bottom: 14px;
+}
+h1#article-title {
+  font-family: var(--bp-font-display); font-weight: 700;
+  font-size: clamp(32px, 5vw, 46px); line-height: 1.15; letter-spacing: -.02em;
+  color: var(--bp-navy-deep); margin: 0 0 18px; text-wrap: balance;
+}
+#article-summary { font-size: 20px; line-height: 1.6; color: var(--bp-ink-muted); margin: 0 0 26px; }
+
+.bp-byline {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+  font-size: 14px; color: var(--bp-ink-faint);
+  padding-bottom: 26px; border-bottom: 1px solid var(--bp-rule);
+}
+.bp-byline a { color: var(--bp-navy); font-weight: 600; text-decoration: none; }
+.bp-byline a:hover { text-decoration: underline; }
+.bp-byline .sep { color: var(--bp-rule); }
+
+.bp-hero { margin-block: 32px; }
+.bp-hero img { width: 100%; border-radius: var(--bp-radius); }
+
+/* ---------- Article body ---------- */
+.bp-body { padding-bottom: 56px; }
+.bp-body h2 {
+  font-family: var(--bp-font-display); font-weight: 600;
+  font-size: 28px; line-height: 1.3; letter-spacing: -.01em;
+  color: var(--bp-navy-deep); margin: 48px 0 16px; text-wrap: balance;
+}
+.bp-body h3 {
+  font-family: var(--bp-font-display); font-weight: 600;
+  font-size: 21px; line-height: 1.4; color: var(--bp-navy);
+  margin: 34px 0 12px;
+}
+.bp-body p  { margin: 0 0 22px; }
+.bp-body ul, .bp-body ol { margin: 0 0 22px; padding-left: 24px; }
+.bp-body li { margin-bottom: 10px; }
+.bp-body a  { color: var(--bp-teal-dark); text-underline-offset: 3px; }
+.bp-body blockquote {
+  margin: 30px 0; padding: 4px 0 4px 22px;
+  border-left: 3px solid var(--bp-teal);
+  color: var(--bp-ink-muted); font-size: 19px;
+}
+.bp-body figure { margin: 32px 0; }
+.bp-body figcaption { font-size: 14px; color: var(--bp-ink-faint); margin-top: 10px; }
+
+/* ============================================================
+   BODY COMPONENTS
+   These five replace the 223 Webflow `data-rt-embed-type` blocks.
+   Build each as a React component; do not inject the original
+   markup — its <style> blocks use bare element selectors
+   (`table {}`, `body {}`) that leak across the whole page.
+   ============================================================ */
+
+/* 1. Stat card row — Market / Lifestyle / Price Range / Last Reviewed  (31 blocks) */
+.bp-stats { display: flex; flex-wrap: wrap; gap: 16px; margin: 32px 0; }
+.bp-stat {
+  flex: 1 1 200px; background: var(--bp-surface-alt);
+  border: 1px solid var(--bp-rule); border-top: 4px solid var(--bp-orange);
+  border-radius: var(--bp-radius); padding: 18px 20px;
+}
+.bp-stat__label {
+  font-size: 12px; font-weight: 600; letter-spacing: .07em; text-transform: uppercase;
+  color: var(--bp-teal-dark); margin: 0 0 6px;
+}
+.bp-stat__value { font-family: var(--bp-font-display); font-size: 17px; font-weight: 600; color: var(--bp-navy-deep); margin: 0; line-height: 1.4; }
+
+/* 2. Property card — "WORTH LOOKING AT"  (74 blocks, the most common) */
+.bp-property {
+  border: 1px solid #e6c9a8; background: var(--bp-surface-warm);
+  border-radius: var(--bp-radius); padding: 24px 26px; margin: 34px 0;
+}
+.bp-property__flag {
+  font-size: 11px; font-weight: 600; letter-spacing: .12em; text-transform: uppercase;
+  color: #7a8a99; margin: 0 0 10px;
+}
+.bp-property__name { font-family: var(--bp-font-display); font-size: 22px; font-weight: 700; color: var(--bp-navy-deep); margin: 0 0 6px; }
+.bp-property__meta { font-size: 15px; color: var(--bp-ink-muted); margin: 0 0 14px; }
+.bp-property ul { margin: 0 0 18px; padding-left: 20px; font-size: 16px; }
+.bp-property__cta {
+  display: inline-block; background: var(--bp-orange); color: #fff;
+  font-weight: 600; font-size: 15px; text-decoration: none;
+  padding: 11px 22px; border-radius: 999px;
+}
+.bp-property__cta:hover { filter: brightness(.94); }
+
+/* 3. Callout box  (39 blocks) */
+.bp-callout {
+  background: #e8f8fb; border-left: 4px solid var(--bp-teal);
+  border-radius: 12px; padding: 22px 24px; margin: 32px 0;
+}
+.bp-callout__title { font-family: var(--bp-font-display); font-size: 17px; font-weight: 700; color: var(--bp-navy-deep); margin: 0 0 8px; }
+.bp-callout p:last-child { margin-bottom: 0; }
+
+/* 4. Comparison table  (33 blocks) */
+.bp-table-scroll { overflow-x: auto; margin: 32px 0; }
+.bp-table { width: 100%; border-collapse: collapse; font-size: 16px; min-width: 520px; }
+.bp-table th {
+  background: var(--bp-teal); color: #fff; font-family: var(--bp-font-display);
+  font-weight: 600; text-align: left; padding: 13px 16px;
+}
+.bp-table td { padding: 13px 16px; border-bottom: 1px solid var(--bp-rule); vertical-align: top; }
+.bp-table tbody tr:nth-child(even) { background: var(--bp-surface-alt); }
+
+/* 5. CTA box  (25 blocks) */
+.bp-ctabox {
+  text-align: center; background: var(--bp-surface-alt);
+  border: 1px solid var(--bp-rule); border-radius: var(--bp-radius);
+  padding: 30px 26px; margin: 38px 0;
+}
+.bp-ctabox p { font-style: italic; font-size: 19px; color: var(--bp-ink-muted); margin: 0 0 16px; }
+.bp-ctabox a {
+  display: inline-block; background: var(--bp-navy); color: #fff;
+  font-weight: 600; font-style: normal; text-decoration: none;
+  padding: 12px 26px; border-radius: 999px;
+}
+
+/* ---------- End-of-article CTA ---------- */
+.bp-endcta { background: var(--bp-navy-deep); color: #fff; padding: 56px 0; margin-top: 16px; }
+.bp-endcta h2 { font-family: var(--bp-font-display); font-size: 30px; font-weight: 700; margin: 0 0 12px; color: #fff; }
+.bp-endcta p  { color: #b9c2d4; margin: 0 0 24px; font-size: 18px; }
+.bp-endcta a  {
+  display: inline-block; background: var(--bp-teal); color: #04212a;
+  font-weight: 700; text-decoration: none; padding: 14px 30px; border-radius: 999px;
+}
+
+/* ---------- Footer ---------- */
+.bp-footer { border-top: 1px solid var(--bp-rule); padding: 44px 0 56px; font-size: 15px; color: var(--bp-ink-faint); }
+.bp-footer__cols { display: flex; flex-wrap: wrap; gap: 40px 64px; margin-bottom: 32px; }
+.bp-footer h3 { font-family: var(--bp-font-display); font-size: 13px; letter-spacing: .07em; text-transform: uppercase; color: var(--bp-navy); margin: 0 0 12px; }
+.bp-footer ul { list-style: none; margin: 0; padding: 0; }
+.bp-footer li { margin-bottom: 8px; }
+.bp-footer a  { color: var(--bp-ink-faint); text-decoration: none; }
+.bp-footer a:hover { color: var(--bp-teal-dark); }
+
+@media (max-width: 640px) {
+  body { font-size: 17px; }
+  .bp-nav { display: none; }          /* replace with a real mobile menu */
+  .bp-stats { flex-direction: column; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- ===================== SITE HEADER ===================== -->
+<header class="bp-header">
+  <div class="bp-wrap bp-header__inner">
+    <a class="bp-logo" href="/">brightplace</a>
+    <nav class="bp-nav" aria-label="Main">
+      <a href="/guides">Guides</a>
+      <a href="/resources">Resources</a>
+      <a href="/news">News</a>
+      <a href="/property-managers">Property Managers</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <!-- ===================== BREADCRUMB ===================== -->
+  <nav class="bp-column bp-breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="/">Home</a></li>
+      <li><a href="/{{COLLECTION}}">{{COLLECTION_LABEL}}</a></li>
+      <li aria-current="page">{{TITLE}}</li>
+    </ol>
+  </nav>
+
+  <article>
+    <!-- ===================== ARTICLE HEADER ===================== -->
+    <header class="bp-column bp-article-head">
+      <a class="bp-eyebrow" href="/category/{{CATEGORY}}">{{CATEGORY_NAME}}</a>
+
+      <!-- Exactly one H1 per page. body.html never contains one. -->
+      <h1 id="article-title">{{TITLE}}</h1>
+
+      <p id="article-summary">{{SUMMARY}}</p>
+
+      <div class="bp-byline">
+        <span>By <a href="/author/{{AUTHOR_SLUG}}">{{AUTHOR}}</a></span>
+        <span class="sep">·</span>
+        <span>Published <time datetime="{{LAST_PUBLISHED}}">{{LAST_PUBLISHED_READABLE}}</time></span>
+        <span class="sep">·</span>
+        <span>Updated <time datetime="{{LAST_UPDATED}}">{{LAST_UPDATED_READABLE}}</time></span>
+        <span class="sep">·</span>
+        <span>{{READING_TIME}} min read</span>
+      </div>
+    </header>
+
+    <!-- ===================== HERO ===================== -->
+    <!-- main_image_alt is null on ~97% of items. Write alt text; do not ship empty. -->
+    <figure class="bp-column bp-hero">
+      <img src="{{MAIN_IMAGE}}" alt="{{MAIN_IMAGE_ALT}}" width="1200" height="630" loading="eager">
+    </figure>
+
+    <!-- ===================== BODY ===================== -->
+    <div class="bp-column bp-body">
+
+      <!-- {{BODY_HTML}} renders here.
+
+           It is a FRAGMENT: starts at <h2>, never contains <h1>.
+           Before rendering, run the import normaliser that converts
+           Webflow `data-rt-embed-type` blocks into the five components
+           shown below, and rewrites internal links to site-relative
+           paths (417 currently point at the apex and take a needless
+           301 hop).
+
+           The five components, with live examples following: -->
+
+      <h2>Example heading from body content</h2>
+      <p>Body paragraphs render at the measure set by <code>--bp-measure</code>. Internal links like
+        <a href="/resources/your-true-monthly-cost">this one</a> are site-relative after normalisation.</p>
+
+      <!-- COMPONENT 1 — Stat card row (31 blocks) -->
+      <div class="bp-stats">
+        <div class="bp-stat"><p class="bp-stat__label">Market</p><p class="bp-stat__value">Dallas, TX</p></div>
+        <div class="bp-stat"><p class="bp-stat__label">Lifestyle</p><p class="bp-stat__value">Families with kids</p></div>
+        <div class="bp-stat"><p class="bp-stat__label">Price Range</p><p class="bp-stat__value">$1,100–$2,400/mo</p></div>
+        <div class="bp-stat"><p class="bp-stat__label">Last Reviewed</p><p class="bp-stat__value">September 2026</p></div>
+      </div>
+
+      <!-- COMPONENT 2 — Property card (74 blocks) -->
+      <div class="bp-property">
+        <p class="bp-property__flag">Worth looking at</p>
+        <p class="bp-property__name">The Waylon</p>
+        <p class="bp-property__meta">North Central Austin · Operated by Example Residential · From $1,495/mo</p>
+        <ul>
+          <li>Studio to two-bedroom, 520–1,090 sq ft</li>
+          <li>Rooftop pool, co-working lounge, dog run</li>
+          <li>Eight minutes to the Domain</li>
+        </ul>
+        <a class="bp-property__cta" href="#">View property</a>
+      </div>
+
+      <!-- COMPONENT 3 — Callout (39 blocks) -->
+      <div class="bp-callout">
+        <p class="bp-callout__title">Who this guide is for</p>
+        <p>Renters moving to the city who need to understand neighbourhood trade-offs before touring.</p>
+      </div>
+
+      <!-- COMPONENT 4 — Comparison table (33 blocks) -->
+      <div class="bp-table-scroll">
+        <table class="bp-table">
+          <thead>
+            <tr><th>Neighborhood</th><th>Median 1BR</th><th>Vibe</th><th>Best for</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Park Slope</td><td>$3,200–$3,950</td><td>Brownstones, Prospect Park</td><td>Families, park access</td></tr>
+            <tr><td>Bushwick</td><td>$2,500–$3,200</td><td>DIY arts, warehouses, nightlife</td><td>Creatives, budget nightlife</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <!-- COMPONENT 5 — CTA box (25 blocks) -->
+      <div class="bp-ctabox">
+        <p>Describe the apartment you actually want and let brightplace find it.</p>
+        <a href="https://www.brightplace.ai">Start your search</a>
+      </div>
+
+      <h2>Frequently asked questions</h2>
+      <h3>An FAQ question renders as an H3</h3>
+      <p>When FAQs exist, they also populate the FAQPage schema in the head. When they do not, omit that JSON-LD block entirely rather than emitting an empty one.</p>
+
+    </div>
+  </article>
+
+  <!-- ===================== END CTA ===================== -->
+  <section class="bp-endcta">
+    <div class="bp-column">
+      <h2>Find your next apartment</h2>
+      <p>Tell brightplace what matters to you and get matched on price, commute and lifestyle.</p>
+      <a href="https://www.brightplace.ai">Search apartments</a>
+    </div>
+  </section>
+</main>
+
+<!-- ===================== FOOTER ===================== -->
+<footer class="bp-footer">
+  <div class="bp-wrap">
+    <div class="bp-footer__cols">
+      <div>
+        <h3>Content</h3>
+        <ul>
+          <li><a href="/guides">Guides</a></li>
+          <li><a href="/resources">Resources</a></li>
+          <li><a href="/news">News</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Company</h3>
+        <ul>
+          <li><a href="/property-managers">Property Managers</a></li>
+          <li><a href="/contact-us">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h3>Legal</h3>
+        <ul>
+          <li><a href="/privacy">Privacy</a></li>
+          <li><a href="/terms">Terms</a></li>
+          <li><a href="/fair-housing">Fair Housing</a></li>
+          <li><a href="/financial-disclosure">Financial Disclosure</a></li>
+        </ul>
+      </div>
+    </div>
+    <p>© 2026 brightplace. The brand name is always lowercase.</p>
+  </div>
+</footer>
+
+</body>
+</html>
