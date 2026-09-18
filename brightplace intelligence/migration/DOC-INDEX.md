@@ -13,13 +13,16 @@ order, and records where they disagree.
 | 4 | `extract/README.md` | The extracted content itself — what is in the folders |
 | 5 | `extract/templates/README.md` | Placeholder → field mapping for the blank templates |
 
-## Planning docs (context, not build instructions)
+## 🔒 Internal only — do NOT send to the dev team
 
-| Doc | Status |
+| Doc | Why |
 |---|---|
-| `migration-plan-v2.md` | Current architecture and phasing rationale |
-| `migration-plan-v1.md` | **Superseded.** Retained for the reasoning trail |
-| `EXTRACTION-PLAN.md` | How the extraction was executed. Complete |
+| `migration-plan-v2.md` | §7 details edits to the content-agent pipeline (`Agents/WORKFLOW.md`, `qa-agent.md`, `SKILL.md`). Per `CLAUDE.md`, the dev team never gets access to that system |
+| `migration-plan-v1.md` | Superseded, and same exposure |
+| `EXTRACTION-PLAN.md` | Internal working doc: local folder layout and extraction mechanics |
+
+These are planning and internal-process records. Everything the developer needs is in the five
+documents above, none of which reference the content pipeline.
 
 ---
 
