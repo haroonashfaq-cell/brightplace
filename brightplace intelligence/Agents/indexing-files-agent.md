@@ -40,6 +40,20 @@ Read this before doing anything, because two of the three files are owned by the
 
 Hand-maintaining a 148-URL sitemap is how sitemaps go stale. If the sitemap is wrong, the fix is a change to the app's generator — this agent produces the evidence for that fix, not a replacement file.
 
+### Where each file actually lives
+
+There is no database. All three are produced at build time and served as static files from Vercel's CDN.
+
+| Served at | Source | Repo | Who edits it |
+|---|---|---|---|
+| `/sitemap.xml` | `app/sitemap.ts` — a generator that reads the content folder | App repo | Dev |
+| `/robots.txt` | `app/robots.ts` | App repo | Dev |
+| `/llms.txt` | `brightplace-content/llms.txt`, copied into the app's `public/` at build | **Content repo** | **Us — this agent** |
+
+**So this agent writes exactly one file: `brightplace-content/llms.txt`.** Commit it there; the next build picks it up and serves it. Never write into the app repo — we do not have commit access to it, and that separation is deliberate.
+
+For the other two, the output is a report for the dev team, not a file.
+
 ---
 
 ## Stage 1 — Establish the real URL surface
@@ -198,6 +212,12 @@ over the main site, and how to cite.]
 - [ ] Fair Housing instruction present, word for word
 - [ ] Newly published articles since the last run are considered for inclusion
 - [ ] Removed or redirected articles are gone
+
+### Where to write it
+
+`brightplace-content/llms.txt` — the content repo root, not the app repo.
+
+Commit it; the build copies it into the app's `public/` folder and serves it at `/llms.txt`. Verify after the next deploy with `curl -s https://www.brightplace.ai/llms.txt`.
 
 ---
 
