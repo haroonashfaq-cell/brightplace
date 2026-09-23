@@ -25,9 +25,33 @@ hygiene.
 
 ---
 
+## Order of work, and who owns what
+
+**Do Issues 1 and 2 as a single piece of work.** They have the same root cause and the same fix:
+`sitemap.xml` and `robots.txt` are static copies rather than generated. Replacing the copy with a
+generator resolves Issue 1 and all three sub-issues of Issue 2 at once. Treating them as two
+tickets means building the generator, then editing a file the generator overwrites.
+
+| # | Issue | Owner | Depends on |
+|---|---|---|---|
+| 1 + 2 | Generate sitemap and robots instead of copying | **Dev** | — |
+| 3 | `dateModified` before `datePublished` | **Dev** — one rule in the page generator | — |
+| 4 | `datePublished` is the migration timestamp | **Dev**, using the dates in the Appendix | Confirm where the value is set |
+| 5 | Two articles without `og:image` | **Dev** | Content may need to supply an image |
+
+Issue 4 is the only one needing a decision before work starts: if `datePublished` is read from a
+content field, the fix is a data backfill and brightplace should do it. If it is stamped at build
+time, the fix is in the generator and Dennis should do it. **Check which, then assign.** The dates
+themselves are in the Appendix either way.
+
+Issue 5 likewise: if the two articles genuinely have no hero image, someone has to make one — that
+is brightplace's job, not a code fix.
+
+---
+
 ## 🔴 Issue 1 — 22,774 property pages are missing from the sitemap
 
-**Severity: high. Do this first.**
+**Severity: high. Do this first — together with Issue 2, which shares the same fix.**
 
 ### What's wrong
 
@@ -74,6 +98,8 @@ curl -s https://www.brightplace.ai/sitemap.xml | grep -c '<loc>'  # child sitema
 ## 🟠 Issue 2 — sitemap and robots.txt are static copies, so three bugs persist
 
 Both files are byte-identical to the Webflow originals. Generating them fixes all of the below.
+
+**Do this with Issue 1, not after it.** Same root cause, same fix — one generator resolves both. Fixing these by hand first means editing files the generator will overwrite.
 
 ### 2a. Four live pages are absent from the sitemap
 
