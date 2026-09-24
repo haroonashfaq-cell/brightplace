@@ -59,7 +59,7 @@ This is not a one-piece experiment. It is a content track that should produce 2 
 A Renter's Corner piece is a first-person article by Katie, structured around the real questions a real customer asked her, with each question becoming a section heading and Katie's answer underneath as a self-contained chunk. The piece identifies its audience cohort in the title, grounds the renter character with specific biographical context, and treats the reader as a member of the same cohort.
 
 **Where it lives:** brightplace.ai/resources/[slug]
-**Webflow collection:** Resources (not Guides)
+**Collection:** Resources (not Guides) — output to `brightplace content/resources/`
 **Category:** Renter's Corner
 **Author byline:** Katie, Renter Education Lead at brightplace
 **Length:** 1,500 to 2,200 words of published body content
@@ -410,7 +410,9 @@ If any box is unchecked, the piece is not ready.
 6. **Customer consent.** If a real customer is named, confirm consent.
 7. **Completion work.** Claude Code runs the completion prompt for internal links, external links, image prompts, and data verification.
 8. **Image sourcing.**
-9. **Webflow draft.** The piece is created as a draft in the Resources collection with category Renter's Corner.
+9. **Content output.** The piece is written to `brightplace content/resources/` as
+   `.md` + `.html` + image, with `category: renter-corner` in the frontmatter. Note the
+   slug is singular. Committing it publishes, so hold until Katie signs off.
 10. **Staging push.**
 11. **Publish.**
 12. **Post-publish housekeeping.** Sitemap.xml updated. llms.txt updated.

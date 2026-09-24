@@ -1,0 +1,10 @@
+{
+  "original_prompt": "A warm editorial photograph of a small set of apartment keys on a brass ring resting on a folded cream paper document, placed on a pale wooden windowsill. The paper is completely blank with no printing, no writing and no readable words anywhere. Soft early autumn morning daylight comes through the window from the left, casting a long gentle shadow across the paper. Shallow depth of field, the keys in sharp focus, the paper and window softly blurred. Muted warm neutral palette: cream paper, pale oak, brushed metal. Clean minimal composition with generous negative space on the right. Natural light photography, editorial magazine style. Absolutely no text, no letters, no typography, no logos, no people, no signage. Shot on a 50mm lens at f/2.0.",
+  "revised_prompt": "",
+  "alt_text": "Set of apartment keys resting on a lease document beside a sunlit window",
+  "dimensions": "1200x628",
+  "size_kb": 47.1,
+  "quality": 90,
+  "format": "webp",
+  "model": "gpt-image-1"
+}

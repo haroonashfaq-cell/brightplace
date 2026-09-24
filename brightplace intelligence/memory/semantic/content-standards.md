@@ -50,10 +50,15 @@ The first 100 words must contain:
 - Never force a keyword where it reads awkwardly; if it doesn't fit, use a close variant
 - Do NOT exceed 1.5% density (keyword stuffing penalty risk)
 
-### 3.5 No Markdown Tables
-- **NEVER use markdown tables.** Webflow CMS rich text cannot render them.
-- Convert all comparison/pricing/feature data to **bold-label bullet points** instead
+### 3.5 Comparison Formatting
+- **Default to bold-label bullet points** for comparison/pricing/feature data
 - Example: `**Studio:** $2,550/mo (as of Q2 2026). Stone countertops, LVP flooring.`
+- The old hard ban existed because Webflow RichText could not render tables. Vercel
+  renders them fine, so a table is no longer a rendering failure. Bold-label bullets
+  stay the editorial default for their AEO value: each line is independently
+  extractable, where a table row often is not.
+- Relaxing this to allow tables outright is logged in `episodic/candidate-rules.md`
+  and needs the user's decision. Until then, keep using bold-label bullets.
 
 ### 3.6 URL Slug
 - Lowercase, hyphen-separated
@@ -123,11 +128,15 @@ For a standard 1,200-1,500 word article: **4-6 external links**
   1. After the first H2 (once the reader has context)
   2. After the comparison/neighborhood section (mid-article)
   3. End of article (after FAQ or as final paragraph)
-- **Two link targets:**
-  - `brightplace.ai` — use for brand mentions and general references ("learn more at brightplace.ai")
-  - `app.brightplace.ai` — use for action CTAs where the reader should search ("start searching at app.brightplace.ai")
-  - At least one CTA per article should link to `app.brightplace.ai` to drive search traffic directly to the app
-- Use informational framing only: "See what is available on brightplace" / "brightplace tracks current availability" / "Start searching at app.brightplace.ai"
+- **One domain.** `app.brightplace.ai` was merged into the main site and must never
+  appear in a link — it 308s to www and costs a needless redirect hop. Bare apex
+  `brightplace.ai` redirects too. Every href uses `https://www.brightplace.ai`.
+  Write "brightplace.ai" in link *text* where the brand reads better.
+- **Two CTA targets:**
+  - `https://www.brightplace.ai` — brand mentions and general references ("learn more at brightplace.ai")
+  - `https://www.brightplace.ai/search` — action CTAs where the reader should search ("start searching at brightplace.ai")
+  - At least one CTA per article should link to `/search` to drive search traffic
+- Use informational framing only: "See what is available on brightplace" / "brightplace tracks current availability" / "Start searching at brightplace.ai"
 - Never use: "Sign up," "Get started," "Don't wait," "Find your dream home"
 - brightplace CTAs do NOT count toward the internal link target
 

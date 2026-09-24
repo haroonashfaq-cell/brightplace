@@ -51,7 +51,10 @@ Follow every instruction below. These are non-negotiable production rules.
 
 2. **External authority links researched.** You must have 3-5 specific .gov/.edu/official URLs identified and relevant to the article topic. Web search for local government housing resources, transit authority sites, and institutional pages related to the keyword before writing. Do not leave external linking to chance during drafting.
 
-3. **CTA link targets confirmed.** Confirm which pages on brightplace.ai the 3 CTAs will point to (app.brightplace.ai for search actions, brightplace.ai for brand). Decide the CTA copy direction before drafting.
+3. **CTA link targets confirmed.** Confirm which pages the 3 CTAs will point to:
+   `https://www.brightplace.ai/search` for search actions,
+   `https://www.brightplace.ai` for brand. Never `app.brightplace.ai` — it is merged
+   into the main site and only redirects. Decide the CTA copy direction before drafting.
 
 **If any of these are missing, stop and gather them first. Writing without link targets produces articles that fail QA.**
 
@@ -89,7 +92,8 @@ Your content must be optimized for citation by AI assistants (ChatGPT, Perplexit
 
 **Comparison Tables (NEW — high citation value):**
 - Include at least one cost comparison table per article where pricing data exists.
-- Use bold-label bullet point format for comparisons (Webflow CMS renders these cleanly). Format:
+- Use bold-label bullet point format for comparisons — each line is independently
+  extractable by an AI retriever, where a table row often is not. Format:
   - **[Option A]:** $X-$Y/mo (as of Q[N] YYYY). [Key detail]. [Tradeoff].
   - **[Option B]:** $X-$Y/mo (as of Q[N] YYYY). [Key detail]. [Tradeoff].
 - For city-by-city or feature-by-feature comparisons, include 3-8 rows of structured data.
@@ -195,7 +199,8 @@ author: brightplace
 - Numbered lists for sequential steps only.
 
 **Table / Comparison rules:**
-- Do NOT use markdown table syntax (pipe characters). Webflow CMS rich text cannot render them.
+- Default to bold-label bullets rather than markdown table syntax. Tables now render
+  (Webflow stripped them; Vercel does not), but bullets extract better for AEO.
 - Instead, use bold-label bullet point format for all comparisons, cost breakdowns, and feature grids:
   - **[Label]:** [Value]. [Detail]. [Date stamp if pricing].
 - Include at least one cost comparison section per article where pricing data exists. Pages with structured comparison data earn significantly more AI citations.
@@ -525,3 +530,34 @@ If any check fails, revise the draft before returning it. Do not flag the failur
 ### OUTPUT
 
 Return ONLY the markdown file. No commentary, no explanations, no "Here is the article" preamble. Start directly with the frontmatter block (---) and end with the schema JSON-LD blocks. The output should be copy-pasteable into a .md file without any editing of the wrapper.
+
+**Where it goes next.** Your markdown is saved to `Complete Articles/[slug].md`. Stage 6
+then derives two more files from it, so write with that in mind:
+
+| Derived file | What it takes from your draft |
+|---|---|
+| `brightplace content/resources/[slug].md` | The whole thing, frontmatter and schema intact |
+| `brightplace content/resources/[slug].html` | The **body only** — H1 and schema blocks stripped |
+
+**Format FAQ questions as `###` headings, not bold text.** They render as `<h3>`, which
+is what 82 of the 86 live Resources articles do. Bold paragraphs are a weaker boundary
+for AI extraction and are skipped by any heading-derived table of contents. Every live
+Resources body contains `<h3>`; an article with none does not match the corpus.
+
+Three consequences for how you draft:
+
+1. **Frontmatter is now the only source of truth.** There is no CMS to override it.
+   `author` must be `Katie Mikles`, not `brightplace`. Also populate `category` (one of
+   `property`, `lifestyle`, `neighborhood-guides`, `renter-advice`, `top-apartments`,
+   `renter-corner`), `summary` (first paragraph, plain text, under 300 chars) and
+   `main_image_alt`.
+2. **Keep schema in fenced blocks at the end**, clearly separated from the body, so the
+   html conversion can strip them cleanly. A schema block that leaks into the body html
+   ships a `<script>` tag the template will not accept.
+3. **Write internal links as site-relative paths** (`/resources/[slug]`). Never
+   `app.brightplace.ai` — merged into the main site — and never bare apex
+   `https://brightplace.ai`, which redirects. CTAs use
+   `https://www.brightplace.ai/search` and `https://www.brightplace.ai`.
+
+The commit publishes. There is no draft state between your output and the live site
+except QA, so the draft you return should be the one a reader sees.

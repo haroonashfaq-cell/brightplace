@@ -92,3 +92,52 @@ root cause (observed/inferred); fix; severity; status ACTIVE/RESOLVED; last seen
 - **Status:** ACTIVE
 - **Evidence:**
   - `QA Reports/what-does-700-rent-get-you-in-chicago-qa.md`
+
+## QA-007: Word-count target set before source research
+- **First seen:** 2026-09-24
+- **Last seen:** 2026-09-24
+- **Occurrence count:** 1
+- **Severity:** warning
+- **Root cause:** Stage 0 set a generic 1,600-1,900 band before the per-state source
+  research existed (observed). The finished body was 2,659 words, 40% over.
+- **Fix:** When a brief specifies a per-item research set (states, cities, properties),
+  derive the word target from item count times observed item length, not a generic band.
+  Ten primary-source state entries averaged ~55 words each with citation.
+- **Consequence if missed:** the internal-link requirement in content-standards.md 4.1
+  is length-banded, so an under-estimated target silently under-specifies links too.
+  This article needed 10-15 links, not the 7 the brief implied.
+- **Status:** ACTIVE
+- **Evidence:**
+  - `QA Reports/security-deposit-return-deadline-qa.md`
+
+## QA-008: External factual claims require primary-source verification
+- **First seen:** 2026-09-24
+- **Last seen:** 2026-09-24
+- **Occurrence count:** 1
+- **Severity:** failure (would have been, if unchecked)
+- **Root cause:** Aggregator pages and web-search summaries restate statutory figures
+  inaccurately (observed). During research a search summary asserted "60 days (Texas)"
+  for deposit return. Tex. Prop. Code 92.103, read directly, says 30 days.
+- **Fix:** For any statutory, regulatory or numeric claim, fetch the primary source and
+  read the figure. Extends QA-002 from link liveness to fact accuracy.
+- **Status:** ACTIVE
+- **Evidence:**
+  - `QA Reports/security-deposit-return-deadline-qa.md`
+
+## QA-009: Output HTML diverges from the live corpus convention
+- **First seen:** 2026-09-24
+- **Last seen:** 2026-09-24
+- **Occurrence count:** 1
+- **Severity:** failure
+- **Root cause:** FAQ questions were authored as bold markdown, rendering as
+  `<p><strong>` (observed). All 86 live Resources bodies contain `<h3>`, and 82 of 86
+  use `<h3>` for FAQ questions. The first article on the new output stack had zero.
+- **Fix:** Author FAQ questions as `###`. Compare the generated body's tag profile
+  against `migration/extract/resources/*.html` before Stage 6 is considered done.
+  Corpus norms: h2 7-9, h3 7-11, p 31-51, strong 6-30, em 0-2.
+- **Note:** a higher `<a>` count than the corpus (4-11) is expected and not a defect.
+  Current ranking-rules require 10-12 internal links plus .gov citations; the older
+  articles predate that target.
+- **Status:** ACTIVE
+- **Evidence:**
+  - `QA Reports/security-deposit-return-deadline-qa.md`

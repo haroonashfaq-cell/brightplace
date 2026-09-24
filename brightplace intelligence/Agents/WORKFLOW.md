@@ -27,7 +27,7 @@ or 1. After production, run Master Writer Teaching to persist memory and report 
 The workflow has 10 stages. Every article passes through all stages before it is considered complete.
 
 ```
-0. Content Brief Agent → 1. Pull Brief → 2. Brief Check → 2.5 Reddit Research → 3. Writing Agent → 4. QA Agent → 5. Image Prompt → 5.5 HTML Generation → 6. Webflow CMS Push → 7. GitHub Commit
+0. Content Brief Agent → 1. Pull Brief → 2. Brief Check → 2.5 Reddit Research → 3. Writing Agent → 4. QA Agent → 5. Image Prompt → 5.5 HTML Generation → 6. Content Output → 7. GitHub Commit
 ```
 
 **Stage 0 is optional when a brief already exists.** If the user provides a keyword without a brief, run Stage 0 first. If the user provides a pre-written brief, skip to Stage 1.
@@ -143,7 +143,7 @@ git pull origin main
 1. **Keyword Coverage** — Is the primary keyword right? Are secondary keywords missing? Are entities complete?
 2. **AEO/GEO Validation** — Will this article get cited by AI engines? Are sections self-contained? Are definitions extractable? Are proof points specific enough?
 3. **SERP Intent Match** — Does the format match what's ranking? Are PAA questions covered? Are content gaps genuine?
-4. **Brand & Compliance** — Title framing correct? CTAs use `app.brightplace.ai` for search actions? Internal link targets identified?
+4. **Brand & Compliance** — Title framing correct? CTAs point to `https://www.brightplace.ai/search`? Internal link targets identified?
 5. **Competitive Depth** — Enough competitor analysis? Clear differentiation strategy?
 6. **Independent Research** — Additional keywords to add? Topical authority fit?
 
@@ -212,8 +212,11 @@ Verdict: [Proceed or revise]
 - Every H2 opens with its answer in the first sentence (40-60 words)
 - **First paragraph after H1 must be 49-55 words**, structured as a standalone featured snippet answer
 - Self-contained sections (each works if extracted independently)
-- Bold-label bullet points for comparisons (NO markdown tables, NO `<ul><li>` — Webflow strips them)
-- **10+ FAQ pairs preferred** (minimum 6-8), each 40-60 words, standalone answers
+- Bold-label bullet points are the editorial preference for comparisons. `<ul><li>`
+  and `<table>` are now allowed — that ban existed only because Webflow RichText
+  stripped the tags, and Vercel does not.
+- **10+ FAQ pairs preferred** (minimum 6-8), each 40-60 words, standalone answers.
+  Write each question as an `###` heading so it renders as `<h3>`, matching the corpus.
 - **Entity density:** use `memory/semantic/ranking-rules.md` targets naturally
 
 ### Ranking Optimization (apply to every article)
@@ -223,8 +226,13 @@ Verdict: [Proceed or revise]
 - **Question-format H2s** are an editorial target per `memory/semantic/ranking-rules.md`
 
 ### Links
-- `brightplace.ai` for brand mentions
-- `app.brightplace.ai` for search-action CTAs (NEVER both in the same line)
+- One domain. `app.brightplace.ai` is merged into the main site and **must never
+  appear in a link** — it 308s to www and costs a needless redirect hop.
+- Canonical host in every href: `https://www.brightplace.ai`. Bare apex
+  `https://brightplace.ai` also 308s to www. Write "brightplace.ai" in link *text*
+  where the brand reads better; the href stays `www`.
+- Search-action CTAs → `https://www.brightplace.ai/search`
+- Brand mentions → `https://www.brightplace.ai`
 - 3 CTAs: after first H2, mid-article, end of article
 - Internal links use `https://www.brightplace.ai/resources/[slug]` or `https://www.brightplace.ai/guides/[slug]`
 - NEVER use `/knowledgebase/` path (legacy, causes 404s)
@@ -250,7 +258,11 @@ Verdict: [Proceed or revise]
 
 ## Stage 4: QA Agent (FULL — ALL SECTIONS)
 
-**Purpose:** Catch every issue before the article goes to Webflow. This is the gate. Nothing passes without a full QA.
+**Purpose:** Catch every issue before the article goes to `brightplace content/`. This is the gate. Nothing passes without a full QA.
+
+This gate matters more than it used to. Under Webflow, a push created a draft a human
+still had to publish. Now the commit goes straight live, so QA is the last human-proof
+checkpoint before readers see it.
 
 **Agent file:** `brightplace intelligence/Agents/qa-agent.md`
 
@@ -266,7 +278,7 @@ Verdict: [Proceed or revise]
 - SEO title under 60 chars and DIFFERENT from H1
 - Heading hierarchy (one H1, H2s, H3s)
 - H2 opening rule (answer first)
-- No markdown tables
+- Body html carries no `<h1>` and no `<script>`
 - Date stamps on all figures
 - FAQ section (6-8 pairs, 40-60 words each)
 - All 3 schemas present with correct URLs
@@ -283,15 +295,23 @@ Verdict: [Proceed or revise]
 - Show the math
 
 ### Section 5: Link Audit (CRITICAL — DO NOT SKIP)
-- **Internal links:** List every brightplace.ai link. Verify against sitemap. REJECT any `/knowledgebase/` path. REJECT known non-existent URLs.
+- **Internal links:** List every brightplace.ai link. Verify against
+  `https://www.brightplace.ai/sitemaps/content.xml` — **not** `/sitemap.xml`, which is
+  now an index and contains no article URLs. REJECT any `/knowledgebase/` path. REJECT
+  any `app.brightplace.ai` host. REJECT known non-existent URLs.
 - **External links:** List every non-brightplace link. REJECT banned sources. REJECT known broken URLs from the QA agent's broken URL list. Flag any .gov/.edu link not on the approved list for manual verification.
-- **CTA links:** Count and verify app.brightplace.ai usage.
+- **CTA links:** Count them and verify each points to `https://www.brightplace.ai/search`
+  or `https://www.brightplace.ai`. Any `app.brightplace.ai` is a FAIL.
 
 ### Section 6: Infrastructure Checks (CRITICAL — DO NOT SKIP)
 - No `http://` links (all must be `https://`)
+- No `app.brightplace.ai` anywhere (body, schema, frontmatter) — merged into the main site
 - No legacy `/knowledgebase/` paths anywhere (body, schema, frontmatter)
 - Frontmatter consistency (slug, dates, schema_types)
 - External link freshness (check against approved list)
+- **Output file set** — all three files present (`.md`, `.html`, image), body html has
+  no `<h1>` and no `<script>`, no stray `<head>`/`<body>`/`<style>`/`<base>` tags,
+  correct collection folder
 
 **Output format:**
 ```
@@ -351,7 +371,16 @@ python3 "SUPER SEO Agents/generate-image.py" \
 
 ## Stage 5.5: HTML Generation (Production-Ready File)
 
-**Purpose:** Convert the final enriched markdown article (stage 09) into a standalone, production-ready HTML file that can be deployed directly to a site. This is the "ready to go live" artifact.
+**Purpose:** Convert the final enriched markdown article (stage 09) into a standalone, self-contained HTML file with its own head, schema and CSS.
+
+⚠️ **This is no longer the publishing artifact for brightplace.ai.** Stage 6 output is.
+The Vercel template now builds the head, canonical, Open Graph and JSON-LD from
+frontmatter, so a standalone page is redundant for brightplace content — it duplicates
+what the template already does, and a stale copy is worse than none.
+
+Keep running this stage for the **AIR Operator pipeline**, where it remains Stage 10 and
+is genuinely the deliverable. For brightplace.ai articles it is optional: useful for an
+offline preview, never the thing that ships.
 
 **Script:** `AIR operator/generate-html.py`
 
@@ -389,7 +418,6 @@ Body section:
 - FAQ section wrapped in `<section class="faq-section" aria-label="Frequently Asked Questions">` (speakable spec target)
 - "Last reviewed: [Month Year]" in `<footer class="article-footer">`
 - Word count in HTML comment for reference
-- No `<ul>/<li>` tags (Webflow-safe)
 - Single H1 only
 - All external links use `target="_blank" rel="noopener"`
 - Mobile-responsive CSS (breakpoint at 640px)
@@ -404,53 +432,124 @@ Body section:
 
 ---
 
-## Stage 6: Webflow CMS Push
+## Stage 6: Content Output
 
-**Purpose:** Create or update the article as a draft in Webflow CMS.
+**Purpose:** Write the finished article as the three-file set that GitHub ships to the
+live site. This replaces the Webflow CMS push. There is no CMS, no API call and no MCP
+call in the publishing path any more.
 
-**Collection:** Resources, per `memory/semantic/cms-config.md`.
+```
+Stage 6 writes files → Stage 7 commits → GitHub → Vercel build → live
+```
 
-**Process:**
-1. Convert markdown to HTML using Python markdown module
-2. Save HTML to `Webflow CMS Data/[slug].html`
-3. Save CMS JSON to `Webflow CMS Data/[slug].json`
-4. Push to Webflow CMS via MCP as draft (isDraft: true)
-5. If post-body doesn't go through on create, update the item with full HTML in a second call
+**Destination:** `brightplace content/<collection>/`
 
-**CMS configuration:** Read `memory/semantic/cms-config.md` for field mapping,
-author/category IDs, HTML rules, and draft-only policy. Never copy configuration into prompts.
+```
+brightplace content/
+├── guides/      → www.brightplace.ai/guides/<slug>     (RESTRICTED — do not write here)
+├── news/        → www.brightplace.ai/news/<slug>       (announcements, explicit tasks only)
+└── resources/   → www.brightplace.ai/resources/<slug>  (all new content — the default)
+```
 
-**If Webflow MCP is unavailable:**
-- Save the HTML and JSON files locally
-- Tell the user the CMS files are ready for manual upload
-- Do NOT block the workflow
+The folder name is the URL prefix. The file name is the URL segment.
+
+**Configuration:** read `memory/semantic/cms-config.md` for the full frontmatter
+schema, body rules, category slugs and routing. Never copy configuration into prompts.
+
+**Process — write three files, one slug:**
+
+### 1. `brightplace content/resources/[slug].md`
+
+The full article with YAML frontmatter. This is the archival record and the source of
+every value the page template renders.
+
+```yaml
+---
+title: "..."                     # renders as the <h1>
+seo_title: "... | brightplace"   # <title>. Must differ from title. Under 60 chars.
+meta_description: "..."          # under 155 chars
+slug: ...                        # matches the file name and the URL segment
+primary_keyword: "..."
+secondary_keywords: ["...", "..."]
+schema_types: ["Article", "FAQPage", "WebPage"]
+word_count_target: "1,100-1,300"
+last_reviewed: "Month YYYY"
+date_published: YYYY-MM-DD
+date_modified: YYYY-MM-DD
+author: Katie Mikles
+category: ...                    # property | lifestyle | neighborhood-guides |
+                                 # renter-advice | top-apartments | renter-corner
+summary: "..."                   # first paragraph, plain text, under 300 chars
+main_image_alt: "..."            # alt text from Stage 5
+---
+```
+
+⚠️ **`author` is `Katie Mikles`, not `brightplace`.** Webflow used to override the
+draft's placeholder byline on publish. Nothing overrides it now — the frontmatter is
+the only source. Writing `brightplace` there publishes a wrong byline.
+
+### 2. `brightplace content/resources/[slug].html`
+
+The body only, as a fragment.
+
+- **No `<h1>`.** The template supplies it from `title`. A body with an `<h1>` puts two
+  on the page and fails QA Section 2.
+- Opens with `<p><em>Last reviewed: Month YYYY</em></p>`, then the first `<h2>`.
+- **FAQ questions are `<h3>`, not bold paragraphs.** 82 of the 86 live Resources bodies
+  do this, and all 86 contain `<h3>` somewhere. Write them as `###` in the markdown.
+- **No `<script>`.** Keep the JSON-LD in the `.md`; the template server-renders schema
+  from frontmatter. Never carry a schema block into the body html.
+- No `<head>`, `<body>`, `<style>`, `<base>`, no frontmatter, no internal review notes.
+- Internal links **site-relative** (`/resources/[slug]`), never absolute apex or `app.`.
+- `<ul><li>` and `<table>` are now allowed — that ban existed only because Webflow
+  RichText stripped them. Bold-label bullets remain the editorial preference for
+  comparisons, but lists no longer break the page.
+
+### 3. `brightplace content/resources/[slug].<ext>`
+
+The featured image from Stage 5, named by slug. `png`, `jpg`, `jpeg` or `webp`.
+1200 x 628, under 200KB, no people visible.
+
+**The user no longer adds the featured image separately.** It ships in the commit.
+
+The live URL is `https://www.brightplace.ai/content/<collection>/<slug>.<ext>` — note
+`/content/` in the path, not `/resources/<slug>.<ext>`, which 404s. Both `.png` and
+`.webp` serve. Put that absolute URL in `main_image` and in the Article schema `image`.
+
+**There is no draft state.** An article is live once committed and built. Anything not
+ready to publish stays out of `brightplace content/` and waits in `Complete Articles/`.
 
 ---
 
 ## Stage 7: GitHub Commit
 
-**Purpose:** Version control all content files.
+**Purpose:** Publish. On the new stack, the commit *is* the publication — merging to
+`main` triggers the Vercel build that puts the article on the live site.
 
-**Only commit when the user explicitly asks.**
+**Only commit when the user explicitly asks.** This carries more weight than it used to:
+under Webflow a push created a draft that a human still had to publish. A commit here
+goes live.
 
 **What to commit:**
-- `Complete Articles/[slug].md`
-- `Webflow CMS Data/[slug].html`
-- `Webflow CMS Data/[slug].json`
+- `brightplace content/resources/[slug].md`
+- `brightplace content/resources/[slug].html`
+- `brightplace content/resources/[slug].<ext>`
+- `Complete Articles/[slug].md` (the working draft, kept for history)
 
 **Commit message format:**
 ```
-Add [article title] knowledgebase article
+Add [article title] to resources
 
 - [word count] words, QA passed all checks
 - [number] content gaps filled: [list them]
-- [number] FAQ pairs, [number] CTAs, all schemas use /resources/ path
-- Drafted to Webflow CMS as draft
+- [number] FAQ pairs, [number] CTAs, all URLs use /resources/ path
+- Published to brightplace content/resources/
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>
+Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>
 ```
 
-**If GitHub token is expired:** Tell the user to update it. Do not attempt to push with a bad token.
+**If the GitHub token is expired:** tell the user to update it. Do not attempt to push
+with a bad token.
 
 ---
 
@@ -480,7 +579,7 @@ Property articles follow the same 8-stage workflow as all other content, with th
 
 **Stage 4 (QA):** Run all 6 standard QA sections PLUS the 6 property-specific self-review checks (items 25-30 in the writing agent checklist). Verify that pet, amenity, parking, and walkability sections contain specific data, not vague claims.
 
-**Stages 5-7:** No changes. Same image prompt, CMS push, and commit process.
+**Stages 5-7:** No changes. Same image prompt, content output, and commit process.
 
 ---
 
@@ -502,8 +601,8 @@ and validation rules. Check `memory/episodic/link-failures.md` for newer evidenc
 3. **QA** → Run FULL qa-agent.md (ALL 6 sections including link audit)
 4. **Image** → Generate 3 image prompts with alt text
 4.5. **HTML** → Run `generate-html.py` to create production-ready HTML (stage 10 file)
-5. **Webflow** → Push to CMS as draft
-6. **Commit** → Only when user says "push to GitHub"
+5. **Output** → Write `.md` + `.html` + image to `brightplace content/resources/`
+6. **Commit** → Only when user says "push to GitHub". The commit publishes.
 
 **When the user gives you a PRE-WRITTEN BRIEF:**
 
@@ -514,8 +613,8 @@ and validation rules. Check `memory/episodic/link-failures.md` for newer evidenc
 4. **QA** → Run FULL qa-agent.md (ALL 6 sections including link audit)
 5. **Image** → Generate 3 image prompts with alt text
 5.5. **HTML** → Run `generate-html.py` to create production-ready HTML (stage 10 file)
-6. **Webflow** → Push to CMS as draft
-7. **Commit** → Only when user says "push to GitHub"
+6. **Output** → Write `.md` + `.html` + image to `brightplace content/resources/`
+7. **Commit** → Only when user says "push to GitHub". The commit publishes.
 
 If any stage fails, fix and re-run that stage before proceeding. Never skip a stage.
 

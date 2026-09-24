@@ -116,25 +116,38 @@ Generate 3 image prompt options:
 - Warm editorial photography style
 - Include alt text and file name
 
-### STAGE 6: Webflow CMS Push
+### STAGE 6: Content Output
 
-1. Convert markdown to HTML using Python:
-   - Remove frontmatter and schema sections
-   - Remove H1 (Webflow uses `name` field)
-   - Remove "Last reviewed" italic line
-   - Convert `<ul><li>` to `<p><strong>Label:</strong> text</p>`
-   - No `<h1>`, `<script>` tags
+Webflow is retired. There is no CMS push, no API call and no MCP call. Write three
+files and Stage 7 commits them; the commit is what publishes.
 
-2. Save HTML to `brightplace intelligence/Webflow CMS Data/[slug].html`
+Read `memory/semantic/cms-config.md` for the full schema. Routing is unchanged: all new
+resource, property and neighborhood articles go to `resources/`. `guides/` is restricted.
 
-3. Push to Webflow CMS:
-   - Read `memory/semantic/cms-config.md` for routing/IDs; new neighborhood articles also go to Resources, not Guides.
-   - Use `mcp__webflow__data_cms_tool`
-   - Create or update the item as DRAFT (isDraft: true) - do NOT publish
-   - Fields: name, slug, post-body, post-summary, seo-title, meta-description, focus-keyword
-   - DO NOT publish. The user needs to add the featured image before publishing.
+Write to `brightplace content/resources/`:
 
-4. Report draft URL and tell the user: "Draft ready on Webflow. Add your featured image and publish when ready."
+1. **`[slug].md`** — full article with YAML frontmatter: `title`, `seo_title`,
+   `meta_description`, `slug`, `primary_keyword`, `secondary_keywords`, `schema_types`,
+   `word_count_target`, `last_reviewed`, `date_published`, `date_modified`,
+   `author: Katie Mikles`, `category`, `summary`, `main_image_alt`.
+
+   ⚠️ `author` is **Katie Mikles**, not `brightplace`. Webflow used to override the
+   draft placeholder on publish; nothing overrides it now.
+
+2. **`[slug].html`** — body only, a fragment:
+   - Remove frontmatter and schema sections (schema stays in the `.md`; the template
+     server-renders it from frontmatter)
+   - Remove the H1 — the template supplies it from `title`. Two H1s fails QA.
+   - Keep the `<p><em>Last reviewed: Month YYYY</em></p>` line as the opener
+   - `<ul><li>` and `<table>` are allowed now; Webflow stripped them, Vercel does not
+   - No `<h1>`, `<script>`, `<head>`, `<body>`, `<style>` or `<base>` tags
+   - Internal links site-relative: `/resources/[slug]`
+
+3. **`[slug].<ext>`** — the Stage 5 featured image, named by slug, 1200 x 628.
+   The user no longer adds it separately; it ships in the commit.
+
+4. Tell the user the three files are ready in `brightplace content/resources/` and that
+   committing them publishes to the live site.
 
 ---
 
@@ -262,7 +275,7 @@ STAGE 2     → Reddit research
 STAGE 3     → Write article
 STAGE 4     → Full QA (all 6 sections)
 STAGE 5     → Image prompts
-STAGE 6     → Webflow draft push
+STAGE 6     → Content output (.md + .html + image)
 POST-PROD   → Score, analyze, compare to competitors
 TEACHING    → Write memory and candidate rules, output teaching report
 ```

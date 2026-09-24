@@ -132,7 +132,9 @@ The default expert is Katie. If the transcript names a different interviewer, ma
 6. **Compliance scan** (Gate 3). Paste the actual scan output into the chat so the gate is visible.
 7. **Build the deliverable** (see Deliverables).
 8. **Append internal production notes** (not published): source reality status, expert mapping, every Fair Housing and compliance edit traced to a named rule, date-stamp note, and the SEO/AEO elements included. QA at brightplace is rule-based, not judgment-based, so every change must cite its rule.
-9. **Stop at draft.** Output is for Katie's sign-off. Do not push to Webflow, send, or publish without explicit human approval.
+9. **Stop at draft.** Output is for Katie's sign-off. Do not write to
+   `brightplace content/`, commit, send, or publish without explicit human approval.
+   The commit is what publishes now, so there is no draft state to fall back on.
 
 ## Deliverables
 

@@ -369,9 +369,11 @@ Compile all data from Steps 1-5 into the output format below.
 [... 3-5 external links, all verified not on broken URL list ...]
 
 ## CTA Strategy
-1. **After first H2:** [CTA copy] -> app.brightplace.ai
-2. **Mid-article:** [CTA copy] -> brightplace.ai or app.brightplace.ai
-3. **End of article:** [CTA copy] -> app.brightplace.ai
+1. **After first H2:** [CTA copy] -> https://www.brightplace.ai/search
+2. **Mid-article:** [CTA copy] -> https://www.brightplace.ai or /search
+3. **End of article:** [CTA copy] -> https://www.brightplace.ai/search
+
+`app.brightplace.ai` is merged into the main site. Never plan a CTA against it.
 
 ---
 
@@ -439,7 +441,9 @@ These rules apply to ALL brightplace briefs. They come from the content-writing-
 
 - **Title rules:** No superlatives, no ranking language, no "Top X," "Best," "Ultimate Guide"
 - **URL path:** Always `/resources/[slug]` — NEVER `/knowledgebase/`
-- **CTA targets:** `app.brightplace.ai` for search actions, `brightplace.ai` for brand
+- **CTA targets:** `https://www.brightplace.ai/search` for search actions,
+  `https://www.brightplace.ai` for brand. Never `app.brightplace.ai` — it is merged
+  into the main site and only redirects.
 - **Banned sources:** Never plan links to Apartments.com, Zillow, Trulia, Yelp, Reddit, Walk Score, or any source in the banned list
 - **Fair Housing:** Never plan sections that describe neighborhoods by demographics. Infrastructure only.
 - **10+ FAQ pairs preferred** (minimum 6-8)

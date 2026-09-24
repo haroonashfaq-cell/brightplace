@@ -86,10 +86,12 @@ Skip this section entirely if content_type is "renters-corner".
 - Every H2 section must open with its key answer in the first sentence (40-60 words).
 - **Report:** PASS or FAIL. Quote the first sentence of each H2 that violates.
 
-### 2.7 No Markdown Tables
-- The published body must NOT contain markdown tables. Webflow CMS rich text cannot render them.
-- All comparison/pricing/feature data should use bold-label bullet points instead.
-- **Report:** PASS or FAIL. Note line numbers of any tables.
+### 2.7 Comparison Formatting
+- Comparison/pricing/feature data should use bold-label bullet points.
+- A markdown table is no longer a rendering failure — Webflow stripped tables, Vercel
+  renders them. Report a table as **IMPROVE**, not FAIL, and note why bullets read
+  better for AEO extraction.
+- **Report:** PASS or IMPROVE. Note line numbers of any tables.
 
 ### 2.8 Date Stamps
 - Every dollar figure, rent range, statistic, or time-sensitive claim must include "(as of Q[N] YYYY)" adjacent to the claim.
@@ -349,7 +351,15 @@ These checks prevent the recurring infrastructure bugs that have cost ranking an
 
 ### 6.1 No HTTP Links
 - Every link in the article body (internal and external) must use `https://`, never `http://`.
-- This includes brightplace URLs (`https://brightplace.ai`, `https://app.brightplace.ai`, `https://mcp.brightplace.ai`, `https://docs.brightplace.ai`).
+- This includes brightplace URLs (`https://www.brightplace.ai`, `https://mcp.brightplace.ai`, `https://docs.brightplace.ai`).
+
+### 6.1b No app.brightplace.ai
+- `app.brightplace.ai` is merged into the main site. Any occurrence in the body,
+  schema or frontmatter is a **FAIL** — it 308s to www and costs a redirect hop.
+- Bare apex `https://brightplace.ai` in an `href` also redirects. Prefer
+  `https://www.brightplace.ai` or a site-relative path. Link *text* may read
+  "brightplace.ai".
+- **Report:** PASS or FAIL. List every occurrence with its replacement.
 - **Report:** PASS or FAIL. List any http:// links found.
 
 ### 6.2 No Legacy Path References
@@ -358,10 +368,18 @@ These checks prevent the recurring infrastructure bugs that have cost ranking an
 - **Report:** PASS or FAIL. List any legacy path references.
 
 ### 6.3 Frontmatter Consistency
-- The `slug` in frontmatter must match the intended CMS slug.
+- The `slug` in frontmatter must match the output file name and the URL segment.
 - The `date_published` and `date_modified` must be valid dates.
 - The `schema_types` must include at minimum `["Article", "FAQPage"]`.
-- If a `canonical_url` is present, it must point to `https://brightplace.ai/resources/[slug]` using the same slug from frontmatter.
+- `author` must be `Katie Mikles`, not `brightplace`. Webflow used to override the
+  draft placeholder on publish; nothing overrides it now, so `brightplace` here
+  publishes a wrong byline. **This is a FAIL.**
+- `category` must be one of `property`, `lifestyle`, `neighborhood-guides`,
+  `renter-advice`, `top-apartments`, `renter-corner`. Note `renter-corner` is
+  singular in the slug.
+- `summary` and `main_image_alt` must be present.
+- If a `canonical_url` is present, it must point to
+  `https://www.brightplace.ai/resources/[slug]` using the same slug from frontmatter.
 - **Report:** PASS or FAIL. Note any inconsistencies.
 
 ### 6.4 External Link Freshness
@@ -370,6 +388,31 @@ These checks prevent the recurring infrastructure bugs that have cost ranking an
 - An old approved list is not proof of current availability. Verify URLs before use;
   an unverified or bot-blocked target is WARNING, not automatically a dead domain.
 - **Report:** PASS, FAIL, or WARNING with evidence and verification date.
+### 6.5 Output File Set
+
+Run this when the article has been written to `brightplace content/<collection>/`.
+It is the last check before a commit puts the article on the live site.
+
+- **All three files present:** `[slug].md`, `[slug].html`, and the image
+  (`.png`/`.jpg`/`.jpeg`/`.webp`), all sharing one slug. A missing image ships an
+  empty `og:image`.
+- **Body html has no `<h1>`.** The template supplies it from `title`. An `<h1>` in the
+  body puts two on the page. **FAIL.**
+- **Body html has no `<script>`.** Schema is server-rendered from frontmatter. A
+  JSON-LD block that leaked from the markdown into the body is a **FAIL**.
+- **No stray document tags:** `<head>`, `<body>`, `<style>`, `<base>`, or
+  `<div data-rt-embed-type='true'>` wrappers. These are Webflow-era artifacts that
+  produce invalid markup and leaking CSS. **FAIL.**
+- **Body opens** with `<p><em>Last reviewed: Month YYYY</em></p>`, then the first `<h2>`.
+- **`<h3>` subheadings present.** All 86 live Resources bodies contain `<h3>`; the
+  corpus range is 7 to 11. FAQ questions must be `<h3>`, not `<p><strong>`, which is
+  the convention in 82 of 86. An output body with zero `<h3>` is a **FAIL**.
+- **FAQ schema questions match the rendered `<h3>` text verbatim**, in the same order.
+- **Internal links are site-relative** (`/resources/[slug]`), not absolute apex and
+  never `app.brightplace.ai`.
+- **Collection is correct.** New content goes to `resources/`. Writing to `guides/`
+  without explicit user instruction is a **FAIL**.
+- **Report:** PASS or FAIL per item. List every file written with its full path.
 
 ## POST-QA MEMORY WRITE
 

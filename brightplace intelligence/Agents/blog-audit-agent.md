@@ -68,8 +68,9 @@ For each article, extract ALL links (internal and external) and check each one:
    - Uses correct path (`/resources/` not `/knowledgebase/`)
    - Does not appear on the known broken URL list in MEMORY.md
    - Uses `https://` (not `http://`)
-   - Uses correct domain (`brightplace.ai` or `www.brightplace.ai`)
-   - CTA links: `app.brightplace.ai` for search actions, `brightplace.ai` for brand
+   - Uses `https://www.brightplace.ai` as the host, or a site-relative path
+   - **Flags any `app.brightplace.ai`** — merged into the main site, redirects only
+   - CTA links: `/search` for search actions, site root for brand
 
 2. **External links** -- Fetch each URL and verify:
    - Site is still live and returning content
@@ -136,27 +137,43 @@ Fair Housing: [OK / CONCERN at line X]
 
 ---
 
-### Section 5: Webflow HTML Check
+### Section 5: Output File Check
 
-For each article that has a corresponding file in `Webflow CMS Data/`:
+For each article with a file set in `brightplace content/<collection>/`:
 
-1. **`<ul><li>` tags** -- Webflow RichText strips these. Content will disappear. Flag all instances. Convert to `<p><strong>Label:</strong> text</p>` format.
-2. **`<ol><li>` tags** -- OK for numbered lists only. Verify they are truly numbered content.
-3. **`<h1>` in post-body** -- Not allowed (Webflow uses the `name` field). Flag any `<h1>` tags.
-4. **`<script>` tags** -- Webflow strips these from RichText. Flag any embedded scripts.
+1. **All three files present** -- `[slug].md`, `[slug].html`, and an image
+   (`.png`/`.jpg`/`.jpeg`/`.webp`). A missing image means the page ships without a
+   hero and an empty `og:image`. Flag any incomplete set.
+2. **`<h1>` in the body html** -- Not allowed. The template supplies the H1 from
+   `title`. Any `<h1>` puts two on the page. Flag it.
+3. **`<script>` tags in the body html** -- Not allowed. Schema is server-rendered from
+   frontmatter. Flag any embedded script, including JSON-LD blocks that leaked in.
+4. **Stray document tags** -- `<head>`, `<body>`, `<style>`, `<base>`, or
+   `<div data-rt-embed-type='true'>` wrappers. All are Webflow-era artifacts that
+   produce invalid markup and leaking CSS. Flag any.
 5. **`http://` links** -- All links must use `https://`. Flag any `http://`.
-6. **`/knowledgebase/` paths** -- Must be `/resources/`. Flag legacy paths.
-7. **HTML/JSON consistency** -- Does the HTML content match the markdown article? Flag if the markdown has been updated but Webflow files have not.
+6. **`app.brightplace.ai`** -- Merged into the main site. Flag every occurrence; each
+   one costs a redirect hop.
+7. **`/knowledgebase/` paths** -- Must be `/resources/`. Flag legacy paths.
+8. **Frontmatter completeness** -- `title`, `seo_title` (distinct from title),
+   `meta_description`, `slug` (matching the file name), `author: Katie Mikles`,
+   `category`, `summary`, `main_image_alt`, both dates. Flag anything missing, and
+   flag `author: brightplace` specifically -- nothing overrides it now.
+9. **Output matches the draft** -- Does `brightplace content/` match
+   `Complete Articles/[slug].md`? Flag if the draft was updated but the output was not.
 
 **Output format:**
 ```
-WEBFLOW AUDIT: [article-slug]
-<ul><li> tags: [OK / FOUND X instances -- content may be invisible]
-<h1> tags: [OK / FOUND]
-<script> tags: [OK / FOUND]
+OUTPUT AUDIT: [article-slug]
+File set complete: [YES / MISSING: .md | .html | image]
+<h1> in body: [OK / FOUND]
+<script> in body: [OK / FOUND]
+Stray head/body/style/base/embed tags: [OK / FOUND X instances]
 http:// links: [OK / FOUND at X locations]
-Legacy paths: [OK / FOUND X instances]
-HTML matches markdown: [YES / NO -- markdown updated on [date], HTML last updated [date]]
+app.brightplace.ai: [OK / FOUND X instances]
+Legacy /knowledgebase/ paths: [OK / FOUND X instances]
+Frontmatter: [COMPLETE / MISSING: field, field]
+Output matches draft: [YES / NO -- draft updated [date], output last updated [date]]
 ```
 
 ---
@@ -331,7 +348,7 @@ Review changes: [SIGNIFICANT / MINOR / NONE]
 
 After running all 8 sections, assign a priority score:
 
-- **P0 (Critical -- fix within 24 hours):** Broken internal links, property name changes, closed properties, content disappearing due to Webflow HTML issues, keyword becoming obsolete (property renamed), rent prices off by 20%+, employer/business we reference has closed
+- **P0 (Critical -- fix within 24 hours):** Broken internal links, property name changes, closed properties, content disappearing due to malformed output html, keyword becoming obsolete (property renamed), rent prices off by 20%+, employer/business we reference has closed
 - **P1 (High -- fix within 1 week):** Pricing data more than 2 quarters stale, fewer than 6 FAQs, SEO title identical to H1, brand violations, search intent shifted (SERP now shows different content type), AI Overview contradicts our data, competitors have substantially fresher content
 - **P2 (Medium -- fix within 1 month):** Pricing data 1-2 quarters stale, fewer than 10 FAQs, declarative H2 headings, missing internal links, new competitor content, 3+ uncovered PAA questions, market narrative outdated, new transit/infrastructure not mentioned
 - **P3 (Low -- fix in next content cycle):** Minor freshness updates, entity density optimization, schema mismatches, 1-2 uncovered PAA questions, minor price drift (<10%), new development to mention
@@ -374,8 +391,8 @@ Read the blog audit agent at Agents/blog-audit-agent.md, then run a full
 portfolio audit across every article in Complete Articles/. For each article:
 
 1. Read the markdown file
-2. Check for a matching Webflow CMS Data file
-3. Run all 8 audit sections (Freshness, Links, SEO, Brand, Webflow, Keywords/SERP, Data Accuracy, Content Gaps)
+2. Check for a matching file set in `brightplace content/<collection>/`
+3. Run all 8 audit sections (Freshness, Links, SEO, Brand, Output Files, Keywords/SERP, Data Accuracy, Content Gaps)
 4. Assign a priority score
 5. Output the batch summary table
 

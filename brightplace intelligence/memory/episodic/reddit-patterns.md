@@ -212,3 +212,30 @@ Not separately documented; read the source report.
 3. **Deposit escalation shock:** Scores 580-620 result in 2-3 months' deposit requests ($3,000-$6,000 upfront in mid-range markets).
 4. **No-credit vs. bad-credit conflation:** First-time renters with no credit treated same as bad credit.
 5. **3x income gatekeeping:** Even decent credit (650+) denied for not meeting income threshold.
+
+## RED-011: security-deposit-return
+- **Theme/scope:** security-deposit-return; national, not property-specific.
+- **First seen:** 2026-09-24
+- **Articles found in / evidence:** `Reddit Research/security-deposit-return-deadline-reddit-research.md`
+- **Verified distinct source threads:** 3 (renter forum posts). Search tooling did not
+  honour site:reddit.com filtering, so sourcing is weaker than a standard run.
+- **Dedup eligible:** NO. Below the 3-distinct-thread bar per sub-theme. The next
+  deposit article must research again rather than reuse this.
+
+### Renter language (report excerpts; internal only)
+- Renters say **"deposit"** or **"my deposit"**, rarely "security deposit" in full
+- Renters say **"they kept it"**, not "wrongful retention"
+- Renters say **"ghosted me"** for landlord non-response
+- Renters say **"wear and tear"** often but cannot define where the line falls
+- Renters say **"itemized list"** because that is the phrase on the letter they received
+- Renters ask **"is it worth it"** about small claims, in those exact words
+
+### Pain points (report excerpts; internal only)
+1. **Silence, not unfairness.** The most common complaint is no response at all, not an
+   unfair deduction. Renters do not know whether the clock has run.
+2. **The forwarding-address trap.** Renters call or text the new address and assume it
+   counts. Several states require writing, and missing it can forfeit the claim.
+3. **Cleaning and painting charges** perceived as the default quiet deduction.
+4. **Itemisation without receipts** sensed as inadequate but not known to be insufficient.
+5. **"Is it worth it."** Renters drop valid claims without knowing small claims is cheap,
+   needs no lawyer, and that penalty multipliers can double or triple the amount.

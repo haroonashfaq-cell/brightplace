@@ -157,7 +157,8 @@ These are legal, health, or dispute situations where an apartment search platfor
 - NEVER use shortened URLs
 - NEVER use tracking parameters
 - Use the full URL: `https://www.brightplace.ai/resources/[slug]`
-- For app links: `https://app.brightplace.ai`
+- For search links: `https://www.brightplace.ai/search` (`app.brightplace.ai` is
+  merged into the main site and only redirects)
 - Never link more than once per answer
 - Place the link at the END of your answer, after the helpful content
 

@@ -138,7 +138,9 @@ A new evidenced procedural gap becomes a PENDING candidate in
 
 ### 4c. CTA Strategy
 - Does the brief specify 3 CTA placements?
-- Does it use both brightplace.ai (brand) and app.brightplace.ai (search action)?
+- Do the CTAs target `https://www.brightplace.ai` (brand) and
+  `https://www.brightplace.ai/search` (search action)? Any `app.brightplace.ai` is a
+  FAIL — that subdomain is merged into the main site and only redirects.
 - Is the CTA language informational, not promotional?
 - **Report:** PASS or IMPROVE.
 

@@ -146,7 +146,7 @@ Allow: /
 Sitemap: https://www.brightplace.ai/sitemap.xml
 ```
 
-**Why name the AI crawlers explicitly** when `User-agent: *` already allows them: it is a deliberate signal for an AI-visibility product, it survives a future change to any crawler's default behaviour, and `app.brightplace.ai` already does it. Consistency across the estate is worth the extra lines.
+**Why name the AI crawlers explicitly** when `User-agent: *` already allows them: it is a deliberate statement for an AI-visibility product, and it survives a future change to any crawler's default behaviour. The live `robots.txt` names 13 of them. Consistency across the estate is worth the extra lines.
 
 **Checks:**
 
