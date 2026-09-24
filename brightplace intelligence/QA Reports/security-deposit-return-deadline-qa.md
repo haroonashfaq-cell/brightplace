@@ -40,7 +40,7 @@ Memory read: `semantic/brand-rules.md`, `semantic/link-registry.md`,
 | All H2s question-format | PASS (8 of 9; "Frequently Asked Questions" is the standard exception) | PASS |
 | H2 opens with answer | PASS | PASS |
 | Keyword density | PASS (0.50%, cap 1.5%) | PASS |
-| No markdown tables in body | PASS (0) | PASS |
+| Comparison formatting (§2.7) | n/a | PASS — see revision note |
 | Date stamps on figures | PASS | PASS |
 | FAQ pairs 10+ | PASS (12) | PASS |
 | Word count within brief target | **FAIL (2,659 vs 1,600–1,900)** | PASS (target corrected, see below) |
@@ -55,7 +55,7 @@ The body came in at 2,659 words against a brief target of 1,600–1,900.
 verified statutory detail plus twelve FAQ pairs. Cutting to 1,900 would mean dropping
 three or four states, which removes the article's entire differentiator, since
 multi-state coverage is the gap the brief identified. `word_count_target` in frontmatter
-updated to 2,400–2,800.
+updated to 2,400–2,800. Final body is 2,882 words after the revision below.
 
 **Brief-side lesson:** Stage 0 estimated word count before the source research was done.
 Ten primary-source state entries average about 55 words each with citation. A brief that
@@ -315,3 +315,34 @@ documented. Nothing is outstanding for the developer.
 QA-008 (external facts require primary-source verification, extending QA-002),
 QA-009 (output HTML must match the live corpus tag convention),
 candidate rule on YMYL disclaimers, RED-011 in `reddit-patterns.md`.
+
+---
+
+## Revision, 2026-09-24 (post-promotion of CAND-2026-09-24-tables)
+
+The user promoted the tables candidate rule after this article passed QA. Tables and
+bold-label bullets are now both permitted, chosen by data shape.
+
+**Change:** a 10-row scan table added at the top of the state-deadlines H2, above the
+existing bullets. Columns: State, Deadline after move-out, Source.
+
+**Why a table here and bullets below, not one or the other.** The new §3.5 rule splits
+on data shape, and this section is genuinely both. The deadline itself is short,
+multi-column and scanned across rows, which is the table case. But each state also
+carries a sentence of context that decides real cases: Florida's split 15/30 timeline,
+North Carolina's 60-day extension, Michigan's clock starting from the forwarding
+address, Arizona's business-day count. Collapsing those into cells would have deleted
+the article's differentiator to gain scannability. Keeping both gives the reader a
+lookup and the detail.
+
+**Columns are limited to what is verified for all ten states.** Deadline and statute
+citation: verified for 10 of 10. Penalty multipliers: verified for 8 of 10 (Florida and
+North Carolina penalties were not in the sources checked), so penalties stay in their
+own H2 as bullets rather than appearing as a column with two gaps.
+
+**Re-verified after the change:** table renders as `<table>` with `<thead>` and 3
+columns (under the 5-column mobile limit), 10 data rows, 12 internal links intact,
+12 `<h3>` FAQ headings intact, schema still out of the html, no `<h1>` or `<script>`.
+Body now 2,882 words.
+
+**Still PASS.** No new failures.

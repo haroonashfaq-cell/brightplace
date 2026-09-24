@@ -31,6 +31,21 @@ Deposit return deadlines run 14 to 30 days in the ten states verified below (as 
 
 Every figure below was read directly from the state's own statute or court self-help resource in September 2026.
 
+| State | Deadline after move-out | Source |
+|---|---|---|
+| New York | 14 days | NY Gen. Oblig. Law §7-108 |
+| Arizona | 14 business days | A.R.S. §33-1321 |
+| Florida | 15 days, or 30 to notice a claim | Fla. Stat. §83.49 |
+| California | 21 days | Cal. Civ. Code §1950.5 |
+| Massachusetts | 30 days | M.G.L. c.186 §15B |
+| Michigan | 30 days | Michigan Legal Help |
+| North Carolina | 30 days, 60 if damage is unclear | N.C.G.S. §42-52 |
+| Ohio | 30 days | Ohio Rev. Code §5321.16 |
+| Texas | 30 days | Tex. Prop. Code §92.103 |
+| Washington | 30 days | RCW 59.18.280 |
+
+The detail under each state matters as much as the number, because the clock does not always start on the day you move out.
+
 **New York, 14 days:** The landlord must provide an itemized statement and return the balance within 14 days of the tenant vacating. Deposits are capped at one month's rent. A willful violation carries punitive damages of up to twice the deposit. ([NY Gen. Oblig. Law §7-108](https://www.nysenate.gov/legislation/laws/GOB/7-108))
 
 **Arizona, 14 business days:** The statute excludes Saturdays, Sundays and legal holidays, so 14 business days is closer to three calendar weeks. The clock also requires tenant demand, not just move-out. Deposits are capped at one and a half months' rent, and wrongful withholding carries damages of twice the amount withheld. ([A.R.S. §33-1321](https://www.azleg.gov/ars/33/01321.htm))

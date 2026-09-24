@@ -212,9 +212,9 @@ Verdict: [Proceed or revise]
 - Every H2 opens with its answer in the first sentence (40-60 words)
 - **First paragraph after H1 must be 49-55 words**, structured as a standalone featured snippet answer
 - Self-contained sections (each works if extracted independently)
-- Bold-label bullet points are the editorial preference for comparisons. `<ul><li>`
-  and `<table>` are now allowed — that ban existed only because Webflow RichText
-  stripped the tags, and Vercel does not.
+- Tables, `<ul><li>` and bold-label bullets are all permitted. Pick by data shape: a
+  table for multi-column scannable data, bold-label bullets where each item must
+  extract standalone. See `memory/semantic/content-standards.md` §3.5.
 - **10+ FAQ pairs preferred** (minimum 6-8), each 40-60 words, standalone answers.
   Write each question as an `###` heading so it renders as `<h3>`, matching the corpus.
 - **Entity density:** use `memory/semantic/ranking-rules.md` targets naturally

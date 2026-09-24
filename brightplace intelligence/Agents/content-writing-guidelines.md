@@ -75,14 +75,25 @@ The first 100 words must contain:
 - Do NOT exceed 1.5% density (keyword stuffing penalty risk)
 
 ### 3.5 Comparison Formatting
-- **Default to bold-label bullet points** for comparison/pricing/feature data
-- Example: `**Studio:** $2,550/mo (as of Q2 2026). Stone countertops, LVP flooring.`
-- The old hard ban existed because Webflow RichText could not render tables. Vercel
-  renders them fine, so a table is no longer a rendering failure. Bold-label bullets
-  stay the editorial default for their AEO value: each line is independently
-  extractable, where a table row often is not.
-- Relaxing this to allow tables outright is logged in `episodic/candidate-rules.md`
-  and needs the user's decision. Until then, keep using bold-label bullets.
+
+Tables and bold-label bullets are both permitted. Choose by the shape of the data.
+
+- **Use a table** when the data is genuinely multi-column and the reader scans across
+  rows: state-by-state rules, spec grids, feature matrices, anything carrying three or
+  more attributes per item.
+- **Use bold-label bullets** when each item must stand alone as an extractable answer,
+  or when items carry a sentence of context rather than short cells. An AI retriever
+  can lift one bullet; it rarely lifts one table row with its header intact.
+- Tables need a header row, and stay under about five columns so they survive phone
+  width.
+- `<ul><li>` is permitted. Numbered steps stay `<ol><li>`.
+- Every figure keeps its date stamp in either format.
+- Example bullet: `**Studio:** $2,550/mo (as of Q2 2026). Stone countertops, LVP flooring.`
+
+Promoted 2026-09-24 by explicit user decision (CAND-2026-09-24-tables). The previous
+ban existed only because Webflow RichText stripped `<table>` and `<ul><li>`; Vercel
+renders both. Rollback: restore the bullets-only default here and the FAIL verdict in
+`Agents/qa-agent.md` §2.7.
 
 ### 3.6 URL Slug
 - Lowercase, hyphen-separated

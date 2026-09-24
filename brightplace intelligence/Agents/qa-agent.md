@@ -87,11 +87,14 @@ Skip this section entirely if content_type is "renters-corner".
 - **Report:** PASS or FAIL. Quote the first sentence of each H2 that violates.
 
 ### 2.7 Comparison Formatting
-- Comparison/pricing/feature data should use bold-label bullet points.
-- A markdown table is no longer a rendering failure — Webflow stripped tables, Vercel
-  renders them. Report a table as **IMPROVE**, not FAIL, and note why bullets read
-  better for AEO extraction.
-- **Report:** PASS or IMPROVE. Note line numbers of any tables.
+- Tables and bold-label bullets are both permitted (promoted 2026-09-24,
+  CAND-2026-09-24-tables). Neither is a failure.
+- Check the format fits the data: a table for multi-column scannable data, bold-label
+  bullets where each item must extract standalone.
+- A table must carry a header row and should stay under about five columns for mobile.
+- Date stamps required in either format.
+- **Report:** PASS, or IMPROVE only where the chosen format is a poor fit for the data
+  shape. Do not flag a table merely for existing.
 
 ### 2.8 Date Stamps
 - Every dollar figure, rent range, statistic, or time-sensitive claim must include "(as of Q[N] YYYY)" adjacent to the claim.

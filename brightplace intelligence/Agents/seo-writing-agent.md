@@ -92,8 +92,9 @@ Your content must be optimized for citation by AI assistants (ChatGPT, Perplexit
 
 **Comparison Tables (NEW — high citation value):**
 - Include at least one cost comparison table per article where pricing data exists.
-- Use bold-label bullet point format for comparisons — each line is independently
-  extractable by an AI retriever, where a table row often is not. Format:
+- Use bold-label bullets where each item must extract standalone, and a table where
+  the data is multi-column and scanned across rows. Both render correctly. Format for
+  bullets:
   - **[Option A]:** $X-$Y/mo (as of Q[N] YYYY). [Key detail]. [Tradeoff].
   - **[Option B]:** $X-$Y/mo (as of Q[N] YYYY). [Key detail]. [Tradeoff].
 - For city-by-city or feature-by-feature comparisons, include 3-8 rows of structured data.
@@ -199,8 +200,8 @@ author: brightplace
 - Numbered lists for sequential steps only.
 
 **Table / Comparison rules:**
-- Default to bold-label bullets rather than markdown table syntax. Tables now render
-  (Webflow stripped them; Vercel does not), but bullets extract better for AEO.
+- Tables and bold-label bullets are both permitted. Pick by data shape: a table for
+  multi-column reference data, bullets where each line must stand alone for AEO.
 - Instead, use bold-label bullet point format for all comparisons, cost breakdowns, and feature grids:
   - **[Label]:** [Value]. [Detail]. [Date stamp if pricing].
 - Include at least one cost comparison section per article where pricing data exists. Pages with structured comparison data earn significantly more AI citations.

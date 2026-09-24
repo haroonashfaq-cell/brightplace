@@ -1,5 +1,39 @@
 # Candidate Rules
 
+## PROMOTED
+
+### CAND-2026-09-24-tables
+- **Candidate ID:** CAND-2026-09-24-tables
+- **Date:** 2026-09-24
+- **Scope:** brightplace-wide, all content types
+- **Evidence:** Webflow → Vercel migration completed 2026-09; `migration/migration
+  planning/issue-pointed.md` confirms the live site is Next.js on Vercel. The ban on
+  markdown tables and `<ul><li>` was justified solely by Webflow RichText stripping the
+  tags (`memory/semantic/cms-config.md` pre-migration, `Agents/qa-agent.md` §2.7). That
+  platform constraint no longer exists.
+- **Proposed rule:** Allow `<table>` and `<ul><li>` in published bodies. Keep
+  bold-label bullets as the editorial default for comparison data on AEO grounds
+  (each line extracts independently; a table row often does not), but downgrade a
+  markdown table from FAIL to IMPROVE.
+- **Target file:** `memory/semantic/content-standards.md` §3.5 and
+  `Agents/qa-agent.md` §2.7
+- **Occurrences:** 1 (a platform change, not a repeated editorial observation)
+- **Status:** PROMOTED
+- **User decision:** 2026-09-24. Explicit user instruction: "i think now we can allow tables"
+- **Promotion:** applied 2026-09-24. Changed files:
+  - `memory/semantic/content-standards.md` §3.5 (canonical rule)
+  - `Agents/content-writing-guidelines.md` §3.5
+  - `Agents/qa-agent.md` §2.7 (verdict was FAIL, briefly IMPROVE, now PASS)
+  - `Agents/seo-writing-agent.md` (two comparison-format passages)
+  - `Agents/WORKFLOW.md` Stage 3 content-structure rules
+- **Old rule:** "NEVER use markdown tables. Webflow CMS rich text cannot render them."
+  `<ul><li>` was banned for the same reason.
+- **New rule:** tables and bold-label bullets both permitted; choose by data shape.
+  Tables carry a header row and stay under about five columns. `<ul><li>` allowed.
+- **Rollback reference:** restore the bullets-only default in content-standards.md §3.5
+  and the FAIL verdict in qa-agent.md §2.7. Pre-promotion text is preserved in git
+  history at commit ffd7f0a.
+
 ## PENDING
 
 ### CAND-2026-09-24-ymyl
@@ -20,32 +54,6 @@
 - **User decision:** not yet supplied
 - **Promotion:** on approval add as a QA check with a content-type trigger. Rollback:
   remove the subsection.
-
-### CAND-2026-09-24-tables
-- **Candidate ID:** CAND-2026-09-24-tables
-- **Date:** 2026-09-24
-- **Scope:** brightplace-wide, all content types
-- **Evidence:** Webflow → Vercel migration completed 2026-09; `migration/migration
-  planning/issue-pointed.md` confirms the live site is Next.js on Vercel. The ban on
-  markdown tables and `<ul><li>` was justified solely by Webflow RichText stripping the
-  tags (`memory/semantic/cms-config.md` pre-migration, `Agents/qa-agent.md` §2.7). That
-  platform constraint no longer exists.
-- **Proposed rule:** Allow `<table>` and `<ul><li>` in published bodies. Keep
-  bold-label bullets as the editorial default for comparison data on AEO grounds
-  (each line extracts independently; a table row often does not), but downgrade a
-  markdown table from FAIL to IMPROVE.
-- **Target file:** `memory/semantic/content-standards.md` §3.5 and
-  `Agents/qa-agent.md` §2.7
-- **Occurrences:** 1 (a platform change, not a repeated editorial observation)
-- **Status:** PENDING
-- **User decision:** not yet supplied
-- **Promotion:** on approval, remove the "editorial default" hedge and state tables as
-  permitted. Rollback: restore the FAIL verdict in qa-agent.md §2.7.
-
-⚠️ The rendering rationale in those files was corrected on 2026-09-24 because it was
-factually wrong after the migration. The *rule* was left in force pending this
-decision — agents still default to bold-label bullets.
-
 
 ## Record format
 - Candidate ID: CAND-<unique ID>
