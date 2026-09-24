@@ -186,6 +186,36 @@ For a standard 1,200-1,500 word article: **4-6 external links**
 
 ---
 
+
+### 5.5 YMYL Content (law, tax, financial eligibility)
+
+**Trigger:** the article makes claims about legal rights or obligations, tax treatment,
+or eligibility for a financial or housing program. Deposit rules, lease law, tenant
+rights, income limits and program qualification all trigger it.
+
+When triggered, all five apply:
+
+1. **Scope disclaimer near the close.** State plainly that the article is general
+   information, not legal, tax or financial advice, and tell the reader to confirm
+   current rules for their own jurisdiction or contact a qualified local source.
+2. **Every jurisdiction-specific claim cites a primary source** read directly: a
+   statute, regulation, court self-help resource, or the administering agency. No
+   state, city or program appears without one.
+3. **No aggregator figures.** Content farms and search summaries restate statutory
+   numbers inaccurately. See QA-008: a summary claimed Texas allowed 60 days for
+   deposit return; the statute says 30.
+4. **Date-stamp every figure** and say that rules change, so a reader checking later
+   knows what the claim was current to.
+5. **Omit what cannot be verified.** If a jurisdiction's rule cannot be read from a
+   primary source, leave it out. Do not estimate it, do not fill it from a secondary
+   source, and do not imply coverage the research does not support.
+
+Point 5 is the one under pressure, because it costs coverage. Dropping two states from
+a ten-state article is better than publishing two wrong legal deadlines.
+
+Promoted 2026-09-24 by explicit user decision (CAND-2026-09-24-ymyl). Rollback: remove
+this section and the corresponding check in `Agents/qa-agent.md` §1.8.
+
 ## 6. Writing Mechanics
 
 ### 6.1 Paragraph Rules

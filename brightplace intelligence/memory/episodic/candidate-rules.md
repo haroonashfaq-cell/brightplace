@@ -34,8 +34,6 @@
   and the FAIL verdict in qa-agent.md §2.7. Pre-promotion text is preserved in git
   history at commit ffd7f0a.
 
-## PENDING
-
 ### CAND-2026-09-24-ymyl
 - **Candidate ID:** CAND-2026-09-24-ymyl
 - **Date:** 2026-09-24
@@ -50,10 +48,26 @@
 - **Target file:** `Agents/qa-agent.md` (new subsection under Section 1) and
   `memory/semantic/content-standards.md`
 - **Occurrences:** 1
-- **Status:** PENDING
-- **User decision:** not yet supplied
-- **Promotion:** on approval add as a QA check with a content-type trigger. Rollback:
-  remove the subsection.
+- **Status:** PROMOTED
+- **User decision:** 2026-09-24. Explicit user instruction: "yes approve the ymyl rule as well"
+- **Promotion:** applied 2026-09-24. Made preventive as well as detective, so it is
+  caught at brief and draft stage rather than only in review. Changed files:
+  - `memory/semantic/content-standards.md` §5.5 (canonical rule)
+  - `Agents/qa-agent.md` §1.8 (conditional check, N/A for non-YMYL content)
+  - `Agents/seo-writing-agent.md` LINKING PROTOCOL gate, item 3 of 4
+  - `Agents/brief-check-agent.md` §4d (flags unverifiable jurisdictions at brief stage)
+- **New rule, five parts:** scope disclaimer near the close; primary source for every
+  jurisdiction-specific claim; no aggregator figures; date-stamped figures with a
+  note that rules change; and omit any jurisdiction that cannot be verified.
+- **Note on part five.** It is the one under pressure, because it costs coverage.
+  Dropping Illinois and Georgia from the security-deposit article was the right call
+  over publishing two unverified legal deadlines.
+- **Rollback reference:** remove §5.5, §1.8, the gate item and §4d. Pre-promotion text
+  is preserved in this record and in git history at commit 6e0f8d8.
+
+## PENDING
+
+None.
 
 ## Record format
 - Candidate ID: CAND-<unique ID>

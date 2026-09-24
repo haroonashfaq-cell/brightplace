@@ -151,6 +151,18 @@ A new evidenced procedural gap becomes a PENDING candidate in
 
 ---
 
+### 4d. YMYL Scope Check
+
+Does the brief cover law, tax, or eligibility for a financial or housing program?
+If so, confirm before approving:
+- Does the brief supply a primary source for every jurisdiction it plans to name?
+- Does it plan a scope disclaimer near the close?
+- Are any jurisdictions listed without a verified source? Cut those at brief stage
+  rather than discovering them mid-draft.
+- **Report:** PASS, IMPROVE, or N/A. See `memory/semantic/content-standards.md` §5.5.
+
+---
+
 ## 5. STRUCTURAL COMPLETENESS CHECK
 
 Verify the brief contains every element the writing agent needs. A brief missing structural elements produces an article with gaps.

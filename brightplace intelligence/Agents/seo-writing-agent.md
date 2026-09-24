@@ -45,13 +45,19 @@ Follow every instruction below. These are non-negotiable production rules.
 
 ### LINKING PROTOCOL (GATE — verify before writing)
 
-**Do NOT begin drafting until you have confirmed all three:**
+**Do NOT begin drafting until you have confirmed all four:**
 
 1. **Internal link targets prepared.** You must have 7+ specific brightplace URLs identified from the sitemap. If the sitemap variable is empty or missing, fetch `https://www.brightplace.ai/sitemap.xml` before writing. You cannot write without confirmed internal link targets.
 
 2. **External authority links researched.** You must have 3-5 specific .gov/.edu/official URLs identified and relevant to the article topic. Web search for local government housing resources, transit authority sites, and institutional pages related to the keyword before writing. Do not leave external linking to chance during drafting.
 
-3. **CTA link targets confirmed.** Confirm which pages the 3 CTAs will point to:
+3. **YMYL check.** If the article makes claims about legal rights, tax treatment or
+   eligibility for a financial or housing program, every jurisdiction-specific claim
+   needs a primary source read directly, and the piece needs a scope disclaimer near
+   the close. Omit any jurisdiction you cannot verify rather than estimating it. See
+   `memory/semantic/content-standards.md` §5.5.
+
+4. **CTA link targets confirmed.** Confirm which pages the 3 CTAs will point to:
    `https://www.brightplace.ai/search` for search actions,
    `https://www.brightplace.ai` for brand. Never `app.brightplace.ai` — it is merged
    into the main site and only redirects. Decide the CTA copy direction before drafting.

@@ -38,8 +38,29 @@ Run all checks in the order below. Output a structured report with PASS/FAIL for
 Read `memory/semantic/brand-rules.md` and run all seven checks separately:
 1.1 Naming; 1.2 Punctuation; 1.3 Banned word; 1.4 Banned phrases;
 1.5 Sourcing; 1.6 Titles; 1.7 Fair Housing.
+Then run 1.8, which is conditional: it applies only to YMYL content and is
+recorded N/A otherwise.
 Apply the canonical scope/exclusions. Report PASS/FAIL for each with line numbers,
 quotes, and suggested fixes. A single applicable failure blocks publication.
+
+---
+
+### 1.8 YMYL Requirements (law, tax, financial eligibility)
+
+Applies when the article makes claims about legal rights or obligations, tax treatment,
+or eligibility for a financial or housing program. Skip this check otherwise and record
+it as N/A.
+
+- **Scope disclaimer present** near the close: general information, not advice, confirm
+  current local rules. FAIL if absent.
+- **Every jurisdiction-specific claim carries a primary-source citation** (statute,
+  regulation, court self-help, administering agency). List each jurisdiction named in
+  the article and the source cited for it. FAIL on any jurisdiction with no source.
+- **No aggregator or content-farm citations** for statutory figures. See QA-008.
+- **Figures date-stamped**, with a line telling the reader rules change.
+- **No unverifiable jurisdiction included.** If the article names a jurisdiction the
+  research could not verify, that is a FAIL, not a warning.
+- **Report:** PASS, FAIL or N/A. Name every jurisdiction and its source.
 
 ---
 
